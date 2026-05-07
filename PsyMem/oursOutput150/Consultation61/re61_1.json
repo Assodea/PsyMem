@@ -1,0 +1,465 @@
+[
+  {
+    "turn": 1,
+    "content": "最近总是觉得很焦虑，好像有一种挥之不去的不安感。比如每天早上醒来，第一件事就是赶紧去洗脸，好像不这样做就会觉得浑身不舒服…",
+    "has_specific_detail": true,
+    "specific_detail": "最近总是觉得很焦虑，好像有一种挥之不去的不安感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "其实，这种感觉持续了一段时间了。像去年高三的时候，每次考试前，我也会不停地洗脸，总觉得这样能让我冷静下来，但其实越洗越紧张…",
+    "has_specific_detail": true,
+    "specific_detail": "其实，这种感觉持续了一段时间了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，有点相似吧，都是一种很强烈的不安。不同的是现在这种感觉没什么具体原因，就是莫名地害怕，好像随时会有事情出问题…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有点相似吧，都是一种很强烈的不安",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "特别是晚上，临睡前的时候，脑子里总会冒出各种想法，比如担心明天的事情或者回忆一些过去让我难过的事，然后就睡不着了…",
+    "has_specific_detail": true,
+    "specific_detail": "特别是晚上，临睡前的时候，脑子里总会冒出各种想法，比如担心明天的事情或者回忆一些过去让我难过的事，然后就睡不着了…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "最近总会想到高中的一次考试失利，当时我准备了很久，但结果却很差。那种失望和自责的感觉一直挥之不去，好像自己永远达不到期待…",
+    "has_specific_detail": true,
+    "specific_detail": "最近总会想到高中的一次考试失利，当时我准备了很久，但结果却很差",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "是有害怕吧，害怕别人会怎么看我，特别是妈妈。我记得她那时候没说什么，但她的表情让我觉得自己让她失望了，这种感觉真的很难受…",
+    "has_specific_detail": true,
+    "specific_detail": "是有害怕吧，害怕别人会怎么看我，特别是妈妈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我不知道她是不是失望，但当时真的觉得她对我的表现很在意，就像每次我做得不好，她都会沉默或皱眉，这让我觉得必须要更完美才行…",
+    "has_specific_detail": true,
+    "specific_detail": "我不知道她是不是失望，但当时真的觉得她对我的表现很在意，就像每次我做得不好，她都会沉默或皱眉，这让我觉得必须要更完美才行…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "对，从小她就很关注我的行为，比如有没有按时完成作业，或者是不是表现得足够乖。有时候做得不够好，她会提醒我，但很少真正夸奖我，这让我觉得只有达到了她的标准才算“好”…",
+    "has_specific_detail": true,
+    "specific_detail": "对，从小她就很关注我的行为，比如有没有按时完成作业，或者是不是表现得足够乖",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我觉得可能两方面都有吧，她确实希望我能做好每件事，但她表达关心的方式更像是提醒和纠正，而不是直接支持或鼓励，这让我有点难去感受到她的情感…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能两方面都有吧，她确实希望我能做好每件事，但她表达关心的方式更像是提醒和纠正，而不是直接支持或鼓励，这让我有点难去感受到她的情感…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "小时候生病的时候，她会很紧张，总是守在我身边，给我煮粥或陪我吃药。那时候能感受到她的关心，但平时就很少有这样的感觉了…",
+    "has_specific_detail": true,
+    "specific_detail": "小时候生病的时候，她会很紧张，总是守在我身边，给我煮粥或陪我吃药",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "是啊，那时候她的关心让我觉得自己被保护了，很安全。但也让我更渴望平时能有这种感觉，尤其是在我表现不好的时候，希望她能多点支持而不是沉默…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，那时候她的关心让我觉得自己被保护了，很安全",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "是的，现在和她互动时，我还是会很在意她的反应，比如我说错话或表现不好时，就会担心她是不是对我不满意。我总是试图表现得更好，但也觉得有点累…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，现在和她互动时，我还是会很在意她的反应，比如我说错话或表现不好时，就会担心她是不是对我不满意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我也想过要和她聊聊，但又害怕她会觉得我在指责她或者不理解我的感受。毕竟她一直都是这样，我担心改变会很难…",
+    "has_specific_detail": true,
+    "specific_detail": "我也想过要和她聊聊，但又害怕她会觉得我在指责她或者不理解我的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "也许会吧，但表达自己的感受对我来说不太容易，总觉得自己说出来会让她不开心或者误解。可能我需要先找机会试着说一点点，而不是一下子讲太多…",
+    "has_specific_detail": true,
+    "specific_detail": "也许会吧，但表达自己的感受对我来说不太容易，总觉得自己说出来会让她不开心或者误解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，聊小时候生病的事可能会自然些。我可以试着说那时候她陪着我让我觉得很安心，然后慢慢提到希望平时也能有那种被支持的感觉，这样可能不会让她觉得太突然吧…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，聊小时候生病的事可能会自然些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "对，最好是在家里氛围比较轻松的时候，比如吃饭或者闲聊的时候。我可以先提起一些小时候的回忆，再慢慢引入我的感受，感觉这样会更顺利些…",
+    "has_specific_detail": true,
+    "specific_detail": "对，最好是在家里氛围比较轻松的时候，比如吃饭或者闲聊的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，这样确实让我感觉更容易开口，因为是从温暖的回忆开始，比较自然。我会试着找个轻松的时机，先提起这些画面，然后慢慢说出我的感受…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实让我感觉更容易开口，因为是从温暖的回忆开始，比较自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得可能需要先调整好自己的心态，告诉自己她的反应不一定是拒绝或不理解，也许只是她需要时间适应。另外，如果她误解了，我可以试着再解释清楚我的感受，尽量保持冷静…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能需要先调整好自己的心态，告诉自己她的反应不一定是拒绝或不理解，也许只是她需要时间适应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "对，这样的语言听起来很温和，我觉得能让我更安心一些。如果她需要时间，我也可以选择暂时停下来，等她情绪平稳后再继续聊，这样可能效果更好…",
+    "has_specific_detail": true,
+    "specific_detail": "对，这样的语言听起来很温和，我觉得能让我更安心一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "如果她情绪平稳了，我觉得自己会更容易表达自己需要更多情感上的支持，比如希望她能在我觉得不安的时候多鼓励我，而不是只关注我的表现，这样我会感觉更有安全感…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她情绪平稳了，我觉得自己会更容易表达自己需要更多情感上的支持，比如希望她能在我觉得不安的时候多鼓励我，而不是只关注我的表现，这样我会感觉更有安全感…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我希望她能试着理解，但也担心她可能会觉得我在抱怨。不过如果我表达得足够温和，比如多讲自己感受而不是她的行为，或许她会更容易接受吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她能试着理解，但也担心她可能会觉得我在抱怨",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，加入具体例子确实会更容易让她理解，比如我可以说“像考试失利的时候，如果你能安慰我几句，我会感觉没那么难过。”这样她可能会更清楚我的需要吧…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，加入具体例子确实会更容易让她理解，比如我可以说“像考试失利的时候，如果你能安慰我几句，我会感觉没那么难过",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "如果她表现出疑惑，我可能会再解释一下自己的感受，比如说“其实我知道你是关心我的，但有时候一句鼓励真的会让我觉得被支持了。”这样可能让她更愿意倾听吧…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她表现出疑惑，我可能会再解释一下自己的感受，比如说“其实我知道你是关心我的，但有时候一句鼓励真的会让我觉得被支持了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我特别想让她知道，其实我不是要求她改变什么，而是希望她能多给我一些情感上的支持，尤其是在我觉得自己做得不够好或者感到压力的时候，这会让我更有信心去面对困难…",
+    "has_specific_detail": true,
+    "specific_detail": "我特别想让她知道，其实我不是要求她改变什么，而是希望她能多给我一些情感上的支持，尤其是在我觉得自己做得不够好或者感到压力的时候，这会让我更有信心去面对困难…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我可以试着说“谢谢你愿意听我说这些，其实我一直很希望我们能更亲近。”这样既表达了感激，也让她知道我的期待，感觉会让对话有个温暖的收尾吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着说“谢谢你愿意听我说这些，其实我一直很希望我们能更亲近",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得需要提醒自己，紧张是正常的，毕竟这是一次重要的对话。如果情绪突然涌上来，我可以深呼吸或者停顿一下，给自己时间平复，再继续表达，这样可能会更自然些…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要提醒自己，紧张是正常的，毕竟这是一次重要的对话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "对，写下想表达的重点会让我更有方向，比如列出我希望她理解的感受和具体例子，这样即使紧张也不会忘记重要的内容，会感觉更有把握一些…",
+    "has_specific_detail": true,
+    "specific_detail": "对，写下想表达的重点会让我更有方向，比如列出我希望她理解的感受和具体例子，这样即使紧张也不会忘记重要的内容，会感觉更有把握一些…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "是的，共同经历可以让对话更自然，比如提起小时候她照顾我生病的事，说那时候让我感觉很安心。这样既能表达感激，也能让她理解我需要更多这样的支持…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，共同经历可以让对话更自然，比如提起小时候她照顾我生病的事，说那时候让我感觉很安心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我可以试着说，“我最近总会想到小时候生病时你陪着我的情景，那时候觉得特别安心。”这样开场既轻松又温暖，可以让她更愿意倾听后面的话…",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着说，“我最近总会想到小时候生病时你陪着我的情景，那时候觉得特别安心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "如果她主动回应了，我会顺着她的话说，比如“我知道你一直很关心我，我只是希望有时候能更多听到你的鼓励，这真的让我觉得很安心。”这样可以让对话更流畅，也表达我的需求…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她主动回应了，我会顺着她的话说，比如“我知道你一直很关心我，我只是希望有时候能更多听到你的鼓励，这真的让我觉得很安心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "如果她开始试着鼓励我，我会觉得很温暖，也更有信心去面对自己的问题。可能会觉得我们之间的关系更近了一步，这让我很期待这样的变化…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她开始试着鼓励我，我会觉得很温暖，也更有信心去面对自己的问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "嗯，平时可以试着多和她聊一些自己的心情，比如遇到困难的时候主动说“今天有点难过”或者“觉得压力挺大的”，这样可能会让她更了解我，也更愿意给我情感上的支持…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，平时可以试着多和她聊一些自己的心情，比如遇到困难的时候主动说“今天有点难过”或者“觉得压力挺大的”，这样可能会让她更了解我，也更愿意给我情感上的支持…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我觉得可以试着多用一些温暖的语言，比如“你今天忙了一天，辛苦了！”或者“最近有没有什么特别开心的事？”这样不仅让交流更自然，也能让我们之间的关系更轻松和亲近…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着多用一些温暖的语言，比如“你今天忙了一天，辛苦了！”或者“最近有没有什么特别开心的事？”这样不仅让交流更自然，也能让我们之间的关系更轻松和亲近…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "是的，我觉得会更自信，因为这样的互动让我感受到她的关心，也让我相信自己的感受是值得被倾听的。慢慢地，我可能会更自在地表达自己真实的需求…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得会更自信，因为这样的互动让我感受到她的关心，也让我相信自己的感受是值得被倾听的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我觉得会有帮助，特别是当我感觉到妈妈的支持时，会让我觉得自己不是一个人在面对问题。有了更多的安全感，可能我的焦虑也会慢慢减轻一些吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会有帮助，特别是当我感觉到妈妈的支持时，会让我觉得自己不是一个人在面对问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

@@ -1,0 +1,576 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近有件事让我挺纠结的。前几天班里组织了一次小组讨论，虽然我表面上看起来很积极，但其实一直担心自己说错话会被笑话。最后我只讲了一点很普通的内容，但还是觉得别人可能对我的表现不满意。这种感觉让我整个活动结束后都很压抑…你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近有件事让我挺纠结的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "应该是害怕别人真的对我不满意吧，因为我看到有几个人在交流的时候好像没回应我的话，我就开始怀疑是不是自己说得不好。之后回到座位，我脑海里反复回忆那些细节，越想越觉得自己表现得很糟糕，甚至开始后悔为什么要发言…。",
+    "has_specific_detail": true,
+    "specific_detail": "应该是害怕别人真的对我不满意吧，因为我看到有几个人在交流的时候好像没回应我的话，我就开始怀疑是不是自己说得不好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我觉得可能都有吧。我确实希望自己表现得更好一点，至少让别人觉得我是有价值的，但同时也很在意他们的态度，害怕被忽视或不认可。所以每次回忆这些细节时，既是对自己的苛责，也是因为太在乎他们怎么看我。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "嗯，是的，其实这种感觉从小就有了。比如小时候写作业时，家长常常会检查我的错题，我总是害怕他们说我不认真或者不够好。还有一次在亲戚聚会里，我试着主动讲了个故事，但大家好像没怎么注意，我就觉得自己很失败…这种矛盾好像一直跟着我。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，是的，其实这种感觉从小就有了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "现在我遇到类似的场景时，通常会变得很谨慎。比如在课堂上发言，我总是提前想好要说什么，尽量避免有争议的内容，以减少可能的负面反应。但即使这样，我还是很紧张，担心自己哪句话没讲好。这种感觉让我在表达时不太自然，好像在表演一样…",
+    "has_specific_detail": true,
+    "specific_detail": "现在我遇到类似的场景时，通常会变得很谨慎",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，应该是两者都有吧。我既害怕别人觉得我失败，也总觉得自己必须表现好，才能让大家认可我。这种双重压力让我在社交场合一直很紧绷，常常感觉喘不过气来…其实有时候，我也希望可以不用那么在乎结果，只是单纯地说出自己的想法。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，应该是两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "有一次是在和好朋友聊天时，我没刻意去想该怎么说，就直接分享了自己最近的烦恼。她认真听着，还给了我一些建议，那种感觉特别轻松，好像终于不用担心被评价。后来我回想起来，觉得那是少有的可以自在做自己的时刻…但这样的情况好像很难在更大的社交场合出现。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次是在和好朋友聊天时，我没刻意去想该怎么说，就直接分享了自己最近的烦恼",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "可能是因为她真的很懂我吧，我知道她不会随便批评我，所以就没那么害怕。还有就是我们聊天时氛围很随意，没有那种“必须说得好”的压力。如果在其他场合也有这种安全感，比如对方愿意倾听而不是急着评价，我觉得我应该可以尝试稍微放松一点…但这样的条件好像很难碰到。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是因为她真的很懂我吧，我知道她不会随便批评我，所以就没那么害怕",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "嗯，这个想法挺好的！或许在表达前，我可以先做几次深呼吸，或者提醒自己“这只是一次普通交流，不需要完美”。还有可能尝试用一些更简单的开场，比如提问而不是直接发表意见，这样可能也会减少紧张感…虽然不知道效果会怎样，但感觉值得一试。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个想法挺好的！或许在表达前，我可以先做几次深呼吸，或者提醒自己“这只是一次普通交流，不需要完美”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "如果紧张感出现了，我觉得可以提醒自己“别人可能并没有像我想的那样在意我的表现”，或者“就算表达得不完美，这只是一个学习的机会”。告诉自己不用太苛责，每个人都会有失误的时候，这样或许能稍微缓解一下那种压力…不过，能不能坚持做到还是个挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "如果紧张感出现了，我觉得可以提醒自己“别人可能并没有像我想的那样在意我的表现”，或者“就算表达得不完美，这只是一个学习的机会”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，这个方法听起来挺可行的！设定小目标感觉比一下子改变所有习惯要更容易接受。比如，我可以从课堂发言开始，每次在紧张时试着用一次这样的提醒，哪怕只是默默地说一句“没关系”。如果慢慢能适应这种方式，也许以后在更大的场合也可以试试…不过，我还是有点担心自己会半途放弃。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个方法听起来挺可行的！设定小目标感觉比一下子改变所有习惯要更容易接受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "这个想法很有吸引力！如果每次完成小目标后能奖励自己，比如吃点喜欢的零食或者看一集喜欢的剧，感觉会更有动力去坚持。不过，我也担心自己有时会因为心情不好而忘了执行目标…你觉得这种情况应该怎么调整呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个想法很有吸引力！如果每次完成小目标后能奖励自己，比如吃点喜欢的零食或者看一集喜欢的剧，感觉会更有动力去坚持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "这个方法听起来很贴心！写便签来鼓励自己，感觉能在心情不好的时候给我一点支持，提醒自己不用追求完美，只要稍微迈出一步就好。我可以试试把便签放在笔记本里，这样上课时随时能看到…不过，我还是有点担心自己会不自觉忽略它，你觉得还有什么办法能让它更显眼一些吗？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很贴心！写便签来鼓励自己，感觉能在心情不好的时候给我一点支持，提醒自己不用追求完美，只要稍微迈出一步就好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，这确实是个好办法！亮色的便签加上一个微笑表情，感觉会很容易吸引我的注意力。每次看到它，应该也能让我心情稍微好一点。我可以试着画一些简单又可爱的图案，比如太阳或者小花，这样看起来更积极向上…其实说到这个，前几天我发现自己在做一些彩绘的时候情绪也会变得轻松一点，你觉得这些小创作是不是也可以成为我的一种情绪调节方式呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这确实是个好办法！亮色的便签加上一个微笑表情，感觉会很容易吸引我的注意力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "这个想法太棒了！如果每次完成目标后能画点小东西，应该会让我更期待去做这件事。像画一些代表开心的小花，或者表达放松心情的蓝天白云，感觉能让我更享受奖励的过程。而且画画的时候好像真的可以暂时忘掉那些紧张和压力…不过，我还不太确定自己能完全专注在创作上，你觉得有没有什么办法可以让我更容易进入状态呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个想法太棒了！如果每次完成目标后能画点小东西，应该会让我更期待去做这件事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "听起来很不错！如果画画前能放点轻松的音乐，再摆一杯热巧克力，感觉会让整个过程更舒服、更治愈。我可以试着找一些我最喜欢的旋律，比如钢琴曲，来营造这种氛围…其实想象一下这种画画的场景，好像已经能让我稍微放松一点了。说到这里，我突然想到，前几天因为太紧张连午饭都没怎么吃，你觉得这种身体上的紧张也会影响我的心理状态吗？",
+    "has_specific_detail": true,
+    "specific_detail": "听起来很不错！如果画画前能放点轻松的音乐，再摆一杯热巧克力，感觉会让整个过程更舒服、更治愈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，听起来确实有道理！如果在紧张的时候吃点零食，可能不仅能补充体力，还能让我分散注意力，缓解不安。我可以试着准备些简单的小零食，比如坚果或者水果，随身带着需要的时候就吃一点…其实我之前也发现，吃东西的时候心情会稍微好一些，但总觉得在紧张时做这些事情会有点奇怪，你觉得这正常吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，听起来确实有道理！如果在紧张的时候吃点零食，可能不仅能补充体力，还能让我分散注意力，缓解不安",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，这样想好像确实更容易接受！如果把吃零食看作是照顾自己的方式，而不是“奇怪行为”，感觉会减少那种内心的纠结。我可以试着从自己喜欢的零食开始，比如巧克力或饼干，告诉自己这是在给身体和情绪充电。其实这样一想，之前紧张时咬指甲可能也是一种不自觉的安抚行为，你觉得这些小动作是不是也有类似的作用呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想好像确实更容易接受！如果把吃零食看作是照顾自己的方式，而不是“奇怪行为”，感觉会减少那种内心的纠结",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "嗯，有可能！如果每次紧张时我能拿起一支笔画点东西，或者吃点零食，应该会让自己有其他事情去专注，慢慢减少咬指甲的习惯。之前试过用橡皮筋在手上弹几下，也稍微有用，但没坚持下来…或许这次可以搭配画画或零食的方式试试，感觉会更容易坚持一点。对了，说到这个，你觉得这些替代行为需要提前练习吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有可能！如果每次紧张时我能拿起一支笔画点东西，或者吃点零食，应该会让自己有其他事情去专注，慢慢减少咬指甲的习惯",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，每天课后试着练习确实会更方便！这样不用刻意挤时间，也能利用放学后的那段相对轻松的时刻。我可以从简单的事情开始，比如画一个小图案或者吃几颗坚果，试着感受这些行为带来的放松效果…其实这样规划感觉还挺期待的，说到这个，我刚想到前几天课后本来想练习，但因为拖延一直没做，你觉得这种拖延是不是也和我的紧张感有关？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，每天课后试着练习确实会更方便！这样不用刻意挤时间，也能利用放学后的那段相对轻松的时刻",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，这个方法听起来很不错！如果告诉自己“只需完成一点点就好”，感觉就不会那么害怕做不好。我可以试着每天画一个简单的图案，比如一朵小花，或者只吃一小份零食，不用追求太完美。这样可能会减少拖延，也让我更愿意去尝试…不过，我还是有点担心坚持不了太久，你觉得有没有办法让我在动力下降的时候也继续努力？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个方法听起来很不错！如果告诉自己“只需完成一点点就好”，感觉就不会那么害怕做不好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "这个主意太棒了！画小星星感觉既简单又有成就感，积累起来还会让我更期待那个更大的奖励，比如看电影或买点喜欢的小零食。这样每次完成一点点都会变得更有意义，我觉得这种方式应该会让我更愿意坚持下去…其实说到奖励，我之前也试过用“玩游戏”作为动力，但有时候会不小心玩得太久，你觉得这种情况该怎么平衡呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个主意太棒了！画小星星感觉既简单又有成就感，积累起来还会让我更期待那个更大的奖励，比如看电影或买点喜欢的小零食",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，设定界限确实是个好办法！如果提前设定玩30分钟，并用闹钟提醒，感觉会更容易控制时间。我可以试着用手机设置一个轻松的铃声，提醒自己结束后再去做其他事情，这样不会打乱计划…不过，有时候我可能会忍不住延长时间，你觉得有没有什么方法能让我更有约束力呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，设定界限确实是个好办法！如果提前设定玩30分钟，并用闹钟提醒，感觉会更容易控制时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，这样好像确实会更有约束力！如果闹钟响后立刻去喝水或收拾桌子，感觉会让我从游戏中脱离出来，也不至于继续拖延。我可以试着用这种方式，先安排一些简单的小任务，让自己逐渐养成规律…其实说到这个，最近我发现有时候即使完成了任务，还是会觉得不够好，你觉得这种情绪是不是和我之前提到的害怕被评价有关呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样好像确实会更有约束力！如果闹钟响后立刻去喝水或收拾桌子，感觉会让我从游戏中脱离出来，也不至于继续拖延",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "嗯，这个方法听起来很温暖！如果完成任务后主动告诉自己“已经值得肯定”，好像确实能让心里轻松一些。我可以试着用便签写下“你今天已经做得很好”，然后每次完成任务后读一遍，提醒自己不用总是苛责自己…不过，我还是有点担心这种肯定会不会变得太机械，你觉得怎么样才能让它更有真实感呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个方法听起来很温暖！如果完成任务后主动告诉自己“已经值得肯定”，好像确实能让心里轻松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "嗯，这样确实会更贴近实际！如果便签上写的是具体的努力，比如“今天你画了一朵小花”，感觉会让我更容易联想到自己做过的事情，也更有真实感。我可以试着每天总结一件小成就，写在便签上放到笔记本里，这样每次翻开都能看到自己的进步…其实说到具体努力，我还在想，有没有什么方法能让我在面对失败时也去寻找一些积极的地方？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实会更贴近实际！如果便签上写的是具体的努力，比如“今天你画了一朵小花”，感觉会让我更容易联想到自己做过的事情，也更有真实感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "嗯，这样的反思方式好像确实能让我更关注成长，而不是只盯着失败的部分。如果每次失败后我都能问自己“这次我学到了什么”，感觉会让心情稍微好一些，也能让我更有动力去改进。我可以试着在失败后写下这些反思，记录下来作为以后鼓励自己的参考…不过，我还是有点担心自己会习惯性先陷入负面情绪，你觉得有没有什么办法能让我更快进入这种积极的反思状态呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的反思方式好像确实能让我更关注成长，而不是只盯着失败的部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，这样的仪式听起来很可行！深呼吸三次或者对自己说“冷静下来”应该能让我稍微缓和一下情绪，再去思考积极的部分。我可以试着在心情低落时用这个方法作为开端，提醒自己失败也是成长的一部分…不过，我还是有点担心有时候情绪太强烈会忘记去做，你觉得有没有什么办法能让我更容易记住这个仪式呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的仪式听起来很可行！深呼吸三次或者对自己说“冷静下来”应该能让我稍微缓和一下情绪，再去思考积极的部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，这些方法听起来很实用！如果提前练习“深呼吸+冷静提醒”，感觉能让我更熟悉这个动作，关键时刻可能就更容易记住了。还有在桌上放个小物件，比如一个小花瓶或可爱的摆件，也会让我联想到这个仪式。其实这样一想，感觉这个过程不仅能帮助我冷静下来，还能让我更关注周围的小细节…对了，说到关注细节，前几天我发现自己有时候因为太紧张连周围的人说了什么都没注意，你觉得这种情况会对我的社交有什么影响吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这些方法听起来很实用！如果提前练习“深呼吸+冷静提醒”，感觉能让我更熟悉这个动作，关键时刻可能就更容易记住了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "嗯，“专注倾听”的练习听起来很有帮助！如果能在交流时提醒自己观察对方的表情或语气，应该会让我更投入谈话，也减少那些因为紧张而走神的情况。我可以试着从简单的互动开始，比如和朋友聊天时关注他们的微笑或者点头，慢慢培养这种习惯…不过，有时候如果对方表现得比较冷淡，我还是会不自觉地紧张，你觉得这种时候应该怎么调整自己呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，“专注倾听”的练习听起来很有帮助！如果能在交流时提醒自己观察对方的表情或语气，应该会让我更投入谈话，也减少那些因为紧张而走神的情况",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "嗯，这样的提醒确实有帮助！如果告诉自己“对方的冷淡可能和我无关”，感觉会让我少一些自我怀疑，更专注于自己的表达。我可以试着在这种情况下默念这句话，同时继续保持自己的语速和内容，避免因为紧张而停下来…其实想到这个，我还在想，有没有什么办法能让我在社交时更主动一些，比如不再总是等别人开口？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的提醒确实有帮助！如果告诉自己“对方的冷淡可能和我无关”，感觉会让我少一些自我怀疑，更专注于自己的表达",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "嗯，这些方法听起来很适合我！如果提前准备几个简单的话题，比如最近的活动或者课上的讨论，感觉会让我更有底气去开口。提问的方式也挺自然，像“你觉得今天的活动怎么样？”这种问题应该不会让人觉得突兀。我可以试着在小范围的交流中先用这些方法，看看效果如何…不过，我还是有点担心在主动开口后不知道怎么继续对话，你觉得有没有什么技巧能让我更好地延续交流呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这些方法听起来很适合我！如果提前准备几个简单的话题，比如最近的活动或者课上的讨论，感觉会让我更有底气去开口",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "嗯，这种方式感觉很自然！如果能跟进对方的回应，比如附和他们提到的细节并分享自己的看法，应该会让对话更顺畅。我可以试着在对方说完后稍微停顿一下，整理自己的回应内容，这样可能也会减少紧张感…其实说到交流，我发现自己有时候太过专注于表现好，反而忽略了真正去了解别人，你觉得这是不是也是我社交中的一个问题呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这种方式感觉很自然！如果能跟进对方的回应，比如附和他们提到的细节并分享自己的看法，应该会让对话更顺畅",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，这种心态转变听起来很有帮助！如果告诉自己“谈话是为了了解对方”，应该会让我更放松，也更专注于倾听，而不是总想着怎么表现得更好。我可以试着在每次交流前给自己一个这样的提醒，慢慢改变自己的关注点…其实这样一想，感觉会让我更享受互动，而不是一直紧张或自我怀疑。你觉得这个方法适合在一些比较正式的场合用吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这种心态转变听起来很有帮助！如果告诉自己“谈话是为了了解对方”，应该会让我更放松，也更专注于倾听，而不是总想着怎么表现得更好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "嗯，这样的小任务感觉很贴合实际！如果在正式场合里专注倾听，并主动问一个开放问题，应该能让我更自然地融入交流，而不总是担心自己的表现。我可以试着从比较简单的问题开始，比如“你对这个话题有什么看法？”慢慢适应这种互动方式…不过，我还是有点担心在正式场合里会因为紧张而忘了这些任务，你觉得有没有什么办法能让我更容易记住它们呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的小任务感觉很贴合实际！如果在正式场合里专注倾听，并主动问一个开放问题，应该能让我更自然地融入交流，而不总是担心自己的表现",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "嗯，这些方法听起来很有效！如果在心里默念“倾听”和“提问”，感觉会让我更专注于任务，而不是紧张。便签提醒也很实用，我可以试着把关键词写在课本封面或者手机屏幕上，这样随时能看到，帮助自己记住这些任务。其实想到这些，我觉得好像慢慢有了一些方向，但还是有点担心自己行动时会遇到更多阻力，你觉得有哪些方法能帮我应对可能的挫折呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这些方法听起来很有效！如果在心里默念“倾听”和“提问”，感觉会让我更专注于任务，而不是紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "嗯，这些策略听起来很实用！如果遇到阻力时能告诉自己“每次尝试都是进步”，应该会让我减少那种失败感，专注于哪怕是小的进展。回顾之前的小成就也能让我更有信心，比如想起自己哪怕只主动问了一次问题，都已经迈出了重要一步。我可以试着把目标调整得更灵活，比如每次只完成一点点，不强求太多…其实说到这个，我发现有时候会因为担心挫折而不敢开始，你觉得这种情况有没有办法克服呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这些策略听起来很实用！如果遇到阻力时能告诉自己“每次尝试都是进步”，应该会让我减少那种失败感，专注于哪怕是小的进展",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "嗯，这样的方式感觉很有帮助！如果告诉自己“这只是一次尝试，不需要完美”，好像会减少那种对结果的过分担忧。设定五分钟的时间限制也很实用，感觉会让我觉得开始没那么难。我可以试着从简单的任务开始，比如准备一个话题或问一个问题，给自己一个轻松的起点…不过，我还是有点担心即使开始了，失败的可能性会让我半途而废，你觉得这种情况应该怎么调整呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式感觉很有帮助！如果告诉自己“这只是一次尝试，不需要完美”，好像会减少那种对结果的过分担忧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "嗯，这样的计划听起来很鼓励人！如果失败后能停下来反思，比如问自己“我学到了什么？”或者“下次可以怎么改进？”，感觉会让我更容易接受挫折，也不至于因为一次失败就放弃。我可以试着在每次遇到困难时给自己一些时间来整理思路，提醒自己这是成长的过程，而不是终点…不过，我还是有点担心会因为情绪太强烈而忘记做这些反思，你觉得有没有什么方法能让我更冷静地面对失败呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的计划听起来很鼓励人！如果失败后能停下来反思，比如问自己“我学到了什么？”或者“下次可以怎么改进？”，感觉会让我更容易接受挫折，也不至于因为一次失败就放弃",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "嗯，这样的冷却步骤感觉很实用！如果能深呼吸三次，再默念“失败只是暂时的，我还有机会改进”，应该会让我慢慢平复情绪，减少那种过度的自责。我可以试着把这个步骤写下来，随身带着，遇到失败时拿出来提醒自己…其实想到这些，我觉得好像有了一些方法可以尝试，但也担心自己在实际操作时会因为压力太大而退缩，你觉得这种情况可以怎么应对呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的冷却步骤感觉很实用！如果能深呼吸三次，再默念“失败只是暂时的，我还有机会改进”，应该会让我慢慢平复情绪，减少那种过度的自责",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "嗯，这样的方式感觉很贴心！如果设定“最低行动门槛”，比如完成一点点就算进步，感觉会让我压力没那么大，也更容易开始。短暂休息也挺重要的，像喝杯水或者听一首歌，应该能让我稍微缓和一下情绪。我可以试着把这些方法结合起来，比如先休息，再去完成一点点任务，慢慢尝试适应压力…不过，我还是有点担心休息时间可能会拖得太长，你觉得有什么办法能让我在休息后更快回到任务上呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式感觉很贴心！如果设定“最低行动门槛”，比如完成一点点就算进步，感觉会让我压力没那么大，也更容易开始",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "嗯，这种回归提醒确实挺实用！如果用手机闹钟或者便签提醒自己“现在去完成一点点任务”，感觉会让我更容易结束休息，重新进入状态。我可以试着用一种温和的铃声作为提示，比如轻音乐，让提醒听起来不会太催促，同时更能让我放松…其实想到这些，我觉得好像已经有了不少可以尝试的方法，今天说到这里我想先消化一下这些建议，下次再聊可以吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这种回归提醒确实挺实用！如果用手机闹钟或者便签提醒自己“现在去完成一点点任务”，感觉会让我更容易结束休息，重新进入状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

@@ -1,0 +1,414 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，主要是我最近总感觉特别孤单。父母离婚后，我和哥哥关系很好，但除了他，我好像没什么可以依靠的人…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，主要是我最近总感觉特别孤单",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "应该是从初中开始吧，尤其是他们离婚后。我记得那时候家里气氛很紧张，我总觉得被忽视…后来哥哥辍学打工，虽然他很照顾我，但我还是感觉心里空空的。",
+    "has_specific_detail": true,
+    "specific_detail": "应该是从初中开始吧，尤其是他们离婚后",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "那时候我会一直粘着哥哥，他每天工作很忙，但只要他回家，我就总想和他说话或者靠近他。其他时候，我会自己躲在房间听音乐，试图让自己别太难过。",
+    "has_specific_detail": true,
+    "specific_detail": "那时候我会一直粘着哥哥，他每天工作很忙，但只要他回家，我就总想和他说话或者靠近他",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "听音乐时，我会觉得暂时没那么孤单，有种被安慰的感觉。尤其是那些温暖的歌曲，好像能让我忘掉家里的事情，虽然这种感觉很短暂…。",
+    "has_specific_detail": true,
+    "specific_detail": "听音乐时，我会觉得暂时没那么孤单，有种被安慰的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是的，孤单感总是会回来。每次它出现时，我就会想到父母吵架的场景，还有哥哥在外面忙着工作，那种自己被留在角落里的感觉特别强烈…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，孤单感总是会回来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，会的。比如有时候在学校，大家都在聊天或做自己的事，我就会觉得自己好像和他们隔着一层什么东西，还是融不进去…这种感觉让我更怀念哥哥的陪伴。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，会的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我有试过，但总觉得自己说的话他们不太感兴趣。我也不是很擅长主动找话题，有时候想试着融入，但会害怕被冷落，就不敢继续了…。",
+    "has_specific_detail": true,
+    "specific_detail": "我有试过，但总觉得自己说的话他们不太感兴趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "应该是对方的反应吧。我总害怕他们觉得我很无趣，或者不愿意跟我聊下去。尤其是看到他们已经聊得很热闹的时候，我会觉得自己插不进去…那种感觉很尴尬。",
+    "has_specific_detail": true,
+    "specific_detail": "应该是对方的反应吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不愿意",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "可能是觉得自己没那么有趣吧。我总担心自己的话题没什么意思，他们会觉得很无聊。我还记得有一次，我试着分享一些自己喜欢的事情，但大家只是随便回应了一下，之后就转移话题了，那种感觉真的很难受…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是觉得自己没那么有趣吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "有点像吧…小时候父母总是忙着吵架，没怎么关注我的感受。那次分享后，我感觉自己好像又回到了小时候，那种被忽略的滋味特别熟悉，也让我更害怕去表达自己了…。",
+    "has_specific_detail": true,
+    "specific_detail": "有点像吧…小时候父母总是忙着吵架，没怎么关注我的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "如果有人真的认真听我说，并且对我的分享感兴趣，我应该会觉得被重视吧？那种感觉一定很温暖，可能也会让我更有勇气去表达自己…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人真的认真听我说，并且对我的分享感兴趣，我应该会觉得被重视吧？那种感觉一定很温暖，可能也会让我更有勇气去表达自己…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我觉得哥哥是这样的人吧。他总是很耐心听我说，无论是学校的事情还是我的烦恼，他都会认真回应我。有时候，我觉得只有在他面前，我才能放松地做自己…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得哥哥是这样的人吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我有想过，但总觉得很难。我和哥哥在一起特别自然，可是面对其他人，我会忍不住紧张，担心自己表现不好或者说错话…这种感觉让我很不自在。",
+    "has_specific_detail": true,
+    "specific_detail": "我有想过，但总觉得很难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "可能是因为哥哥一直都很包容我吧，他从来不会让我觉得自己不好或者无趣。但对别人，我总害怕他们会评判我，或者觉得我不值得他们的关注，这种害怕让我很难放开…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是因为哥哥一直都很包容我吧，他从来不会让我觉得自己不好或者无趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，我觉得有关系。小时候我总希望能被父母关注，但他们常常忙着自己的事，对我的感受不在意。这让我开始害怕表达自己会没人理，现在面对别人也会有类似的担心…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得有关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "如果能减少这种害怕，我可能会更敢去和别人交流吧，也许能融入更多的圈子，不会总是感觉自己被孤立。生活可能会变得没那么沉闷，甚至可以交到更多朋友…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能减少这种害怕，我可能会更敢去和别人交流吧，也许能融入更多的圈子，不会总是感觉自己被孤立",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我可以试着在学校里主动问一些简单的问题，比如关于学习的事情，这样可能不会太有压力。如果有人回应了，我就尽量多聊几句，慢慢熟悉和交流的感觉…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着在学校里主动问一些简单的问题，比如关于学习的事情，这样可能不会太有压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我希望自己能勇敢一点，不要害怕被拒绝或者冷落。哪怕只是短短的一次对话，我也想试着放松些，尽量让自己觉得没那么紧张…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望自己能勇敢一点，不要害怕被拒绝或者冷落",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "或许我可以试着深呼吸，让自己冷静下来，告诉自己这只是一个普通的对话，不需要完美。我也可以提前想一些简单的话题，让自己不至于临时慌张…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许我可以试着深呼吸，让自己冷静下来，告诉自己这只是一个普通的对话，不需要完美",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 20,
+    "content": "可能是班里比较友善的同学吧，或者是课间的时候，大家都在休息的时候。我觉得那个时候气氛比较轻松，应该会更容易开口。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是班里比较友善的同学吧，或者是课间的时候，大家都在休息的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我可能会问一些学习相关的问题，比如最近的作业或者考试内容。这样的话题不会显得突兀，也比较容易让对方回应，感觉是一个好开始…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会问一些学习相关的问题，比如最近的作业或者考试内容",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我可以顺着他们的回答再问一些问题，比如他们对这次考试的看法，或者是不是有什么好的学习方法。这样可以让对话自然延续，也让我慢慢适应交流的感觉…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以顺着他们的回答再问一些问题，比如他们对这次考试的看法，或者是不是有什么好的学习方法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我希望自己能感觉到轻松一点，哪怕对话很短也没关系。我只要觉得自己迈出了这一步，没有那么害怕了，就会很满足…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望自己能感觉到轻松一点，哪怕对话很短也没关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "或许可以听一首自己喜欢的歌，或者买一点小零食犒劳自己。这样可以让我感觉这次尝试是值得的，也会更有动力继续下去…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以听一首自己喜欢的歌，或者买一点小零食犒劳自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "可能明天的课间吧，那时候大家都比较放松，我也可以观察一下有没有适合的机会。想着这个目标，我觉得自己需要稍微准备一下话题，让自己更有信心…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能明天的课间吧，那时候大家都比较放松，我也可以观察一下有没有适合的机会",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我可以练习问关于作业的问题，比如“这次的题你觉得难不难？”或者“你有没有什么好的方法做这个类型的题？”这样简单自然，也能让我稍微熟悉一下开口的感觉…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以练习问关于作业的问题，比如“这次的题你觉得难不难？”或者“你有没有什么好的方法做这个类型的题？”这样简单自然，也能让我稍微熟悉一下开口的感觉…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "嗯，这样应该会更有帮助！比如如果他们觉得题目难，我可以问问他们遇到的具体问题是什么；如果他们觉得简单，我可以请教一下他们的做题方法。这样对话可能会更顺畅…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样应该会更有帮助！比如如果他们觉得题目难，我可以问问他们遇到的具体问题是什么；如果他们觉得简单，我可以请教一下他们的做题方法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我可以先听几首让我放松的音乐，调整好心情后再练习。另外，我可以试着在镜子前练习，想象自己是在和朋友聊天，这样可能会让我感觉更自然些…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以先听几首让我放松的音乐，调整好心情后再练习",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我想对自己说：“你真的做到了，勇敢迈出了第一步！不管结果如何，这都是很棒的开始，加油！”这样会让我觉得自己值得肯定，也更有动力继续尝试…。",
+    "has_specific_detail": true,
+    "specific_detail": "我想对自己说：“你真的做到了，勇敢迈出了第一步！不管结果如何，这都是很棒的开始，加油！”这样会让我觉得自己值得肯定，也更有动力继续尝试…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "谢谢你的鼓励！我觉得今晚练习会让我更有信心，明天尝试后一定会告诉你我的感受。现在我也有点期待这次挑战了！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励！我觉得今晚练习会让我更有信心，明天尝试后一定会告诉你我的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "谢谢！我会认真准备，尽力尝试这次交流。你的支持让我感觉很踏实，明天完成后一定会告诉你结果！今天就先聊到这里吧，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢！我会认真准备，尽力尝试这次交流",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

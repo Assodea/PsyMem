@@ -1,0 +1,525 @@
+[
+  {
+    "turn": 1,
+    "content": "上次我们聊到外界对我穿女装的议论让我有点心理压力。最近我感觉好像稍微好了一些，但还是会在意别人怎么看，尤其是邻居们的反应…",
+    "has_specific_detail": true,
+    "specific_detail": "上次我们聊到外界对我穿女装的议论让我有点心理压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "我觉得可能是因为自己稍微放下了一点，但也不确定是不是周围议论少了。有一次，我出门时碰到邻居，她看了我一眼没说话，但那个眼神让我一直在琢磨她是不是觉得奇怪…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是因为自己稍微放下了一点，但也不确定是不是周围议论少了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "当时我感觉心跳有点加快，像被人发现什么秘密一样紧张。那种不安持续了一整天，总觉得她可能会和其他人议论，心里很难放松下来…。",
+    "has_specific_detail": true,
+    "specific_detail": "当时我感觉心跳有点加快，像被人发现什么秘密一样紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "我觉得更多是害怕被评判吧，就像他们会觉得我和别人不一样，然后可能背后议论。那种感觉让我很不舒服，好像随时要去防着点什么…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得更多是害怕被评判吧，就像他们会觉得我和别人不一样，然后可能背后议论",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "可能有关系吧。小时候我父亲对行为规范挺严格的，我总觉得自己必须按照他设定的标准去做事。如果做得不对，他会很严厉地批评我，那种被指责的感觉可能一直留在心里了…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能有关系吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "那时候，我一般会默默接受父亲的批评，不太敢争辩。幸好有妈妈，她总是会在事后安慰我，说我只是需要时间成长，她的温柔让我感觉好受一些…。",
+    "has_specific_detail": true,
+    "specific_detail": "那时候，我一般会默默接受父亲的批评，不太敢争辩",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是的，妈妈的支持让我觉得自己还有人可以依靠。当时我最希望父亲能多认可我一点，哪怕我做得不完美，也能听到他说一句“这样也挺好的”。…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，妈妈的支持让我觉得自己还有人可以依靠",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "是的，我确实有这种期待。尤其是在穿女装这件事上，我希望别人可以觉得没什么大不了的，甚至能接受“这样也挺好的”，那样我就不用总是担心别人的看法了…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实有这种期待",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "有的，我太太就很支持我，她觉得我开心最重要，从来没有因此看低我。她会开玩笑说我穿得比她还好看，让我感觉很轻松，也很感激她的包容…。",
+    "has_specific_detail": true,
+    "specific_detail": "有的，我太太就很支持我，她觉得我开心最重要，从来没有因此看低我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "是的，她让我觉得不那么孤单了，有时候想起她的支持，心情会好很多。但面对外界时，我还是会不自觉地紧张，感觉抗压能力有了一点点进步，但还远远不够…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，她让我觉得不那么孤单了，有时候想起她的支持，心情会好很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，尤其是遇到熟人时会更明显，感觉他们会更在意我和别人不一样。人多的时候也紧张，但会觉得混在人群里没那么容易被注意到…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，尤其是遇到熟人时会更明显，感觉他们会更在意我和别人不一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "对，熟人的目光让我觉得好像更“暴露”。紧张时我会尽量低头，避免和他们对视，有时候还会装作在忙别的事情，试图分散自己的注意力…。",
+    "has_specific_detail": true,
+    "specific_detail": "对，熟人的目光让我觉得好像更“暴露”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "是的，它们确实能让我稍微缓和一下紧张，但感觉只是短暂的缓解，过后还是会回到那种不安的状态，尤其是想到他们可能会谈论我时…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，它们确实能让我稍微缓和一下紧张，但感觉只是短暂的缓解，过后还是会回到那种不安的状态，尤其是想到他们可能会谈论我时…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我想最担心的是，他们可能会用异样的眼光看我，甚至觉得我怪异、不正常。这样的评价让我害怕被孤立，或者更难融入周围的环境…。",
+    "has_specific_detail": true,
+    "specific_detail": "我想最担心的是，他们可能会用异样的眼光看我，甚至觉得我怪异、不正常",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "是的，我确实很在意关系和归属感，总希望能和周围人保持和谐。但同时又觉得表达真实的自己很重要，这两者之间让我觉得很难找到一个平衡点…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实很在意关系和归属感，总希望能和周围人保持和谐",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得如果周围的人能更多地理解和包容我的选择，可能会让我更有勇气去表达自己。同时，我也希望自己能更坚定一点，不总是被别人的看法左右…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果周围的人能更多地理解和包容我的选择，可能会让我更有勇气去表达自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得太太的支持是我最大的力量，她总是鼓励我做自己。另外，我的好奇心和愿意尝试新事物的性格，或许也能帮助我慢慢适应这种转变吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得太太的支持是我最大的力量，她总是鼓励我做自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我想我可以和太太多聊聊内心的想法，听听她的建议。同时，或许可以尝试在家里练习更自信地面对“想象中的目光”，让自己慢慢适应这种感觉…。",
+    "has_specific_detail": true,
+    "specific_detail": "我想我可以和太太多聊聊内心的想法，听听她的建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "这个主意很好！我觉得如果太太能参与进来，假装扮演那些目光，可能会让我更放松一些，也能更真实地练习如何应对这种情境…。",
+    "has_specific_detail": true,
+    "specific_detail": "这个主意很好！我觉得如果太太能参与进来，假装扮演那些目光，可能会让我更放松一些，也能更真实地练习如何应对这种情境…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得可以先从周末开始，找一个不太忙的时候。准备上，可能需要先和太太聊聊这个想法，看看她的感受和建议，再一起商量怎么练习会更有效…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从周末开始，找一个不太忙的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我可以试着在更多的私密场合穿女装，比如去一些我觉得安全的地方，逐步适应外界的环境。或者开始和朋友分享一点我的想法，试探他们的接受程度…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着在更多的私密场合穿女装，比如去一些我觉得安全的地方，逐步适应外界的环境",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我可能会先选择大学时期关系比较近的一位朋友，他平时性格开朗，也比较包容不同的想法。我觉得他可能会更容易接受和理解我的想法…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先选择大学时期关系比较近的一位朋友，他平时性格开朗，也比较包容不同的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我可能会从一些轻松的话题开始，比如聊到大学时的趣事，然后慢慢转到“其实有件事我一直没和你说过，但我觉得你会理解”的方向，这样可能更自然些…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会从一些轻松的话题开始，比如聊到大学时的趣事，然后慢慢转到“其实有件事我一直没和你说过，但我觉得你会理解”的方向，这样可能更自然些…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我担心他可能一时无法理解，会表现出惊讶或不知如何回应。所以我觉得需要观察他的反应，如果他表现得不舒服，我可能会停下来，不继续深入聊下去…。",
+    "has_specific_detail": true,
+    "specific_detail": "我担心他可能一时无法理解，会表现出惊讶或不知如何回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "如果他表现出支持或好奇，我可能会告诉他为什么穿女装对我来说很重要，比如它让我感觉更真实和自在，也会聊聊太太对我的支持，这让我更有勇气面对自己…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他表现出支持或好奇，我可能会告诉他为什么穿女装对我来说很重要，比如它让我感觉更真实和自在，也会聊聊太太对我的支持，这让我更有勇气面对自己…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我最希望听到他表示理解，比如“我能明白这对你来说很重要”或者“你这样也没什么不好的”，这样的回应会让我感觉被接纳和支持…。",
+    "has_specific_detail": true,
+    "specific_detail": "我最希望听到他表示理解，比如“我能明白这对你来说很重要”或者“你这样也没什么不好的”，这样的回应会让我感觉被接纳和支持…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "如果他这样回应了，我会觉得轻松很多，也会更加相信自己是值得被理解的。或许我会更有信心慢慢向其他信任的人分享，逐步减少对外界评价的恐惧…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他这样回应了，我会觉得轻松很多，也会更加相信自己是值得被理解的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "如果遇到不被理解的情况，我会提醒自己，不是每个人都能马上接受不同的想法。同时，我会和太太聊聊，让她帮我分担情绪，或者做点喜欢的事情转移注意力…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到不被理解的情况，我会提醒自己，不是每个人都能马上接受不同的想法",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 29,
+    "content": "可能需要一两天吧，具体看情况。如果我能和太太聊聊，应该会好得更快一些，她总是能让我从不同的角度看问题，让我觉得没那么孤单…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能需要一两天吧，具体看情况",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得可以试着写下来自己的感受，把那些失落和担忧都记录在纸上，这样可能会更清楚地梳理自己的情绪。另外，我也可以通过阅读一些相关的书籍，找到更多共鸣和启发…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着写下来自己的感受，把那些失落和担忧都记录在纸上，这样可能会更清楚地梳理自己的情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得从写下感受入手可能更适合现在的状态，这样可以直接把内心的情绪释放出来。而且写的时候也能更坦然地面对自己的想法，不用担心别人怎么看…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得从写下感受入手可能更适合现在的状态，这样可以直接把内心的情绪释放出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我觉得晚上比较适合写，因为那时候更安静，容易沉下心来。我可能会以日记的形式记录，随意写一些当天的感受和遇到的事情，让自己逐步习惯这种表达…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得晚上比较适合写，因为那时候更安静，容易沉下心来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "这个主意很好！我可以试着每天写下让我印象最深的情绪，无论是正面还是负面的，另外再记一件让我感到感激的事情，这样能帮助我更全面地看待一天的经历…。",
+    "has_specific_detail": true,
+    "specific_detail": "这个主意很好！我可以试着每天写下让我印象最深的情绪，无论是正面还是负面的，另外再记一件让我感到感激的事情，这样能帮助我更全面地看待一天的经历…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 34,
+    "content": "我可以设一个固定的时间提醒自己，比如睡前半小时。另外，或许可以用一本漂亮的笔记本来写，这样每次打开都会觉得更有仪式感，也能让我更享受这个过程…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以设一个固定的时间提醒自己，比如睡前半小时",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "这主意太有趣了！我可以尝试每天画一个简单的表情符号，比如开心、平静或者紧张，也可以用不同颜色标注情绪，这样一眼就能回顾自己的心情变化，感觉会更有动力坚持下去…。",
+    "has_specific_detail": true,
+    "specific_detail": "这主意太有趣了！我可以尝试每天画一个简单的表情符号，比如开心、平静或者紧张，也可以用不同颜色标注情绪，这样一眼就能回顾自己的心情变化，感觉会更有动力坚持下去…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我想今天的主题可以是“接纳”。我会写下自己对接纳的理解，还有今天经历中让我感觉被接纳或者不安的时刻，试着梳理这些情绪…。",
+    "has_specific_detail": true,
+    "specific_detail": "我想今天的主题可以是“接纳”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "是的，我觉得可以在最后写上一句鼓励自己的话，比如“我已经迈出了重要的一步，未来会更好”。这样可以给自己更多信心和动力去面对接下来的日子…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可以在最后写上一句鼓励自己的话，比如“我已经迈出了重要的一步，未来会更好”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我可以奖励自己一杯喜欢的热饮，比如热巧克力，边喝边放松一下。这会让我觉得今天的努力得到了认可，也是一种对自己的温柔和关爱…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以奖励自己一杯喜欢的热饮，比如热巧克力，边喝边放松一下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我希望自己能坚持下去，让这个习惯成为理解和接纳自己的一个小窗口。我想对自己说：“今天已经是一个新的开始，慢慢来，一切都会好起来的。”…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望自己能坚持下去，让这个习惯成为理解和接纳自己的一个小窗口",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 40,
+    "content": "谢谢你的鼓励！我会好好开始这个新的习惯，也希望通过它慢慢找到内心的平静和力量。今天就先聊到这里吧，感觉很有收获，下次再见！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励！我会好好开始这个新的习惯，也希望通过它慢慢找到内心的平静和力量",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

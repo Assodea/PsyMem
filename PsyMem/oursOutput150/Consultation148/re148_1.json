@@ -1,0 +1,417 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近让我比较困扰的是，我总觉得在感情上很犹豫。比如前几天有个朋友介绍了一个人给我认识，对方条件挺好的，但我总是害怕自己会处理不好这段关系，甚至还没开始就感觉很焦虑。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近让我比较困扰的是，我总觉得在感情上很犹豫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "可能两方面都有吧。我总担心在关系中会过于迎合对方，忽略自己的感受，这让我有点没底气。还有就是，想到如果关系出了问题，我怕自己会承受不了那种失望…这种感觉让我很纠结。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，其实以前有过一次类似的经历。在大学的时候，我和一个男生交往过一段时间，但那时候我总是小心翼翼地照顾他的感受，却没怎么表达自己的需求。后来我们因为一些矛盾分手了，我觉得那次经历让我对感情有点不自信，也更害怕自己再次陷入同样的状态。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，其实以前有过一次类似的经历",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "分手的时候，他觉得我太过顺从，总是迎合他，反而让关系变得有些无趣。我觉得自己没能表达需求是因为怕他不开心，或者觉得我的想法不重要。那时候，我总觉得只有付出和妥协，才能让关系更稳定，但结果却适得其反。",
+    "has_specific_detail": true,
+    "specific_detail": "分手的时候，他觉得我太过顺从，总是迎合他，反而让关系变得有些无趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "分手之后我确实想了很多，也尝试告诉自己要更加关注自己的感受。但每次真正面对一段可能的关系时，我又会不自觉地回到那种“迎合”的模式。就好像一种习惯，很难打破。我也知道这样不对，可是总感觉如果不这样做，关系可能很快就会出问题…说到这个，前几天我还因为类似的想法犹豫着要不要继续和那个朋友介绍的人见面。",
+    "has_specific_detail": true,
+    "specific_detail": "分手之后我确实想了很多，也尝试告诉自己要更加关注自己的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "可能两者都有吧。我确实很怕关系失败，尤其是像以前那样因为自己的处理方式出问题；同时，我也总是希望别人能满意，觉得如果自己做得够好，关系就会更顺利。但这种期待反而让我很累，有时候甚至会怀疑自己是不是不够好，所以才会这么努力去讨好别人…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我觉得这种“讨好”可能从小时候就开始了吧，尤其是在家里。我妈虽然很关心我，但情感上不太会表达，我总觉得需要表现得好一点才能让她满意。在其他人际关系中也有这种倾向，比如在朋友之间，我常常会优先考虑别人的感受，但在亲密关系里，这种感觉会更强烈，让我特别容易忽略自己。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这种“讨好”可能从小时候就开始了吧，尤其是在家里",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "仔细想想，好像真的很少有那种让我觉得被“真正看见”的时刻。小时候，父母更多是关注我的学习成绩，只有当我考得好或者表现特别优秀时，他们才会多夸几句。但这些认可总让我觉得是有条件的，似乎只有努力和表现才能换来关注。我记得有一次我生病了，妈妈很细心地照顾我，那种感觉让我特别温暖，也让我觉得自己不用做什么就能被关心。但类似的时刻真的不多，大部分时间我还是靠努力去争取他们的注意力。",
+    "has_specific_detail": true,
+    "specific_detail": "仔细想想，好像真的很少有那种让我觉得被“真正看见”的时刻",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "嗯，我觉得当时的自己最需要的是一种“无条件”的关心吧，就是不用总靠成绩或者表现来证明什么，而是他们能主动去了解我的感受、倾听我的想法。如果他们能多一些这样的关注，我可能会觉得自己被接受和重视，而不是总需要努力去赢得这些。我现在也常常想，为什么我总会觉得关系中只有付出才能换来安全感，这大概就是从小时候开始的习惯吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得当时的自己最需要的是一种“无条件”的关心吧，就是不用总靠成绩或者表现来证明什么，而是他们能主动去了解我的感受、倾听我的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得现在的我还是会犹豫要不要表达自己的需求。一方面，我怕对方会不理解，甚至觉得我在“自私”；另一方面，也担心如果表达了，关系反而会因为对方的反应变得紧张。这种害怕好像一直在阻碍我，但同时也让我觉得很无力，因为明明知道压抑自己不好，却又不敢迈出那一步。最近和那个朋友介绍的人聊天时，我就有好几次想表达一些自己的想法，可话到嘴边又咽了下去…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得现在的我还是会犹豫要不要表达自己的需求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "那几次其实更多是我对自己的需求产生了怀疑吧。我会想，“这个想法是不是太小题大做了？”或者“他会不会觉得我太麻烦？”有一次我们聊到兴趣爱好，他说喜欢一些比较冒险的活动，比如攀岩，而我其实更喜欢安静的活动，比如看书。当时我想说我不太喜欢冒险类的，但又怕直接说会让对方觉得我俩不合适，所以最后就只是附和了一句“听起来很有趣”，但心里还是觉得不太舒服。",
+    "has_specific_detail": true,
+    "specific_detail": "那几次其实更多是我对自己的需求产生了怀疑吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我觉得如果当时表达了自己的偏好，对方可能会觉得我们兴趣不一样，甚至会有些失望吧。我最害怕的就是他会因此觉得我们不合适，或者对我兴趣不大了。虽然这只是个小话题，但我总觉得它可能会影响整体的印象，所以宁可选择迎合也不敢冒险说出真实想法。可回头看，这种压抑真的让我很别扭，好像把自己隐藏起来了一样。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果当时表达了自己的偏好，对方可能会觉得我们兴趣不一样，甚至会有些失望吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "如果我能直接说“我喜欢安静的活动”，可能会更真实地展现自己吧，但同时也有点担心对方会觉得我们的兴趣差距太大。不过想想看，如果对方真的因为这个就不感兴趣，那可能说明我们本来也不太合适吧。我觉得最让我犹豫的是，我一直害怕自己表达真实想法后，会被拒绝或者否定，这种可能性让我很难迈出那一步…但如果不尝试，我又会觉得自己好像永远都在隐藏。",
+    "has_specific_detail": true,
+    "specific_detail": "如果我能直接说“我喜欢安静的活动”，可能会更真实地展现自己吧，但同时也有点担心对方会觉得我们的兴趣差距太大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我觉得这种害怕可能更多和自我价值有关吧。我总担心如果被拒绝，可能是因为自己不够好、不值得被喜欢。这种感觉不仅在感情里有过，在工作中也偶尔出现。比如开会时，我明明有一些想法，但怕提出来会被否定，就选择了沉默。好像这种害怕一直伴随着我，不管是在人际关系还是其他场合，只要涉及到表达自己的时候，我都会有点犹豫。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这种害怕可能更多和自我价值有关吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "是的，我觉得可能和小时候的经历有关吧。小时候有几次我和父母分享自己的想法，比如我想学画画，但他们总是用“学这个没什么用”之类的话来否定我。那种感觉让我觉得自己的兴趣和想法不重要，甚至有点羞于再表达出来。后来在学校里也是这样，如果提出的问题被老师忽略或者被同学嘲笑，我就会更加害怕说错话。从那之后，好像我渐渐习惯了把自己的想法藏起来，避免被否定的风险。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可能和小时候的经历有关吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "有过一次让我印象很深刻的经历，是在大学的时候。那时我参加了一个市场营销的项目比赛，团队里的人讨论方案时意见不一致，我鼓起勇气提了自己的想法，虽然当时心里很忐忑，但结果大家不仅采纳了，还夸我思路清晰。这种被认可的感觉让我觉得自己原来是可以被看见的，也给了我一些信心。只是这样的时刻好像太少了，大多数情况下，我还是会因为害怕被否定而选择沉默。",
+    "has_specific_detail": true,
+    "specific_detail": "有过一次让我印象很深刻的经历，是在大学的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "如果能多一些这样的时刻，我觉得我会慢慢建立起更多的自信，可能在面对关系或者其他场合时，也不会总是那么害怕被否定。如果我能逐步尝试表达真实感受，哪怕只是从一些小事开始，或许可以让我不再觉得必须迎合别人才能维持关系。这样的话，我可能会更轻松，也能更真实地和别人相处，而不是一直压抑自己。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能多一些这样的时刻，我觉得我会慢慢建立起更多的自信，可能在面对关系或者其他场合时，也不会总是那么害怕被否定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，我觉得可以从兴趣爱好或者日常话题入手，比如如果再聊到喜欢的活动时，我可以直接说“我更喜欢安静的活动，比如读书或者画画”。还有就是在点餐或选择约会地点的时候，我也可以尝试表达自己的偏好，而不是一味迎合对方的提议。我觉得这些小场景可能没那么有压力，但却能让我逐步练习真实表达自己。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以从兴趣爱好或者日常话题入手，比如如果再聊到喜欢的活动时，我可以直接说“我更喜欢安静的活动，比如读书或者画画”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "如果对方反应积极，我会感到很开心，也会更有信心去表达自己，觉得对方愿意了解我的真实想法，这种感觉很重要。如果对方反应不如预期，比如显得冷淡或者不太在意，我可能会有点失落，但也会提醒自己，这并不代表我的想法不重要，而是可能我们在某些方面并不完全契合。我觉得这样想可能会让我更坦然面对这些反应，也能让我更加专注于自己真正想要的东西。",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方反应积极，我会感到很开心，也会更有信心去表达自己，觉得对方愿意了解我的真实想法，这种感觉很重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "是的，我觉得提前组织语言可能会让我更有底气，比如在心里先想好怎么表达自己的想法，这样就不会因为紧张而卡壳。另外，深呼吸确实也能让我放松一点，在表达前给自己几秒的时间平复情绪，告诉自己“没关系，这只是一个小尝试”。我觉得这些方法可能会让我更容易迈出第一步，不至于因为紧张而退缩。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得提前组织语言可能会让我更有底气，比如在心里先想好怎么表达自己的想法，这样就不会因为紧张而卡壳",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，我觉得可以在下一次聊天的时候试试。如果我们聊到兴趣爱好或者一些生活习惯的话，我会尝试主动表达自己的真实想法，比如告诉他我喜欢安静的活动，或者分享一些自己感兴趣的事情。我觉得这是一个不错的机会，也比较自然，不会让我太有压力。虽然心里还是会有点紧张，但我想试着迈出这一步。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以在下一次聊天的时候试试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我想在表达后，无论对方的反应如何，我都会告诉自己：“你已经迈出了一步，这很了不起！”我会提醒自己，这次的重点不是对方的反应，而是我愿意尝试去真实地表达自己。即使对方反应不如预期，我也会鼓励自己继续练习，因为每一次尝试都是让我更接近真实自我的机会。我觉得这样想可能会让我更有动力去坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我想在表达后，无论对方的反应如何，我都会告诉自己：“你已经迈出了一步，这很了不起！”我会提醒自己，这次的重点不是对方的反应，而是我愿意尝试去真实地表达自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "如果这次尝试顺利，我想我会感到一种前所未有的轻松和自信，觉得自己可以在关系中更真实地存在，而不是一味迎合。这种成功的体验可能会让我更加愿意去表达自己的需求，也让我明白，真实的表达并不会那么可怕，甚至能帮助建立更健康的关系。我觉得如果能逐步建立这样的习惯，未来在面对亲密关系时，我会更有底气，也更能平衡自己和对方的需求。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这次尝试顺利，我想我会感到一种前所未有的轻松和自信，觉得自己可以在关系中更真实地存在，而不是一味迎合",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得在工作中可以试着在团队讨论时多表达一些自己的意见，即使是小建议，也算是一种练习。和朋友相处时，我也可以更坦率地分享自己的感受，比如当他们提议做某件事我不太喜欢时，可以温和地表达自己的想法，而不是一味顺从。我觉得这些小目标可以让我更习惯于表达自己，同时也能逐渐建立更多的信心。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得在工作中可以试着在团队讨论时多表达一些自己的意见，即使是小建议，也算是一种练习",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得可以在心里设一个小提醒，比如每次想迎合的时候，问自己：“这真的是我想要的吗？”或者“我这样说会让我舒服吗？”这些问题可能会让我更清楚自己的内心需求。另外，每次尝试后，我也可以记录下来，写一两句话回顾当时的感受，这样不仅能帮助我总结，还能不断强化真实表达的意识。我觉得这样可以让我更专注于内心，而不是习惯性地回到迎合模式。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以在心里设一个小提醒，比如每次想迎合的时候，问自己：“这真的是我想要的吗？”或者“我这样说会让我舒服吗？”这些问题可能会让我更清楚自己的内心需求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "嗯，我觉得确实需要提醒自己不要过度自责，特别是当表达不够完美或者对方反应不如预期时。我可以告诉自己，“这是一个学习的过程，每次尝试都在进步。”另外，我也需要调整期待，不要希望每次表达都能得到理想的反馈，而是专注于自己有没有真实地说出内心的想法。我觉得这样可以让我更放松，避免因为结果不理想而打击自己的信心。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得确实需要提醒自己不要过度自责，特别是当表达不够完美或者对方反应不如预期时",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得设定一个具体的时间节点确实会更有帮助，比如在接下来的一周里尝试至少三次真实表达，可以是在和朋友聊天时分享我的感受、在工作中提一个自己的意见，或者在和那个朋友介绍的人互动时表达我的偏好。有了这样的短期目标，我会更有方向感，也能更主动地去实践这些小改变，这样一步步来，可能会让我更容易坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得设定一个具体的时间节点确实会更有帮助，比如在接下来的一周里尝试至少三次真实表达，可以是在和朋友聊天时分享我的感受、在工作中提一个自己的意见，或者在和那个朋友介绍的人互动时表达我的偏好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我觉得每次尝试后，我可以先在心里肯定自己，比如告诉自己“你做到了，这是一大进步！”然后记录下感受和收获，像是给自己一种鼓励的仪式感。至于庆祝，我可以选择做一些让我开心的小事，比如买一本自己喜欢的书，或者花时间画一幅画，把这种成就感和快乐关联起来。我觉得这样会让我更有动力去继续尝试，也能慢慢建立起对真实表达的积极情绪连接。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得每次尝试后，我可以先在心里肯定自己，比如告诉自己“你做到了，这是一大进步！”然后记录下感受和收获，像是给自己一种鼓励的仪式感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得如果能在关系中更自信地表达自己，我可能会感到更加轻松和满足，不再因为迎合别人而感到压抑。情感上，我可能会建立起更健康、更平等的亲密关系，也会更清楚自己真正想要什么。在工作中，我可能会更主动地分享想法，提升自己在团队中的存在感和价值感。而在个人成长方面，我觉得这样的改变会让我更加了解自己，也能更坦然地接受自己的优点和不足。这种转变可能会让我整体生活状态都变得更积极、更有力量。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果能在关系中更自信地表达自己，我可能会感到更加轻松和满足，不再因为迎合别人而感到压抑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "是的，我觉得写下这些期待会让我更清晰目标，也能在遇到困难时激励自己。至于挫折，我会提醒自己，这是改变过程的一部分，偶尔的失败并不意味着我做错了，而是让我有机会学得更多。另外，为了保持动力，我觉得可以定期回顾自己的进步，比如每周花点时间总结一下尝试的成果和感受，这样不仅能看到自己的成长，也会让我对未来的改变更有信心。我觉得这样一步步来，或许会让我更容易坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得写下这些期待会让我更清晰目标，也能在遇到困难时激励自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "谢谢你的鼓励和支持！目前我觉得这些已经让我有了很清晰的方向，接下来我会专注于实践这些小目标，看看会带来什么样的变化。如果过程中遇到新的挑战或者不确定的地方，我会再来和你聊聊。今天先聊到这里吧，我想先把这些消化一下，再去尝试。再次谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励和支持！目前我觉得这些已经让我有了很清晰的方向，接下来我会专注于实践这些小目标，看看会带来什么样的变化",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

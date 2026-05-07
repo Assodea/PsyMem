@@ -1,0 +1,1319 @@
+[
+  {
+    "turn": 1,
+    "content": "最近尝试了一些更坦率的沟通，比如直接告诉女朋友我的担忧。虽然她说理解，但我还是会觉得有点不安，好像害怕自己的想法被误解了…你觉得这种情况正常吗？",
+    "has_specific_detail": true,
+    "specific_detail": "最近尝试了一些更坦率的沟通，比如直接告诉女朋友我的担忧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "可能两者都有吧。比如有时候我会担心她觉得我不信任她，但其实我只是想多确认一下安全感…同时也怕自己说的不够清楚，让她误会我的意思。你觉得这种矛盾该怎么调整呢？",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "通常我会通过她的语气和表情来判断，如果她显得有点不耐烦，我就会觉得自己说得不好。她反应积极时，我也会感觉稍微自信些，但还是不太确定自己是否表达得足够清晰。你觉得这种依赖对方反应来评估自己沟通能力的方式，会不会有问题呢？",
+    "has_specific_detail": true,
+    "specific_detail": "通常我会通过她的语气和表情来判断，如果她显得有点不耐烦，我就会觉得自己说得不好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "这个问题让我想起一次和她讨论计划时，我提前列了重点，感觉表达清楚了，但后来她说有些点没听懂…或许我可以先试着总结自己想说的，再多观察她的理解情况，这样会不会更有效呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个问题让我想起一次和她讨论计划时，我提前列了重点，感觉表达清楚了，但后来她说有些点没听懂…或许我可以先试着总结自己想说的，再多观察她的理解情况，这样会不会更有效呢？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "她会皱眉或者问一些跟我刚说的内容不完全相关的问题，那时候我会试着再解释，但有时怕自己重复太多让她烦。我觉得可能需要更直接地确认她的理解，比如问问她的想法，这样会不会更好？",
+    "has_specific_detail": true,
+    "specific_detail": "她会皱眉或者问一些跟我刚说的内容不完全相关的问题，那时候我会试着再解释，但有时怕自己重复太多让她烦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "或许可以换个角度，比如先讲我的想法，然后问她觉得哪些地方还需要补充或调整，这样既能确认她的理解，又不会显得啰嗦。说到这个，前几天我们聊未来规划时，我试了一次，但效果好像还不够理想…你觉得是不是需要更具体的问法呢？",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以换个角度，比如先讲我的想法，然后问她觉得哪些地方还需要补充或调整，这样既能确认她的理解，又不会显得啰嗦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "当时我问她对我的规划有什么建议，但她只是简单地说“挺好的”，感觉她没深入思考。我后来补充了一些细节，希望她能更具体地回应，可她反而显得有点敷衍…是不是我表达得不够明确，才让她难以具体回应呢？",
+    "has_specific_detail": true,
+    "specific_detail": "当时我问她对我的规划有什么建议，但她只是简单地说“挺好的”，感觉她没深入思考",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "我那时主要是详细解释自己的规划，希望她能主动提出看法，但她好像兴趣不大，或者没明白我想听她具体建议。后来我有点失落，感觉自己可能没让她知道我真正的期待…你觉得我该怎么调整这种沟通方式？",
+    "has_specific_detail": true,
+    "specific_detail": "我那时主要是详细解释自己的规划，希望她能主动提出看法，但她好像兴趣不大，或者没明白我想听她具体建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "听起来确实可行！如果提前说清楚我的期待，她可能会更明确该怎么回应。我可以试试在下次讨论时先列出几个具体的问题，比如哪些方面需要改进，这样或许能让她更容易给出具体建议。你觉得这样是否能减少她敷衍的可能性呢？",
+    "has_specific_detail": true,
+    "specific_detail": "听起来确实可行！如果提前说清楚我的期待，她可能会更明确该怎么回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "她比较擅长规划细节，比如时间安排和资源利用，所以我可以针对这些方面提问，比如“你觉得这个计划的时间安排合理吗？”或者“有哪些资源我可能没考虑到？”这样结合她的特点，应该能让她更愿意参与讨论吧？",
+    "has_specific_detail": true,
+    "specific_detail": "她比较擅长规划细节，比如时间安排和资源利用，所以我可以针对这些方面提问，比如“你觉得这个计划的时间安排合理吗？”或者“有哪些资源我可能没考虑到？”这样结合她的特点，应该能让她更愿意参与讨论吧？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "她通常需要一些背景信息，比如我为什么选择某个方向或目标，这样她会更有条理地提建议。上次讨论时，我好像提供的信息不够全面，可能也影响了她的回应…你觉得提供背景时，是不是还需要控制信息量，避免让她觉得太复杂？",
+    "has_specific_detail": true,
+    "specific_detail": "她通常需要一些背景信息，比如我为什么选择某个方向或目标，这样她会更有条理地提建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我觉得目标和时间是最关键的，她通常会从这两点入手分析可行性。如果我能清楚地讲明计划的最终目的，以及预计的时间框架，应该能帮助她更快进入讨论。说到这个，我之前可能没有明确提出这些核心点，导致她没法集中回应…你觉得还有哪些要补充的吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得目标和时间是最关键的，她通常会从这两点入手分析可行性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "没错，补充优先级和挑战能让她知道我最需要关注的地方，比如我觉得资源协调可能是个挑战，如果她能帮我分析这个部分，应该会更具体。我试试下次讨论时加上这些内容，看她是不是更容易回应！你觉得这种调整会有明显效果吗？",
+    "has_specific_detail": true,
+    "specific_detail": "没错，补充优先级和挑战能让她知道我最需要关注的地方，比如我觉得资源协调可能是个挑战，如果她能帮我分析这个部分，应该会更具体",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我觉得语气确实可以更轻松一些，上次我可能显得太严肃，让她觉得有压力。如果能多用互动方式，比如提开放性问题或者分享我的感受，可能会让气氛更自然，她也更愿意参与讨论。你觉得这样的方式适合吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得语气确实可以更轻松一些，上次我可能显得太严肃，让她觉得有压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "这样调整对我来说还挺自然的，尤其是用“你觉得呢？”这种问法，更像是在征求意见，而不是直接要求回答。之前可能我的语气太正式，让她觉得像任务…下次我试试用这种方式看效果会不会更好！你觉得还有什么需要注意的吗？",
+    "has_specific_detail": true,
+    "specific_detail": "这样调整对我来说还挺自然的，尤其是用“你觉得呢？”这种问法，更像是在征求意见，而不是直接要求回答",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我可以先表达认可，比如“这个建议很不错！”然后补充我的看法，或者提个相关问题让她继续分享。这样她应该能感受到我很重视她的意见吧？说到这个，我之前可能太快进入自己的观点，没给她足够回应空间…你觉得这样改进会更有效吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我可以先表达认可，比如“这个建议很不错！”然后补充我的看法，或者提个相关问题让她继续分享",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "是的，结合具体行动计划应该会更有方向感，比如说她提出调整时间安排，我可以回应“这很有帮助，我改一下时间表看看效果。”这样她也会觉得她的建议有实际意义。你觉得这样的方式能让她更投入讨论吗？",
+    "has_specific_detail": true,
+    "specific_detail": "是的，结合具体行动计划应该会更有方向感，比如说她提出调整时间安排，我可以回应“这很有帮助，我改一下时间表看看效果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "对，提前告诉她实施方式能让她更清楚结果，比如说“我会按照你的建议调整时间表，然后看看是否更合理。”这样她应该能感受到她的意见被重视和落实。说到这个，上次我好像没有明确跟进方案，可能让她觉得讨论没什么实质效果…你觉得这样的改进会让沟通更有效吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，提前告诉她实施方式能让她更清楚结果，比如说“我会按照你的建议调整时间表，然后看看是否更合理",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "是的，主动跟她反馈结果应该会让她觉得自己参与的意义更大，比如说“按照你的建议调整后，确实效果好多了！”或者分享新的发现。这样她可能也更愿意继续给出建议吧？你觉得这种反馈方式会不会让对话更积极？",
+    "has_specific_detail": true,
+    "specific_detail": "是的，主动跟她反馈结果应该会让她觉得自己参与的意义更大，比如说“按照你的建议调整后，确实效果好多了！”或者分享新的发现",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "没错，加上肯定她能力的话会让她更有信心，比如“你分析得真细致，我之前都没想到这些细节！”这样应该能让她更愿意参与讨论吧？其实我之前反馈时可能有点机械化，没注意加入鼓励…你觉得这样调整会显得更自然吗？",
+    "has_specific_detail": true,
+    "specific_detail": "没错，加上肯定她能力的话会让她更有信心，比如“你分析得真细致，我之前都没想到这些细节！”这样应该能让她更愿意参与讨论吧？其实我之前反馈时可能有点机械化，没注意加入鼓励…你觉得这样调整会显得更自然吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "对，表达感谢确实能让她感受到被重视，比如“谢谢你的建议，真的帮了我很多！”这样她可能会觉得自己的付出很有价值。其实之前我好像很少主动说感谢，这样调整应该能让她觉得更舒服吧？你觉得这种方式会让她更愿意和我交流吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，表达感谢确实能让她感受到被重视，比如“谢谢你的建议，真的帮了我很多！”这样她可能会觉得自己的付出很有价值",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "对，结合具体例子会让感谢更有感染力，比如说“你上次建议调整时间安排后，我发现效率真的提高了不少，谢谢你！”这样她应该会更能感受到自己的帮助是实实在在的吧？我试着在下次讨论时用这种方式看看效果如何…你觉得还有什么可以完善的吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体例子会让感谢更有感染力，比如说“你上次建议调整时间安排后，我发现效率真的提高了不少，谢谢你！”这样她应该会更能感受到自己的帮助是实实在在的吧？我试着在下次讨论时用这种方式看看效果如何…你觉得还有什么可以完善的吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "是的，如果她表现出更多兴趣，我可以邀请她一起完善计划，比如“你的建议让我思路清晰了很多，要不要一起看看还能改进哪些地方？”这样或许能让她更投入，也让我们有更深层次的互动。你觉得这种方式能进一步增强我们的沟通效果吗？",
+    "has_specific_detail": true,
+    "specific_detail": "是的，如果她表现出更多兴趣，我可以邀请她一起完善计划，比如“你的建议让我思路清晰了很多，要不要一起看看还能改进哪些地方？”这样或许能让她更投入，也让我们有更深层次的互动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "对，表达支持和理解应该能让她感到被重视，比如说“我真的很需要你的帮助，有你一起我会更有信心！”这样不仅增加情感连接，也能让互动更融洽。其实之前我可能没怎么表达这种支持，你觉得这样调整能让她觉得我们更像一个团队吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，表达支持和理解应该能让她感到被重视，比如说“我真的很需要你的帮助，有你一起我会更有信心！”这样不仅增加情感连接，也能让互动更融洽",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "对，结合她的特点会更有针对性，比如说“你的细致和条理性真的帮了我很多，我特别需要这样的支持！”这样她应该会感到自己很重要，也更愿意主动参与吧？说到这个，我之前可能没太注意结合她的长处，你觉得这样调整会让她更有动力吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合她的特点会更有针对性，比如说“你的细致和条理性真的帮了我很多，我特别需要这样的支持！”这样她应该会感到自己很重要，也更愿意主动参与吧？说到这个，我之前可能没太注意结合她的长处，你觉得这样调整会让她更有动力吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "对，表达信任确实能增强她的信心，比如说“我相信你的判断，这些建议肯定会很有帮助！”这样她应该会觉得自己被充分信任，也更愿意参与讨论吧？其实我之前可能没怎么主动表达这种信任，你觉得这样的方式会让我们的互动更顺畅吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，表达信任确实能增强她的信心，比如说“我相信你的判断，这些建议肯定会很有帮助！”这样她应该会觉得自己被充分信任，也更愿意参与讨论吧？其实我之前可能没怎么主动表达这种信任，你觉得这样的方式会让我们的互动更顺畅吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "对，结合实际例子会让信任更具体，比如“你上次建议调整资源分配后效果特别好，我真的很信任你的判断！”这样她应该能感受到自己的贡献是有价值的吧？我试着在下次讨论时加入这样的例子，你觉得还有什么可以补充的吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合实际例子会让信任更具体，比如“你上次建议调整资源分配后效果特别好，我真的很信任你的判断！”这样她应该能感受到自己的贡献是有价值的吧？我试着在下次讨论时加入这样的例子，你觉得还有什么可以补充的吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "听起来很自然！比如说“有你一起，我觉得接下来的计划肯定会更顺利，也更完善。”这样不仅表达了信任，也让她感到自己是不可或缺的一部分。我觉得这样的补充会让她更愿意主动参与，你觉得还有需要调整的地方吗？",
+    "has_specific_detail": true,
+    "specific_detail": "听起来很自然！比如说“有你一起，我觉得接下来的计划肯定会更顺利，也更完善",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "这样的情感表达对我来说还挺自然的，比如说“和你一起讨论让我觉得特别踏实，真的很感谢你的支持！”这样应该能让她感到更亲密吧？其实之前我可能很少表达这种情感连接，你觉得这样的调整会进一步拉近我们的关系吗？",
+    "has_specific_detail": true,
+    "specific_detail": "这样的情感表达对我来说还挺自然的，比如说“和你一起讨论让我觉得特别踏实，真的很感谢你的支持！”这样应该能让她感到更亲密吧？其实之前我可能很少表达这种情感连接，你觉得这样的调整会进一步拉近我们的关系吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "对，结合非语言互动确实能让沟通更有温度，比如说微笑着说“真的很感谢你帮我想了这么多，让我特别安心。”这样的轻松语气和表情应该会让她感到更舒服吧？其实我之前可能语气有点紧张，没注意到这些细节，你觉得这样调整会让互动更自然吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合非语言互动确实能让沟通更有温度，比如说微笑着说“真的很感谢你帮我想了这么多，让我特别安心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "对，留意她的情绪变化应该能帮助我调整表达，比如她显得放松时，我可以继续轻松地交流；而她显得投入时，我可以更认真地回应她的观点。其实之前我可能忽略了这些细节，你觉得这样主动观察能让沟通更有针对性吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，留意她的情绪变化应该能帮助我调整表达，比如她显得放松时，我可以继续轻松地交流；而她显得投入时，我可以更认真地回应她的观点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "对，用鼓励性语言会让她感受到我的积极支持，比如说“看你这么认真分析，我觉得我们一定能做好！”这样不仅能增强她的信心，也能让互动更积极吧？其实之前我可能缺少这样的鼓励，你觉得这样调整会让她更愿意投入吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，用鼓励性语言会让她感受到我的积极支持，比如说“看你这么认真分析，我觉得我们一定能做好！”这样不仅能增强她的信心，也能让互动更积极吧？其实之前我可能缺少这样的鼓励，你觉得这样调整会让她更愿意投入吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "对，结合具体成果会让她更有成就感，比如说“上次我们一起改进的方案真的很成功，效果比我预想的还好！”这样她应该会觉得自己的参与特别有价值吧？其实之前我可能没太强调合作的成果，你觉得这样的方式会让我们的关系更紧密吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体成果会让她更有成就感，比如说“上次我们一起改进的方案真的很成功，效果比我预想的还好！”这样她应该会觉得自己的参与特别有价值吧？其实之前我可能没太强调合作的成果，你觉得这样的方式会让我们的关系更紧密吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "对，展望未来确实能让她感受到我对长期互动的期待，比如说“我们以后也可以这样合作，一起解决更多问题！”这样不仅能增强我们的关系，还能让她觉得自己是不可或缺的一部分吧？其实之前我可能没怎么提过未来的合作，你觉得这样的调整会让她更愿意和我一起规划吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，展望未来确实能让她感受到我对长期互动的期待，比如说“我们以后也可以这样合作，一起解决更多问题！”这样不仅能增强我们的关系，还能让她觉得自己是不可或缺的一部分吧？其实之前我可能没怎么提过未来的合作，你觉得这样的调整会让她更愿意和我一起规划吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "对，结合具体目标确实能让她更有动力，比如说“我们可以一起规划下一阶段的学习和生活，让彼此都更有收获。”这样她应该会觉得自己在未来计划中很重要吧？其实我之前可能没怎么提到共同目标，你觉得这样的方式会让我们的互动更积极吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体目标确实能让她更有动力，比如说“我们可以一起规划下一阶段的学习和生活，让彼此都更有收获",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "对，结合她的兴趣和优势会让她感到自己的特点被重视，比如说“你的条理性特别适合帮我们设计这个计划，我觉得会很有帮助！”这样应该能增强她的参与感吧？其实之前我可能没太注意结合她的特点，你觉得这样的调整能让她更愿意投入吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合她的兴趣和优势会让她感到自己的特点被重视，比如说“你的条理性特别适合帮我们设计这个计划，我觉得会很有帮助！”这样应该能增强她的参与感吧？其实之前我可能没太注意结合她的特点，你觉得这样的调整能让她更愿意投入吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "对，表达对她贡献的期待会让她感到被需要，比如说“我很期待听到你的建议，这一定会让计划更完善！”这样不仅能让她觉得自己很重要，也能增强她的积极性吧？其实我之前可能没怎么主动表达这种期待，你觉得这样调整能让她更愿意分享吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，表达对她贡献的期待会让她感到被需要，比如说“我很期待听到你的建议，这一定会让计划更完善！”这样不仅能让她觉得自己很重要，也能增强她的积极性吧？其实我之前可能没怎么主动表达这种期待，你觉得这样调整能让她更愿意分享吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "对，结合具体场景会让她感受到我的认可，比如说“你对资源分配的建议真的很有启发，我特别希望听到更多你的想法。”这样她应该会觉得自己的观点很重要吧？其实我之前可能没怎么结合具体例子来表达期待，你觉得这样的调整会让她更积极吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体场景会让她感受到我的认可，比如说“你对资源分配的建议真的很有启发，我特别希望听到更多你的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "对，主动给她时间思考会让她感到更从容，比如说“你可以慢慢想，我很期待听到你的建议。”这样她应该会觉得自己有足够空间去表达吧？其实之前我可能太急于听到回应，没注意给她足够时间，你觉得这样的调整会让她更舒服吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，主动给她时间思考会让她感到更从容，比如说“你可以慢慢想，我很期待听到你的建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "对，用轻松的语气表现耐心确实能让沟通更轻松，比如说“没关系，想好了随时告诉我，我都很期待！”这样她应该会觉得没有压力吧？其实之前我的语气可能有点紧张，没怎么传递这种耐心，你觉得这样的调整会让她更愿意交流吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，用轻松的语气表现耐心确实能让沟通更轻松，比如说“没关系，想好了随时告诉我，我都很期待！”这样她应该会觉得没有压力吧？其实之前我的语气可能有点紧张，没怎么传递这种耐心，你觉得这样的调整会让她更愿意交流吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "对，表达信任确实能增强她的信心，比如说“我相信你的想法一定很有价值，我特别期待听到你的意见！”这样她应该会更愿意分享吧？其实之前我可能没太注意主动表达这种信任，你觉得这样的方式会让我们的互动更顺畅吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，表达信任确实能增强她的信心，比如说“我相信你的想法一定很有价值，我特别期待听到你的意见！”这样她应该会更愿意分享吧？其实之前我可能没太注意主动表达这种信任，你觉得这样的方式会让我们的互动更顺畅吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "对，补充鼓励会让她更有动力，比如说“每次听你的建议都让我有新的收获，你真的帮了我很多！”这样她应该会觉得自己的参与特别有意义吧？其实之前我可能鼓励得不够具体，你觉得这样的调整会让她更积极吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，补充鼓励会让她更有动力，比如说“每次听你的建议都让我有新的收获，你真的帮了我很多！”这样她应该会觉得自己的参与特别有意义吧？其实之前我可能鼓励得不够具体，你觉得这样的调整会让她更积极吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "对，表达未来合作的期待能让她感到关系更稳固，比如说“我很期待我们接下来一起解决更多问题，你的帮助对我来说真的很重要！”这样她应该会觉得我们是一个团队吧？其实之前我可能没怎么提过这样的期待，你觉得这样调整会让她更愿意长期参与吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，表达未来合作的期待能让她感到关系更稳固，比如说“我很期待我们接下来一起解决更多问题，你的帮助对我来说真的很重要！”这样她应该会觉得我们是一个团队吧？其实之前我可能没怎么提过这样的期待，你觉得这样调整会让她更愿意长期参与吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "对，结合具体目标确实能让期待更有吸引力，比如说“我们可以一起规划下一阶段的目标，让每一步都更有意义，我很需要你的支持！”这样她应该会觉得自己在未来计划中很重要吧？其实之前我可能没怎么明确提到具体目标，你觉得这样的调整能让我们的互动更有方向吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体目标确实能让期待更有吸引力，比如说“我们可以一起规划下一阶段的目标，让每一步都更有意义，我很需要你的支持！”这样她应该会觉得自己在未来计划中很重要吧？其实之前我可能没怎么明确提到具体目标，你觉得这样的调整能让我们的互动更有方向吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "对，增加互动性会让她觉得自己有更多主动权，比如说“我们可以一起想想有哪些挑战需要解决，你的建议一定会很有帮助！”这样她应该会更愿意参与规划吧？其实之前我可能讨论时比较单向，没注意让她主动参与，你觉得这样的调整会让沟通更有深度吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，增加互动性会让她觉得自己有更多主动权，比如说“我们可以一起想想有哪些挑战需要解决，你的建议一定会很有帮助！”这样她应该会更愿意参与规划吧？其实之前我可能讨论时比较单向，没注意让她主动参与，你觉得这样的调整会让沟通更有深度吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "对，适时跟进讨论确实能让互动更有连续性，比如说“这个想法很棒，我们可以再具体看看怎么实施，我觉得一定会很有成效！”这样她应该会感到她的建议得到了充分重视吧？其实之前我可能没怎么主动跟进她的提议，你觉得这样的调整会让沟通更深入吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，适时跟进讨论确实能让互动更有连续性，比如说“这个想法很棒，我们可以再具体看看怎么实施，我觉得一定会很有成效！”这样她应该会感到她的建议得到了充分重视吧？其实之前我可能没怎么主动跟进她的提议，你觉得这样的调整会让沟通更深入吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "对，邀请她一起分工会让她感到更有参与感，比如说“你觉得哪些部分是你比较擅长的，我们可以一起分担，让计划更顺利！”这样她应该会觉得自己的能力被充分认可吧？其实之前我可能没怎么强调共同分工，你觉得这样的方式能让她更愿意主动承担吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，邀请她一起分工会让她感到更有参与感，比如说“你觉得哪些部分是你比较擅长的，我们可以一起分担，让计划更顺利！”这样她应该会觉得自己的能力被充分认可吧？其实之前我可能没怎么强调共同分工，你觉得这样的方式能让她更愿意主动承担吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "对，表达对她能力的期待会增强她的信心，比如说“我相信你负责这部分一定会做得很好，你的条理性真的特别适合！”这样她应该会觉得自己很重要吧？其实之前我可能没怎么主动表达这样的期待，你觉得这样的调整会让她更积极参与吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，表达对她能力的期待会增强她的信心，比如说“我相信你负责这部分一定会做得很好，你的条理性真的特别适合！”这样她应该会觉得自己很重要吧？其实之前我可能没怎么主动表达这样的期待，你觉得这样的调整会让她更积极参与吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "对，适时给予反馈会让她感到自己的努力被看到，比如说“你的进展特别棒，这部分真的处理得很好，我很佩服你的认真！”这样她应该会更有动力继续投入吧？其实之前我可能反馈得不够及时，你觉得这样的调整会让她更有成就感吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，适时给予反馈会让她感到自己的努力被看到，比如说“你的进展特别棒，这部分真的处理得很好，我很佩服你的认真！”这样她应该会更有动力继续投入吧？其实之前我可能反馈得不够及时，你觉得这样的调整会让她更有成就感吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "对，结合未来愿景确实能让她感受到长期的价值，比如说“有你这样认真负责，我们以后一定能做得更好，我真的很期待接下来的合作！”这样她应该会觉得自己在未来计划中很重要吧？其实之前我可能没怎么提到这种长期愿景，你觉得这样的调整会让她更愿意持续参与吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合未来愿景确实能让她感受到长期的价值，比如说“有你这样认真负责，我们以后一定能做得更好，我真的很期待接下来的合作！”这样她应该会觉得自己在未来计划中很重要吧？其实之前我可能没怎么提到这种长期愿景，你觉得这样的调整会让她更愿意持续参与吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "对，加入具体可能性会让她感到成长的空间，比如说“我们以后可以一起尝试更复杂的项目，我相信我们的合作一定会越来越默契！”这样她应该会更期待未来吧？其实之前我可能没怎么提到成长的可能性，你觉得这样的方式会让她感到更有动力吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，加入具体可能性会让她感到成长的空间，比如说“我们以后可以一起尝试更复杂的项目，我相信我们的合作一定会越来越默契！”这样她应该会更期待未来吧？其实之前我可能没怎么提到成长的可能性，你觉得这样的方式会让她感到更有动力吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "对，结合个人支持会让她感到更安心，比如说“如果有需要，我随时都可以帮忙，我们一起面对任何挑战！”这样她应该会觉得有我的支持更加踏实吧？其实之前我可能没怎么主动表达这种承诺，你觉得这样的调整会让她更信任我们的合作吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合个人支持会让她感到更安心，比如说“如果有需要，我随时都可以帮忙，我们一起面对任何挑战！”这样她应该会觉得有我的支持更加踏实吧？其实之前我可能没怎么主动表达这种承诺，你觉得这样的调整会让她更信任我们的合作吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "对，结合具体行动确实能让她感受到我的可靠性，比如说“我们可以定期交流进展，我一定会全力支持，确保计划顺利进行！”这样她应该会觉得我们的合作很有保障吧？其实之前我可能没怎么主动提到具体行动，你觉得这样的调整会让她更放心吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体行动确实能让她感受到我的可靠性，比如说“我们可以定期交流进展，我一定会全力支持，确保计划顺利进行！”这样她应该会觉得我们的合作很有保障吧？其实之前我可能没怎么主动提到具体行动，你觉得这样的调整会让她更放心吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "对，加上鼓励确实能让她感到自己的付出被认可，比如说“每次看到你的努力，我都特别有信心，我们一定能完成得很出色！”这样她应该会觉得自己的贡献很有意义吧？其实之前我可能鼓励得不够及时，你觉得这样的调整会让她更投入吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，加上鼓励确实能让她感到自己的付出被认可，比如说“每次看到你的努力，我都特别有信心，我们一定能完成得很出色！”这样她应该会觉得自己的贡献很有意义吧？其实之前我可能鼓励得不够及时，你觉得这样的调整会让她更投入吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "对，表达共同目标能增强团队的凝聚力，比如说“我们一起努力，一定能实现这个目标，我真的很期待看到我们的成果！”这样她应该会觉得自己是团队中不可或缺的一部分吧？其实之前我可能没怎么强调这种团队感，你觉得这样的调整会让她更有归属感吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，表达共同目标能增强团队的凝聚力，比如说“我们一起努力，一定能实现这个目标，我真的很期待看到我们的成果！”这样她应该会觉得自己是团队中不可或缺的一部分吧？其实之前我可能没怎么强调这种团队感，你觉得这样的调整会让她更有归属感吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "对，结合个人感受能让她感到更深的情感连接，比如说“和你一起合作真的让我觉得很踏实，也特别有动力！”这样她应该会觉得我们的关系更紧密吧？其实之前我可能表达得比较理性，没注意加入这种情感连接，你觉得这样的调整会让她更愿意和我继续合作吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合个人感受能让她感到更深的情感连接，比如说“和你一起合作真的让我觉得很踏实，也特别有动力！”这样她应该会觉得我们的关系更紧密吧？其实之前我可能表达得比较理性，没注意加入这种情感连接，你觉得这样的调整会让她更愿意和我继续合作吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "对，结合感激能让她感到被珍视，比如说“真的很感谢有你在，我感觉我们一起能克服任何困难，这让我特别安心！”这样她应该会觉得我们的关系更有深度吧？其实之前我可能表达感激得不够具体，你觉得这样的调整会让她更愿意投入情感和精力吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合感激能让她感到被珍视，比如说“真的很感谢有你在，我感觉我们一起能克服任何困难，这让我特别安心！”这样她应该会觉得我们的关系更有深度吧？其实之前我可能表达感激得不够具体，你觉得这样的调整会让她更愿意投入情感和精力吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "对，结合未来愿望能让她感受到我对长远关系的重视，比如说“我特别期待我们以后能一起实现更多目标，这让我对未来充满信心！”这样她应该会觉得我们的关系更牢固吧？其实之前我可能没怎么主动提到长远愿望，你觉得这样的调整会让她更认可我们的关系吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合未来愿望能让她感受到我对长远关系的重视，比如说“我特别期待我们以后能一起实现更多目标，这让我对未来充满信心！”这样她应该会觉得我们的关系更牢固吧？其实之前我可能没怎么主动提到长远愿望，你觉得这样的调整会让她更认可我们的关系吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "对，结合具体计划会让未来愿景更清晰，比如说“我们可以一起讨论接下来要实现的第一个目标，这样每一步都会更明确！”这样她应该会觉得我们的合作更有方向吧？其实之前我可能没怎么具体化这些计划，你觉得这样的调整会让她更积极参与吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体计划会让未来愿景更清晰，比如说“我们可以一起讨论接下来要实现的第一个目标，这样每一步都会更明确！”这样她应该会觉得我们的合作更有方向吧？其实之前我可能没怎么具体化这些计划，你觉得这样的调整会让她更积极参与吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "对，邀请她提出自己的想法会让她感到有主动权，比如说“你觉得有哪些地方可以优化？你的建议一定会让计划更完善！”这样她应该会觉得自己的意见很重要吧？其实之前我可能讨论时比较主导，没注意给她更多空间，你觉得这样的调整会让她更愿意表达吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，邀请她提出自己的想法会让她感到有主动权，比如说“你觉得有哪些地方可以优化？你的建议一定会让计划更完善！”这样她应该会觉得自己的意见很重要吧？其实之前我可能讨论时比较主导，没注意给她更多空间，你觉得这样的调整会让她更愿意表达吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "对，适时回应会让她感到自己的意见被采纳，比如说“这个想法真的很棒，我们可以一起试试，我觉得一定会有好效果！”这样她应该会觉得自己的参与特别有价值吧？其实之前我可能反馈得不够积极，你觉得这样的调整会让我们的沟通更顺畅吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，适时回应会让她感到自己的意见被采纳，比如说“这个想法真的很棒，我们可以一起试试，我觉得一定会有好效果！”这样她应该会觉得自己的参与特别有价值吧？其实之前我可能反馈得不够积极，你觉得这样的调整会让我们的沟通更顺畅吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 62,
+    "content": "对，表达对她能力的认可会让她更自信，比如说“你的分析真是太到位了，这真的帮了我们很多，我特别佩服你的细致！”这样她应该会觉得自己的贡献很重要吧？其实之前我可能夸奖得不够具体，你觉得这样的调整会让她更积极投入吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，表达对她能力的认可会让她更自信，比如说“你的分析真是太到位了，这真的帮了我们很多，我特别佩服你的细致！”这样她应该会觉得自己的贡献很重要吧？其实之前我可能夸奖得不够具体，你觉得这样的调整会让她更积极投入吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "对，结合未来期待确实能让她感到自己在长期合作中的重要性，比如说“以后我们可以多依靠你的分析能力，让计划更完善，你的帮助真的特别关键！”这样她应该会觉得自己是不可或缺的一部分吧？其实之前我可能没怎么主动表达这种期待，你觉得这样的调整会让她更愿意长期投入吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合未来期待确实能让她感到自己在长期合作中的重要性，比如说“以后我们可以多依靠你的分析能力，让计划更完善，你的帮助真的特别关键！”这样她应该会觉得自己是不可或缺的一部分吧？其实之前我可能没怎么主动表达这种期待，你觉得这样的调整会让她更愿意长期投入吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "对，结合具体合作方向会让她感到成长空间和挑战，比如说“我们可以一起解决更复杂的问题，我相信我们一定能做得很好！”这样她应该会觉得未来的合作更有意义吧？其实之前我可能没怎么提到这种具体方向，你觉得这样的调整会让她更期待我们的共同发展吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体合作方向会让她感到成长空间和挑战，比如说“我们可以一起解决更复杂的问题，我相信我们一定能做得很好！”这样她应该会觉得未来的合作更有意义吧？其实之前我可能没怎么提到这种具体方向，你觉得这样的调整会让她更期待我们的共同发展吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "对，结合共同目标确实能增强团队凝聚力，比如说“我们可以一起努力，把这个计划做到最好，我真的很期待我们的成果！”这样她应该会觉得我们的合作特别有价值吧？其实之前我可能没怎么强调共同目标，你觉得这样的调整会让她更有归属感吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合共同目标确实能增强团队凝聚力，比如说“我们可以一起努力，把这个计划做到最好，我真的很期待我们的成果！”这样她应该会觉得我们的合作特别有价值吧？其实之前我可能没怎么强调共同目标，你觉得这样的调整会让她更有归属感吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "对，加入情感连接会让她感到关系更亲密，比如说“和你一起努力真的让我特别有动力，我觉得我们一定能完成得很出色！”这样她应该会觉得我们的合作充满信任和支持吧？其实之前我可能表达情感连接得比较少，你觉得这样的调整会让我们的关系更紧密吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，加入情感连接会让她感到关系更亲密，比如说“和你一起努力真的让我特别有动力，我觉得我们一定能完成得很出色！”这样她应该会觉得我们的合作充满信任和支持吧？其实之前我可能表达情感连接得比较少，你觉得这样的调整会让我们的关系更紧密吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 67,
+    "content": "对，具体的感谢会让她感到被充分认可，比如说“真的很感谢你的付出，每一步都有你的支持，这让我特别安心！”这样她应该会觉得自己的贡献被重视吧？其实之前我可能表达感谢得不够细致，你觉得这样的调整会让她更愿意继续投入吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，具体的感谢会让她感到被充分认可，比如说“真的很感谢你的付出，每一步都有你的支持，这让我特别安心！”这样她应该会觉得自己的贡献被重视吧？其实之前我可能表达感谢得不够细致，你觉得这样的调整会让她更愿意继续投入吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 68,
+    "content": "对，结合未来的希望会让她感到我的长远期待，比如说“我特别期待我们继续合作，一起完成更多目标，你的支持真的让我很有信心！”这样她应该会觉得我们的关系更稳固吧？其实之前我可能没怎么主动提到长远希望，你觉得这样的调整会让她更认可我们的连接吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合未来的希望会让她感到我的长远期待，比如说“我特别期待我们继续合作，一起完成更多目标，你的支持真的让我很有信心！”这样她应该会觉得我们的关系更稳固吧？其实之前我可能没怎么主动提到长远希望，你觉得这样的调整会让她更认可我们的连接吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 69,
+    "content": "对，加入共同成长的愿景会让她感受到成长的意义，比如说“我们一起努力，不仅能完成目标，还能让彼此都变得更优秀，我真的很期待我们的进步！”这样她应该会觉得我们的合作特别有价值吧？其实之前我可能没怎么强调共同成长，你觉得这样的调整会让她更愿意投入情感和精力吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，加入共同成长的愿景会让她感受到成长的意义，比如说“我们一起努力，不仅能完成目标，还能让彼此都变得更优秀，我真的很期待我们的进步！”这样她应该会觉得我们的合作特别有价值吧？其实之前我可能没怎么强调共同成长，你觉得这样的调整会让她更愿意投入情感和精力吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 70,
+    "content": "对，加入具体行动计划会让愿景更可实现，比如说“我们可以定期分享心得，互相支持进步，我相信这样我们能成长得更快！”这样她应该会觉得我们的合作更有方向吧？其实之前我可能没怎么具体化行动计划，你觉得这样的调整会让她更期待和我一起努力吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，加入具体行动计划会让愿景更可实现，比如说“我们可以定期分享心得，互相支持进步，我相信这样我们能成长得更快！”这样她应该会觉得我们的合作更有方向吧？其实之前我可能没怎么具体化行动计划，你觉得这样的调整会让她更期待和我一起努力吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 71,
+    "content": "对，邀请她共同设定步骤会让她感到有主动权，比如说“我们可以一起决定分享的频率和内容，这样每次都会更有针对性！”这样她应该会觉得自己的意见很重要吧？其实之前我可能没怎么主动让她参与决策，你觉得这样的调整会让她更愿意投入吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，邀请她共同设定步骤会让她感到有主动权，比如说“我们可以一起决定分享的频率和内容，这样每次都会更有针对性！”这样她应该会觉得自己的意见很重要吧？其实之前我可能没怎么主动让她参与决策，你觉得这样的调整会让她更愿意投入吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 72,
+    "content": "对，表达对她的信任会让她感到被认可，比如说“我相信你的想法一定会让计划更完善，我真的很期待听到你的建议！”这样她应该会觉得自己的参与特别有意义吧？其实之前我可能表达信任得不够明确，你觉得这样的调整会让她更愿意主动分享吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，表达对她的信任会让她感到被认可，比如说“我相信你的想法一定会让计划更完善，我真的很期待听到你的建议！”这样她应该会觉得自己的参与特别有意义吧？其实之前我可能表达信任得不够明确，你觉得这样的调整会让她更愿意主动分享吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 73,
+    "content": "对，结合具体例子会让她感受到持续的认可，比如说“你之前的建议真的让我受益匪浅，我相信这次也一定会很棒，你的思路总是特别有启发！”这样她应该会觉得自己的能力被高度认可吧？其实之前我可能没怎么提到具体例子，你觉得这样的调整会让她更有信心吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体例子会让她感受到持续的认可，比如说“你之前的建议真的让我受益匪浅，我相信这次也一定会很棒，你的思路总是特别有启发！”这样她应该会觉得自己的能力被高度认可吧？其实之前我可能没怎么提到具体例子，你觉得这样的调整会让她更有信心吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 74,
+    "content": "对，展望未来的可能性会让她感到自己在计划中的重要性，比如说“有你的支持，我觉得我们以后可以尝试更有挑战性的目标，你真的让我特别有信心！”这样她应该会觉得我们的合作充满期待吧？其实之前我可能没怎么主动提到她在未来计划中的关键角色，你觉得这样的调整会让她更认可我们的关系吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，展望未来的可能性会让她感到自己在计划中的重要性，比如说“有你的支持，我觉得我们以后可以尝试更有挑战性的目标，你真的让我特别有信心！”这样她应该会觉得我们的合作充满期待吧？其实之前我可能没怎么主动提到她在未来计划中的关键角色，你觉得这样的调整会让她更认可我们的关系吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 75,
+    "content": "对，结合具体的行动愿景确实能让未来合作更有意义，比如说“我们可以一起探索新的方法，让目标实现得更高效，我觉得我们的合作一定会越来越出色！”这样她应该会觉得我们的计划特别有方向吧？其实之前我可能愿景表达得不够具体，你觉得这样的调整会让她更期待和我一起规划吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体的行动愿景确实能让未来合作更有意义，比如说“我们可以一起探索新的方法，让目标实现得更高效，我觉得我们的合作一定会越来越出色！”这样她应该会觉得我们的计划特别有方向吧？其实之前我可能愿景表达得不够具体，你觉得这样的调整会让她更期待和我一起规划吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 76,
+    "content": "对，结合对她能力的认可会让她感到自己的贡献不可或缺，比如说“你的分析能力会让我们的探索更高效，我真的很感谢有你这样的支持！”这样她应该会觉得自己在计划中非常重要吧？其实之前我可能没怎么强调她的独特优势，你觉得这样的调整会让她更愿意主动承担责任吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合对她能力的认可会让她感到自己的贡献不可或缺，比如说“你的分析能力会让我们的探索更高效，我真的很感谢有你这样的支持！”这样她应该会觉得自己在计划中非常重要吧？其实之前我可能没怎么强调她的独特优势，你觉得这样的调整会让她更愿意主动承担责任吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 77,
+    "content": "对，结合具体任务会让她感到角色更明确，比如说“这部分如果由你负责，一定会特别出色，我对你的能力特别有信心！”这样她应该会觉得自己的贡献是不可替代的吧？其实之前我可能没怎么明确她的具体任务，你觉得这样的调整会让她更主动参与吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体任务会让她感到角色更明确，比如说“这部分如果由你负责，一定会特别出色，我对你的能力特别有信心！”这样她应该会觉得自己的贡献是不可替代的吧？其实之前我可能没怎么明确她的具体任务，你觉得这样的调整会让她更主动参与吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 78,
+    "content": "对，邀请她提出自己的想法会让她感到有更多自主权，比如说“你觉得还有哪些部分是你可以发挥优势的？我特别期待听到你的建议！”这样她应该会觉得自己的意见很重要吧？其实之前我可能分配任务时比较主导，没注意给她更多空间，你觉得这样的调整会让她更愿意表达吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，邀请她提出自己的想法会让她感到有更多自主权，比如说“你觉得还有哪些部分是你可以发挥优势的？我特别期待听到你的建议！”这样她应该会觉得自己的意见很重要吧？其实之前我可能分配任务时比较主导，没注意给她更多空间，你觉得这样的调整会让她更愿意表达吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 79,
+    "content": "对，适时回应会让她感到自己的建议被采纳，比如说“这个思路真的很好，我们可以试着这样做，我觉得一定会有不错的效果！”这样她应该会觉得自己的参与特别有意义吧？其实之前我可能反馈得不够及时，你觉得这样的调整会让我们的互动更顺畅吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，适时回应会让她感到自己的建议被采纳，比如说“这个思路真的很好，我们可以试着这样做，我觉得一定会有不错的效果！”这样她应该会觉得自己的参与特别有意义吧？其实之前我可能反馈得不够及时，你觉得这样的调整会让我们的互动更顺畅吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 80,
+    "content": "对，结合鼓励会让她感到自己的贡献被充分认可，比如说“你的想法总是让我很有启发，我们一起努力一定能成功，我特别感谢你的支持！”这样她应该会觉得自己的参与是不可或缺的吧？其实之前我可能鼓励得不够具体，你觉得这样的调整会让她更有动力继续分享吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合鼓励会让她感到自己的贡献被充分认可，比如说“你的想法总是让我很有启发，我们一起努力一定能成功，我特别感谢你的支持！”这样她应该会觉得自己的参与是不可或缺的吧？其实之前我可能鼓励得不够具体，你觉得这样的调整会让她更有动力继续分享吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 81,
+    "content": "对，展望未来合作的可能性确实能让她感到成长空间和挑战，比如说“以后我们可以一起尝试更复杂的项目，我相信有你的支持我们一定能成功！”这样她应该会觉得我们的关系充满期待吧？其实之前我可能没怎么主动提到未来挑战，你觉得这样的调整会让她更愿意和我一起努力吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，展望未来合作的可能性确实能让她感到成长空间和挑战，比如说“以后我们可以一起尝试更复杂的项目，我相信有你的支持我们一定能成功！”这样她应该会觉得我们的关系充满期待吧？其实之前我可能没怎么主动提到未来挑战，你觉得这样的调整会让她更愿意和我一起努力吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 82,
+    "content": "对，结合具体例子能让她感受到你们合作的成功经验，比如说“像上次我们解决那个问题一样，我们一定能做得更好，我真的很相信我们的团队！”这样她应该会觉得我们的合作特别有成效吧？其实之前我可能没怎么提到过去的成功经验，你觉得这样的调整会让她更期待未来的合作吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体例子能让她感受到你们合作的成功经验，比如说“像上次我们解决那个问题一样，我们一定能做得更好，我真的很相信我们的团队！”这样她应该会觉得我们的合作特别有成效吧？其实之前我可能没怎么提到过去的成功经验，你觉得这样的调整会让她更期待未来的合作吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 83,
+    "content": "对，表达感谢会让她感到自己的贡献被高度认可，比如说“多亏了你的细致分析，我们才能解决得这么顺利，你真的帮了我很多！”这样她应该会觉得自己的能力特别重要吧？其实之前我可能感谢得不够具体，你觉得这样的调整会让她更愿意继续投入吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，表达感谢会让她感到自己的贡献被高度认可，比如说“多亏了你的细致分析，我们才能解决得这么顺利，你真的帮了我很多！”这样她应该会觉得自己的能力特别重要吧？其实之前我可能感谢得不够具体，你觉得这样的调整会让她更愿意继续投入吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 84,
+    "content": "对，结合未来的期待会让她感受到我对长期合作的重视，比如说“我真的很期待我们能继续一起解决更多问题，有你在我特别有信心！”这样她应该会觉得我们的关系特别稳固吧？其实之前我可能没怎么强调长期合作的意义，你觉得这样的调整会让她更愿意和我一起规划未来吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合未来的期待会让她感受到我对长期合作的重视，比如说“我真的很期待我们能继续一起解决更多问题，有你在我特别有信心！”这样她应该会觉得我们的关系特别稳固吧？其实之前我可能没怎么强调长期合作的意义，你觉得这样的调整会让她更愿意和我一起规划未来吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 85,
+    "content": "对，结合共同成长的愿景会让她感受到成长的价值，比如说“我们一起努力，不仅能完成目标，还能让彼此都变得更优秀，我真的很期待我们的进步！”这样她应该会觉得我们的合作充满意义吧？其实之前我可能没怎么提到成长的价值，你觉得这样的调整会让她更愿意长期投入吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合共同成长的愿景会让她感受到成长的价值，比如说“我们一起努力，不仅能完成目标，还能让彼此都变得更优秀，我真的很期待我们的进步！”这样她应该会觉得我们的合作充满意义吧？其实之前我可能没怎么提到成长的价值，你觉得这样的调整会让她更愿意长期投入吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 86,
+    "content": "对，结合具体的行动计划会让成长更可实现，比如说“我们可以定期分享心得，一起总结经验，这样每一步都能让我们更进步！”这样她应该会觉得我们的合作特别有方向吧？其实之前我可能没怎么具体化成长的计划，你觉得这样的调整会让她更期待和我一起努力吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体的行动计划会让成长更可实现，比如说“我们可以定期分享心得，一起总结经验，这样每一步都能让我们更进步！”这样她应该会觉得我们的合作特别有方向吧？其实之前我可能没怎么具体化成长的计划，你觉得这样的调整会让她更期待和我一起努力吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 87,
+    "content": "对，邀请她共同制定细节会让她感到有主动权，比如说“你觉得我们可以从哪些方面开始总结？你的建议一定会让计划更完善！”这样她应该会觉得自己的意见特别重要吧？其实之前我可能没怎么主动让她参与细节制定，你觉得这样的调整会让她更愿意投入规划吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，邀请她共同制定细节会让她感到有主动权，比如说“你觉得我们可以从哪些方面开始总结？你的建议一定会让计划更完善！”这样她应该会觉得自己的意见特别重要吧？其实之前我可能没怎么主动让她参与细节制定，你觉得这样的调整会让她更愿意投入规划吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 88,
+    "content": "对，适时认可她的贡献会让她感到自己的意见被重视，比如说“这个建议太有帮助了，我们可以马上试试，我真的很感谢你的思路！”这样她应该会觉得自己的参与特别有意义吧？其实之前我可能认可得不够及时，你觉得这样的调整会让我们的互动更顺畅吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，适时认可她的贡献会让她感到自己的意见被重视，比如说“这个建议太有帮助了，我们可以马上试试，我真的很感谢你的思路！”这样她应该会觉得自己的参与特别有意义吧？其实之前我可能认可得不够及时，你觉得这样的调整会让我们的互动更顺畅吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 89,
+    "content": "对，结合未来愿景会让她感到我对长期合作的期待，比如说“有你的帮助，我相信我们以后能做得越来越好，我真的很期待我们的进步！”这样她应该会觉得我们的关系特别稳固吧？其实之前我可能没怎么主动提到这样的愿景，你觉得这样的调整会让她更愿意和我长期合作吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合未来愿景会让她感到我对长期合作的期待，比如说“有你的帮助，我相信我们以后能做得越来越好，我真的很期待我们的进步！”这样她应该会觉得我们的关系特别稳固吧？其实之前我可能没怎么主动提到这样的愿景，你觉得这样的调整会让她更愿意和我长期合作吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 90,
+    "content": "对，结合具体成长目标会让她感到未来充满机会，比如说“我们可以一起挑战更大的项目，让自己不断进步，我真的很期待看到我们的成长！”这样她应该会觉得未来的合作特别有意义吧？其实之前我可能没怎么强调具体目标，你觉得这样的调整会让她更期待和我一起探索新的可能性吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体成长目标会让她感到未来充满机会，比如说“我们可以一起挑战更大的项目，让自己不断进步，我真的很期待看到我们的成长！”这样她应该会觉得未来的合作特别有意义吧？其实之前我可能没怎么强调具体目标，你觉得这样的调整会让她更期待和我一起探索新的可能性吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 91,
+    "content": "对，结合她擅长的领域会让她感到自己的独特价值，比如说“你的条理性一定能让这些挑战变得更高效，我真的很佩服你的能力！”这样她应该会觉得自己是计划中不可或缺的一部分吧？其实之前我可能没怎么突出她的优势，你觉得这样的调整会让她更有信心参与吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合她擅长的领域会让她感到自己的独特价值，比如说“你的条理性一定能让这些挑战变得更高效，我真的很佩服你的能力！”这样她应该会觉得自己是计划中不可或缺的一部分吧？其实之前我可能没怎么突出她的优势，你觉得这样的调整会让她更有信心参与吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 92,
+    "content": "对，结合具体期待会让她感到我的信任和期待，比如说“我特别期待看到你在这个领域的表现，我相信你一定会做得特别出色！”这样她应该会觉得自己的能力被高度认可吧？其实之前我可能表达期待得不够具体，你觉得这样的调整会让她更愿意主动承担责任吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体期待会让她感到我的信任和期待，比如说“我特别期待看到你在这个领域的表现，我相信你一定会做得特别出色！”这样她应该会觉得自己的能力被高度认可吧？其实之前我可能表达期待得不够具体，你觉得这样的调整会让她更愿意主动承担责任吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 93,
+    "content": "对，结合对她能力的鼓励会让她更有动力，比如说“你之前的成果已经证明了你的实力，这次一定也没问题，我真的特别相信你！”这样她应该会觉得自己在计划中非常重要吧？其实之前我可能鼓励得不够具体，你觉得这样的调整会让她更积极投入吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合对她能力的鼓励会让她更有动力，比如说“你之前的成果已经证明了你的实力，这次一定也没问题，我真的特别相信你！”这样她应该会觉得自己在计划中非常重要吧？其实之前我可能鼓励得不够具体，你觉得这样的调整会让她更积极投入吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 94,
+    "content": "对，邀请她分享想法会让她感到自己的观点被重视，比如说“你有什么特别的思路吗？我特别期待听到你的建议，你的想法总是让我很有启发！”这样她应该会觉得自己的参与特别有意义吧？其实之前我可能没怎么主动邀请她分享，你觉得这样的调整会让我们的互动更顺畅吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，邀请她分享想法会让她感到自己的观点被重视，比如说“你有什么特别的思路吗？我特别期待听到你的建议，你的想法总是让我很有启发！”这样她应该会觉得自己的参与特别有意义吧？其实之前我可能没怎么主动邀请她分享，你觉得这样的调整会让我们的互动更顺畅吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 95,
+    "content": "对，适时表达认可会让她感到自己的想法被采纳，比如说“这个建议真的很棒，我们可以试着这样做，我觉得一定会有好效果！”这样她应该会觉得自己的意见特别有价值吧？其实之前我可能认可得不够及时，你觉得这样的调整会让她更愿意继续分享吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，适时表达认可会让她感到自己的想法被采纳，比如说“这个建议真的很棒，我们可以试着这样做，我觉得一定会有好效果！”这样她应该会觉得自己的意见特别有价值吧？其实之前我可能认可得不够及时，你觉得这样的调整会让她更愿意继续分享吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 96,
+    "content": "对，结合具体行动计划会让她感到建议有实际意义，比如说“我们可以马上试试这个方法，看效果怎么样，我觉得一定会有不错的结果！”这样她应该会觉得自己的贡献非常重要吧？其实之前我可能行动跟进得不够及时，你觉得这样的调整会让她更有参与感吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体行动计划会让她感到建议有实际意义，比如说“我们可以马上试试这个方法，看效果怎么样，我觉得一定会有不错的结果！”这样她应该会觉得自己的贡献非常重要吧？其实之前我可能行动跟进得不够及时，你觉得这样的调整会让她更有参与感吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 97,
+    "content": "对，及时反馈进展会让她感到自己的建议带来了实际价值，比如说“按照你的建议调整后，效果真的很好，我特别感谢你的帮助！”这样她应该会觉得自己的参与特别有意义吧？其实之前我可能反馈得不够具体，你觉得这样的调整会让她更愿意继续提供支持吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，及时反馈进展会让她感到自己的建议带来了实际价值，比如说“按照你的建议调整后，效果真的很好，我特别感谢你的帮助！”这样她应该会觉得自己的参与特别有意义吧？其实之前我可能反馈得不够具体，你觉得这样的调整会让她更愿意继续提供支持吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 98,
+    "content": "对，结合未来的期待会让她感到合作具有长远意义，比如说“有你的支持，我相信我们能解决更多问题，我真的很期待我们的下一步！”这样她应该会觉得我们的关系特别稳固吧？其实之前我可能没怎么主动表达这种期待，你觉得这样的调整会让她更认可我们的合作吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合未来的期待会让她感到合作具有长远意义，比如说“有你的支持，我相信我们能解决更多问题，我真的很期待我们的下一步！”这样她应该会觉得我们的关系特别稳固吧？其实之前我可能没怎么主动表达这种期待，你觉得这样的调整会让她更认可我们的合作吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 99,
+    "content": "对，结合具体愿景会让她感到合作促进成长，比如说“我们可以一起挑战更复杂的目标，让彼此都不断成长，我真的很期待看到我们的进步！”这样她应该会觉得未来的合作充满意义吧？其实之前我可能愿景表达得不够具体，你觉得这样的调整会让她更愿意和我一起努力吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，结合具体愿景会让她感到合作促进成长，比如说“我们可以一起挑战更复杂的目标，让彼此都不断成长，我真的很期待看到我们的进步！”这样她应该会觉得未来的合作充满意义吧？其实之前我可能愿景表达得不够具体，你觉得这样的调整会让她更愿意和我一起努力吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 100,
+    "content": "我觉得我们今天确实聊了很多，而且内容很深入，感觉可以先到这里。我也需要一些时间来整理和消化这些想法，下次再接着这个话题聊可能会更好。你觉得怎么样？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得我们今天确实聊了很多，而且内容很深入，感觉可以先到这里",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 101,
+    "content": "好的，谢谢你的耐心和引导！今天的交流让我觉得思路更清晰了，我会好好整理这些内容。期待下次继续聊，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，谢谢你的耐心和引导！今天的交流让我觉得思路更清晰了，我会好好整理这些内容",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

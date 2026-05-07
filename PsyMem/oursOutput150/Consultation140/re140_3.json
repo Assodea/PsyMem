@@ -1,0 +1,722 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯…其实最近工作上压力还是挺大的，尤其是月底要交报表，总觉得时间不够用。有时候被主管指出小错误，我会特别紧张，甚至晚上都睡不好。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯…其实最近工作上压力还是挺大的，尤其是月底要交报表，总觉得时间不够用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "主要还是被主管指出问题的时候吧，尤其是当着同事的面。那种感觉就像所有人都在盯着我，让我很不自在，心跳都会加快…",
+    "has_specific_detail": true,
+    "specific_detail": "主要还是被主管指出问题的时候吧，尤其是当着同事的面",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "当时我一般会低着头赶紧道歉，然后默默改正，尽量不让别人注意到我。事后可能会反复想那个场景，总担心自己是不是让别人觉得不专业…",
+    "has_specific_detail": true,
+    "specific_detail": "当时我一般会低着头赶紧道歉，然后默默改正，尽量不让别人注意到我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "应该是更害怕被别人评价吧，总觉得自己一旦出错就会被贴上“不够专业”的标签，尤其在同事面前，好像更在意他们的看法…",
+    "has_specific_detail": true,
+    "specific_detail": "应该是更害怕被别人评价吧，总觉得自己一旦出错就会被贴上“不够专业”的标签，尤其在同事面前，好像更在意他们的看法…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "嗯，可能是吧。以前上学的时候，老师在课堂上批评过我一次，那次让我觉得特别丢人，后来就变得很怕在别人面前出错了…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能是吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "有的，那之后我变得特别小心，总是提前检查好多遍作业，生怕被再批评。后来也总会留意老师或者同学的表情，试图猜他们是不是对我不满意…",
+    "has_specific_detail": true,
+    "specific_detail": "有的，那之后我变得特别小心，总是提前检查好多遍作业，生怕被再批评",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 7,
+    "content": "是的，这种习惯让我对每件事都特别在意细节，有时候会花太多时间检查，生怕有纰漏。结果反而觉得时间不够，更焦虑了…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种习惯让我对每件事都特别在意细节，有时候会花太多时间检查，生怕有纰漏",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "可能两者都有吧。一方面是想证明自己能做好，另一方面也怕别人觉得我不够好，尤其在主管面前，总希望表现得更专业一些…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "应该是收到正面反馈的时候吧，那种被认可的感觉能让我稍微放松一些，会觉得之前的努力是值得的。但完成任务本身好像并不能让我完全放下心…",
+    "has_specific_detail": true,
+    "specific_detail": "应该是收到正面反馈的时候吧，那种被认可的感觉能让我稍微放松一些，会觉得之前的努力是值得的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能有关系吧，小时候妈妈总会表扬我的好成绩，那种被夸奖的感觉很让我满足。但如果做得不好，她虽然不会责备，但我会觉得好像让她失望了…",
+    "has_specific_detail": true,
+    "specific_detail": "可能有关系吧，小时候妈妈总会表扬我的好成绩，那种被夸奖的感觉很让我满足",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "是的，我会特别希望领导和同事对我满意，总觉得只有表现好才能赢得他们的认可。如果感觉没做到，就会特别自责和不安…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我会特别希望领导和同事对我满意，总觉得只有表现好才能赢得他们的认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "更多是担心失去别人的信任吧，尤其是领导和同事的信任。如果他们觉得我不够好，我会觉得自己没办法融入团队，也会很沮丧…",
+    "has_specific_detail": true,
+    "specific_detail": "更多是担心失去别人的信任吧，尤其是领导和同事的信任",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "有的，比如完成一个团队项目时，大家对我的贡献表示肯定，那种时候会觉得自己是被需要的，也能暂时放下对能力的怀疑…",
+    "has_specific_detail": true,
+    "specific_detail": "有的，比如完成一个团队项目时，大家对我的贡献表示肯定，那种时候会觉得自己是被需要的，也能暂时放下对能力的怀疑…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "可能可以吧，但我好像不太擅长主动展示自己，总觉得怕别人觉得我是在“抢风头”。不过如果有明确的任务分工，我会愿意多承担一些来证明自己…",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以吧，但我好像不太擅长主动展示自己，总觉得怕别人觉得我是在“抢风头”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "或许在完成任务后，主动汇报一下自己的进展和成果会比较自然吧？这样既能让大家知道我的贡献，也不会显得太刻意…你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "或许在完成任务后，主动汇报一下自己的进展和成果会比较自然吧？这样既能让大家知道我的贡献，也不会显得太刻意…你觉得呢？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得可能是解决问题的思路吧，我在工作中比较注重逻辑性，喜欢把复杂的事情拆解清楚。如果能在汇报时突出这一点，应该会更有说服力吧？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是解决问题的思路吧，我在工作中比较注重逻辑性，喜欢把复杂的事情拆解清楚",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "用图表可能会更直观一些吧，尤其是数字分析的部分，这样大家一眼就能看出结果和过程。不过如果是复杂的问题，可能还需要简单讲解一下背景和我的思路…你觉得这样清晰吗？",
+    "has_specific_detail": true,
+    "specific_detail": "用图表可能会更直观一些吧，尤其是数字分析的部分，这样大家一眼就能看出结果和过程",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，这确实是个好建议，提前沟通能让我更明确他们关注的重点，也能减少我准备时的无效努力。我觉得这样能让我更有方向感，也少些紧张…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这确实是个好建议，提前沟通能让我更明确他们关注的重点，也能减少我准备时的无效努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我可能更倾向于通过邮件交流，这样可以有时间组织语言，也不用面对面那么紧张。而且还能留个记录，方便后续参考…你觉得这样合适吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我可能更倾向于通过邮件交流，这样可以有时间组织语言，也不用面对面那么紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我可能会直接列出要点，比如我准备的内容框架或者想法，然后问对方有没有其他补充或者调整意见。这样既清晰也能显得有条理…你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会直接列出要点，比如我准备的内容框架或者想法，然后问对方有没有其他补充或者调整意见",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我可能会用一些礼貌但不失主动的语气，比如“以下是我的初步思路，欢迎您提出建议”或者“希望能更好地匹配团队需求，期待您的反馈”。这样既体现专业，也表达了合作的态度…你觉得合适吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会用一些礼貌但不失主动的语气，比如“以下是我的初步思路，欢迎您提出建议”或者“希望能更好地匹配团队需求，期待您的反馈”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "是的，我确实会有点担心对方的反馈，特别是如果指出很多问题，我可能会觉得自己不够好。但也知道这是改进的机会，只是情绪上需要适应一下…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实会有点担心对方的反馈，特别是如果指出很多问题，我可能会觉得自己不够好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "可能先给自己一些时间消化会更好吧，这样能缓解情绪，然后再逐条分析问题，找到改进的方向。这样处理起来应该会更理性，也不会那么慌乱…你觉得这个方法行吗？",
+    "has_specific_detail": true,
+    "specific_detail": "可能先给自己一些时间消化会更好吧，这样能缓解情绪，然后再逐条分析问题，找到改进的方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "可能可以先把反馈中的问题按轻重缓急列个清单吧，这样能让我更有条理地处理。而且从简单的开始解决，可能会让我逐渐建立信心，不会觉得压力太大…你觉得这样有效吗？",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以先把反馈中的问题按轻重缓急列个清单吧，这样能让我更有条理地处理",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "寻求同事的建议确实是个好办法，尤其是对他们比较擅长的部分。我以前总觉得麻烦别人不好意思，但或许这样能让我事半功倍，还能增进同事间的关系…",
+    "has_specific_detail": true,
+    "specific_detail": "寻求同事的建议确实是个好办法，尤其是对他们比较擅长的部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "可能我会先试探性地问对方对某个问题有没有经验，比如“这个部分你之前做过吗？能不能给点建议？”这样既显得尊重，也不会太唐突…你觉得这样会更合适吗？",
+    "has_specific_detail": true,
+    "specific_detail": "可能我会先试探性地问对方对某个问题有没有经验，比如“这个部分你之前做过吗？能不能给点建议？”这样既显得尊重，也不会太唐突…你觉得这样会更合适吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得可以在问题解决后主动告诉对方结果，并感谢他们的帮助，比如“按照你的建议，我调整后效果好多了，谢谢你的支持！”这样既能表达感谢，也让对方知道他们的建议有用…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以在问题解决后主动告诉对方结果，并感谢他们的帮助，比如“按照你的建议，我调整后效果好多了，谢谢你的支持！”这样既能表达感谢，也让对方知道他们的建议有用…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "是的，我觉得这样不仅能表达感激，还能让对方觉得被重视，可能也会更愿意跟我合作。或许通过这样的互动，我在团队中会逐渐感到更被接纳吧…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得这样不仅能表达感激，还能让对方觉得被重视，可能也会更愿意跟我合作",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "可能会吧，尤其是涉及到分歧或冲突的时候，我总觉得很难直接表达自己的想法，怕引起不必要的矛盾。所以更复杂的合作可能会让我有点压力…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，尤其是涉及到分歧或冲突的时候，我总觉得很难直接表达自己的想法，怕引起不必要的矛盾",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得可以先试探性地问对方的想法，比如“你觉得这样处理可行吗？”然后再补充自己的建议，这样语气会比较中立，也更容易被接受…你觉得这样合适吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先试探性地问对方的想法，比如“你觉得这样处理可行吗？”然后再补充自己的建议，这样语气会比较中立，也更容易被接受…你觉得这样合适吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "如果对方态度不明确，我可能会再引导一下，比如“我在考虑这样调整，会不会更符合需求？”这样既表明我的想法，也能继续推动讨论…你觉得这样的方式有效吗？",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方态度不明确，我可能会再引导一下，比如“我在考虑这样调整，会不会更符合需求？”这样既表明我的想法，也能继续推动讨论…你觉得这样的方式有效吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我觉得可以在讨论结束时总结一下共识，比如“那我们就按照刚才讨论的方向来推进吧，谢谢你的建议，真的很有帮助！”这样既明确了成果，也能增进彼此的合作感…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以在讨论结束时总结一下共识，比如“那我们就按照刚才讨论的方向来推进吧，谢谢你的建议，真的很有帮助！”这样既明确了成果，也能增进彼此的合作感…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "是的，我觉得如果能习惯这样的方法，可能会让我更自然地表达想法，也不再那么害怕被评价。或许慢慢地，我在团队中会更有信心、更融入一些吧…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得如果能习惯这样的方法，可能会让我更自然地表达想法，也不再那么害怕被评价",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "可能可以从一些小的、非正式的讨论开始，比如和同事聊某个简单的工作细节。这样压力不会太大，也能让我慢慢适应更开放的交流方式…你觉得这合适吗？",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以从一些小的、非正式的讨论开始，比如和同事聊某个简单的工作细节",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我觉得从共同完成的任务开始可能会更自然，比如问一些他们的做法或建议。这样既能交流工作内容，又能避免让我觉得话题太突兀…你觉得这样可以吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得从共同完成的任务开始可能会更自然，比如问一些他们的做法或建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "可能用轻松的语气更适合我，比如开头可以说“这个问题我有点拿不准，你怎么看？”这样会显得随和一些，也让我没那么紧张…你觉得这样怎么样？",
+    "has_specific_detail": true,
+    "specific_detail": "可能用轻松的语气更适合我，比如开头可以说“这个问题我有点拿不准，你怎么看？”这样会显得随和一些，也让我没那么紧张…你觉得这样怎么样？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得可以试着记录下让我感到轻松的表达方式，比如哪些语气或者开场让对方反应更积极。这样可以帮助我总结经验，下次也会更有信心…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着记录下让我感到轻松的表达方式，比如哪些语气或者开场让对方反应更积极",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "是的，我觉得通过不断尝试和总结，可能会让我慢慢找到适合自己的沟通方式。这样在团队中应该能更自在，也不再那么害怕表达自己了…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得通过不断尝试和总结，可能会让我慢慢找到适合自己的沟通方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "可能当我开始更自然地主动提出建议，并且不再过分担心别人怎么看时，就能感觉到自己的变化了吧。那种轻松的感觉，应该是个很好的标志…",
+    "has_specific_detail": true,
+    "specific_detail": "可能当我开始更自然地主动提出建议，并且不再过分担心别人怎么看时，就能感觉到自己的变化了吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "嗯，我觉得会吧。如果能感受到这些变化，可能会让我更相信自己的能力，也会更愿意认可自己的付出和进步，那种感觉应该挺好的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得会吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我觉得定期回顾自己的成长会是个好方法，比如每个月记录一些自己做得不错的事情。或者跟信任的人聊聊这些进步，也能让我感受到更多支持和鼓励…你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得定期回顾自己的成长会是个好方法，比如每个月记录一些自己做得不错的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "我可能更倾向于用文字记录，比如写在笔记本或者手机备忘录里。这样可以随时回头看看自己的进步，也会有一种更直观的满足感…你觉得这个方式怎么样？",
+    "has_specific_detail": true,
+    "specific_detail": "我可能更倾向于用文字记录，比如写在笔记本或者手机备忘录里",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "我觉得可以关注两方面，一是具体成果，比如完成了一个复杂的任务；二是情绪上的突破，比如不再因为被指出问题而过度紧张。这样记录会更全面吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以关注两方面，一是具体成果，比如完成了一个复杂的任务；二是情绪上的突破，比如不再因为被指出问题而过度紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "设定阶段性目标是个好主意，比如每个月给自己一个小目标，然后对比起点和现在的变化。看到自己的进步，应该会更有动力继续努力…你觉得这样行得通吗？",
+    "has_specific_detail": true,
+    "specific_detail": "设定阶段性目标是个好主意，比如每个月给自己一个小目标，然后对比起点和现在的变化",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "我觉得可以先尝试在团队中更主动表达一次，比如在会议上提出一个改进建议。这对我来说是个挑战，但如果能做到，应该会很有成就感…你觉得这个目标合适吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先尝试在团队中更主动表达一次，比如在会议上提出一个改进建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "嗯，我觉得提前梳理建议内容会很有帮助，比如列出要点和支持的理由。然后可以在脑海中模拟一下表达的场景，这样到时候就不会那么慌乱了…你觉得这样准备够充分吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得提前梳理建议内容会很有帮助，比如列出要点和支持的理由",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "我觉得先用简短开头会让我更自信，比如“我有个小想法，大家可以参考一下”。这样能缓解紧张，然后再关注团队的反应，可能会更自然一些…你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得先用简短开头会让我更自信，比如“我有个小想法，大家可以参考一下”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "如果团队采纳了我的建议，那种被认可的感觉一定特别鼓舞人心。不过即使只是有人对我的想法表示赞同，也会让我觉得很开心，觉得自己的努力是有意义的…",
+    "has_specific_detail": true,
+    "specific_detail": "如果团队采纳了我的建议，那种被认可的感觉一定特别鼓舞人心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "我觉得可以简单用关键词总结，比如“团队采纳建议”“获得赞同”“感觉被认可”等。这样记录起来方便，也能快速回顾当时的积极感受…你觉得这种方式会有效吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以简单用关键词总结，比如“团队采纳建议”“获得赞同”“感觉被认可”等",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "是的，我觉得如果能坚持记录这些积极的时刻，可能会让我越来越相信自己的能力。面对挑战时也会更有底气，甚至愿意去尝试更多主动表达的机会…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得如果能坚持记录这些积极的时刻，可能会让我越来越相信自己的能力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "或许可以尝试主动参与一次跨部门合作，这对我来说是个全新的挑战。我觉得如果能顺利完成，不仅能提升能力，还能扩大自己的人际圈子…你觉得这个目标怎么样？",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以尝试主动参与一次跨部门合作，这对我来说是个全新的挑战",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "是的，我觉得可以提前了解合作部门的工作流程和重点，这样交流起来更顺畅。再试着和关键人员建立联系，比如先打个招呼或者简单介绍自己的想法…你觉得这样准备够全面吗？",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可以提前了解合作部门的工作流程和重点，这样交流起来更顺畅",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "我觉得定期回顾进展是个好办法，这样能让我看到自己完成的部分，增强信心。如果能主动提出一些解决方案，可能也会让我觉得更有掌控感和参与感…你觉得这样可行吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得定期回顾进展是个好办法，这样能让我看到自己完成的部分，增强信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "我觉得可以记录下学到的经验，比如哪些沟通方式更有效。同时也可以向团队表达感谢，比如感谢他们的支持和配合，这样不仅总结了自己，也增进了团队关系…你觉得这样总结够全面吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以记录下学到的经验，比如哪些沟通方式更有效",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "是的，我觉得如果能持续这样尝试，可能会让我对自己的能力更有信心，对未来的工作也会更期待。或许慢慢地，我能更自在地面对各种挑战吧…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得如果能持续这样尝试，可能会让我对自己的能力更有信心，对未来的工作也会更期待",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

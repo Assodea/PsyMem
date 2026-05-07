@@ -1,0 +1,1316 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，我尝试了一下写情绪记录，但好像没什么效果，写着写着就觉得更烦躁了。有时候看着那些字，会让我觉得自己特别矫情…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我尝试了一下写情绪记录，但好像没什么效果，写着写着就觉得更烦躁了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "有时候会直接撕掉记录，觉得它们没什么意义，反而更添堵。然后可能会开一瓶酒，想让自己稍微放松一下…但也只是暂时的。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候会直接撕掉记录，觉得它们没什么意义，反而更添堵",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，我会觉得它们有时候像突然冒出来的东西，没办法控制。我也常想，是不是因为之前的那些事——比如从小没人真正关心我的情绪，才让我现在这么容易崩溃…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我会觉得它们有时候像突然冒出来的东西，没办法控制",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "有时会想起小时候哭的时候，爸妈总是说“别闹了”或者“没什么大不了的”，然后就走开了。现在想想，那种被丢下的感觉好像还在…",
+    "has_specific_detail": true,
+    "specific_detail": "有时会想起小时候哭的时候，爸妈总是说“别闹了”或者“没什么大不了的”，然后就走开了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是啊，我总希望对方能主动察觉我的情绪，而不是让我自己说出来。但每次期待落空的时候，就会更生气或者更难过，觉得是不是又没人真的在乎我…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我总希望对方能主动察觉我的情绪，而不是让我自己说出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "一般我会忍着，但忍到一定程度就忍不住了，可能会突然发脾气或者大哭。这样反而让对方觉得莫名其妙，好像也没办法真正理解我…",
+    "has_specific_detail": true,
+    "specific_detail": "一般我会忍着，但忍到一定程度就忍不住了，可能会突然发脾气或者大哭",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是的，情绪爆发后对方的不理解会让我更孤独，觉得自己在努力寻求关注却没被看见。我也试过提前深呼吸或者写点东西，但那些方法好像不太管用…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，情绪爆发后对方的不理解会让我更孤独，觉得自己在努力寻求关注却没被看见",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "我想如果对方能主动问我“你怎么了？”或者在我情绪低落时陪着我，不用说太多，就静静待在旁边，可能会让我觉得好很多。小时候我从没体验过这种被关心的感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "我想如果对方能主动问我“你怎么了？”或者在我情绪低落时陪着我，不用说太多，就静静待在旁边，可能会让我觉得好很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "好像从没完全实现过，我也很少直接说“我需要你陪着我”，总觉得说出来会显得很弱。我更多是通过情绪表现，期待对方能主动察觉，但往往会失望…",
+    "has_specific_detail": true,
+    "specific_detail": "好像从没完全实现过，我也很少直接说“我需要你陪着我”，总觉得说出来会显得很弱",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能是两者都有吧。一方面怕对方觉得我很烦，拒绝我；另一方面也担心如果表现得太需要他们，会显得自己特别弱小，像小时候没人关心时的那种感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得对方可能会觉得有些突然，不一定能完全理解，但我最希望的是，他们能认真听我说，然后告诉我“你的感受是重要的，我在这里陪你”。这种话我从来没听过…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得对方可能会觉得有些突然，不一定能完全理解，但我最希望的是，他们能认真听我说，然后告诉我“你的感受是重要的，我在这里陪你”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我希望对方是耐心的，不会轻易打断我，也不会觉得我的情绪“麻烦”。如果他们能用温和的语气回应我，我可能会觉得更容易打开自己…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望对方是耐心的，不会轻易打断我，也不会觉得我的情绪“麻烦”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "仔细想想，好像很难找到特别符合这些特点的人。朋友里有一个性格比较稳重的女生，但我一直没太敢和她聊这些，怕她会觉得我太情绪化…",
+    "has_specific_detail": true,
+    "specific_detail": "仔细想想，好像很难找到特别符合这些特点的人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "也许她会耐心听吧，但我总担心聊到一半自己情绪失控，会让她觉得尴尬或者压力大。其实我也想过该怎么开头，结果每次都没敢说…",
+    "has_specific_detail": true,
+    "specific_detail": "也许她会耐心听吧，但我总担心聊到一半自己情绪失控，会让她觉得尴尬或者压力大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，也许可以先聊一些日常的小事，比如最近在做的日志，慢慢看看她的反应。如果她表现出兴趣和耐心，可能会让我觉得更安心，再试着说多一点…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，也许可以先聊一些日常的小事，比如最近在做的日志，慢慢看看她的反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "比如她会认真听我说，不急着打断，还会问一些细节或者说“这个听起来挺有趣的”。如果她能这样回应，我可能会觉得自己被关注到了，愿意继续聊下去…",
+    "has_specific_detail": true,
+    "specific_detail": "比如她会认真听我说，不急着打断，还会问一些细节或者说“这个听起来挺有趣的”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得可以先试着慢慢说，不急着把所有情绪都倒出来。如果能把一件小事说得清楚有条理，可能会让我自己也觉得更轻松一些，没那么压迫感。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先试着慢慢说，不急着把所有情绪都倒出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "提前想好要分享的小事，或者设定一个目标，比如只说一两句试探对方的反应，可能会让我感觉更有掌控感，也不至于一下子陷入太深的情绪里…",
+    "has_specific_detail": true,
+    "specific_detail": "提前想好要分享的小事，或者设定一个目标，比如只说一两句试探对方的反应，可能会让我感觉更有掌控感，也不至于一下子陷入太深的情绪里…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "可能会从日志的某个有趣细节开始，比如我最近画了一张特别丑的简笔画，但觉得它反而很有意思。如果以这种轻松的方式开头，我可能会感觉没那么紧张…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会从日志的某个有趣细节开始，比如我最近画了一张特别丑的简笔画，但觉得它反而很有意思",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "如果她反应积极，我可能会顺着说画画时的一些小情绪，比如“其实当时画这个是因为有点烦躁，想找点事让自己安静下来”，看看她会不会接着问我更多。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她反应积极，我可能会顺着说画画时的一些小情绪，比如“其实当时画这个是因为有点烦躁，想找点事让自己安静下来”，看看她会不会接着问我更多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "如果她问，我可能会说画画的时候其实心里有点乱，是因为最近一直觉得孤独，想找些事情分散注意力。再看看她的反应，决定要不要说更多…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她问，我可能会说画画的时候其实心里有点乱，是因为最近一直觉得孤独，想找些事情分散注意力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "如果她问，我可能会提到最近失恋后的感觉，比如有时候觉得空落落的，像被抽走了什么，但又不知道怎么填补。也许我会试着看看她对这种情绪的理解。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她问，我可能会提到最近失恋后的感觉，比如有时候觉得空落落的，像被抽走了什么，但又不知道怎么填补",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我会希望她能说些共情的话，比如“听起来你真的很难受，这种感觉很正常”，而不是直接给建议或让我“振作”。那样我可能会觉得她真的懂我。",
+    "has_specific_detail": true,
+    "specific_detail": "我会希望她能说些共情的话，比如“听起来你真的很难受，这种感觉很正常”，而不是直接给建议或让我“振作”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "如果她这样回应，我可能会愿意说更多，比如失恋后每天起床都觉得特别没劲，好像什么事都提不起兴趣，甚至会有点恨自己为什么没能好好处理那段关系。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她这样回应，我可能会愿意说更多，比如失恋后每天起床都觉得特别没劲，好像什么事都提不起兴趣，甚至会有点恨自己为什么没能好好处理那段关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得会有帮助，哪怕只是一起散个步或者随便聊点轻松的事情，可能都会让我感觉没那么孤单，情绪也能稍微平复一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会有帮助，哪怕只是一起散个步或者随便聊点轻松的事情，可能都会让我感觉没那么孤单，情绪也能稍微平复一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "比如她能在我说话的时候认真听，不看手机，或者偶尔点点头回应。还有像轻拍我的肩膀或者微笑一下，这些小动作都会让我觉得她是真的在意我。",
+    "has_specific_detail": true,
+    "specific_detail": "比如她能在我说话的时候认真听，不看手机，或者偶尔点点头回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "如果她表现得这么关心，我可能会说出自己对失恋的更多纠结，比如“是不是我哪里做得不够好，才让他离开”。这些想法平时我都藏着，怕别人觉得我太敏感。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她表现得这么关心，我可能会说出自己对失恋的更多纠结，比如“是不是我哪里做得不够好，才让他离开”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，这样的回应会让我觉得有人肯定了我的付出，而不是全盘否定我。也许我会更愿意接受这段关系结束的事实，而不是一味地责怪自己。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的回应会让我觉得有人肯定了我的付出，而不是全盘否定我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "可能会重新尝试一些让我感兴趣的事情，比如多画些有趣的插画，或者去学一门新的技能。这样可能会让我感觉生活又有点方向了。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会重新尝试一些让我感兴趣的事情，比如多画些有趣的插画，或者去学一门新的技能",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我对手工制作挺感兴趣的，比如尝试做一些小的木雕或者手工饰品。感觉动手创作的过程能让我专注下来，也会有一种小小的成就感。",
+    "has_specific_detail": true,
+    "specific_detail": "我对手工制作挺感兴趣的，比如尝试做一些小的木雕或者手工饰品",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "嗯，可以先定个小目标，比如一周完成一个简单的木雕，慢慢积累一些成果。这样既不会给自己太大压力，也能让我感受到一点进步的喜悦。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可以先定个小目标，比如一周完成一个简单的木雕，慢慢积累一些成果",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 32,
+    "content": "我觉得可以拍下每个制作步骤，记录下来做成小日记，或者把完成的作品拍照发给朋友看。如果他们能夸一句“好棒”，我可能会更有动力继续做下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以拍下每个制作步骤，记录下来做成小日记，或者把完成的作品拍照发给朋友看",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "如果他们夸我，我可能会觉得自己做的事是有价值的，这种被认可的感觉会让我更愿意去尝试新的东西，也许心情也会变得更加积极一些。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们夸我，我可能会觉得自己做的事是有价值的，这种被认可的感觉会让我更愿意去尝试新的东西，也许心情也会变得更加积极一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "对，设个奖励机制挺不错的，比如完成一个作品后就买点喜欢的小零食犒劳自己。这种小小的奖励可能会让我觉得更有动力继续下去！",
+    "has_specific_detail": true,
+    "specific_detail": "对，设个奖励机制挺不错的，比如完成一个作品后就买点喜欢的小零食犒劳自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "嗯，这个主意挺好的！比如完成一个系列作品后，可以奖励自己去看一场喜欢的展览或者短途旅行。这种特别的活动感觉会让我更期待，也更有动力坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个主意挺好的！比如完成一个系列作品后，可以奖励自己去看一场喜欢的展览或者短途旅行",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "可能会先停下来深呼吸，告诉自己“这是学习的一部分”。然后翻翻之前成功完成的作品，提醒自己已经取得过进步，这只是暂时的困难。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会先停下来深呼吸，告诉自己“这是学习的一部分”",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 37,
+    "content": "是的，和朋友聊聊应该会减轻一些压力。如果他们能听我说说卡住的地方，哪怕只是简单地安慰几句“慢慢来就好”，也会让我觉得没那么孤单。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，和朋友聊聊应该会减轻一些压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "这个想法很棒！如果朋友愿意一起做，可能会变得更有趣，还能在制作过程中互相鼓励。这样就不会觉得孤单，反而多了些温暖的互动。",
+    "has_specific_detail": true,
+    "specific_detail": "这个想法很棒！如果朋友愿意一起做，可能会变得更有趣，还能在制作过程中互相鼓励",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我可以先发几张自己做的小作品照片给他们看，说“要不要一起来试试？我最近觉得这个挺有趣的！”这样既轻松又不显得强迫，可能会更容易让他们有兴趣。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以先发几张自己做的小作品照片给他们看，说“要不要一起来试试？我最近觉得这个挺有趣的！”这样既轻松又不显得强迫，可能会更容易让他们有兴趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "可以一起做一些小木雕钥匙扣或者简单的手工饰品，比如串珠手链之类的。材料简单又有成品，完成后还能互相交换当礼物，感觉会特别有趣！",
+    "has_specific_detail": true,
+    "specific_detail": "可以一起做一些小木雕钥匙扣或者简单的手工饰品，比如串珠手链之类的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "可以在开始前互相分享各自的设计想法，比如“我想做个小动物的样子，你呢？”过程中如果有人遇到难点，也可以大家一起出主意，感觉会更有参与感。",
+    "has_specific_detail": true,
+    "specific_detail": "可以在开始前互相分享各自的设计想法，比如“我想做个小动物的样子，你呢？”过程中如果有人遇到难点，也可以大家一起出主意，感觉会更有参与感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "是啊，完成后一起拍照留念或者发个朋友圈，大家互相夸奖彼此的作品，可能会觉得特别有成就感。这样一来，这次活动就不仅仅是制作，更像是一次很有温度的回忆。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，完成后一起拍照留念或者发个朋友圈，大家互相夸奖彼此的作品，可能会觉得特别有成就感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "我觉得会！定期聚会不仅能让我有期待感，也能借此机会和朋友保持更紧密的联系。每次都有新的作品和互动，可能会让我感觉生活变得更充实、更温暖。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会！定期聚会不仅能让我有期待感，也能借此机会和朋友保持更紧密的联系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "我可以提前准备好简单的材料，比如木块、雕刻刀或者串珠，选一个大家都方便的小咖啡馆或者家里。再带点小零食，边做边聊，感觉会更轻松有趣！",
+    "has_specific_detail": true,
+    "specific_detail": "我可以提前准备好简单的材料，比如木块、雕刻刀或者串珠，选一个大家都方便的小咖啡馆或者家里",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "可以试着拍一些制作过程的短视频，或者请大家写几句对活动的感受，比如“今天特别开心”之类的。我想看着这些记录，可能会觉得更有成就感，也更愿意继续组织类似的活动！",
+    "has_specific_detail": true,
+    "specific_detail": "可以试着拍一些制作过程的短视频，或者请大家写几句对活动的感受，比如“今天特别开心”之类的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "我觉得会让我感觉被连接和支持，孤独感可能会慢慢减少。每次活动都有新的互动和认可，也许能让我对自己更有信心，觉得生活越来越有方向了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会让我感觉被连接和支持，孤独感可能会慢慢减少",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "是的，感觉这种温暖的连接会让我更有力量去面对其他的挑战。知道自己有支持的圈子，也许会让我在困难面前不那么害怕，更愿意尝试解决问题。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，感觉这种温暖的连接会让我更有力量去面对其他的挑战",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "如果他们遇到难题，我会认真听他们说，像我希望别人对待我的那样，告诉他们“我理解你的感受，别担心，我在这里陪着你”。这种支持可能会让他们感觉安心吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们遇到难题，我会认真听他们说，像我希望别人对待我的那样，告诉他们“我理解你的感受，别担心，我在这里陪着你”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "我觉得这种支持会让我们更信任彼此，也更愿意敞开心扉。像是建立了一种稳定和真实的情感连接，可能会让我觉得生活里多了一份温暖和力量。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这种支持会让我们更信任彼此，也更愿意敞开心扉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "我觉得这种关系会成为一种支撑，让我在面对情绪或人际挑战时不再觉得孤单。有了这样的连接，我可能会更愿意去表达自己的需求，也更有底气尝试解决问题，而不是逃避。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这种关系会成为一种支撑，让我在面对情绪或人际挑战时不再觉得孤单",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "我觉得会让我变得更稳定，也更有安全感。长期来看，可能会慢慢减少那些极端的情绪反应，比如自残或易怒，生活也许会更加平衡、更有意义。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会让我变得更稳定，也更有安全感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "可能可以每天写一点感恩日志，记录那些让我觉得温暖的瞬间。还有定期和朋友聚聚，保持连接，提醒自己生活中其实有很多值得珍惜的东西。",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以每天写一点感恩日志，记录那些让我觉得温暖的瞬间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "我觉得坚持下来，可能会让我更容易看到生活中的好的一面，而不是总被负面情绪淹没。也许我会慢慢意识到自己的情绪是可以被接纳的，生活其实有很多值得期待的东西。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得坚持下来，可能会让我更容易看到生活中的好的一面，而不是总被负面情绪淹没",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "如果这些变成我的内心力量，我可能会更愿意主动去解决困难，而不是像以前那样回避或者用极端方式发泄。也许我会选择相信事情可以慢慢变好，而不是觉得一切都无望。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这些变成我的内心力量，我可能会更愿意主动去解决困难，而不是像以前那样回避或者用极端方式发泄",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "我觉得可以提醒自己“困难是暂时的，重要的是我愿意去尝试”。或者告诉自己“我不是孤单的，我还有支持和陪伴”，这些信念可能会让我在挑战面前更坚定一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以提醒自己“困难是暂时的，重要的是我愿意去尝试”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "这个主意很好！如果把这些信念写成小卡片贴在桌子或者镜子上，每次看到都会有一种鼓励的感觉。可能会让我更容易坚持住，不轻易被情绪打败。",
+    "has_specific_detail": true,
+    "specific_detail": "这个主意很好！如果把这些信念写成小卡片贴在桌子或者镜子上，每次看到都会有一种鼓励的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "这个想法太有趣了！如果能把信念刻在木雕或者饰品上，不仅是一种提醒，还感觉像是赋予作品特别的意义。每次看到或触碰，可能都会觉得自己更有力量。",
+    "has_specific_detail": true,
+    "specific_detail": "这个想法太有趣了！如果能把信念刻在木雕或者饰品上，不仅是一种提醒，还感觉像是赋予作品特别的意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "我觉得会！送这样的作品给朋友，不仅是分享一种信念，也是在传递我对他们的支持和关心。这样可能会让我们的关系更紧密，他们也会感受到更多温暖吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会！送这样的作品给朋友，不仅是分享一种信念，也是在传递我对他们的支持和关心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "是的，如果他们能分享自己的感受或者信念，感觉会像是一次特别深刻的交流。这样的互动可能会让我们的连接变得更真实，更有持久的力量。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，如果他们能分享自己的感受或者信念，感觉会像是一次特别深刻的交流",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "我觉得会让我变得更加稳定，也更愿意主动表达自己。长期来看，可能会让我对人际关系更有信心，觉得自己是被接纳和支持的，情绪也不会那么容易失控了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会让我变得更加稳定，也更愿意主动表达自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "如果这种状态持续，我可能会对未来更有期待，比如尝试规划一些更大的目标。可能会觉得生活不再只是“维持”，而是可以慢慢去追求自己真正想要的东西。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这种状态持续，我可能会对未来更有期待，比如尝试规划一些更大的目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 62,
+    "content": "我觉得可以先把目标分成小步骤，每完成一步就奖励自己。也可以找朋友一起讨论，让他们帮我理清思路或鼓励我，这样可能会更有动力坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先把目标分成小步骤，每完成一步就奖励自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "我想第一个大的目标可能是办一次自己的手工展览，把我做的作品展示出来。感觉这是一个既有挑战又很有意义的事情，可以让我证明自己的能力，同时和更多人分享这些信念。",
+    "has_specific_detail": true,
+    "specific_detail": "我想第一个大的目标可能是办一次自己的手工展览，把我做的作品展示出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "我觉得可以先选一个适合的场地，比如学校或社区的展示空间，然后设计展览主题，比如“用手工传递力量”。再找朋友帮忙宣传，或者通过社交媒体邀请更多人来看！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先选一个适合的场地，比如学校或社区的展示空间，然后设计展览主题，比如“用手工传递力量”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "如果展览成功，我可能会觉得自己真的能做到有意义的事情，这会让我更相信自己的能力。也许我会更大胆地尝试其他新领域，觉得生活充满了可能性！",
+    "has_specific_detail": true,
+    "specific_detail": "如果展览成功，我可能会觉得自己真的能做到有意义的事情，这会让我更相信自己的能力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "朋友的鼓励和观众的积极反馈应该会是很大的动力。如果有人告诉我“你的作品让我感觉到力量”，可能会让我更加坚定地相信自己的目标是值得追求的。",
+    "has_specific_detail": true,
+    "specific_detail": "朋友的鼓励和观众的积极反馈应该会是很大的动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 67,
+    "content": "我可能会尝试举办更多主题展览，或者分享制作过程的视频，鼓励大家也参与创作。这种互动不仅能传递温暖，也能让更多人找到表达自己情绪的方式，感觉特别有意义。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会尝试举办更多主题展览，或者分享制作过程的视频，鼓励大家也参与创作",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 68,
+    "content": "如果能一直坚持，我可能会觉得自己是有能力创造价值的，不再总怀疑自己的存在意义。也许我会看到生活其实是充满可能的，而不是像以前那样觉得它只是重复和孤独。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能一直坚持，我可能会觉得自己是有能力创造价值的，不再总怀疑自己的存在意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 69,
+    "content": "我觉得现在尝试写日志、分享作品，还有慢慢和朋友建立更深的连接，都是迈出的小步。虽然还在初期，但感觉这些尝试正在让我一点点靠近更积极的状态。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得现在尝试写日志、分享作品，还有慢慢和朋友建立更深的连接，都是迈出的小步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 70,
+    "content": "接下来我可能会试试用画画表达更多情绪，比如专门画一些反映孤独感或希望的作品。也许还可以设定一个长期目标，比如一年内完成一系列主题作品，这样会让我感觉有方向感。",
+    "has_specific_detail": true,
+    "specific_detail": "接下来我可能会试试用画画表达更多情绪，比如专门画一些反映孤独感或希望的作品",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 71,
+    "content": "我可以用照片记录每个作品的进展，像成长日记一样，看到自己的努力一点点累积。也可以定期和朋友分享创意，听听他们的建议或鼓励，这种互动可能会让我觉得更有动力继续下去！",
+    "has_specific_detail": true,
+    "specific_detail": "我可以用照片记录每个作品的进展，像成长日记一样，看到自己的努力一点点累积",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 72,
+    "content": "我可能会办一个小型展览邀请朋友来欣赏，或者举办一场作品分享会，讲讲创作背后的故事。这样既是庆祝，也能和大家一起回顾这个过程，感觉会特别有意义！",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会办一个小型展览邀请朋友来欣赏，或者举办一场作品分享会，讲讲创作背后的故事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 73,
+    "content": "如果我的作品能让别人产生共鸣，我可能会觉得自己的努力是有价值的。这会让我更愿意去尝试新的主题或形式，比如探索不同的材料或创作风格，感觉未来充满了更多可能性！",
+    "has_specific_detail": true,
+    "specific_detail": "如果我的作品能让别人产生共鸣，我可能会觉得自己的努力是有价值的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 74,
+    "content": "我觉得会让我对生活更有热情和期待，变得不再害怕挑战。可能会慢慢形成一种“事情总有办法变好”的心态，让我更愿意主动面对困难，而不是逃避。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会让我对生活更有热情和期待，变得不再害怕挑战",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 75,
+    "content": "我觉得人际关系可能会变得更紧密，因为我会更愿意表达自己的感受，也更能倾听和理解别人。情绪管理可能也会改善，变得不再那么极端，而是学着用更平和的方式应对波动。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得人际关系可能会变得更紧密，因为我会更愿意表达自己的感受，也更能倾听和理解别人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 76,
+    "content": "如果这些领域逐步提升，我可能会期待尝试更多有挑战的目标，比如学一项新技能或者建立一个长期的兴趣项目。感觉未来会充满希望和可能，而不再只是为了“过下去”。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这些领域逐步提升，我可能会期待尝试更多有挑战的目标，比如学一项新技能或者建立一个长期的兴趣项目",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 77,
+    "content": "我觉得现在的自己已经开始学会寻找支持和建立连接，也开始尝试用创作表达情绪。这些小力量虽然不大，但让我看到自己可以慢慢改变，感觉它们会成为迈向更大目标的基础。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得现在的自己已经开始学会寻找支持和建立连接，也开始尝试用创作表达情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 78,
+    "content": "是的，每次提醒自己这些力量，都会让我觉得自己是有能力改变的。这样可能会让我更坚定地相信，无论遇到什么困难，我都有办法慢慢找到解决的路。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，每次提醒自己这些力量，都会让我觉得自己是有能力改变的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 79,
+    "content": "我觉得会很有帮助！每天早上给自己一点时间，说几句鼓励的话，比如“今天我可以做得更好”，可能会让我从一开始就感受到一种力量感，帮助我更积极地面对一天的挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会很有帮助！每天早上给自己一点时间，说几句鼓励的话，比如“今天我可以做得更好”，可能会让我从一开始就感受到一种力量感，帮助我更积极地面对一天的挑战",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 80,
+    "content": "如果坚持下来，我可能会变得更自信，对自己和生活有更多积极的期待。这样的态度可能会让我更主动去追求目标，而不是只等待改变，感觉未来会越来越充满可能性和希望。",
+    "has_specific_detail": true,
+    "specific_detail": "如果坚持下来，我可能会变得更自信，对自己和生活有更多积极的期待",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 81,
+    "content": "如果能传递这种态度，可能会让我们之间的关系更支持和鼓励彼此。大家一起成长和分享进步，会让我觉得连接更真实，也让生活充满更多温暖和力量。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能传递这种态度，可能会让我们之间的关系更支持和鼓励彼此",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 82,
+    "content": "我觉得可以主动向支持网络寻求帮助，比如分享自己的困惑或请他们陪伴。通过这些互动，会让我感受到自己不是孤单的，也会更有信心去面对新的挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以主动向支持网络寻求帮助，比如分享自己的困惑或请他们陪伴",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 83,
+    "content": "我觉得会让我不再害怕困难，开始相信它们是可以解决的。同时，我可能会更加珍惜人际关系，觉得它们不仅是生活的陪伴，更是一种支持和成长的动力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会让我不再害怕困难，开始相信它们是可以解决的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 84,
+    "content": "我可能会觉得现在的自己是在慢慢找到力量和方向，虽然过程并不容易，但每一步都在为更好的未来铺路。回顾这些努力，或许会让我觉得特别珍贵和值得。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会觉得现在的自己是在慢慢找到力量和方向，虽然过程并不容易，但每一步都在为更好的未来铺路",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 85,
+    "content": "是的，把过程记录下来无论是文字还是画作，都会是一种自我鼓励，同时也能传递一种希望。如果有人看到这些记录受到启发，可能会让我觉得自己的努力更有意义，更愿意继续前行。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，把过程记录下来无论是文字还是画作，都会是一种自我鼓励，同时也能传递一种希望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 86,
+    "content": "如果能影响更多人，我的目标可能会变得更关注创造和分享积极的力量。价值观也可能更倾向于关注人与人的连接，觉得生活的意义不仅是个人追求，还有彼此支持和成长。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能影响更多人，我的目标可能会变得更关注创造和分享积极的力量",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 87,
+    "content": "现在的我开始尝试用创作表达自己，也试着和朋友建立更真实的连接。这些小步虽然不大，但感觉正在让我靠近一种更有意义、更温暖的生活状态。",
+    "has_specific_detail": true,
+    "specific_detail": "现在的我开始尝试用创作表达自己，也试着和朋友建立更真实的连接",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 88,
+    "content": "如果坚持下去，我可能会更理解自己的情绪和需求，也会发现生活其实充满了可能性和美好。也许会让我觉得自己是有力量改变和创造的，而不仅仅是被动接受生活的安排。",
+    "has_specific_detail": true,
+    "specific_detail": "如果坚持下去，我可能会更理解自己的情绪和需求，也会发现生活其实充满了可能性和美好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 89,
+    "content": "如果融入到每天的行动中，我可能会更主动去尝试新的事物和建立连接。每天都有一点小目标或期待，可能会让我觉得生活不仅充实，而且有了更清晰的方向感。",
+    "has_specific_detail": true,
+    "specific_detail": "如果融入到每天的行动中，我可能会更主动去尝试新的事物和建立连接",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 90,
+    "content": "这些行动可能会让我更懂得如何管理自己的情绪和面对挑战，同时也更相信自己的能力。最终，我可能会变得更加成熟和自信，觉得生活是可以由自己掌控和创造的，而不是被动接受的。",
+    "has_specific_detail": true,
+    "specific_detail": "这些行动可能会让我更懂得如何管理自己的情绪和面对挑战，同时也更相信自己的能力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 91,
+    "content": "未来的我可能会觉得这段努力是让我成长的关键时刻。它不仅让我更了解自己，也让我发现生活的可能性和力量。可能会觉得这些转变为我的未来铺平了道路，是值得珍惜和骄傲的过程。",
+    "has_specific_detail": true,
+    "specific_detail": "未来的我可能会觉得这段努力是让我成长的关键时刻",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 92,
+    "content": "如果能分享这些经历，我可能会告诉他们，改变是从小步开始的，每一步都很重要。或许我的故事会让他们看到希望，觉得自己也可以慢慢找到力量和方向，不再觉得生活是无法改变的。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能分享这些经历，我可能会告诉他们，改变是从小步开始的，每一步都很重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 93,
+    "content": "如果有人因为我的启发而改变，我可能会觉得自己的努力更有意义，不仅是为了自己，也能为别人带来希望。这种感受可能会让我更相信自己的价值，同时也更愿意继续分享和创造力量。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人因为我的启发而改变，我可能会觉得自己的努力更有意义，不仅是为了自己，也能为别人带来希望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 94,
+    "content": "继续分享和创造可能会让我更明确自己的目标，比如帮助更多人发现他们的力量。这样的方向会让我觉得生活不只是为了自己，而是能够为别人带来积极的改变和温暖，感觉特别有意义。",
+    "has_specific_detail": true,
+    "specific_detail": "继续分享和创造可能会让我更明确自己的目标，比如帮助更多人发现他们的力量",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 95,
+    "content": "如果实现了，我可能会定义自己为一个有力量且愿意分享的人。回顾这一路的成长和付出，会让我觉得每一步都是值得的，它们让我成为了一个能够传递温暖的人，也让我更理解生活的意义。",
+    "has_specific_detail": true,
+    "specific_detail": "如果实现了，我可能会定义自己为一个有力量且愿意分享的人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 96,
+    "content": "如果更多人因我的分享而找到力量，我可能会觉得人生的期待不只是追求个人幸福，而是创造一种共同的温暖和支持。这会让我更愿意设定一些目标，比如组织更多活动或创作更多作品，去影响和帮助更多人。",
+    "has_specific_detail": true,
+    "specific_detail": "如果更多人因我的分享而找到力量，我可能会觉得人生的期待不只是追求个人幸福，而是创造一种共同的温暖和支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 97,
+    "content": "如果这些努力形成了持续的影响力，我可能会更深刻地理解，人生的价值在于与他人产生真实的连接和影响。这种理解会让我觉得自己的存在不仅是为了自己，而是可以成为一种温暖的力量去触动更多人。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这些努力形成了持续的影响力，我可能会更深刻地理解，人生的价值在于与他人产生真实的连接和影响",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 98,
+    "content": "如果以这样的目标为导向，我可能会更加珍惜每一天的行动，选择那些能够创造积极影响的事情。比如多用心去关心身边的人或坚持创作，每一步都会让我觉得生活更有意义，也更充满希望。",
+    "has_specific_detail": true,
+    "specific_detail": "如果以这样的目标为导向，我可能会更加珍惜每一天的行动，选择那些能够创造积极影响的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 99,
+    "content": "如果这些选择成为习惯，我的内心可能会变得更加平静和坚定，觉得自己是能够创造价值的人。这样的状态可能会让我更清楚人生方向，更愿意去追求那些真正重要的目标，比如连接更多人和传递更多温暖。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这些选择成为习惯，我的内心可能会变得更加平静和坚定，觉得自己是能够创造价值的人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 100,
+    "content": "我觉得今天聊得挺深入了，这些内容我想再消化一下，下次可以接着聊。谢谢你听我说这么多！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得今天聊得挺深入了，这些内容我想再消化一下，下次可以接着聊",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

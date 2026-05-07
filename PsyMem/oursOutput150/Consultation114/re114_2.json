@@ -1,0 +1,436 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近有个让我有点纠结的事儿。前几天室友们一起讨论要不要晚点关灯，但我其实更习惯早睡，没敢说出自己的想法，最后只能勉强调整了作息…这种时候，我总觉得自己的需求好像不太重要。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近有个让我有点纠结的事儿",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是啊，当时其实特别想开口说早睡对我更好，但脑子里一直在想“要是这样会不会让别人觉得我太固执？”这种犹豫让我最终选择了沉默。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，当时其实特别想开口说早睡对我更好，但脑子里一直在想“要是这样会不会让别人觉得我太固执？”这种犹豫让我最终选择了沉默",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，好像确实是这样。我记得上周有次大家商量周末出去玩去哪儿，我其实更想待在宿舍休息，但还是顺着他们的提议了…结果那天感觉自己完全提不起劲。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，好像确实是这样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "有时候我会安慰自己“顺着大家也没关系”，但其实内心还是觉得有点委屈。要缓解的话，回到宿舍后我可能会写写日记，把情绪记录下来。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候我会安慰自己“顺着大家也没关系”，但其实内心还是觉得有点委屈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我觉得更多是因为没能坚持自我吧。有时候会想，如果我能更坦率地表达自己，或许就不会总觉得压抑了…但要开口又好难，总担心场面会变得尴尬。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得更多是因为没能坚持自我吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，之前有一次大家在讨论外卖吃什么，我试着提了自己想吃的那家，结果室友们也都很支持！当时觉得挺开心的，但像这种轻松的小事，感觉说起来比涉及习惯或安排的问题容易多了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，之前有一次大家在讨论外卖吃什么，我试着提了自己想吃的那家，结果室友们也都很支持！当时觉得挺开心的，但像这种轻松的小事，感觉说起来比涉及习惯或安排的问题容易多了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我想可能是更怕冲突后的关系变化吧…如果表达了不同意见，我总会担心大家会因此疏远我，觉得我不好相处。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可能是更怕冲突后的关系变化吧…如果表达了不同意见，我总会担心大家会因此疏远我，觉得我不好相处",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，像上次大家一起看电影的时候，氛围就特别轻松，没人计较小事，感觉彼此很自然。那种时候会觉得关系挺稳固的，不会因为一点分歧就有影响。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，像上次大家一起看电影的时候，氛围就特别轻松，没人计较小事，感觉彼此很自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "可能会吧！在这种氛围里开口，感觉压力会小很多，大家也更容易接受。不过我好像总是习惯等到情况变紧张了才纠结要不要说…如果能提前在轻松的时候提，也许会好些？",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧！在这种氛围里开口，感觉压力会小很多，大家也更容易接受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，比如在看电影前讨论片子类型的时候，可能我就能顺便提一下自己喜欢的风格。像这样自然过渡的场景，感觉会比突然提出需求轻松很多！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，比如在看电影前讨论片子类型的时候，可能我就能顺便提一下自己喜欢的风格",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，比如大家一起点外卖的时候，我觉得这种讨论也比较轻松。我可以先顺着大家的提议，然后再加一句“要不也看看这家？”这样感觉不会太突兀。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，比如大家一起点外卖的时候，我觉得这种讨论也比较轻松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我觉得会的！如果这种方式能让我感受到积极的回应，可能慢慢在更重要的场合也能试着开口，至少不会像现在这么犹豫了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会的！如果这种方式能让我感受到积极的回应，可能慢慢在更重要的场合也能试着开口，至少不会像现在这么犹豫了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "可能会担心如果提的意见被否定，自己会不自觉地退缩吧…有时候特别怕这种情况会让我重新觉得自己说出来也没用。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会担心如果提的意见被否定，自己会不自觉地退缩吧…有时候特别怕这种情况会让我重新觉得自己说出来也没用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "也许可以试着告诉自己，这只是一次尝试，不代表我的意见没有价值。或者在被否定后，再问问大家的具体想法，这样我还能参与讨论，不会觉得被排除在外。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试着告诉自己，这只是一次尝试，不代表我的意见没有价值",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "可能一开始还是会有点紧张，但如果大家的回应是友善的，应该会慢慢放松下来吧。而且感觉至少不会像直接沉默那样压抑了。",
+    "has_specific_detail": true,
+    "specific_detail": "可能一开始还是会有点紧张，但如果大家的回应是友善的，应该会慢慢放松下来吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，我觉得可以从下次大家讨论周末计划的时候试试，比如我可以提前想好一个自己感兴趣的活动，顺便提出来看看大家的想法。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以从下次大家讨论周末计划的时候试试，比如我可以提前想好一个自己感兴趣的活动，顺便提出来看看大家的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "也许可以用一种轻松的语气说，比如“我最近听说XX挺不错的，要不要考虑去看看？”这样既表达了想法，又不会显得太强硬，感觉会更自然一点。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以用一种轻松的语气说，比如“我最近听说XX挺不错的，要不要考虑去看看？”这样既表达了想法，又不会显得太强硬，感觉会更自然一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得可以提前查一下活动的具体信息，比如地点、费用或者亮点，这样说起来更有依据。如果大家有问题，我也能更自信地回答，不会觉得自己没准备好。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以提前查一下活动的具体信息，比如地点、费用或者亮点，这样说起来更有依据",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我希望能感受到被认可的感觉，哪怕大家最后没选我的提议，但能认真听我说就已经很满足了。还有就是希望自己能更自然地参与讨论，不再那么紧张。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能感受到被认可的感觉，哪怕大家最后没选我的提议，但能认真听我说就已经很满足了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "可能可以在提建议前深呼吸几次，给自己一个心理暗示，比如“我只是分享一个想法，不用太在意结果”。这样会感觉轻松些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以在提建议前深呼吸几次，给自己一个心理暗示，比如“我只是分享一个想法，不用太在意结果”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我觉得如果尝试顺利，可能会让我更愿意在其他场合提意见，不再总是担心被否定。也许慢慢地，表达自己的需求会变得没那么难了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果尝试顺利，可能会让我更愿意在其他场合提意见，不再总是担心被否定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "可能需要提醒自己失败也是正常的吧，有时候会不自觉放大一次否定的影响。如果有人能鼓励我去看更多的积极反馈，那感觉会更有动力坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "可能需要提醒自己失败也是正常的吧，有时候会不自觉放大一次否定的影响",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，我觉得会有帮助！记录下来能让我更清楚地看到自己的进步，而且当我情绪低落时也能翻出来鼓励自己，提醒自己其实并没有想得那么糟。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得会有帮助！记录下来能让我更清楚地看到自己的进步，而且当我情绪低落时也能翻出来鼓励自己，提醒自己其实并没有想得那么糟",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得可以从日常的小讨论开始，比如下次大家聊晚饭吃什么的时候，如果我提出了自己的意见，就把这次经历记录下来，看看结果如何。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从日常的小讨论开始，比如下次大家聊晚饭吃什么的时候，如果我提出了自己的意见，就把这次经历记录下来，看看结果如何",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得两方面都重要！可以记录自己当时的感受，比如是否紧张，还有室友们的反应，比如有没有认真听或者回应，这样能更全面地了解情况。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两方面都重要！可以记录自己当时的感受，比如是否紧张，还有室友们的反应，比如有没有认真听或者回应，这样能更全面地了解情况",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "如果记录显示我的表达得到了积极回应，我会更有信心去尝试类似的场合；但如果感觉不太理想，我也可以复盘，看看是不是方式或者时机需要调整。",
+    "has_specific_detail": true,
+    "specific_detail": "如果记录显示我的表达得到了积极回应，我会更有信心去尝试类似的场合；但如果感觉不太理想，我也可以复盘，看看是不是方式或者时机需要调整",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我可能会问自己：“这次表达前有没有准备好？”“我的语气是不是足够轻松？”还有“室友的反应让我感受到支持了吗？”这些问题感觉能帮我找到改进的方向。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会问自己：“这次表达前有没有准备好？”“我的语气是不是足够轻松？”还有“室友的反应让我感受到支持了吗？”这些问题感觉能帮我找到改进的方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我觉得可以从调整语气开始，比如用更轻松的方式提建议。另外，提前准备一些信息或想法，也能让我更自信地表达自己的需求。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从调整语气开始，比如用更轻松的方式提建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "也许可以试着开个玩笑，比如调侃一下自己的提议，“我知道这个可能有点冷门，但不妨一试？”这样感觉能让气氛轻松些，不会那么紧张。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试着开个玩笑，比如调侃一下自己的提议，“我知道这个可能有点冷门，但不妨一试？”这样感觉能让气氛轻松些，不会那么紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我想会觉得提意见没那么可怕吧，尤其是看到大家的反应变得更轻松时，可能会更有动力去尝试表达自己，而不是总是退缩。",
+    "has_specific_detail": true,
+    "specific_detail": "我想会觉得提意见没那么可怕吧，尤其是看到大家的反应变得更轻松时，可能会更有动力去尝试表达自己，而不是总是退缩",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得可以设定一个目标，比如每周至少在一个小讨论中主动提一次建议。不求结果如何，但要鼓励自己开口，这样慢慢积累信心。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以设定一个目标，比如每周至少在一个小讨论中主动提一次建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我可以准备一个小笔记本，每次完成目标后记录下情境和感受。如果有特别好的反馈，可以标记出来，这样回头看时会觉得更有成就感。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以准备一个小笔记本，每次完成目标后记录下情境和感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "嗯，可以给自己设定小奖励，比如完成一个月的目标后，买一本自己喜欢的书或者去试一家很想吃的餐厅，这样感觉更有动力！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可以给自己设定小奖励，比如完成一个月的目标后，买一本自己喜欢的书或者去试一家很想吃的餐厅，这样感觉更有动力！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

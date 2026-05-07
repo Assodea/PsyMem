@@ -1,0 +1,1307 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，效果有点复杂吧。比如在学校时，用手机提醒自己深呼吸确实帮我冷静了一些，但回到家和我妈沟通时，感觉提醒没什么用…当她开始说教，我还是会忍不住烦躁甚至顶嘴。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，效果有点复杂吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "我觉得可能是她的语气吧，她总用一种“我比你懂”的态度说话，让我觉得自己被看低了…而且她的话总是重复以前的要求，我听了太多次，感觉特别压抑。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是她的语气吧，她总用一种“我比你懂”的态度说话，让我觉得自己被看低了…而且她的话总是重复以前的要求，我听了太多次，感觉特别压抑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "内心的第一反应可能是觉得不被尊重吧，甚至有点愤怒…总觉得她完全没考虑我的感受，只在意她自己想表达的东西。这种感觉让我很难冷静下来。",
+    "has_specific_detail": true,
+    "specific_detail": "内心的第一反应可能是觉得不被尊重吧，甚至有点愤怒…总觉得她完全没考虑我的感受，只在意她自己想表达的东西",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "嗯，我有时候会直接反驳，但更多时候可能是沉默或者敷衍一句，比如“知道了”，其实心里还是不舒服…说到这个，前几天她又提到我的学习计划，我就敷衍了一句，她好像觉得我在逃避。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我有时候会直接反驳，但更多时候可能是沉默或者敷衍一句，比如“知道了”，其实心里还是不舒服…说到这个，前几天她又提到我的学习计划，我就敷衍了一句，她好像觉得我在逃避",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "内心可能是压抑吧，觉得自己没办法好好表达真实想法，又担心如果说出来会引发更大的争吵…这种感觉挺让人累的，像是一直忍着什么。",
+    "has_specific_detail": true,
+    "specific_detail": "内心可能是压抑吧，觉得自己没办法好好表达真实想法，又担心如果说出来会引发更大的争吵…这种感觉挺让人累的，像是一直忍着什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我希望她能多一点理解吧，至少听我把话说完，而不是直接打断或者用自己的观点盖过我的…有时候感觉只要她愿意倾听，我也不会那么抗拒沟通了。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她能多一点理解吧，至少听我把话说完，而不是直接打断或者用自己的观点盖过我的…有时候感觉只要她愿意倾听，我也不会那么抗拒沟通了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "可能是更强的愤怒吧，感觉自己被彻底忽视了，心里会想“为什么她总是这样？我就不能有自己的想法吗？”这种情绪会让我更不想继续沟通。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是更强的愤怒吧，感觉自己被彻底忽视了，心里会想“为什么她总是这样？我就不能有自己的想法吗？”这种情绪会让我更不想继续沟通",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "有试过暂停对话，比如直接说“我需要冷静一下”，然后去房间待着。但效果嘛…她一般会继续追问，或者认为我是故意逃避问题，这让我更烦躁。",
+    "has_specific_detail": true,
+    "specific_detail": "有试过暂停对话，比如直接说“我需要冷静一下”，然后去房间待着",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "可能是她觉得我冷静的方式就是在逃避问题吧，她总觉得沟通要“立刻解决”，不理解我需要时间缓一缓…这种不同的节奏让我特别难受。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是她觉得我冷静的方式就是在逃避问题吧，她总觉得沟通要“立刻解决”，不理解我需要时间缓一缓…这种不同的节奏让我特别难受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我没试过提前告诉她，但听起来好像是个办法。如果能先说“我需要几分钟冷静一下，之后再聊”，她可能会理解吧…不过我还是担心她不接受，总觉得她更在意自己的表达。",
+    "has_specific_detail": true,
+    "specific_detail": "我没试过提前告诉她，但听起来好像是个办法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "听起来是个不错的尝试，加上“冷静后会认真听”可能能让她放心些。虽然我还是担心她会觉得我在拖延，但感觉比直接沉默或敷衍要好一些，至少不会那么容易让沟通变僵。",
+    "has_specific_detail": true,
+    "specific_detail": "听起来是个不错的尝试，加上“冷静后会认真听”可能能让她放心些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "也许在她刚开始说话、情绪还不太激动的时候会更容易接受吧。如果等到争论升级再提出冷静需求，她可能就更不愿意停下来…我可以试着找个相对平和的时刻尝试一下。",
+    "has_specific_detail": true,
+    "specific_detail": "也许在她刚开始说话、情绪还不太激动的时候会更容易接受吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不愿意"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得可以提前想好说辞，比如“我想认真听，但需要几分钟冷静一下”，这样就不会临时慌乱。另外，也许可以设置手机提醒，提醒自己在对话开始时注意节奏。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以提前想好说辞，比如“我想认真听，但需要几分钟冷静一下”，这样就不会临时慌乱",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "如果她还是追问，我可能会重复说明自己的需求，比如“我冷静后才能更好地沟通”，尽量让她理解我的意图。如果实在不行，我可能会暂时离开对话，去做深呼吸或者写写笔记，让自己缓和情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她还是追问，我可能会重复说明自己的需求，比如“我冷静后才能更好地沟通”，尽量让她理解我的意图",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 15,
+    "content": "可能是更多的自我坚定吧，能坚持自己的方式，不因为她的反应而轻易放弃…有时候觉得自己妥协太多，反而让沟通变得更难了。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是更多的自我坚定吧，能坚持自己的方式，不因为她的反应而轻易放弃…有时候觉得自己妥协太多，反而让沟通变得更难了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "也许可以在心里默念“这是为了更好的沟通，不是逃避”，这样能让我更专注于自己的初衷。另外，握紧拳头或深呼吸可能会让我感觉更稳一些，不那么容易被情绪带走。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以在心里默念“这是为了更好的沟通，不是逃避”，这样能让我更专注于自己的初衷",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得沟通开始前就提醒自己会更有准备，能让我从一开始就更平静。情绪波动时也需要，用来快速调整心态，但可能会稍微难一些…所以提前准备更关键吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得沟通开始前就提醒自己会更有准备，能让我从一开始就更平静",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "听音乐可能是个不错的选择，特别是一些轻松的旋律，能让我放松下来。另外，做几次伸展动作也挺有效，可以让身体感觉没那么紧绷，有助于平和心态。",
+    "has_specific_detail": true,
+    "specific_detail": "听音乐可能是个不错的选择，特别是一些轻松的旋律，能让我放松下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "可能可以在放学后回家时试试吧，那时候正好是从学校切换到家庭的状态，心情也容易比较紧张…用几分钟听音乐或伸展，感觉挺合适的。",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以在放学后回家时试试吧，那时候正好是从学校切换到家庭的状态，心情也容易比较紧张…用几分钟听音乐或伸展，感觉挺合适的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，我可以选一些舒缓的钢琴曲，这种音乐让我觉得心情更安静。伸展动作的话，可能会做一些简单的肩颈拉伸，感觉能缓解压力，让身体更轻松些。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我可以选一些舒缓的钢琴曲，这种音乐让我觉得心情更安静",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我觉得语速可以放慢一些，语气尽量保持平稳，这样能显得不那么急躁。另外，避免直接用带情绪的话开头，比如“你总是这样”，这样可能会让她更防备。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得语速可以放慢一些，语气尽量保持平稳，这样能显得不那么急躁",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，眼神交流应该能让她觉得我在认真听，我可以试着在她说话时看着她，不低头玩手机之类的。另外，偶尔回应她的观点，比如“我明白你的担心”，可能也会让她感觉我在尊重她的想法。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，眼神交流应该能让她觉得我在认真听，我可以试着在她说话时看着她，不低头玩手机之类的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "如果她还是打断，我会提醒自己别急着反驳，可以试着说“我还没说完呢，请听我说完再回应”，保持语气平和。这样可能能让对话继续，而不会变成争吵。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她还是打断，我会提醒自己别急着反驳，可以试着说“我还没说完呢，请听我说完再回应”，保持语气平和",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 24,
+    "content": "调整呼吸肯定是有用的，比如深吸一口气然后慢慢吐出，能让我感觉更稳一些。另外，我可以在心里告诉自己“她可能不是故意的，只是不懂我的感受”，这样能减少一些不必要的怒气。",
+    "has_specific_detail": true,
+    "specific_detail": "调整呼吸肯定是有用的，比如深吸一口气然后慢慢吐出，能让我感觉更稳一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "对，我觉得可以在她刚开始说教时就试着深吸一口气，这样能提前稳住自己的情绪，不至于一下子被烦躁感吞没…这种主动调整应该会更有效。",
+    "has_specific_detail": true,
+    "specific_detail": "对，我觉得可以在她刚开始说教时就试着深吸一口气，这样能提前稳住自己的情绪，不至于一下子被烦躁感吞没…这种主动调整应该会更有效",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "记录感受听起来挺不错的，我可以试着写下沟通中哪些地方让我感觉好一些，哪些地方还需要调整。这样能帮我更清楚地看到自己的进步，也方便找到改进的方法。",
+    "has_specific_detail": true,
+    "specific_detail": "记录感受听起来挺不错的，我可以试着写下沟通中哪些地方让我感觉好一些，哪些地方还需要调整",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "可能用手机备忘录会更方便吧，随时都能打开记录，不需要额外准备工具。而且手机上的提醒功能还能帮我及时回顾这些笔记，感觉挺实用的。",
+    "has_specific_detail": true,
+    "specific_detail": "可能用手机备忘录会更方便吧，随时都能打开记录，不需要额外准备工具",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，这个框架挺清晰的，我可以记录自己的情绪反应，比如什么时候开始烦躁；表达效果，比如有没有成功说出自己的想法；还有下一步改进，比如调整语气或试试新的方式。这样能让我更有条理地分析问题。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个框架挺清晰的，我可以记录自己的情绪反应，比如什么时候开始烦躁；表达效果，比如有没有成功说出自己的想法；还有下一步改进，比如调整语气或试试新的方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得每次重要沟通后复盘会更有效吧，毕竟情绪和细节还比较鲜活，容易找到关键点。但每周总结一次也不错，可以看看整体进步情况，这样能有更多成就感。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得每次重要沟通后复盘会更有效吧，毕竟情绪和细节还比较鲜活，容易找到关键点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "嗯，奖励机制听起来不错！比如每次沟通后，如果觉得自己有进步，我可以奖励自己玩一会儿游戏或者听喜欢的歌，这样能让我更有动力去坚持改进。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，奖励机制听起来不错！比如每次沟通后，如果觉得自己有进步，我可以奖励自己玩一会儿游戏或者听喜欢的歌，这样能让我更有动力去坚持改进",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "设定具体标准挺有必要的，比如成功表达自己的真实感受，或者能平稳结束一次对话。这些目标不难，但达成后会让我觉得更有成就感，也更值得奖励自己。",
+    "has_specific_detail": true,
+    "specific_detail": "设定具体标准挺有必要的，比如成功表达自己的真实感受，或者能平稳结束一次对话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "对，目标不能太多，否则会觉得压力太大，而且必须符合自己的能力，比如从一个简单的目标开始，比如控制语气平稳，等熟练了再逐渐增加。这样成功的可能性更高，也更容易坚持。",
+    "has_specific_detail": true,
+    "specific_detail": "对，目标不能太多，否则会觉得压力太大，而且必须符合自己的能力，比如从一个简单的目标开始，比如控制语气平稳，等熟练了再逐渐增加",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "练习语句应该挺有帮助的，比如提前想好怎么平和地表达自己的需求。模拟情景也不错，可以在脑子里假设她的回应方式，然后试着想象自己如何应对，感觉会让实际沟通更有底气。",
+    "has_specific_detail": true,
+    "specific_detail": "练习语句应该挺有帮助的，比如提前想好怎么平和地表达自己的需求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我觉得语气自然很重要，不能太僵硬或者生硬，否则效果可能适得其反。另外，也需要多练习她可能的反应，比如打断或者追问，这样才能提前想好应对方式，让自己更从容一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得语气自然很重要，不能太僵硬或者生硬，否则效果可能适得其反",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "找朋友帮忙扮演听起来挺有趣的，可能会更接近真实场景，能让我更好地练习。不过如果不方便的话，自言自语也是个办法，可以自己假装问答来模拟她可能的反应，感觉也挺有效的。",
+    "has_specific_detail": true,
+    "specific_detail": "找朋友帮忙扮演听起来挺有趣的，可能会更接近真实场景，能让我更好地练习",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "设定一个安静的时间段，比如晚上学习结束后，感觉会更专注些。环境的话，尽量找个没干扰的地方，比如自己的房间，这样可以避免分心，练习效果也会更好。",
+    "has_specific_detail": true,
+    "specific_detail": "设定一个安静的时间段，比如晚上学习结束后，感觉会更专注些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "写下练习中的感受和改进点挺有必要的，比如哪些语句让我感觉自然，哪些地方还需要调整。这样能让我更清楚自己的进步，也方便在下一次练习前做针对性的改进。",
+    "has_specific_detail": true,
+    "specific_detail": "写下练习中的感受和改进点挺有必要的，比如哪些语句让我感觉自然，哪些地方还需要调整",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "分类会让记录更清晰，比如可以分成语气调整、内容表达和应对策略三个部分。这样在回顾时能更有针对性，也能更快找到需要改进的地方，感觉效率会提高不少。",
+    "has_specific_detail": true,
+    "specific_detail": "分类会让记录更清晰，比如可以分成语气调整、内容表达和应对策略三个部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我觉得语气调整可能是优先的部分，因为它直接影响沟通的氛围。如果语气太急躁，可能一开始就让对方防备，后续内容和策略再好也没法有效展开，所以先改善语气比较关键。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得语气调整可能是优先的部分，因为它直接影响沟通的氛围",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "放慢语速和加入短暂停顿是不错的技巧，可以让自己的表达听起来更平和。还有就是试着用较柔和的词开头，比如“我觉得”或“我想”，这样语气会显得更自然，也更容易让对方接受。",
+    "has_specific_detail": true,
+    "specific_detail": "放慢语速和加入短暂停顿是不错的技巧，可以让自己的表达听起来更平和",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "提前练习开头句子挺有帮助的，比如表达需求可以说“我需要一点时间想清楚再聊”；回应观点的话可以用“我理解你的担心，但我也有一些想法”。这些句子感觉比较温和，不容易引发冲突。",
+    "has_specific_detail": true,
+    "specific_detail": "提前练习开头句子挺有帮助的，比如表达需求可以说“我需要一点时间想清楚再聊”；回应观点的话可以用“我理解你的担心，但我也有一些想法”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "模拟她提出具体要求的场景，比如“你应该每天多复习一小时”，我可以练习回应说“我理解你的建议，但我觉得需要根据我的节奏来安排”。这种具体场景能让我更接近真实对话，也更好地准备。",
+    "has_specific_detail": true,
+    "specific_detail": "模拟她提出具体要求的场景，比如“你应该每天多复习一小时”，我可以练习回应说“我理解你的建议，但我觉得需要根据我的节奏来安排”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "记录那些让我情绪波动大的场景很重要，比如她批评我的学习方法时，我通常会更容易烦躁。重点练习这些高挑战场景的应对策略，能帮助我在实际沟通时更冷静，也更有针对性。",
+    "has_specific_detail": true,
+    "specific_detail": "记录那些让我情绪波动大的场景很重要，比如她批评我的学习方法时，我通常会更容易烦躁",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "自我评价可以用得上，比如回顾练习时是否能保持平稳语气或表达完整想法。找朋友帮忙观察也挺好，让他们给我一些反馈，比如我的语气是否自然，或者是否有改善的地方，这样能更客观地看到进步。",
+    "has_specific_detail": true,
+    "specific_detail": "自我评价可以用得上，比如回顾练习时是否能保持平稳语气或表达完整想法",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 45,
+    "content": "分成优点和需要改进的部分会更清晰，比如优点可以写“语气平稳”，改进的地方写“内容表达还不够具体”。这样记录更有针对性，也方便以后查看和调整，不容易遗漏关键点。",
+    "has_specific_detail": true,
+    "specific_detail": "分成优点和需要改进的部分会更清晰，比如优点可以写“语气平稳”，改进的地方写“内容表达还不够具体”",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 46,
+    "content": "按场景分类可能更方便吧，比如“讨论学习计划”或“处理争执”，这样以后遇到类似情况可以直接找到对应的记录。按日期归档也有用，但感觉场景分类更贴近实际应用。",
+    "has_specific_detail": true,
+    "specific_detail": "按场景分类可能更方便吧，比如“讨论学习计划”或“处理争执”，这样以后遇到类似情况可以直接找到对应的记录",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "标注重点挺实用的，比如用颜色区分成功的部分和需要改进的地方，这样一眼就能看出来。简短的总结也可以加上，比如“语气调整有效，但表达时有些犹豫”，方便快速回顾核心内容。",
+    "has_specific_detail": true,
+    "specific_detail": "标注重点挺实用的，比如用颜色区分成功的部分和需要改进的地方，这样一眼就能看出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "每月集中复盘是个好主意，可以全面查看各个场景的改进情况，找到共性问题和整体进步。另外也可以结合每周的小复盘，及时调整方法，感觉两者结合会更系统一些。",
+    "has_specific_detail": true,
+    "specific_detail": "每月集中复盘是个好主意，可以全面查看各个场景的改进情况，找到共性问题和整体进步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "在月度复盘时，可以制定新的练习重点，比如“更多关注语气自然”或“尝试不同开头语句”。奖励机制也可以调整，比如如果进步明显，奖励自己看一部喜欢的电影，感觉会更有动力。",
+    "has_specific_detail": true,
+    "specific_detail": "在月度复盘时，可以制定新的练习重点，比如“更多关注语气自然”或“尝试不同开头语句”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "对，需要结合具体场景，比如“讨论学习计划”这类情境我还是容易烦躁，可以把练习重点放在这里，试着用更平稳的语气或提前做好回应准备。这样针对性强，效果应该更明显。",
+    "has_specific_detail": true,
+    "specific_detail": "对，需要结合具体场景，比如“讨论学习计划”这类情境我还是容易烦躁，可以把练习重点放在这里，试着用更平稳的语气或提前做好回应准备",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "加入倾听和提问确实是好策略，比如在她提出建议时，我可以说“你的想法是什么依据？”或者“你觉得这样对我有什么帮助？”这样能让对话更互动，也可能减少我的烦躁感。",
+    "has_specific_detail": true,
+    "specific_detail": "加入倾听和提问确实是好策略，比如在她提出建议时，我可以说“你的想法是什么依据？”或者“你觉得这样对我有什么帮助？”这样能让对话更互动，也可能减少我的烦躁感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "对，提问语气要尽量温和，比如用“我想了解更多”或者“能不能多说说你的想法”，避免让对方觉得是在挑战她。而且问题要具体些，不要太笼统，否则容易让对方觉得难回答。",
+    "has_specific_detail": true,
+    "specific_detail": "对，提问语气要尽量温和，比如用“我想了解更多”或者“能不能多说说你的想法”，避免让对方觉得是在挑战她",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "复述她的观点确实是个好办法，比如说“我明白你是希望我更有计划性”，这样她会觉得自己被理解了。再加上一些认可，比如“你的建议确实有道理”，感觉能让对话继续下去，也缓解紧张气氛。",
+    "has_specific_detail": true,
+    "specific_detail": "复述她的观点确实是个好办法，比如说“我明白你是希望我更有计划性”，这样她会觉得自己被理解了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "对，可以观察她的语气是否变得更平和，或者她是否开始认真听我的回应。如果看到这些变化，就说明这些策略有效了，也会让我觉得沟通没那么困难。",
+    "has_specific_detail": true,
+    "specific_detail": "对，可以观察她的语气是否变得更平和，或者她是否开始认真听我的回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "记录这些细节很重要，比如她是否回应了我的问题，或者语气是否缓和了。如果她开始表达一些理解我的话，我可以特别标记出来，这样能让我更清楚哪些策略有效，也方便后续复盘调整。",
+    "has_specific_detail": true,
+    "specific_detail": "记录这些细节很重要，比如她是否回应了我的问题，或者语气是否缓和了",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 56,
+    "content": "设定目标很有必要，比如找出哪些策略需要优化，比如提问是否太模糊；或者强化那些有效的做法，比如复述观点是否有助于缓和气氛。这种针对性复盘能让我更明确改进方向，感觉会更有进步。",
+    "has_specific_detail": true,
+    "specific_detail": "设定目标很有必要，比如找出哪些策略需要优化，比如提问是否太模糊；或者强化那些有效的做法，比如复述观点是否有助于缓和气氛",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "达成这些目标后，我可以尝试更复杂的场景，比如讨论多个学习安排同时出现分歧的情况。另外，也可以增加一些新的表达方式，比如用更多“我觉得”或“我建议”开头，让自己的观点更清晰。",
+    "has_specific_detail": true,
+    "specific_detail": "达成这些目标后，我可以尝试更复杂的场景，比如讨论多个学习安排同时出现分歧的情况",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "提前准备很重要，比如可以模拟对话流程，想好她可能会提出哪些问题，比如“为什么你觉得这个安排更好？”然后提前列出自己的回答，这样能让我更从容地应对，减少紧张感。",
+    "has_specific_detail": true,
+    "specific_detail": "提前准备很重要，比如可以模拟对话流程，想好她可能会提出哪些问题，比如“为什么你觉得这个安排更好？”然后提前列出自己的回答，这样能让我更从容地应对，减少紧张感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "回答的逻辑性是重点，能让我的观点更清晰，她也更容易理解。但语气的温和程度也不能忽视，毕竟如果语气不够平和，可能会让她觉得我在对抗。所以这两方面都需要注意。",
+    "has_specific_detail": true,
+    "specific_detail": "回答的逻辑性是重点，能让我的观点更清晰，她也更容易理解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "语速变快确实是个提醒标志，每次感觉自己说得太急，可以停顿一下调整。另外，如果开始觉得心跳加速或手指紧张，也可能是情绪波动的信号，这时候可以试着深呼吸来缓和一下。",
+    "has_specific_detail": true,
+    "specific_detail": "语速变快确实是个提醒标志，每次感觉自己说得太急，可以停顿一下调整",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "记录成功控制情绪的时刻很重要，比如写下“在讨论学习计划时，语速慢了下来，语气保持平和”。这样能让我看到自己的进步，也更有动力继续改进沟通方式。",
+    "has_specific_detail": true,
+    "specific_detail": "记录成功控制情绪的时刻很重要，比如写下“在讨论学习计划时，语速慢了下来，语气保持平和”",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 62,
+    "content": "加入反思是个好主意，比如为什么慢语速让对话更顺畅，或者下次是否可以再多加几个提问。这样能更深入了解自己的沟通效果，也能找到进一步改进的方法，感觉会更系统一些。",
+    "has_specific_detail": true,
+    "specific_detail": "加入反思是个好主意，比如为什么慢语速让对话更顺畅，或者下次是否可以再多加几个提问",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "用问题列表会更有条理，比如“哪些调整有效？为什么？”或者“下次可以尝试什么新方法？”但自由书写也挺好，能让反思更灵活。我觉得两者结合可能效果更好，看具体情况来选。",
+    "has_specific_detail": true,
+    "specific_detail": "用问题列表会更有条理，比如“哪些调整有效？为什么？”或者“下次可以尝试什么新方法？”但自由书写也挺好，能让反思更灵活",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "定期整理很重要，比如每月汇总一次，挑出几个最有效的策略，比如“放慢语速”和“复述观点”。同时找出一些共性问题，比如“在情绪波动时容易语气急躁”，这样能让我更清楚自己的改进方向，感觉会更系统化。",
+    "has_specific_detail": true,
+    "specific_detail": "定期整理很重要，比如每月汇总一次，挑出几个最有效的策略，比如“放慢语速”和“复述观点”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "制定新行动计划很必要，比如专注解决“情绪波动导致语气急躁”这个问题，可以尝试在波动时主动做深呼吸或短暂停顿。另外，也可以尝试新的技巧，比如用更具体的提问引导对方表达，感觉会让沟通更有效。",
+    "has_specific_detail": true,
+    "specific_detail": "制定新行动计划很必要，比如专注解决“情绪波动导致语气急躁”这个问题，可以尝试在波动时主动做深呼吸或短暂停顿",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "设定阶段性目标确实能让计划更可行，比如每周减少一次语气急躁的情况，或者每次沟通中至少尝试两个互动性提问。这样目标比较具体，进步也更容易量化，感觉会更有动力去执行。",
+    "has_specific_detail": true,
+    "specific_detail": "设定阶段性目标确实能让计划更可行，比如每周减少一次语气急躁的情况，或者每次沟通中至少尝试两个互动性提问",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 67,
+    "content": "增加喜欢的活动庆祝是个好办法，比如达成目标后奖励自己打一小时游戏或者看一集喜欢的剧。这样能让我更有成就感，也更愿意继续努力，感觉是种正向循环的动力。",
+    "has_specific_detail": true,
+    "specific_detail": "增加喜欢的活动庆祝是个好办法，比如达成目标后奖励自己打一小时游戏或者看一集喜欢的剧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 68,
+    "content": "写下心得很有帮助，比如“通过提问，沟通更顺畅了，感觉更轻松。”同时可以调整下一步计划，比如尝试更多复杂情景或者优化语气细节，这样能巩固成果，也推动进一步成长。",
+    "has_specific_detail": true,
+    "specific_detail": "写下心得很有帮助，比如“通过提问，沟通更顺畅了，感觉更轻松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 69,
+    "content": "主动表达情绪感受是个好尝试，比如说“我刚刚有点紧张，希望你能理解。”这样能让对话更开放，也可能减少对方的防备。探索更开放的方式，比如分享自己的想法和困惑，感觉也会让沟通更深入。",
+    "has_specific_detail": true,
+    "specific_detail": "主动表达情绪感受是个好尝试，比如说“我刚刚有点紧张，希望你能理解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 70,
+    "content": "表达时机很重要，最好在对话比较平和的时候提到自己的情绪，比如刚开始或讨论中间。过度暴露可能让对方觉得压力太大，所以可以选择适量分享，重点放在让沟通更顺畅，而不是让情绪主导对话。",
+    "has_specific_detail": true,
+    "specific_detail": "表达时机很重要，最好在对话比较平和的时候提到自己的情绪，比如刚开始或讨论中间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 71,
+    "content": "提前练习表达句子很有帮助，比如简洁地说“我有点紧张，希望能慢慢聊”或者“我需要一点时间冷静再继续。”这样既能传达自己的感受，又不会让对方觉得过于复杂或压力太大，感觉会更有效。",
+    "has_specific_detail": true,
+    "specific_detail": "提前练习表达句子很有帮助，比如简洁地说“我有点紧张，希望能慢慢聊”或者“我需要一点时间冷静再继续",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 72,
+    "content": "模拟对方可能的回应很重要，比如她可能说“为什么需要冷静？”或者“我只是想帮你。”提前想好如何应对，比如回答“冷静一下能让我更专注听你说”或“我明白你的想法，但需要一点时间适应。”这样练习能让我在实际对话中更有准备。",
+    "has_specific_detail": true,
+    "specific_detail": "模拟对方可能的回应很重要，比如她可能说“为什么需要冷静？”或者“我只是想帮你",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 73,
+    "content": "加入细节肯定会让模拟更真实，比如想象她语气可能有点急或者带些不耐烦，这样能让我提前感受可能的压力。同时也可以想象她的情绪状态，比如她可能觉得我在逃避，这能让我更有针对性地准备回应。",
+    "has_specific_detail": true,
+    "specific_detail": "加入细节肯定会让模拟更真实，比如想象她语气可能有点急或者带些不耐烦，这样能让我提前感受可能的压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 74,
+    "content": "先从简单场景开始会更好，比如模拟她提出一个小建议而不是复杂的要求。这样能让我更轻松地练习表达和回应，等熟练了再逐步过渡到复杂情境，比如讨论多个学习安排分歧的情况，感觉循序渐进会更有效。",
+    "has_specific_detail": true,
+    "specific_detail": "先从简单场景开始会更好，比如模拟她提出一个小建议而不是复杂的要求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 75,
+    "content": "保持情绪稳定是关键，比如提前做深呼吸，让自己更平和。调整对话节奏也很重要，比如在复杂场景中放慢语速，避免情绪过快升温。同时可以加一些短暂停顿，让自己有时间理清思路，也能让对方觉得对话更从容。",
+    "has_specific_detail": true,
+    "specific_detail": "保持情绪稳定是关键，比如提前做深呼吸，让自己更平和",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 76,
+    "content": "观察自己的情绪变化，比如是否开始感觉心跳加速或语速变快，这些是需要调整的信号。对方的反应也很重要，比如她是否语气变得平和或者开始认真听我的话，这能帮助我判断技巧是否有效，让沟通更有方向。",
+    "has_specific_detail": true,
+    "specific_detail": "观察自己的情绪变化，比如是否开始感觉心跳加速或语速变快，这些是需要调整的信号",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 77,
+    "content": "记录成功的调整方式很重要，比如“深呼吸后语速变慢，对话更顺畅。”遇到的挑战也需要记录，比如“对方情绪激动时我的回应显得犹豫。”这些重点能让我更清楚哪些方法有效，哪些地方还需要改进，让后续练习更有针对性。",
+    "has_specific_detail": true,
+    "specific_detail": "记录成功的调整方式很重要，比如“深呼吸后语速变慢，对话更顺畅",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 78,
+    "content": "每周集中分析是个好方法，可以挑出效果最好的技巧，比如“放慢语速让沟通更顺畅”，以及需要优化的地方，比如“回应时内容不够具体。”定期总结能让我看到整体进步，也能及时调整方向，感觉会更系统。",
+    "has_specific_detail": true,
+    "specific_detail": "每周集中分析是个好方法，可以挑出效果最好的技巧，比如“放慢语速让沟通更顺畅”，以及需要优化的地方，比如“回应时内容不够具体",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 79,
+    "content": "设定新的尝试目标很有必要，比如优化“深呼吸+慢语速”的技巧，让它更自然流畅。也可以尝试新的沟通方式，比如在对话中主动表达感谢或认同，让对方感到被尊重，感觉能进一步改善互动效果。",
+    "has_specific_detail": true,
+    "specific_detail": "设定新的尝试目标很有必要，比如优化“深呼吸+慢语速”的技巧，让它更自然流畅",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 80,
+    "content": "提前准备感谢语句很有帮助，比如“谢谢你关注我的学习计划，这让我觉得被关心。”语气也需要调整，可以试着用柔和的语调表达感激，让对方更容易接受。这样能让执行更自然，也更有效。",
+    "has_specific_detail": true,
+    "specific_detail": "提前准备感谢语句很有帮助，比如“谢谢你关注我的学习计划，这让我觉得被关心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 81,
+    "content": "模拟她提出关心的场景很有必要，比如她说“你最近学习是不是有点累？”我可以练习回应“谢谢你的关心，我确实有点压力，但我会调整好的。”这样既表达了感激又传递了自己的状态，感觉更平和。",
+    "has_specific_detail": true,
+    "specific_detail": "模拟她提出关心的场景很有必要，比如她说“你最近学习是不是有点累？”我可以练习回应“谢谢你的关心，我确实有点压力，但我会调整好的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 82,
+    "content": "保持语气稳定很重要，比如用稍慢的语速和柔和的声调，能让对方感受到我的真诚。眼神交流也需要注意，可以在回应时看着她的眼睛，但不要过于盯着，适当的目光接触会让互动更自然，让她觉得我在认真倾听。",
+    "has_specific_detail": true,
+    "specific_detail": "保持语气稳定很重要，比如用稍慢的语速和柔和的声调，能让对方感受到我的真诚",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 83,
+    "content": "对，特别要提醒自己注意对方的情绪变化，比如她语气是否变得更放松，这说明对话在往好的方向发展。也需要避免自己过于紧张，可以在对话前深呼吸或者握一下拳头，让自己感觉更稳，减少不必要的压力。",
+    "has_specific_detail": true,
+    "specific_detail": "对，特别要提醒自己注意对方的情绪变化，比如她语气是否变得更放松，这说明对话在往好的方向发展",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 84,
+    "content": "总结是很有必要的，比如记录“眼神交流让她觉得我在认真倾听”或者“语速太快让我的观点不够清晰。”这些细节能让我找到成功的关键点和需要改进的地方，为下一次对话提供更明确的方向。",
+    "has_specific_detail": true,
+    "specific_detail": "总结是很有必要的，比如记录“眼神交流让她觉得我在认真倾听”或者“语速太快让我的观点不够清晰",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 85,
+    "content": "制定具体行动很重要，比如练习“慢语速+柔和语调”的技巧，让表达更自然流畅。也可以尝试新的方式，比如在对话开始时主动表达感谢，让沟通从一开始就更轻松，感觉这些都能进一步提升效果。",
+    "has_specific_detail": true,
+    "specific_detail": "制定具体行动很重要，比如练习“慢语速+柔和语调”的技巧，让表达更自然流畅",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 86,
+    "content": "设定小目标很实用，比如每次对话至少尝试一次“慢语速+柔和语调”，或者主动表达一次感谢。这些目标不难实现，但能帮助我持续实践新技巧，也让沟通质量逐步提升，感觉会更有动力坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "设定小目标很实用，比如每次对话至少尝试一次“慢语速+柔和语调”，或者主动表达一次感谢",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 87,
+    "content": "记录哪些对话更顺畅和哪些技巧效果最好很重要，比如写下“主动感谢让对方语气变得更温和”或者“慢语速帮助我保持冷静。”这些内容能让我看到自己的进步，也方便找到更适合自己的方法，感觉会更有成效。",
+    "has_specific_detail": true,
+    "specific_detail": "记录哪些对话更顺畅和哪些技巧效果最好很重要，比如写下“主动感谢让对方语气变得更温和”或者“慢语速帮助我保持冷静",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 88,
+    "content": "定期回顾很重要，比如每周总结哪种技巧效果最好，哪些地方还有不足。每月可以做更全面的调整，比如优化表达方式或者尝试新的沟通策略。这样能让我不断改进，也看到自己的长期进步，感觉会更系统化。",
+    "has_specific_detail": true,
+    "specific_detail": "定期回顾很重要，比如每周总结哪种技巧效果最好，哪些地方还有不足",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 89,
+    "content": "对方的反应变化很关键，比如她是否变得更愿意倾听或更少打断我，这能帮助我判断策略是否有效。自己的情绪适应也需要考虑，比如是否能保持平稳或减少烦躁感，这些因素都能指导我制定更针对性的策略。",
+    "has_specific_detail": true,
+    "specific_detail": "对方的反应变化很关键，比如她是否变得更愿意倾听或更少打断我，这能帮助我判断策略是否有效",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 90,
+    "content": "设定明确目标很有帮助，比如减少一次情绪波动或者成功主动表达一次感谢。这些具体的小目标既能让我看到自己的进步，又能让我更有动力去实践新策略，感觉会让过程更有方向感。",
+    "has_specific_detail": true,
+    "specific_detail": "设定明确目标很有帮助，比如减少一次情绪波动或者成功主动表达一次感谢",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 91,
+    "content": "进一步反思很必要，比如哪些行为让我成功，比如“慢语速让对方更愿意听我说”；也可以关注哪些情境仍需优化，比如“在她批评时情绪波动仍然明显。”这些反思能帮助我更深入了解自己的进步和不足，感觉会让沟通技巧更加完善。",
+    "has_specific_detail": true,
+    "specific_detail": "进一步反思很必要，比如哪些行为让我成功，比如“慢语速让对方更愿意听我说”；也可以关注哪些情境仍需优化，比如“在她批评时情绪波动仍然明显",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 92,
+    "content": "设定框架很有必要，比如分成行为（成功的具体做法，比如慢语速）、情境（哪些场景挑战较大，比如面对批评），以及改进建议（如何优化，比如提前深呼吸）。这样记录更条理清晰，也方便后续复盘和调整，感觉会更高效。",
+    "has_specific_detail": true,
+    "specific_detail": "设定框架很有必要，比如分成行为（成功的具体做法，比如慢语速）、情境（哪些场景挑战较大，比如面对批评），以及改进建议（如何优化，比如提前深呼吸）",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 93,
+    "content": "定期回顾记录是个好办法，比如每季度总结一次整体表现，看看哪方面进步最多。设定阶段性评估标准也很重要，比如“沟通中语气急躁次数减少50%”或“主动表达感谢的频率增加到每周两次。”这些标准能让我更清楚长期进步的方向，感觉会更有成就感。",
+    "has_specific_detail": true,
+    "specific_detail": "定期回顾记录是个好办法，比如每季度总结一次整体表现，看看哪方面进步最多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 94,
+    "content": "庆祝肯定需要，比如达成目标后可以奖励自己去看一场电影或者吃一顿喜欢的餐厅。这种特别的活动能让我更有成就感，同时也可以调整奖励方式，让它更符合我的兴趣，比如尝试新游戏或者户外活动，感觉会更有动力继续努力。",
+    "has_specific_detail": true,
+    "specific_detail": "庆祝肯定需要，比如达成目标后可以奖励自己去看一场电影或者吃一顿喜欢的餐厅",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 95,
+    "content": "回顾努力的内容很重要，比如哪些具体做法帮助我达成目标，比如“坚持慢语速和深呼吸让情绪更稳定。”同时也可以设定新的挑战，比如尝试在更复杂的沟通场景中保持平和语气，感觉这样能让我持续进步，也更有方向。",
+    "has_specific_detail": true,
+    "specific_detail": "回顾努力的内容很重要，比如哪些具体做法帮助我达成目标，比如“坚持慢语速和深呼吸让情绪更稳定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 96,
+    "content": "结合之前的记录是个好方法，比如参考“慢语速和复述观点”这些技巧在简单场景中效果很好，可以尝试把它们应用到复杂场景中。同时可以根据记录调整策略，比如优化提问方式，让对话更互动，感觉能让新挑战更有针对性。",
+    "has_specific_detail": true,
+    "specific_detail": "结合之前的记录是个好方法，比如参考“慢语速和复述观点”这些技巧在简单场景中效果很好，可以尝试把它们应用到复杂场景中",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 97,
+    "content": "提前设定反馈机制很有帮助，比如记录每次尝试的效果，比如“在复杂场景中语气是否平和”或“对方是否更愿意倾听。”邀请信任的人提供观察建议也不错，比如朋友可以帮我指出我的语气是否自然，这样能让我更清楚哪些地方需要调整，感觉会更全面。",
+    "has_specific_detail": true,
+    "specific_detail": "提前设定反馈机制很有帮助，比如记录每次尝试的效果，比如“在复杂场景中语气是否平和”或“对方是否更愿意倾听",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 98,
+    "content": "进一步分析很关键，比如哪些调整最有效，比如“慢语速明显让对方更愿意倾听。”也需要关注具体细节，比如“在复杂场景中语调是否还显得紧张。”这些重点能让我更精准地优化策略，让沟通技巧持续提升，感觉会更系统化。",
+    "has_specific_detail": true,
+    "specific_detail": "进一步分析很关键，比如哪些调整最有效，比如“慢语速明显让对方更愿意倾听",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 99,
+    "content": "探索更多主动倾听的方式是个好方向，比如在对话中多用“我明白你的意思”或“能不能再详细说说？”来让对方感觉被关注。建立更开放的对话结构也很重要，比如试着提出一些开放性问题，让沟通更双向互动，感觉能进一步提升对话质量。",
+    "has_specific_detail": true,
+    "specific_detail": "探索更多主动倾听的方式是个好方向，比如在对话中多用“我明白你的意思”或“能不能再详细说说？”来让对方感觉被关注",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 100,
+    "content": "我觉得今天聊的内容已经很丰富了，也帮我理清了不少思路。这些问题我想再消化一下，下次可以接着深入聊。今天就先到这里吧，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得今天聊的内容已经很丰富了，也帮我理清了不少思路",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

@@ -1,0 +1,364 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，我觉得上次的对话让我对自己的情绪有了更清晰的认识，尤其是面对对方态度变化时的焦虑感。这次我想更具体地聊聊，最近有件事让我又有些困扰…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得上次的对话让我对自己的情绪有了更清晰的认识，尤其是面对对方态度变化时的焦虑感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是的，前几天我们聊天时，他回复得很慢，而且语气也没之前热情。我忍不住胡思乱想，觉得他是不是对我冷淡了…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，前几天我们聊天时，他回复得很慢，而且语气也没之前热情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "当时心里很不安，总是反复看聊天记录，试图找出哪里不对。情绪上有点焦虑，甚至有些委屈，身体感觉心跳加快、胸口闷闷的…",
+    "has_specific_detail": true,
+    "specific_detail": "当时心里很不安，总是反复看聊天记录，试图找出哪里不对",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "当时我试着主动找他聊了几句，但他的回复依旧有点冷淡。我有点犹豫，不知道该不该直接说出我的感受，最后还是忍住了…",
+    "has_specific_detail": true,
+    "specific_detail": "当时我试着主动找他聊了几句，但他的回复依旧有点冷淡",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是的，我害怕如果直接说出来，他可能会觉得我太敏感，甚至会更加疏远我。我也担心这样会破坏我们之间的关系…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我害怕如果直接说出来，他可能会觉得我太敏感，甚至会更加疏远我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，可能和小时候有关吧。比如当我和父母表达一些情绪时，他们常常会安慰几句，但没有深入聊下去。所以我渐渐学会了忍着，担心多说会被忽略或者觉得自己矫情…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能和小时候有关吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是的，我确实有这种担忧，怕他说我想多了或者不在意我的感受。这样的想法让我总是很小心，尽量避免让他觉得我太“麻烦”…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实有这种担忧，怕他说我想多了或者不在意我的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "说实话，压抑感受让我并没有更安心，反而更不安。有时候甚至觉得自己越来越迷茫，不知道关系里什么才是对的…",
+    "has_specific_detail": true,
+    "specific_detail": "说实话，压抑感受让我并没有更安心，反而更不安",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "有过一些吧，比如他主动关心我的时候，问我练舞累不累，或者注意到我的小情绪。这些时候我会觉得被重视，也会轻松很多…",
+    "has_specific_detail": true,
+    "specific_detail": "有过一些吧，比如他主动关心我的时候，问我练舞累不累，或者注意到我的小情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我会很开心地回应，比如告诉他我的感受，或者谢谢他的关心。我当然希望这样的互动能多一些，但又怕主动要求会让他觉得有压力…",
+    "has_specific_detail": true,
+    "specific_detail": "我会很开心地回应，比如告诉他我的感受，或者谢谢他的关心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "也许可以用更轻松的语气，比如开玩笑地提到“你最近好像有点冷淡哦，是不是太忙啦？”这样可能不会让他觉得太严肃…",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以用更轻松的语气，比如开玩笑地提到“你最近好像有点冷淡哦，是不是太忙啦？”这样可能不会让他觉得太严肃…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我觉得他可能会解释原因，比如说最近事情多或者没注意到。我会希望他能稍微多关心下我的感受，比如说“对不起让你多想了”…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得他可能会解释原因，比如说最近事情多或者没注意到",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "如果他没有回应我的感受，我可能会觉得有点失落，但我会告诉自己他可能不是故意的，先试着冷静下来，再观察他的态度变化…",
+    "has_specific_detail": true,
+    "specific_detail": "如果他没有回应我的感受，我可能会觉得有点失落，但我会告诉自己他可能不是故意的，先试着冷静下来，再观察他的态度变化…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "有时候确实能让我缓一缓，不至于情绪太激动，但也有时候会让我更焦虑，尤其是观察后发现他还是不太主动时，我会觉得更失落…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候确实能让我缓一缓，不至于情绪太激动，但也有时候会让我更焦虑，尤其是观察后发现他还是不太主动时，我会觉得更失落…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我觉得直接表达可能会让我轻松些，至少不会再胡思乱想。但同时也会有些担心，他会不会觉得我太在意这些小事而不理解我…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得直接表达可能会让我轻松些，至少不会再胡思乱想",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "或许我可以用比较温和的方式，比如说“最近我有点敏感，总觉得你不太在意我，其实我很希望你能多关心我一点。”这样听起来没那么强硬…",
+    "has_specific_detail": true,
+    "specific_detail": "或许我可以用比较温和的方式，比如说“最近我有点敏感，总觉得你不太在意我，其实我很希望你能多关心我一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得他可能会更容易理解我的感受，因为语气比较柔和。我自己应该也会觉得舒心一些，至少不用再憋着或者胡乱猜测了…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得他可能会更容易理解我的感受，因为语气比较柔和",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得在我们聊天气氛比较轻松的时候会更合适，比如他主动关心我的时候。我可能会顺着他的关心，自然地提到自己的感受…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得在我们聊天气氛比较轻松的时候会更合适，比如他主动关心我的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "如果他的回应不如预期，我可能会有些失落，但会告诉自己这不一定代表他不在意。我会试着给彼此一些时间，再看看他的后续表现…",
+    "has_specific_detail": true,
+    "specific_detail": "如果他的回应不如预期，我可能会有些失落，但会告诉自己这不一定代表他不在意",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 20,
+    "content": "可能会试着转移注意力，比如专注练舞或者和朋友聊聊天。这些时候，我会感觉自己没那么焦虑，情绪也能慢慢平复下来…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会试着转移注意力，比如专注练舞或者和朋友聊聊天",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我觉得练舞最有效，因为一专注在动作和节奏上，就没空胡思乱想了。而且跳完后身体放松，心情也会自然好一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得练舞最有效，因为一专注在动作和节奏上，就没空胡思乱想了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得如果能和他有更多坦诚的沟通，彼此更了解对方的想法，会让我更有信心。还有就是他偶尔主动关心我的时候，也让我感到很安心。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果能和他有更多坦诚的沟通，彼此更了解对方的想法，会让我更有信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我可以试着在他主动关心我的时候，多表达我的感激和感受，比如告诉他“你这样让我觉得很开心”。另外，也可以慢慢尝试在合适的时机，温和地表达我的需求。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着在他主动关心我的时候，多表达我的感激和感受，比如告诉他“你这样让我觉得很开心”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得需要提醒自己不要过于担心结果，专注于表达自己的感受和需求就好。另外，也要相信我的坦诚是为了更好的沟通，而不是问题的来源。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要提醒自己不要过于担心结果，专注于表达自己的感受和需求就好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "如果对方反应不如预期，我会先接纳自己的情绪，比如允许自己难过一会儿，然后提醒自己这只是沟通的一部分，不代表关系的全部。也可以和信任的朋友聊聊，获取一些支持。",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方反应不如预期，我会先接纳自己的情绪，比如允许自己难过一会儿，然后提醒自己这只是沟通的一部分，不代表关系的全部",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我希望自己能更坦然地表达感受，不再总是害怕被误解或拒绝。同时，也希望能更清楚地分辨对方的态度，不再轻易把所有问题都归咎于自己。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望自己能更坦然地表达感受，不再总是害怕被误解或拒绝",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 27,
+    "content": "我觉得需要提醒自己，表达感受并不是错，它是让我和对方更了解彼此的桥梁。同时，也需要支持我去接纳可能的不完美结果，告诉自己这并不代表我的价值。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要提醒自己，表达感受并不是错，它是让我和对方更了解彼此的桥梁",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "是的，我觉得比之前更有信心了。我相信通过这些小尝试，可以慢慢改善我们的沟通，同时让我在关系中感到更自在和有力量。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得比之前更有信心了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

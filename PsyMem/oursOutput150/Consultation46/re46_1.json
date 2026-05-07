@@ -1,0 +1,437 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，是一种持续的感觉吧…总觉得心里很压抑，尤其是最近，总是特别容易情绪波动，有时候一点小事都会让我很烦躁。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，是一种持续的感觉吧…总觉得心里很压抑，尤其是最近，总是特别容易情绪波动，有时候一点小事都会让我很烦躁",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "最近考试快到了，压力有点大吧…但主要是，我感觉家里也帮不上什么忙，尤其是我妈，总是催我学习，但很少真正关心我在想什么。",
+    "has_specific_detail": true,
+    "specific_detail": "最近考试快到了，压力有点大吧…但主要是，我感觉家里也帮不上什么忙，尤其是我妈，总是催我学习，但很少真正关心我在想什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "不太会吧，她更多是盯着我的成绩，有时候我想说点自己的想法，她就觉得那是找借口，根本听不进去。",
+    "has_specific_detail": true,
+    "specific_detail": "不太会吧，她更多是盯着我的成绩，有时候我想说点自己的想法，她就觉得那是找借口，根本听不进去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "有试过几次，但每次都不太顺利，她要么觉得我太矫情，要么说“等你考好了再说”。说多了，我也不太敢再提了…",
+    "has_specific_detail": true,
+    "specific_detail": "有试过几次，但每次都不太顺利，她要么觉得我太矫情，要么说“等你考好了再说”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "其实没有，我平时跟家里其他人也不怎么交流，基本上就自己待着，感觉没什么人能理解我。",
+    "has_specific_detail": true,
+    "specific_detail": "其实没有，我平时跟家里其他人也不怎么交流，基本上就自己待着，感觉没什么人能理解我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "学校里我跟同学关系挺一般的，平时也很少主动找人聊天，有时候觉得他们离我挺远的…所以也没什么特别亲近的人。",
+    "has_specific_detail": true,
+    "specific_detail": "学校里我跟同学关系挺一般的，平时也很少主动找人聊天，有时候觉得他们离我挺远的…所以也没什么特别亲近的人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我其实挺希望能有更多交流的，但每次想主动跟别人说话，又会担心他们不感兴趣或者觉得我很奇怪，所以最后就放弃了…",
+    "has_specific_detail": true,
+    "specific_detail": "我其实挺希望能有更多交流的，但每次想主动跟别人说话，又会担心他们不感兴趣或者觉得我很奇怪，所以最后就放弃了…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，是这样…有时候会注意到一些看起来挺随和的同学，但总觉得他们已经有自己的朋友了，我突然去搭话可能会显得很突兀。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，是这样…有时候会注意到一些看起来挺随和的同学，但总觉得他们已经有自己的朋友了，我突然去搭话可能会显得很突兀",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "有时候会试着问一下作业，但通常就是聊两句就没了，后面也不知道该怎么继续…所以总感觉交流就停在表面上了。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候会试着问一下作业，但通常就是聊两句就没了，后面也不知道该怎么继续…所以总感觉交流就停在表面上了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "好像没有…每次问完就觉得对方可能没兴趣继续聊，我也怕多问会让人觉得我很烦，就赶紧结束了。",
+    "has_specific_detail": true,
+    "specific_detail": "好像没有…每次问完就觉得对方可能没兴趣继续聊，我也怕多问会让人觉得我很烦，就赶紧结束了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，有时候会注意到对方语气还算轻松，但我还是会犹豫要不要继续聊，担心如果说多了可能会弄巧成拙…总觉得自己不太会把握这种“分寸”。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有时候会注意到对方语气还算轻松，但我还是会犹豫要不要继续聊，担心如果说多了可能会弄巧成拙…总觉得自己不太会把握这种“分寸”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "应该是都怕吧，既怕被拒绝，又怕自己说话会让人觉得无聊或者不对劲…然后就更不敢往下聊了。",
+    "has_specific_detail": true,
+    "specific_detail": "应该是都怕吧，既怕被拒绝，又怕自己说话会让人觉得无聊或者不对劲…然后就更不敢往下聊了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "可能会吧…如果感觉对方真有兴趣，应该会好一点，但还是有点担心自己不知道接下来该说什么。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧…如果感觉对方真有兴趣，应该会好一点，但还是有点担心自己不知道接下来该说什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，或许会好一点吧…但每次真的聊到那时候，脑子又一片空白了，感觉提前想的话题也可能派不上用场。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，或许会好一点吧…但每次真的聊到那时候，脑子又一片空白了，感觉提前想的话题也可能派不上用场",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "好像只有在网上的时候会好一点，特别是文字聊天的时候，感觉有时间去想怎么回，还能删了重发，不会那么紧张。",
+    "has_specific_detail": true,
+    "specific_detail": "好像只有在网上的时候会好一点，特别是文字聊天的时候，感觉有时间去想怎么回，还能删了重发，不会那么紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，这可能是个办法，但我怕主动找他们聊天会显得很奇怪，或者他们会觉得我突然联系有点尴尬，不知道怎么开头。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这可能是个办法，但我怕主动找他们聊天会显得很奇怪，或者他们会觉得我突然联系有点尴尬，不知道怎么开头",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "这样可能会好一些吧，如果是针对具体事情的话感觉不会那么突兀，但我还是会担心聊完之后又没话说了，就像平时一样停在表面上…",
+    "has_specific_detail": true,
+    "specific_detail": "这样可能会好一些吧，如果是针对具体事情的话感觉不会那么突兀，但我还是会担心聊完之后又没话说了，就像平时一样停在表面上…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，这样说的话感觉会自然一些，可能也能多聊几句吧。但我还是不太确定对方会不会真的想聊这些，或者只是随便应付一下…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样说的话感觉会自然一些，可能也能多聊几句吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "是啊，我会注意对方的反应，但有时候即使对方语气还行，我还是会觉得不确定，总担心是不是自己想多了，然后就不敢再多说了。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我会注意对方的反应，但有时候即使对方语气还行，我还是会觉得不确定，总担心是不是自己想多了，然后就不敢再多说了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，也许是吧…只是我总觉得他们可能只是礼貌，不是真的想聊，可能这就是为什么我不敢继续的原因。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，也许是吧…只是我总觉得他们可能只是礼貌，不是真的想聊，可能这就是为什么我不敢继续的原因",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "也许有可能吧，但我好像很难相信这种可能性，总觉得如果我多说一点，反而会让人觉得烦或者尴尬…这种担心真的挺难摆脱的。",
+    "has_specific_detail": true,
+    "specific_detail": "也许有可能吧，但我好像很难相信这种可能性，总觉得如果我多说一点，反而会让人觉得烦或者尴尬…这种担心真的挺难摆脱的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "可能是吧…小时候有时候跟同学说话，他们会觉得我说的没意思，后来我就开始更小心了，不太敢随便开口，怕再被这样说。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是吧…小时候有时候跟同学说话，他们会觉得我说的没意思，后来我就开始更小心了，不太敢随便开口，怕再被这样说",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "当时一般会沉默吧，因为反驳好像也没用，他们只会觉得我太较真…所以后来我就尽量少说话，避免再被那样评价。",
+    "has_specific_detail": true,
+    "specific_detail": "当时一般会沉默吧，因为反驳好像也没用，他们只会觉得我太较真…所以后来我就尽量少说话，避免再被那样评价",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，我觉得自己好像确实没什么特别有趣的话题，平时也不知道该聊些什么…就总是觉得别人会对我的话没兴趣。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得自己好像确实没什么特别有趣的话题，平时也不知道该聊些什么…就总是觉得别人会对我的话没兴趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "好像偶尔会有吧，比如有一次跟同学讨论一部我们都看过的电影，他好像挺认真听的，还接着聊了几句，那时候感觉还不错。",
+    "has_specific_detail": true,
+    "specific_detail": "好像偶尔会有吧，比如有一次跟同学讨论一部我们都看过的电影，他好像挺认真听的，还接着聊了几句，那时候感觉还不错",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "可能两方面都有吧，有共同话题确实容易展开一点，而且他当时的回应也挺自然的，不会让我觉得是敷衍。那次感觉确实轻松了些。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧，有共同话题确实容易展开一点，而且他当时的回应也挺自然的，不会让我觉得是敷衍",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "嗯，这样可能会容易一些吧，如果是大家都感兴趣的东西，感觉至少不会太突兀…但有时候我还是会担心自己说得不好，不知道别人会不会接话。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样可能会容易一些吧，如果是大家都感兴趣的东西，感觉至少不会太突兀…但有时候我还是会担心自己说得不好，不知道别人会不会接话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "这样的话可能会好一点，至少不用自己一直想着说什么…但有时候我也怕问太多会让人觉得烦，或者显得我很笨。",
+    "has_specific_detail": true,
+    "specific_detail": "这样的话可能会好一点，至少不用自己一直想着说什么…但有时候我也怕问太多会让人觉得烦，或者显得我很笨",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "或许可以吧，如果是围绕他们感兴趣的内容问，应该不会太尴尬…但我还是需要试着克服那种总觉得自己在“打扰人”的想法。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以吧，如果是围绕他们感兴趣的内容问，应该不会太尴尬…但我还是需要试着克服那种总觉得自己在“打扰人”的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "嗯…可能下次课后问问同学复习方法会是个机会吧，感觉这种学习相关的话题比较自然，不会让人觉得突兀。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯…可能下次课后问问同学复习方法会是个机会吧，感觉这种学习相关的话题比较自然，不会让人觉得突兀",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "对，或许可以问问他们对考试的感觉，或者有没有觉得哪部分特别难，这样说不定能多聊几句…但我还是要鼓起点勇气才行。",
+    "has_specific_detail": true,
+    "specific_detail": "对，或许可以问问他们对考试的感觉，或者有没有觉得哪部分特别难，这样说不定能多聊几句…但我还是要鼓起点勇气才行",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "嗯，如果试了之后对方真的愿意聊下去，我觉得会有点信心吧…可能也能让我以后没那么害怕主动开口了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果试了之后对方真的愿意聊下去，我觉得会有点信心吧…可能也能让我以后没那么害怕主动开口了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "好的，谢谢你！今天聊了这些，我觉得有点方向了，回头我再试试看，有需要的话会再找你聊的。",
+    "has_specific_detail": true,
+    "specific_detail": "好的，谢谢你！今天聊了这些，我觉得有点方向了，回头我再试试看，有需要的话会再找你聊的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

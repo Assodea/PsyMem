@@ -1,0 +1,622 @@
+[
+  {
+    "turn": 1,
+    "content": "好的，我记得上次我们聊到我在职场和家庭之间的压力，还有和父亲沟通的困惑。最近，我还是觉得有些疲惫，尤其是工作上项目增加了不少，回家后还得陪孩子写作业，经常感到时间根本不够用…",
+    "has_specific_detail": true,
+    "specific_detail": "好的，我记得上次我们聊到我在职场和家庭之间的压力，还有和父亲沟通的困惑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，这种感觉最强烈的时候，应该是下班回家后。比如有时候白天工作没做完，晚上还要抽空处理邮件，但孩子又缠着我陪他玩或者辅导功课，我真不知道该先顾哪边…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这种感觉最强烈的时候，应该是下班回家后",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "通常，我会先安抚孩子，比如陪他玩一会儿或者安排他先看书，然后赶紧处理手头的工作。但这样总让我觉得有些愧疚，好像对谁都没做到最好…",
+    "has_specific_detail": true,
+    "specific_detail": "通常，我会先安抚孩子，比如陪他玩一会儿或者安排他先看书，然后赶紧处理手头的工作",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "是的，这种愧疚感常让我感到焦虑，甚至有点挫败。尤其是看到孩子失望的表情时，我会觉得自己是不是没尽到一个好母亲的责任…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种愧疚感常让我感到焦虑，甚至有点挫败",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我觉得“好母亲”应该是能陪伴孩子成长，关注他的需求，同时还能把自己的事情处理好。但我常常觉得自己做得不够，比如有时工作占用了太多时间，就没办法专心陪他…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得“好母亲”应该是能陪伴孩子成长，关注他的需求，同时还能把自己的事情处理好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我觉得可能两方面都有吧。一方面是我自己希望给孩子更多陪伴，另一方面也可能是小时候父亲对我的高期待影响了我，我总觉得必须做好每件事才能让人满意…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，小时候父亲总是特别关注我的学习成绩，比如每次考试都要问分数和排名。如果考得好，他会表扬我；但如果稍微差一些，他的表情就会很严肃，虽然不说什么，但我能感觉到他的失望…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，小时候父亲总是特别关注我的学习成绩，比如每次考试都要问分数和排名",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "那时候我会更加努力学习，希望下一次能让他满意。但如果还是达不到预期，我就会有点自责，甚至会偷偷哭一会儿，因为觉得自己不够好…",
+    "has_specific_detail": true,
+    "specific_detail": "那时候我会更加努力学习，希望下一次能让他满意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "是的，现在也有类似的感觉。在工作中，我总想把事情做到完美，生怕出错被批评；在家庭中，我也担心没能尽到妻子和母亲的责任，常常自我怀疑…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，现在也有类似的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "是的，会影响到我的情绪。有时候事情多了，我会变得很紧张，甚至对一些小问题也特别在意。偶尔还会因为一点小事跟家人发脾气，之后又觉得很后悔…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，会影响到我的情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "每次后悔时，我会试着跟家人道歉，说自己刚刚情绪不好。但内心还是会自责，觉得不该让他们感受到我的负面情绪，有时只能靠深呼吸或者暂时独处来平复心情…",
+    "has_specific_detail": true,
+    "specific_detail": "每次后悔时，我会试着跟家人道歉，说自己刚刚情绪不好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我觉得可能两者都有吧。一方面是觉得对家人不够温和，特别是孩子；另一方面也对自己失望，觉得怎么会连情绪都控制不好，像是辜负了自己的期待…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得两者都有吧。我自己希望成为一个能被孩子依赖、被家人认可的人，但也会担心外人怎么看，比如亲戚或者朋友会不会觉得我不称职…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "或许会吧，如果没有外界的眼光，我可能会对自己的表现少一些苛责。但内心还是会觉得，孩子和家人的感受才是最重要的，我不想让他们失望…",
+    "has_specific_detail": true,
+    "specific_detail": "或许会吧，如果没有外界的眼光，我可能会对自己的表现少一些苛责",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "其实家人有时会安慰我，比如丈夫会说“别太累了，我们可以分担一些”，孩子也会跟我说“妈妈别生气，我会乖一点”。听到这些话时，我会觉得有点心酸又感动…",
+    "has_specific_detail": true,
+    "specific_detail": "其实家人有时会安慰我，比如丈夫会说“别太累了，我们可以分担一些”，孩子也会跟我说“妈妈别生气，我会乖一点”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "是的，这些时刻确实让我觉得被家人理解和支持，也会觉得自己并没有想象中那么糟糕。但同时也让我意识到，他们也在迁就我，我希望能更好地回应他们的关心…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这些时刻确实让我觉得被家人理解和支持，也会觉得自己并没有想象中那么糟糕",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "或许不一定非要“完美”。我觉得有时更真诚地和他们沟通，表达我的感受和想法，也是一种回应方式。只是我还有点担心，会不会说出来反而让他们担心我…",
+    "has_specific_detail": true,
+    "specific_detail": "或许不一定非要“完美”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，这样的方式听起来确实更自然一些。如果能适度表达感激和感受，或许不会让他们担心太多，还能让彼此更理解对方的想法。我觉得可以尝试这样做…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式听起来确实更自然一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得可以从和丈夫开始，他比较容易沟通。或许等我们孩子睡了之后，我可以跟他说说最近的感受，也感谢他平时的支持，看看他的想法…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从和丈夫开始，他比较容易沟通",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我想可以从最近的忙碌说起，比如工作上的压力，以及孩子需要我陪伴的时间不够，然后再表达对他这些天分担家务的感谢。我觉得这样会比较自然…",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以从最近的忙碌说起，比如工作上的压力，以及孩子需要我陪伴的时间不够，然后再表达对他这些天分担家务的感谢",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "如果他提出想法或建议，我会认真听，然后根据实际情况回应，比如觉得可行就一起试试看。如果有不同的看法，我会尽量温和地表达自己的想法，和他商量着来…",
+    "has_specific_detail": true,
+    "specific_detail": "如果他提出想法或建议，我会认真听，然后根据实际情况回应，比如觉得可行就一起试试看",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我特别想让他知道，其实我有时候真的很累，但不是不愿意付出，而是希望能多一些理解和支持。还有，我也希望他知道，他的关心对我来说很重要，让我觉得自己不是孤军奋战…",
+    "has_specific_detail": true,
+    "specific_detail": "我特别想让他知道，其实我有时候真的很累，但不是不愿意付出，而是希望能多一些理解和支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不愿意",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我可能会这样说：“最近我有点累，但并不是不想承担责任，而是压力有点多。你的关心对我真的很重要，让我觉得自己不是一个人在撑着。”这样应该能比较真实地表达我的感受…",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会这样说：“最近我有点累，但并不是不想承担责任，而是压力有点多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得他可能会先表示理解，然后安慰我，让我不用太勉强自己。我希望他能继续支持我，比如在具体事情上帮我分担一些，或者只是多些鼓励也好…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得他可能会先表示理解，然后安慰我，让我不用太勉强自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "是的，我觉得可以更明确一点，比如让他多陪孩子玩一会儿，这样我可以专心处理工作上的事情。这样具体一点，他也更容易理解我的需求…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可以更明确一点，比如让他多陪孩子玩一会儿，这样我可以专心处理工作上的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "如果他开始分担，我会感到轻松一些，也会很感激他。但可能也会有些担心，比如他会不会觉得我在逃避责任，或者这种安排能不能长久维持…",
+    "has_specific_detail": true,
+    "specific_detail": "如果他开始分担，我会感到轻松一些，也会很感激他",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "或许可以定期聊聊各自的感受，比如一周后看看这样的分工是否让大家都觉得合适。如果有问题，再一起调整，这样能更透明，也减少误解吧…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以定期聊聊各自的感受，比如一周后看看这样的分工是否让大家都觉得合适",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我希望重点聊彼此的感受，比如这段时间分担的安排是否让他觉得合适，或者有没有觉得哪里还需要调整。我也想听听他对孩子的陪伴有什么新的想法，这样我们可以更好地配合…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望重点聊彼此的感受，比如这段时间分担的安排是否让他觉得合适，或者有没有觉得哪里还需要调整",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我最想让他知道的是，我真的很感谢他的付出和支持，这让我感觉轻松了很多。同时，我也希望他明白，这种分担不仅帮助了我，也让我们整个家庭更有默契、更和谐…",
+    "has_specific_detail": true,
+    "specific_detail": "我最想让他知道的是，我真的很感谢他的付出和支持，这让我感觉轻松了很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得会的，这样的交流可能会让我们更理解彼此，也更有默契。我希望通过这样的对话，能让我们的关系变得更亲近，更像一个团队…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会的，这样的交流可能会让我们更理解彼此，也更有默契",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "是的，我觉得需要调整自己的心态，告诉自己不必事事都追求完美，适当放手也是一种对家庭的负责。我需要学会接受自己的不完美…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得需要调整自己的心态，告诉自己不必事事都追求完美，适当放手也是一种对家庭的负责",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我觉得可以试着给自己设定更现实的目标，比如每天只完成最重要的几件事，而不是把所有事情都做完。另外，当出现小失误时，提醒自己这并不影响整体大局，慢慢去适应这种思维…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着给自己设定更现实的目标，比如每天只完成最重要的几件事，而不是把所有事情都做完",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "如果情绪波动或自我怀疑，我会试着停下来深呼吸，告诉自己“已经尽力了”。也会想想家人的支持和理解，这让我觉得自己并不是孤单的…",
+    "has_specific_detail": true,
+    "specific_detail": "如果情绪波动或自我怀疑，我会试着停下来深呼吸，告诉自己“已经尽力了”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我希望能变得更放松一些，不再被“必须完美”的压力束缚。同时也希望自己能更自信地面对挑战，感受到家庭和工作的平衡与满足感…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能变得更放松一些，不再被“必须完美”的压力束缚",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 35,
+    "content": "我觉得最重要的是调整心态，学会接受自己的局限性。只要踏出第一步，比如明确分工或者表达感受，就能慢慢积累信心和改变的动力…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最重要的是调整心态，学会接受自己的局限性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我想先从和丈夫的沟通开始，选一个合适的时机表达我的感受和感谢，同时讨论一些具体的分工安排。我觉得这是一个比较自然的开始…",
+    "has_specific_detail": true,
+    "specific_detail": "我想先从和丈夫的沟通开始，选一个合适的时机表达我的感受和感谢，同时讨论一些具体的分工安排",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "会的，我会先理清楚自己的想法，比如想表达的感受和希望达成的共识。还会尽量让自己放松些，避免在情绪起伏时沟通，这样效果会更好…",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我会先理清楚自己的想法，比如想表达的感受和希望达成的共识",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 38,
+    "content": "我会看我们是否达成了一些明确的分工，或者他是否对我的感受有更多理解。如果沟通后彼此感觉更轻松、更有默契，我觉得就是一个很好的开始…",
+    "has_specific_detail": true,
+    "specific_detail": "我会看我们是否达成了一些明确的分工，或者他是否对我的感受有更多理解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "如果沟通顺利，我觉得可以尝试把这种交流变成一种习惯，比如定期聊彼此的感受和需求。同时，我也希望能逐步调整自己的工作节奏，给自己更多喘息的空间…",
+    "has_specific_detail": true,
+    "specific_detail": "如果沟通顺利，我觉得可以尝试把这种交流变成一种习惯，比如定期聊彼此的感受和需求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我觉得可以先从划分优先级开始，把每天的任务列出来，只处理最重要的几项。另外，我也想试着减少加班时间，把晚上更多留给家人和自己…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从划分优先级开始，把每天的任务列出来，只处理最重要的几项",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "如果遇到困难，我会先冷静下来，把事情重新排序，看看是否有可以推迟或分配给别人的任务。如果实在忙不过来，我会试着向同事或家人寻求一些帮助…",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到困难，我会先冷静下来，把事情重新排序，看看是否有可以推迟或分配给别人的任务",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 42,
+    "content": "我会直接说明自己的情况，比如“最近事情有点多，可能需要你帮忙分担一下”，同时也表达对对方支持的感谢，这样应该能让人感受到我的真诚…",
+    "has_specific_detail": true,
+    "specific_detail": "我会直接说明自己的情况，比如“最近事情有点多，可能需要你帮忙分担一下”，同时也表达对对方支持的感谢，这样应该能让人感受到我的真诚…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 43,
+    "content": "如果得到积极回应，我会觉得更有信心，也会明白适当寻求帮助并不代表自己无能。这样的经历可能让我更愿意主动调整自己的节奏，不再把所有压力都扛在自己身上…",
+    "has_specific_detail": true,
+    "specific_detail": "如果得到积极回应，我会觉得更有信心，也会明白适当寻求帮助并不代表自己无能",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "我觉得可以多关注自己的小进步，比如每次顺利完成分工或沟通后，告诉自己“做得不错”。也可以偶尔奖励自己，比如看一部喜欢的电影，给自己一点放松时间…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以多关注自己的小进步，比如每次顺利完成分工或沟通后，告诉自己“做得不错”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "我觉得可以从今天晚上开始，等孩子睡了后找个安静的时间和丈夫聊聊。正好最近工作压力也比较大，我想趁机表达一下我的感受和想法…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从今天晚上开始，等孩子睡了后找个安静的时间和丈夫聊聊",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "会的，我会简单理一下思路，比如先从最近的感受说起，再感谢他平时的支持，最后讨论一些具体的分工安排。同时也让自己放松些，避免太紧张…",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我会简单理一下思路，比如先从最近的感受说起，再感谢他平时的支持，最后讨论一些具体的分工安排",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 47,
+    "content": "我希望能感受到彼此更多的理解和支持，同时也希望这次对话能让我对自己有更多信心，觉得沟通和分担是可以带来改变的…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能感受到彼此更多的理解和支持，同时也希望这次对话能让我对自己有更多信心，觉得沟通和分担是可以带来改变的…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "谢谢你的鼓励！我会努力尝试的，也会留意自己的感受。如果有新的进展，我一定再来和你分享！今天先聊到这里吧，我们下次见！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励！我会努力尝试的，也会留意自己的感受",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  }
+]

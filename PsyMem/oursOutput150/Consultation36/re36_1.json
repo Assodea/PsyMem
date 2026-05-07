@@ -1,0 +1,668 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近我对一个女性朋友产生了好感，但一直不敢向她表白。我总是担心她会拒绝，觉得自己可能不够好…这种感觉让我很焦虑。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近我对一个女性朋友产生了好感，但一直不敢向她表白",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "她性格很开朗，和别人相处特别自然，这点让我很羡慕。她总是愿意倾听别人，这种温暖的感觉让我觉得很特别…但我又害怕自己表达了以后会影响我们现在的关系。",
+    "has_specific_detail": true,
+    "specific_detail": "她性格很开朗，和别人相处特别自然，这点让我很羡慕",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我们平时聊得挺多的，有时候她会主动找我一起学习或者参加活动，感觉关系还算融洽。她对我态度挺友好，但我不确定是不是只是朋友之间的那种关心…这让我有点不敢多想。",
+    "has_specific_detail": true,
+    "specific_detail": "我们平时聊得挺多的，有时候她会主动找我一起学习或者参加活动，感觉关系还算融洽",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "有时候她会记得我提过的小细节，比如我喜欢吃的东西或者喜欢的书，这让我觉得她挺用心的。但又觉得可能只是她的性格，对别人也一样友好…这种矛盾让我很纠结。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候她会记得我提过的小细节，比如我喜欢吃的东西或者喜欢的书，这让我觉得她挺用心的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是的，我总觉得她的善意可能不只是对我，而是对所有人都很自然。我会想是不是我自己太敏感了，总在放大这些细节…这让我既想靠近她，又害怕误解她的心意。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我总觉得她的善意可能不只是对我，而是对所有人都很自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "对啊，我确实比较注意别人对我的一些细节，尤其是他们的态度或者言语。有时候会觉得自己太在意了，这种敏感让我容易胡思乱想，比如会猜测别人是不是对我有意见…但又停不下来。",
+    "has_specific_detail": true,
+    "specific_detail": "对啊，我确实比较注意别人对我的一些细节，尤其是他们的态度或者言语",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我觉得可能跟小时候家里对我的关注方式有关吧，父母比较看重我的表现，但很少直接表达情感上的关心。我总是想从细节中判断他们对我的态度，可能这种习惯一直延续到现在了…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能跟小时候家里对我的关注方式有关吧，父母比较看重我的表现，但很少直接表达情感上的关心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "确实，这种敏感让我很在意别人是不是认可我，尤其是关系重要的人。如果感觉对方不回应我的期待，我会忍不住自我怀疑，比如是不是我哪里做得不好…这让我对人际关系总有点不安。",
+    "has_specific_detail": true,
+    "specific_detail": "确实，这种敏感让我很在意别人是不是认可我，尤其是关系重要的人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "会的，我经常压抑自己的想法，比如有时候很想主动约她出来聊聊天，但担心她会觉得我太刻意或者不自在。我怕一旦表达了，就破坏了我们现在的平衡关系…这种顾虑让我很犹豫。",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我经常压抑自己的想法，比如有时候很想主动约她出来聊聊天，但担心她会觉得我太刻意或者不自在",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得这样可能会好一些，毕竟日常互动比较自然，也不会有太大的压力。慢慢了解她的想法，或许能让我更清楚她对我们的关系怎么看，但我还是会担心自己是不是太被动了…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这样可能会好一些，毕竟日常互动比较自然，也不会有太大的压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "或许可以试着在聊天中多分享一些我的想法，比如聊兴趣或者对未来的看法，让她更了解我。我觉得这样既主动又不过分直接，可能能缓解我的不安…你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试着在聊天中多分享一些我的想法，比如聊兴趣或者对未来的看法，让她更了解我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我觉得可以聊一些我们共同的兴趣，比如她也喜欢的书或者电影，顺便分享我的看法。还有关于未来的规划，她好像对职业发展挺有想法，我可以问问她的看法，这样可能更自然吧？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以聊一些我们共同的兴趣，比如她也喜欢的书或者电影，顺便分享我的看法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我可能会从最近看的书或者电影入手，先分享自己的感受，然后问她的看法。比如，“我最近看了XX，觉得里面的观点挺有意思，你怎么看呢？”这样可能比较轻松吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会从最近看的书或者电影入手，先分享自己的感受，然后问她的看法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我想多了解她的想法和价值观吧，尤其是她对生活和未来的看法。我觉得这些能让我更清楚我们是不是有相似的方向，也能让我更坚定自己的心意。",
+    "has_specific_detail": true,
+    "specific_detail": "我想多了解她的想法和价值观吧，尤其是她对生活和未来的看法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我希望未来能有稳定的职业，同时能和重要的人一起分享生活的点滴。和她聊天时，她也提到过希望能找到平衡生活和工作的方式，这让我觉得我们有些共鸣，但还是不确定她对亲密关系的看法…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望未来能有稳定的职业，同时能和重要的人一起分享生活的点滴",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "她偶尔会提到自己希望未来的关系能互相支持，但具体的细节她没有多说。我感觉她挺重视独立性，可能希望两个人都有各自的成长空间…但我又不太敢直接问她这些。",
+    "has_specific_detail": true,
+    "specific_detail": "她偶尔会提到自己希望未来的关系能互相支持，但具体的细节她没有多说",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，这样或许会让我没那么紧张，比如顺着她说的独立性聊聊我对互相支持的理解，再问她怎么看。我觉得这样既轻松又能慢慢了解她，可能是个好方法！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样或许会让我没那么紧张，比如顺着她说的独立性聊聊我对互相支持的理解，再问她怎么看",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "是的，这种方式让我感觉更自然，也不会太直接。通过交流看法，可能能让我们对彼此的理解更深一点，也许还能让她感受到我的认真和在乎…这样就没那么害怕了。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种方式让我感觉更自然，也不会太直接",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我想找个轻松的时机，比如下次我们一起学习或者聊电影的时候，再顺势提起这些话题。这样感觉不会太刻意，也更容易让她愿意分享自己的想法。",
+    "has_specific_detail": true,
+    "specific_detail": "我想找个轻松的时机，比如下次我们一起学习或者聊电影的时候，再顺势提起这些话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，我觉得可以先想好要分享的书或者电影，或者对未来规划的一个小点，这样对话更自然。也可能会提前回顾她之前提到的想法，好让自己更有方向。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以先想好要分享的书或者电影，或者对未来规划的一个小点，这样对话更自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我想表达的是我真的很重视我们之间的交流，也希望她能看到我对生活和未来的认真态度。我觉得这些可能会让她更了解我的心意，同时也让我更有信心去面对她的回应。",
+    "has_specific_detail": true,
+    "specific_detail": "我想表达的是我真的很重视我们之间的交流，也希望她能看到我对生活和未来的认真态度",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "会的，我很希望通过她的回应更清楚她的态度，比如她是否愿意主动分享更多自己的想法。如果她对这些话题感兴趣，那可能会让我觉得我们的关系真的有进一步的可能…这对我来说很重要。",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我很希望通过她的回应更清楚她的态度，比如她是否愿意主动分享更多自己的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "如果她愿意深入交流，我可能会试着更多分享自己的感受和对她的欣赏，比如她的开朗和细心。我觉得逐步表达我的好感，可能能让我们之间变得更自然和亲近。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她愿意深入交流，我可能会试着更多分享自己的感受和对她的欣赏，比如她的开朗和细心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我可能会犹豫自己是不是表达得过多，或者担心她感到压力。我觉得需要注意的是保持节奏，让对话自然发展，而不是显得太急切或刻意…这样可能会让她更舒适一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会犹豫自己是不是表达得过多，或者担心她感到压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得可以告诉自己，不管结果如何，至少尝试了就不会后悔。我也想把更多注意力放在当下的交流上，享受与她相处的过程，而不是一味担心结果。这样可能会让我更放松些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以告诉自己，不管结果如何，至少尝试了就不会后悔",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得可以先试着让我们聊得更深入一点，比如关于兴趣和未来的看法。还有希望能主动约她一次，比如一起学习或者看电影，看看她是否愿意接受我的邀请…这是我想尝试的小目标！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先试着让我们聊得更深入一点，比如关于兴趣和未来的看法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "是的，我会尽量让邀请看起来轻松一些，比如说“最近有部电影挺有意思，要不要一起去看看？”或者“你觉得周末一起学习怎么样？”这样感觉不太突兀，也能体现我的真诚。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我会尽量让邀请看起来轻松一些，比如说“最近有部电影挺有意思，要不要一起去看看？”或者“你觉得周末一起学习怎么样？”这样感觉不太突兀，也能体现我的真诚",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "如果她接受，我会很开心，觉得这是进一步了解她的机会；如果她拒绝，我会试着理解她的理由，告诉自己不需要太过自责。至少我迈出了这一步，也算是一种成长吧！",
+    "has_specific_detail": true,
+    "specific_detail": "如果她接受，我会很开心，觉得这是进一步了解她的机会；如果她拒绝，我会试着理解她的理由，告诉自己不需要太过自责",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得可以先整理好自己想聊的话题，比如共同的兴趣或者未来的规划，这样能让对话更顺畅。同时提醒自己，这只是一次轻松的邀请，不需要给自己太大压力！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先整理好自己想聊的话题，比如共同的兴趣或者未来的规划，这样能让对话更顺畅",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我希望让她感受到我的真诚和认真，比如对她的想法的尊重，以及对我们交流的重视。我觉得这样能让她知道我是真心想了解她，而不是随意的互动。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望让她感受到我的真诚和认真，比如对她的想法的尊重，以及对我们交流的重视",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我会注意倾听她的分享，回应她的想法，比如用具体的细节去表达我的认同或关注。还可以在聊天中提到之前她分享过的事，这样能让她感觉到我一直在留意她的心意。",
+    "has_specific_detail": true,
+    "specific_detail": "我会注意倾听她的分享，回应她的想法，比如用具体的细节去表达我的认同或关注",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "如果发现她对某个话题特别感兴趣，我会多问一些开放式的问题，比如“你是怎么开始喜欢这个的？”或者“你觉得它对你来说最大的意义是什么？”这样既能深入了解她，也能让对话更自然。",
+    "has_specific_detail": true,
+    "specific_detail": "如果发现她对某个话题特别感兴趣，我会多问一些开放式的问题，比如“你是怎么开始喜欢这个的？”或者“你觉得它对你来说最大的意义是什么？”这样既能深入了解她，也能让对话更自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "如果她主动问我的想法，我会分享一些和她兴趣相关的经历或感受，比如我对某本书的理解，或者自己对未来的一些规划。我觉得这样既能回应她，也能让她更了解我的真实一面。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她主动问我的想法，我会分享一些和她兴趣相关的经历或感受，比如我对某本书的理解，或者自己对未来的一些规划",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我希望她能感受到我的真诚和用心，知道我真的重视与她的交流。同时也希望她能看到我的认真和对未来的思考，感觉我是一个值得信赖的人。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她能感受到我的真诚和用心，知道我真的重视与她的交流",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我会通过关注她的想法、主动倾听和回应来展现真诚，比如细心记住她提到的细节，还会分享我的规划和努力，让她看到我的认真和可靠。这样感觉会更自然一些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我会通过关注她的想法、主动倾听和回应来展现真诚，比如细心记住她提到的细节，还会分享我的规划和努力，让她看到我的认真和可靠",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我希望能通过这些互动让我们关系更亲近，慢慢建立更深的信任。如果有机会，我也希望最终能勇敢表达自己的好感，看看她是否愿意进一步了解我的心意。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能通过这些互动让我们关系更亲近，慢慢建立更深的信任",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 37,
+    "content": "我觉得最需要注意的是不要太急于求成，保持自然的节奏。同时也要给自己更多的肯定，提醒自己已经在努力迈出一步，就算有不确定，也是一种成长。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最需要注意的是不要太急于求成，保持自然的节奏",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我可能会试着做些自己喜欢的事，比如读书或者运动，转移注意力。另外也会和信任的朋友聊聊，让他们帮我分析情况，这样感觉能缓解不安，让我重新找回平静。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会试着做些自己喜欢的事，比如读书或者运动，转移注意力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我觉得如果困惑不是特别敏感的话，我可能会试着直接问她，比如她的想法或感受。我希望通过坦诚的交流，让我们之间的关系更清晰，也减少自己的胡思乱想。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果困惑不是特别敏感的话，我可能会试着直接问她，比如她的想法或感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "可能是在我们互动很自然、彼此感觉比较轻松的时候，比如聊到共同话题或者她主动分享一些个人想法时。我觉得这种氛围会让我更有信心去问她的真实感受，也不会显得太突然。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是在我们互动很自然、彼此感觉比较轻松的时候，比如聊到共同话题或者她主动分享一些个人想法时",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我可能会用比较随意的方式提问，比如“我一直很好奇，你怎么看待这样的事？”或者“你有想过以后会怎么选择吗？”这样感觉比较轻松，也能让她更愿意分享。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会用比较随意的方式提问，比如“我一直很好奇，你怎么看待这样的事？”或者“你有想过以后会怎么选择吗？”这样感觉比较轻松，也能让她更愿意分享",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "我会认真倾听她的分享，然后结合自己的想法回应，比如说“我觉得你这个观点很特别，和我的想法还挺接近的。”或者提到她之前聊过的内容，表现出我一直在关注她的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "我会认真倾听她的分享，然后结合自己的想法回应，比如说“我觉得你这个观点很特别，和我的想法还挺接近的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "如果她愿意主动找我聊天，或者对我的分享表现出兴趣，还会记住我提到的一些细节，这些都可能是积极的信号吧。我觉得如果她也主动回应或者延续对话，可能说明她对我们的关系也有一定的重视。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她愿意主动找我聊天，或者对我的分享表现出兴趣，还会记住我提到的一些细节，这些都可能是积极的信号吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "如果发现这些信号，我可能会试着更主动一些，比如邀请她一起做点轻松的事情，或者更多分享我的感受，让她知道我很珍视我们的互动。我觉得这样可能能让关系更进一步吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果发现这些信号，我可能会试着更主动一些，比如邀请她一起做点轻松的事情，或者更多分享我的感受，让她知道我很珍视我们的互动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "我觉得可以通过行动来展现，比如在她需要帮助时主动支持她，或者做些让她感到温暖的小事。比如记得她喜欢的东西，偶尔给她带一份小惊喜，这可能会让她感受到我的心意吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以通过行动来展现，比如在她需要帮助时主动支持她，或者做些让她感到温暖的小事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "我希望她能感受到我的诚意，可能不需要太特别的回应，只要她展现出开心或者认可，我就会觉得很满足。更重要的是，我希望我们之间的关系能因此变得更自然、更亲近。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她能感受到我的诚意，可能不需要太特别的回应，只要她展现出开心或者认可，我就会觉得很满足",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "如果她没有明显回应，我会试着理解她可能有自己的节奏，不一定每次都能表现出来。我会告诉自己，这并不代表我做得不好，而是关系还需要时间慢慢发展。这样可能能让我更平和一些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她没有明显回应，我会试着理解她可能有自己的节奏，不一定每次都能表现出来",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 48,
+    "content": "我觉得可以适时调整自己的期待，专注于享受与她相处的过程，而不是过度关注结果。也可以通过写日记或者和朋友倾诉来梳理自己的感受，这样既能保持真诚，也能更好地保护自己的情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以适时调整自己的期待，专注于享受与她相处的过程，而不是过度关注结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "我希望提醒自己专注于积极的一面，比如我们相处的美好瞬间和她给予我的回应。同时也要记得肯定自己的努力，告诉自己尝试本身就是一种进步，无论结果如何都值得珍惜。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望提醒自己专注于积极的一面，比如我们相处的美好瞬间和她给予我的回应",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 50,
+    "content": "我觉得最大的收获是学会了更关注当下的交流，而不是过度担心结果。也明白了自己的感受和努力是有价值的，哪怕面对不确定性，勇敢尝试也是一种成长。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最大的收获是学会了更关注当下的交流，而不是过度担心结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "谢谢你！今天聊了这么多，让我感觉轻松了不少，也更清楚自己接下来可以做些什么。我会好好思考这些问题，之后再来和你分享我的进展吧！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你！今天聊了这么多，让我感觉轻松了不少，也更清楚自己接下来可以做些什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

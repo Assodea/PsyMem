@@ -1,0 +1,512 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近我还是在为婚姻的事感到困扰。前几天，我们因为家务分配又有点争执，我觉得他总是对我的付出不够重视，这让我很沮丧…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近我还是在为婚姻的事感到困扰",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是的，真的让我很难受。那天我下班回家，发现又是家里乱糟糟的，我忍不住抱怨了一句，他却说“你比我更在意这些，不如你做吧”。这话让我觉得他根本不理解我的感受…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，真的让我很难受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "当时我心里特别委屈，觉得自己做了很多却被轻描淡写地忽略了。我没直接吵架，只说了一句“那你就不能多帮帮忙吗？”但他只是敷衍地应了一下…",
+    "has_specific_detail": true,
+    "specific_detail": "当时我心里特别委屈，觉得自己做了很多却被轻描淡写地忽略了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "是的，他的敷衍让我更觉得孤单。我其实希望他能主动说“我知道你辛苦了，我来分担一些”，哪怕只是做一点点，也会让我觉得被在乎…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，他的敷衍让我更觉得孤单",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是的，我很渴望被在乎。我试着跟他沟通过几次，比如说我觉得这样让我很累，但他总是说“你想太多了”或者“这不是什么大事”，让我觉得更难沟通下去…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我很渴望被在乎",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯…其实有时候他会主动买些我喜欢的零食，或者在我加班晚回家时帮我热饭。但这些小事相比大的问题，还是让我感觉不够…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯…其实有时候他会主动买些我喜欢的零食，或者在我加班晚回家时帮我热饭",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是的，这种感觉确实很强烈。我觉得可能是婚后一年左右吧，特别是我们搬来和他父母一起住之后，那种落差感就越来越明显了…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种感觉确实很强烈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，和他父母住让我觉得很压抑。他们总会对我们的生活方式指手画脚，比如饮食习惯、作息时间，甚至催生孩子。这让我觉得没有自己的空间，压力特别大…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，和他父母住让我觉得很压抑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我和他提过我的感受，但他总觉得父母年纪大了，需要多包容。他还会说“他们是为我们好”，让我觉得自己的感受被忽视了，特别无奈…",
+    "has_specific_detail": true,
+    "specific_detail": "我和他提过我的感受，但他总觉得父母年纪大了，需要多包容",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "是的，我真的感觉很孤单。我试着说过，希望他能在父母面前为我说几句，或者帮忙缓和矛盾，但他总是回避，说怕伤了父母的心…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我真的感觉很孤单",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "是的，我真的希望他能更坚定地支持我。我觉得可能和他的成长经历有关系吧，他从小就很听父母的话，总是顺着他们，可能也习惯了避免冲突…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我真的希望他能更坚定地支持我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "他总是倾向于回避问题，比如我们吵架时，他要么沉默不语，要么敷衍几句。这让我觉得沟通很难深入，很多问题都搁置着，越积越多…",
+    "has_specific_detail": true,
+    "specific_detail": "他总是倾向于回避问题，比如我们吵架时，他要么沉默不语，要么敷衍几句",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我最担心的是我们的关系会越来越疏远。我害怕这种无法解决的问题会让我们之间的感情逐渐淡化，甚至走向无法挽回的地步…",
+    "has_specific_detail": false,
+    "specific_detail": "",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少具体细节（如具体事件、场景、时间）; 缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 14,
+    "content": "嗯，他有时候还是会关心我，比如生病时他会主动照顾我，或者在我情绪低落时试图安慰我。这些瞬间让我觉得还有希望，但又担心不够长久…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，他有时候还是会关心我，比如生病时他会主动照顾我，或者在我情绪低落时试图安慰我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "是的，如果他能更主动倾听和回应，我会觉得自己被看见和理解了。这可能会让我对这段关系更有信心，也更愿意去努力维系下去…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，如果他能更主动倾听和回应，我会觉得自己被看见和理解了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "也许我可以试着在他心情轻松的时候，温和地表达我的感受，而不是等到矛盾爆发再说。我觉得如果用更具体的例子，可能他会更容易理解…",
+    "has_specific_detail": true,
+    "specific_detail": "也许我可以试着在他心情轻松的时候，温和地表达我的感受，而不是等到矛盾爆发再说",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "比如我可以说：“当我下班后看到家里乱糟糟时，我会觉得特别累，希望你能主动帮忙收拾一下，这样我会感觉被支持了。”用这样的例子他可能更能明白我的感受…",
+    "has_specific_detail": true,
+    "specific_detail": "比如我可以说：“当我下班后看到家里乱糟糟时，我会觉得特别累，希望你能主动帮忙收拾一下，这样我会感觉被支持了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "如果他还是回避，我可能会试着再问他：“你是不是觉得我要求太多了？能不能告诉我你的想法？”这样可能让他更愿意表达自己，而不是直接回避…",
+    "has_specific_detail": true,
+    "specific_detail": "如果他还是回避，我可能会试着再问他：“你是不是觉得我要求太多了？能不能告诉我你的想法？”这样可能让他更愿意表达自己，而不是直接回避…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得如果他能真诚地说出想法，我会更容易理解，可能也能找到平衡点。但如果他说的内容完全忽视我的需求，我还是会觉得很难接受…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果他能真诚地说出想法，我会更容易理解，可能也能找到平衡点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "也许我可以更清晰地告诉他我的底线，比如“我真的希望你能重视这些问题，否则我会觉得我们的关系很难继续下去。”同时也强调我愿意听他的想法，保持对话的可能性…",
+    "has_specific_detail": true,
+    "specific_detail": "也许我可以更清晰地告诉他我的底线，比如“我真的希望你能重视这些问题，否则我会觉得我们的关系很难继续下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "是的，我确实会担心他的反应，害怕他觉得我在威胁或者强迫他，也怕这样的话可能让我们关系变得更紧张…但我又觉得必须说清楚。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实会担心他的反应，害怕他觉得我在威胁或者强迫他，也怕这样的话可能让我们关系变得更紧张…但我又觉得必须说清楚",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "是的，我真的很纠结。我觉得可以用更温和的语气，比如说：“我不是想指责你，而是希望我们能一起找到解决问题的方法。”这样可能让他感觉到我的诚意，而不是冲突。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我真的很纠结",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我希望我们可以试着分配一些家务，比如每人负责固定的事情，这样我不会觉得所有压力都在我身上。同时，也能一起安排点二人时间，增进感情…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望我们可以试着分配一些家务，比如每人负责固定的事情，这样我不会觉得所有压力都在我身上",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得可以在周末的时候，我们都比较放松，比如吃完饭一起坐着聊天时，提出来会更容易被接受，也显得不那么有压力…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以在周末的时候，我们都比较放松，比如吃完饭一起坐着聊天时，提出来会更容易被接受，也显得不那么有压力…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我可以先说：“最近我一直在想，我们的生活是不是可以调整得更轻松些？比如家务分配或者一起做点有趣的事，你觉得呢？”这样开头可能更自然…",
+    "has_specific_detail": true,
+    "specific_detail": "我可以先说：“最近我一直在想，我们的生活是不是可以调整得更轻松些？比如家务分配或者一起做点有趣的事，你觉得呢？”这样开头可能更自然…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我会从最简单的事情开始，比如让他每天负责倒垃圾或者整理餐桌，这些任务不会占太多时间，但能让我感觉有分担的支持，也让他慢慢适应…",
+    "has_specific_detail": true,
+    "specific_detail": "我会从最简单的事情开始，比如让他每天负责倒垃圾或者整理餐桌，这些任务不会占太多时间，但能让我感觉有分担的支持，也让他慢慢适应…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得可以从一起做饭或者看一部我们都喜欢的电影开始，这些事情既简单又不会有太多压力，还能让我们有更多互动和交流的机会…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从一起做饭或者看一部我们都喜欢的电影开始，这些事情既简单又不会有太多压力，还能让我们有更多互动和交流的机会…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "如果他愿意积极参与，我会觉得他在乎我们的关系，这种被重视的感觉会让我更有动力去努力改善现状，也对未来更有信心…",
+    "has_specific_detail": true,
+    "specific_detail": "如果他愿意积极参与，我会觉得他在乎我们的关系，这种被重视的感觉会让我更有动力去努力改善现状，也对未来更有信心…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得我需要更耐心，不能急着看到结果，毕竟改变需要时间。另外，我也要学会更清楚地表达需求，而不是把情绪都憋在心里…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得我需要更耐心，不能急着看到结果，毕竟改变需要时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我可以提前理清自己的想法，比如写下来要说的重点，这样表达时就更有条理。同时，用“我感到…”开头，避免让对方觉得是指责，这样会更自信也更容易被接受。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以提前理清自己的想法，比如写下来要说的重点，这样表达时就更有条理",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "如果能坚持下去，我觉得我们的沟通会更顺畅，他可能也会更愿意倾听和理解我的感受。这样，我们的关系会变得更加平等和亲密，让我对婚姻有更多希望。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能坚持下去，我觉得我们的沟通会更顺畅，他可能也会更愿意倾听和理解我的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我觉得第一步就是在周末找一个轻松的时机，和他聊聊家务分担和二人时间的事情。我会温和地表达我的感受，试着打开这个话题…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得第一步就是在周末找一个轻松的时机，和他聊聊家务分担和二人时间的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我觉得可以先预想他可能的反应，比如如果他回避或者敷衍，我该怎么回应。同时，调整好自己的情绪，不让对话变成争执，这样会更从容一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先预想他可能的反应，比如如果他回避或者敷衍，我该怎么回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我希望能达成一些小的共识，比如他愿意尝试分担一部分家务，或者我们能安排一次二人时间。哪怕是很小的改变，也会让我觉得沟通有了意义。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能达成一些小的共识，比如他愿意尝试分担一部分家务，或者我们能安排一次二人时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "如果他有做出改变，我会及时表达感谢，比如说“你这样做让我觉得很开心，真的谢谢你。”这样他可能会更愿意继续努力，我们也能形成更好的互动。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他有做出改变，我会及时表达感谢，比如说“你这样做让我觉得很开心，真的谢谢你",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我希望通过这次沟通，我能感受到自己的声音被听到了，同时也更有信心去表达需求。这样的成长会让我觉得自己在关系中更有力量，也更有希望去推动改变。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望通过这次沟通，我能感受到自己的声音被听到了，同时也更有信心去表达需求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得计划已经比较明确了，但还是有点担心他会抗拒或者敷衍。不过我想只要我保持耐心和温和的态度，应该会有机会慢慢改善关系。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得计划已经比较明确了，但还是有点担心他会抗拒或者敷衍",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我觉得这个周末可能是个好时机，我们都比较放松。我可以选择吃完晚饭后聊聊，这样氛围会更轻松，也更容易打开话题。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这个周末可能是个好时机，我们都比较放松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "谢谢你，我觉得今天的对话让我更有方向感了！我会试着去行动，如果有新进展，下次再和你分享。今天就先聊到这里吧！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你，我觉得今天的对话让我更有方向感了！我会试着去行动，如果有新进展，下次再和你分享",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

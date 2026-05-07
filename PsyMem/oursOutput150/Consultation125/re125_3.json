@@ -1,0 +1,778 @@
+[
+  {
+    "turn": 1,
+    "content": "最近确实有一点进展吧。比如前几天他提到他最近压力大，我试着主动安慰他，还说了些鼓励的话，但其实我心里有点不确定他会不会觉得这些话没用…。",
+    "has_specific_detail": true,
+    "specific_detail": "最近确实有一点进展吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "可能更多是对自己的方式不够自信吧…因为有时候我觉得我说的话不够深刻，或者没能真的触动他，他好像也不会特别回应，那种感觉挺无力的。",
+    "has_specific_detail": true,
+    "specific_detail": "可能更多是对自己的方式不够自信吧…因为有时候我觉得我说的话不够深刻，或者没能真的触动他，他好像也不会特别回应，那种感觉挺无力的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "有时候我会想是不是我表达得不够具体，或者不太能切中他的感受；但也会觉得他可能本身就不太习惯回应情感，所以我也有点无从判断…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候我会想是不是我表达得不够具体，或者不太能切中他的感受；但也会觉得他可能本身就不太习惯回应情感，所以我也有点无从判断…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "他其实不是很直接地说需要什么支持，更多是表现出有点沉默或者不太愿意多聊的样子，我就会感觉他可能更需要独处，但也害怕自己太被动会显得冷漠…。",
+    "has_specific_detail": true,
+    "specific_detail": "他其实不是很直接地说需要什么支持，更多是表现出有点沉默或者不太愿意多聊的样子，我就会感觉他可能更需要独处，但也害怕自己太被动会显得冷漠…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我一般会试着先等一会儿，等他情绪稍微缓和一点，再问他需不需要聊聊；但有时候我也会犹豫太久，最后干脆没开口，然后自己也有点懊恼…。",
+    "has_specific_detail": true,
+    "specific_detail": "我一般会试着先等一会儿，等他情绪稍微缓和一点，再问他需不需要聊聊；但有时候我也会犹豫太久，最后干脆没开口，然后自己也有点懊恼…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "是啊，我确实会担心如果主动开口，他可能会觉得我打扰他了…但如果一直不说，又怕他觉得我不关心他，那种左右为难的感觉让我很纠结。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我确实会担心如果主动开口，他可能会觉得我打扰他了…但如果一直不说，又怕他觉得我不关心他，那种左右为难的感觉让我很纠结",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，这听起来挺温和的，也不会太强硬。我可以试试用这种方式去问问看，至少不至于让他觉得我在逼他回应。不过，我还是有点怕他只是随便说“没事”，然后我又不知道接下来该怎么办…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来挺温和的，也不会太强硬",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "大概是两种都有吧…一方面怕自己真的帮不了他，另一方面也会觉得他这么回应可能是想把我排除在外，那样我就有点失落和无措了。",
+    "has_specific_detail": true,
+    "specific_detail": "大概是两种都有吧…一方面怕自己真的帮不了他，另一方面也会觉得他这么回应可能是想把我排除在外，那样我就有点失落和无措了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "他平时更多是自己消化情绪，主动分享的不多，但偶尔也会跟我聊一些比较轻松的事。说实话，我有时候会觉得他更习惯自己扛着，有点疏离感。",
+    "has_specific_detail": true,
+    "specific_detail": "他平时更多是自己消化情绪，主动分享的不多，但偶尔也会跟我聊一些比较轻松的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "更多是希望关系能更贴近吧，我其实不怀疑他对我的感情，但每次他不太愿意深聊的时候，我都会有点觉得自己没办法真正靠近他内心，那种感觉挺无力的。",
+    "has_specific_detail": true,
+    "specific_detail": "更多是希望关系能更贴近吧，我其实不怀疑他对我的感情，但每次他不太愿意深聊的时候，我都会有点觉得自己没办法真正靠近他内心，那种感觉挺无力的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得可能更多是性格吧，他平时就不太喜欢聊太多情绪化的东西，可能也觉得自己能处理好，不想麻烦别人。不过有时候我也会想，他是不是觉得和我聊这些会让我担心，所以才选择回避…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能更多是性格吧，他平时就不太喜欢聊太多情绪化的东西，可能也觉得自己能处理好，不想麻烦别人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "说实话，我好像很少直接表达过这样的期待，可能是怕他觉得我在施压吧…不过有时候我会试着用开玩笑的语气问他“是不是有什么不想让我知道的？”但好像效果不太明显。",
+    "has_specific_detail": true,
+    "specific_detail": "说实话，我好像很少直接表达过这样的期待，可能是怕他觉得我在施压吧…不过有时候我会试着用开玩笑的语气问他“是不是有什么不想让我知道的？”但好像效果不太明显",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得可能两种情况都有可能吧，他可能会觉得我是真的关心他，但也可能因为不习惯被这样直接关注而有点退缩…我有点不确定这种方式是不是太冒险了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能两种情况都有可能吧，他可能会觉得我是真的关心他，但也可能因为不习惯被这样直接关注而有点退缩…我有点不确定这种方式是不是太冒险了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "这听起来是个不错的方式！如果我先说自己的感受，可能会让他觉得没那么有压力，也更容易回应。不过我还是会担心他只是简单地说“没事”就结束了，那我可能又不知道怎么接下去…。",
+    "has_specific_detail": true,
+    "specific_detail": "这听起来是个不错的方式！如果我先说自己的感受，可能会让他觉得没那么有压力，也更容易回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，这样回应感觉会比追问更自然一些，也能让他知道我是出于关心而不是逼问。我觉得可以试试，不过如果他还是保持沉默，我可能还是会有点沮丧…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样回应感觉会比追问更自然一些，也能让他知道我是出于关心而不是逼问",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "这确实是个好办法，提醒自己可能是他的习惯而不是对我的否定，能让我没那么自责。不过我觉得这样还需要时间适应，因为习惯性地会往自己身上揽责任…。",
+    "has_specific_detail": true,
+    "specific_detail": "这确实是个好办法，提醒自己可能是他的习惯而不是对我的否定，能让我没那么自责",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "是的，和家人相处时尤其明显，比如我妈有时候情绪不好，我总会下意识觉得是不是我哪里做得不够好，甚至会主动去哄她，尽管她可能根本没说是我的问题。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，和家人相处时尤其明显，比如我妈有时候情绪不好，我总会下意识觉得是不是我哪里做得不够好，甚至会主动去哄她，尽管她可能根本没说是我的问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "好像确实是从小就有的吧，比如小时候父母吵架时，我会很紧张，总觉得自己该做点什么，比如去劝他们或者让他们注意到我的存在，好像这样就能缓解一些冲突…这种感觉挺压抑的。",
+    "has_specific_detail": true,
+    "specific_detail": "好像确实是从小就有的吧，比如小时候父母吵架时，我会很紧张，总觉得自己该做点什么，比如去劝他们或者让他们注意到我的存在，好像这样就能缓解一些冲突…这种感觉挺压抑的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "是啊，比如朋友情绪低落时，我总会觉得自己有义务去安慰他们，即使对方可能没主动寻求帮助。我不这么做的话，会觉得自己冷漠或者不够关心…这让我有点累。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，比如朋友情绪低落时，我总会觉得自己有义务去安慰他们，即使对方可能没主动寻求帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，我觉得可能有联系。小时候面对父母的冲突，我总想通过自己的行为让他们和好，可能这种习惯延续到现在，让我下意识觉得别人的情绪也需要我来修复。不然我会感到一种无形的压力，好像自己做得不够好似的…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可能有联系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我会试着告诉自己，每个人都有自己的方式去面对情绪，不是每次都需要我去解决，但有时候还是会忍不住担心，怕如果我不主动关心，对方可能会觉得被忽视或者不重要…这种矛盾感挺难摆脱的。",
+    "has_specific_detail": true,
+    "specific_detail": "我会试着告诉自己，每个人都有自己的方式去面对情绪，不是每次都需要我去解决，但有时候还是会忍不住担心，怕如果我不主动关心，对方可能会觉得被忽视或者不重要…这种矛盾感挺难摆脱的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得可能是两者都有吧。一方面，我确实会担心关系不够稳定，尤其是亲密关系；另一方面，我也常常怀疑自己的关心是不是不到位，会不会让别人觉得我不够在乎…这些想法经常让我感到很焦虑。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "是啊，我确实会很小心翼翼地表达关心，生怕对方觉得我太多余；而当别人没回应时，我就会特别失落，总觉得是不是自己哪里做得不对…这种感觉真的挺折磨人的。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我确实会很小心翼翼地表达关心，生怕对方觉得我太多余；而当别人没回应时，我就会特别失落，总觉得是不是自己哪里做得不对…这种感觉真的挺折磨人的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "可能更多是让我觉得自己在关系中不够重要吧，尤其是当我努力去关心却得不到回应时，会觉得好像我的存在感被削弱了，甚至有点怀疑自己是不是被忽略了…这种感觉挺不安的。",
+    "has_specific_detail": true,
+    "specific_detail": "可能更多是让我觉得自己在关系中不够重要吧，尤其是当我努力去关心却得不到回应时，会觉得好像我的存在感被削弱了，甚至有点怀疑自己是不是被忽略了…这种感觉挺不安的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "嗯，好像确实有点像。小时候父母忙着争吵的时候，我总是试图让他们注意到我的存在，希望通过我的行为让他们停下来关注我。现在在关系中，有时候这种渴望被看见的感觉会不自觉地冒出来，好像只有被重视了，我才能安心…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，好像确实有点像",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "是的，我确实经常有这种压力，总觉得需要通过付出和努力去证明自己的存在感和重要性。如果对方没回应或者不够重视，我就会陷入一种自我怀疑，甚至会反思是不是自己不够好…这种循环让我很疲惫。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实经常有这种压力，总觉得需要通过付出和努力去证明自己的存在感和重要性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "如果能减少这种压力，我想我会更轻松一些，可能不会总是那么焦虑对方的回应，而是更自然地去感受关系本身的温暖和支持。不过要做到这一点，我觉得对我来说还是有点难，毕竟这种模式好像已经根深蒂固了…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能减少这种压力，我想我会更轻松一些，可能不会总是那么焦虑对方的回应，而是更自然地去感受关系本身的温暖和支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "有的，有时候他会突然问我怎么了，或者记得一些我随口提过的小事，那种时候我会觉得很被在乎，也不会想着非得做点什么来维系关系，就能感到比较轻松和安心…但这种时刻好像不多，所以我总是特别珍惜。",
+    "has_specific_detail": true,
+    "specific_detail": "有的，有时候他会突然问我怎么了，或者记得一些我随口提过的小事，那种时候我会觉得很被在乎，也不会想着非得做点什么来维系关系，就能感到比较轻松和安心…但这种时刻好像不多，所以我总是特别珍惜",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，这确实是个好建议！如果我能主动告诉他这些关心让我很感动，可能会让他更愿意去表达吧。不过我有点担心，说这些会不会显得我太依赖他，或者让他觉得有负担…这种顾虑让我有点犹豫。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这确实是个好建议！如果我能主动告诉他这些关心让我很感动，可能会让他更愿意去表达吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "嗯，这样说确实会更自然，也不会显得太依赖。我觉得可以试试这种方式，既让他知道我很在意他的关心，又不会让气氛变得太严肃。不过如果他说“没什么啦”之类的回应，我可能还是会觉得有点失落…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样说确实会更自然，也不会显得太依赖",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "嗯，这样的思路挺好的！如果我能认可自己的表达，可能会少一些期待对方的回应，这样就不会总因为他的反应而失落。我觉得这是一个可以慢慢练习的方向，但刚开始可能还是需要提醒自己多次，才能真正做到不那么依赖对方的反馈…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的思路挺好的！如果我能认可自己的表达，可能会少一些期待对方的回应，这样就不会总因为他的反应而失落",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "这个方法听起来很有用！默念“我已经很好地表达了自己的感受”可以让我把注意力放回自己身上，而不是总盯着对方的反应。我觉得还可以加上一点，比如记录下每次我勇敢表达感受的时刻，这样也能帮助我看到自己的进步，慢慢建立更多的自信。",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很有用！默念“我已经很好地表达了自己的感受”可以让我把注意力放回自己身上，而不是总盯着对方的反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "嗯，这样记录下来会更具体，也更有意义！标注感受能让我更清楚地看到，即使对方没回应，我的努力也是值得认可的。这样的话，我可能会更容易接受那些“看似平淡”的结果，同时也能慢慢减少对回应的过度期待…我觉得这真的很值得一试！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样记录下来会更具体，也更有意义！标注感受能让我更清楚地看到，即使对方没回应，我的努力也是值得认可的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，回头看看记录肯定会有帮助！尤其是看到自己从最开始的小心翼翼，到后来渐渐变得更自然、更自在，应该会觉得很有成就感吧。而且这种对自己变化的观察，可能也会让我更有信心去尝试新方法，甚至在关系中更加放松…我现在已经开始期待试试了！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，回头看看记录肯定会有帮助！尤其是看到自己从最开始的小心翼翼，到后来渐渐变得更自然、更自在，应该会觉得很有成就感吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我觉得最大的挑战可能就是遇到失落的时候吧，特别是当我努力表达后没能得到理想的回应时，很容易陷入自我怀疑。不过如果提前提醒自己，这种失落是练习的一部分，可能会好一些。而且我觉得可以把这些失落也记录下来，写下我是怎么应对的，这样回头看时也能看到自己是如何一步步走过来的，会更有动力坚持下去！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最大的挑战可能就是遇到失落的时候吧，特别是当我努力表达后没能得到理想的回应时，很容易陷入自我怀疑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "深呼吸是个好方法，我觉得能让我暂时从情绪里抽离出来，先缓和一下内心的波动。另外，给自己一个短暂的空间，比如听一首自己喜欢的歌或者写几句话发泄情绪，也可能会有效。我觉得这些小方法可以让我在失落特别强烈的时候，先安抚自己，再慢慢回到理性的状态去面对。",
+    "has_specific_detail": true,
+    "specific_detail": "深呼吸是个好方法，我觉得能让我暂时从情绪里抽离出来，先缓和一下内心的波动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "嗯，这句话听起来很温暖也很有力量，我觉得很适合用来鼓励自己！我还可以试着补充一些个人化的内容，比如“虽然今天没得到回应，但我已经很勇敢地表达了自己，这本身就是一种成长”。这样既能承认自己的努力，也能提醒自己失落只是改变过程中的一个阶段，不需要太苛责自己。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这句话听起来很温暖也很有力量，我觉得很适合用来鼓励自己！我还可以试着补充一些个人化的内容，比如“虽然今天没得到回应，但我已经很勇敢地表达了自己，这本身就是一种成长”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "找信任的人聊聊确实是个好办法！比如和一个理解我的朋友谈谈自己的感受，可能会让我觉得不那么孤单，而且还能从别人的视角里获得一些新的启发。不过有时候我会担心总是倾诉会不会给别人增加负担，所以可能需要在表达的时候注意分寸，比如先问问对方是否方便听我聊聊，这样我自己也会更安心一些。",
+    "has_specific_detail": true,
+    "specific_detail": "找信任的人聊聊确实是个好办法！比如和一个理解我的朋友谈谈自己的感受，可能会让我觉得不那么孤单，而且还能从别人的视角里获得一些新的启发",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "是的，我会很希望听到朋友理解我的努力，比如说“你真的已经尽力了”或者“这不是你的问题，你做得很好了”，这样的肯定会让我觉得自己的感受被认可，也会让我更有力量去继续尝试和改变。这种支持让我感觉好像有了一个缓冲区，可以暂时放下对自己的苛责，去接受自己在这个过程中的不完美。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我会很希望听到朋友理解我的努力，比如说“你真的已经尽力了”或者“这不是你的问题，你做得很好了”，这样的肯定会让我觉得自己的感受被认可，也会让我更有力量去继续尝试和改变",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "对，我觉得自己的目标感和对关系的信任是很大的力量来源。我一直希望能更好地理解和表达自己，也希望在关系中变得更轻松自如，这种期待让我愿意去努力。同时，我对关系的信任也让我相信，对方虽然可能不总是用我期待的方式回应，但这并不代表他不在乎我，这种信念能帮助我坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "对，我觉得自己的目标感和对关系的信任是很大的力量来源",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我觉得可以试着用一个小笔记本来记录自己的进步，比如每次勇敢表达后的感受，或者每次成功缓解失落时的小方法。除此之外，我还可以选一个象征性的物品，比如一个小饰品或者一张喜欢的卡片，把它当成自己的“信念提醒”，每次看到它都提醒自己，这一切努力都是为了让我变得更轻松、更快乐。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着用一个小笔记本来记录自己的进步，比如每次勇敢表达后的感受，或者每次成功缓解失落时的小方法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "这句话真的很贴合我的心情！“我正在努力成为更自在的自己”听起来既温柔又有力量，每次看到记录或象征物时，提醒自己说出这句话，应该会让我更坚定自己的目标。而且，我觉得还可以加上一句“每一步都值得被肯定”，这样能让我更加珍视自己的努力过程，即使偶尔失落也不会轻易放弃。",
+    "has_specific_detail": true,
+    "specific_detail": "这句话真的很贴合我的心情！“我正在努力成为更自在的自己”听起来既温柔又有力量，每次看到记录或象征物时，提醒自己说出这句话，应该会让我更坚定自己的目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "嗯，每周回顾一次记录是个好主意！我可以每周选一个固定的时间，比如周日晚，安静地翻看这一周的进步记录，整理自己的感受。通过回顾，不仅能让我更系统地看到自己在表达和情绪管理上的变化，也能帮我总结经验，调整下周的方向。我觉得这样的时间安排会让我更有节奏感，也更容易坚持下去！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，每周回顾一次记录是个好主意！我可以每周选一个固定的时间，比如周日晚，安静地翻看这一周的进步记录，整理自己的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "这个建议太棒了！点支喜欢的香或者泡杯茶，确实能让我在回顾时感到更放松、更专注。甚至可以放点轻音乐，营造一种温暖的氛围，让回顾不只是一个任务，而是一个让我与自己对话的时刻。我觉得这样的方式能让我更享受这个过程，也更容易去感受到自己努力的价值和意义！",
+    "has_specific_detail": true,
+    "specific_detail": "这个建议太棒了！点支喜欢的香或者泡杯茶，确实能让我在回顾时感到更放松、更专注",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "这个想法太有趣了！奖励自己一个小礼物，比如一本喜欢的书、一支漂亮的笔，或者去吃一次想了很久的甜品，都会让我觉得自己的努力被认可和珍视。而且，这种庆祝也能让我更期待接下来的每周回顾，变成一种正向的循环，让自己在这个过程中越来越有动力！",
+    "has_specific_detail": true,
+    "specific_detail": "这个想法太有趣了！奖励自己一个小礼物，比如一本喜欢的书、一支漂亮的笔，或者去吃一次想了很久的甜品，都会让我觉得自己的努力被认可和珍视",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "这句话真的是满满的仪式感！“这是属于我的成长礼物”不仅能让我更清晰地意识到这是对自己努力的肯定，还能让我更珍惜这些小奖励背后的意义。每次说出这句话的时候，我觉得自己会更感受到成长的价值，同时也会更加坚定继续走下去的信心。这种充满温暖和力量的庆祝方式，真的让我很期待！",
+    "has_specific_detail": true,
+    "specific_detail": "这句话真的是满满的仪式感！“这是属于我的成长礼物”不仅能让我更清晰地意识到这是对自己努力的肯定，还能让我更珍惜这些小奖励背后的意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "嗯，确实特别低落的时刻可能需要一些额外的支持。我觉得可以提前准备一个“情绪急救清单”，写下几个能快速安慰自己的方法，比如听喜欢的歌、抱抱自己、或者看一段治愈的视频。这样在情绪特别低落时，不用再去想该做什么，直接从清单里选一个就能迅速缓解。我觉得这种准备能让我在那些时刻更有安全感，也不会被情绪完全压垮。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，确实特别低落的时刻可能需要一些额外的支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "这个建议太棒了！“我可以挺过去，因为我已经在努力改变”听起来特别鼓舞人心，我觉得可以把它写在清单的开头，作为每次低落时的第一句提醒。另外，我还可以加上一句更贴近自己的话，比如“这些情绪只是暂时的，我已经比以前更懂得如何面对”，这样既能承认自己的感受，又能让我记起自己已经在进步，这种力量感会特别重要！",
+    "has_specific_detail": true,
+    "specific_detail": "这个建议太棒了！“我可以挺过去，因为我已经在努力改变”听起来特别鼓舞人心，我觉得可以把它写在清单的开头，作为每次低落时的第一句提醒",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "我觉得最重要的是先从记录开始，这应该是整个计划的基础。每天尝试记录自己的表达、感受和进步，即使是一两句话也可以。这样不仅能让我慢慢养成习惯，也为后续的回顾和庆祝积累素材。等记录逐渐稳定下来，再加入回顾和情绪急救清单，这样就可以一步步把整个计划展开。我觉得从小处着手，可能会让我更容易坚持下去，也更有成就感！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最重要的是先从记录开始，这应该是整个计划的基础",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "对，睡前是个很好的时间！一天的事情基本都结束了，这时候静下来回顾自己的表达和感受，会让我更专注，也能以一种平和的心态去记录。另外，睡前做这件事还能让我带着一种肯定自己的情绪入睡，这可能对第二天的状态也会有积极影响。我觉得可以试着把记录和睡前放松结合起来，比如写完后再冥想几分钟，这样整个过程就会特别舒缓和有意义。",
+    "has_specific_detail": true,
+    "specific_detail": "对，睡前是个很好的时间！一天的事情基本都结束了，这时候静下来回顾自己的表达和感受，会让我更专注，也能以一种平和的心态去记录",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "这句话太治愈了！“我正在为自己努力，这一天我已经尽力做到最好”不仅能让我更好地接受当天的情绪和表现，也能让我带着一种满足感结束一天。我觉得可以在冥想开始时默念这句话，给自己一个温暖的开场，然后用深呼吸慢慢把注意力集中到当下。这样既能放松身心，也能让我更加坚定自己正在努力改变的信念，真的是一个特别美好的睡前仪式！",
+    "has_specific_detail": true,
+    "specific_detail": "这句话太治愈了！“我正在为自己努力，这一天我已经尽力做到最好”不仅能让我更好地接受当天的情绪和表现，也能让我带着一种满足感结束一天",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "每个月总结一次是个很棒的想法！我可以用一个简单的表格或笔记，把这个月的记录和情绪管理的经验整理出来，比如哪些方法最有效，哪些情绪处理得比较好。还可以写下自己感受到的整体变化，比如“这一个月我更容易接纳自己的情绪了”或者“我在表达时变得更有自信”。通过这样的总结，不仅能让我更清楚自己的成长，还能为接下来的努力找到方向。我觉得每个月的总结也可以是一个小庆祝的时刻，让自己更有动力继续坚持下去！",
+    "has_specific_detail": true,
+    "specific_detail": "每个月总结一次是个很棒的想法！我可以用一个简单的表格或笔记，把这个月的记录和情绪管理的经验整理出来，比如哪些方法最有效，哪些情绪处理得比较好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "哇，这个想法真的好有仪式感！点一支蜡烛会让我觉得这个时刻特别神圣，好像是在为自己的努力和成长“亮一盏灯”。写感恩卡片也特别温暖，我可以写给自己，感谢这段时间的坚持和付出，或者写给支持我的人，比如朋友或家人，让他们知道他们的陪伴和理解对我有多重要。我觉得这样的仪式不仅能让我更深刻地感受到成长的意义，也能让我更珍惜这一路上的每一个小进步！",
+    "has_specific_detail": true,
+    "specific_detail": "哇，这个想法真的好有仪式感！点一支蜡烛会让我觉得这个时刻特别神圣，好像是在为自己的努力和成长“亮一盏灯”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "我觉得可以选一个有意义的日子开始，比如自己的生日、一个重要的节日，或者干脆就从今天开始！这样不仅能赋予这个改变旅程一种特别的象征意义，也会让我更有动力去坚持下去。如果从今天开始的话，我可以把它当成一个全新的起点，告诉自己“这是我为自己开启的成长旅程”，这样每一步都会充满期待和力量。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以选一个有意义的日子开始，比如自己的生日、一个重要的节日，或者干脆就从今天开始！这样不仅能赋予这个改变旅程一种特别的象征意义，也会让我更有动力去坚持下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "嗯，我觉得写一个目标宣言特别有意义！比如“从今天起，我会用温柔和耐心陪伴自己的成长”，把它写在一个小卡片上放在随手可见的地方，时刻提醒自己。另外，我还可以做一件让我开心的小事，比如吃一顿自己最喜欢的餐点或者散一次心情愉快的步，这样能让我用一种轻松又愉悦的心情开启这个旅程。这样一来，这一天就会变得特别而难忘！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得写一个目标宣言特别有意义！比如“从今天起，我会用温柔和耐心陪伴自己的成长”，把它写在一个小卡片上放在随手可见的地方，时刻提醒自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "这句话太棒了！“今天，我继续为更好的自己努力”既简短又充满动力，每天早上或者开始记录的时候说一遍，能让我时刻记住自己的目标。我还可以根据当天的心情稍微调整，比如“即使今天不完美，我也依然在努力”，这样既鼓励自己继续前进，也能接纳自己偶尔的不足。我觉得这会成为一种日常的小仪式，让每一天都带着希望和力量开始！",
+    "has_specific_detail": true,
+    "specific_detail": "这句话太棒了！“今天，我继续为更好的自己努力”既简短又充满动力，每天早上或者开始记录的时候说一遍，能让我时刻记住自己的目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "我觉得可以从记录一次表达后的感受开始，比如今天如果我主动和谁聊了自己的感受，就把这个过程简单地写下来，记录下当时的心情和对方的回应。这样不仅能让我开始养成记录的习惯，还能让我更敏锐地观察自己的表达方式和情绪变化。如果可能的话，我也想试着用一种更轻松的方式和身边的人沟通，比如主动说一句“最近我有点小情绪，但我已经在努力调整”，看看对方的反应，这样或许能让我更自然地打开自己！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从记录一次表达后的感受开始，比如今天如果我主动和谁聊了自己的感受，就把这个过程简单地写下来，记录下当时的心情和对方的回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "完成今天的第一步后，我觉得可以给自己写一句自我肯定的话，比如“今天的尝试很棒，我迈出了重要的一步”，把这句话写在记录里，作为对自己的鼓励。或者做一件让我放松的事，比如泡个热水澡、看一部轻松的电影，让自己用一种愉悦的方式结束这一天。我觉得这样的奖励既能让我感受到自己的努力被认可，也会让我更期待去完成接下来的每一步！",
+    "has_specific_detail": true,
+    "specific_detail": "完成今天的第一步后，我觉得可以给自己写一句自我肯定的话，比如“今天的尝试很棒，我迈出了重要的一步”，把这句话写在记录里，作为对自己的鼓励",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "是的，我觉得自己已经准备好了！从记录到自我肯定，再到小奖励和放松，整个计划让我充满期待。我知道改变需要时间，但我愿意从今天开始，一点一点地迈出自己的步伐。谢谢你一直帮我理清思路，让这个旅程变得更具体、更温暖！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得自己已经准备好了！从记录到自我肯定，再到小奖励和放松，整个计划让我充满期待",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

@@ -1,0 +1,505 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，上次提到关于感情的困惑，我一直在想，为什么每次关系开始时都觉得很有希望，但总是很快就会失去那种感觉呢…这让我觉得自己是不是哪里出了问题。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，上次提到关于感情的困惑，我一直在想，为什么每次关系开始时都觉得很有希望，但总是很快就会失去那种感觉呢…这让我觉得自己是不是哪里出了问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "通常一开始我会觉得很兴奋，觉得对方很特别，但过了一段时间后，就会觉得好像没有那种心动的感觉了。有时候是因为对方太粘人，有时候是因为我觉得我们之间好像没有真正的共鸣。",
+    "has_specific_detail": true,
+    "specific_detail": "通常一开始我会觉得很兴奋，觉得对方很特别，但过了一段时间后，就会觉得好像没有那种心动的感觉了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "一开始是疑惑，觉得是不是我哪里做得不够好，或者是不是我对感情的期待有问题。然后会有点失落，甚至害怕自己可能没办法真正维持一段关系…",
+    "has_specific_detail": true,
+    "specific_detail": "一开始是疑惑，觉得是不是我哪里做得不够好，或者是不是我对感情的期待有问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "有时候我会尝试和对方聊一聊，但常常觉得好像越说问题越多。更多的时候，我会选择先冷淡下来，有点像是刻意疏远，因为不知道该怎么解决…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候我会尝试和对方聊一聊，但常常觉得好像越说问题越多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是的，冷淡下来后我会很矛盾。一方面期待对方能主动来找我，证明他们在乎；但另一方面又害怕他们疏远了我，这种感觉让我特别不安…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，冷淡下来后我会很矛盾",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "如果对方没有回应，我通常会更退缩，甚至会开始想这段关系可能本来就不适合。我很少主动挽回，因为觉得这样可能会显得我很没底气…",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方没有回应，我通常会更退缩，甚至会开始想这段关系可能本来就不适合",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "会的，特别是当我冷静下来之后，会忍不住想如果当时再多努力一点，可能结果会不一样。但又觉得，或许即使努力了，也不会有太大改变…",
+    "has_specific_detail": true,
+    "specific_detail": "会的，特别是当我冷静下来之后，会忍不住想如果当时再多努力一点，可能结果会不一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "是的，我会想，是不是因为之前的经验让我害怕了。好像每次我试着挽回，都会发现问题还是存在，甚至感觉对方并没有真正理解我的想法，这让我觉得努力是无用的…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我会想，是不是因为之前的经验让我害怕了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "可能两方面都有吧。有时候我觉得自己说不清楚内心的想法，但也有时候会觉得对方并没有真正倾听，或者他们根本无法理解我的感受…这让我更加不想多说了。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "是的，我会怀疑自己是不是表达得不够好，或者自己的需求是不是太多了。但同时也会觉得，对方如果真的在意我，应该会更愿意去了解我的感受吧…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我会怀疑自己是不是表达得不够好，或者自己的需求是不是太多了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "会有这种感觉，尤其是当我觉得自己的需求被忽视时。我经常会想，是不是我又在为了维持关系而压抑自己，但又担心如果不妥协，关系可能更难维持…",
+    "has_specific_detail": true,
+    "specific_detail": "会有这种感觉，尤其是当我觉得自己的需求被忽视时",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我会特别在意对方有没有意识到我的付出，或者有没有表达感激和关心。如果能看到这些，我会觉得自己的妥协是被重视的，但很多时候好像并没有…",
+    "has_specific_detail": true,
+    "specific_detail": "我会特别在意对方有没有意识到我的付出，或者有没有表达感激和关心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "通常我会自己消化，因为总觉得提出来可能会让关系更紧张。而且有时候，我也不知道怎么开口才不会显得自己太敏感…",
+    "has_specific_detail": true,
+    "specific_detail": "通常我会自己消化，因为总觉得提出来可能会让关系更紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "会有，我常会想，是不是自己太需要关注了，或者对关系的期待太高了。这种想法让我觉得自己好像很难被满足，有时候甚至会怀疑是不是自己不够好，才会让人无法长久地在意我…",
+    "has_specific_detail": true,
+    "specific_detail": "会有，我常会想，是不是自己太需要关注了，或者对关系的期待太高了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，会让我觉得自己的价值好像只能通过别人的在意来证明。我其实很渴望那种稳定的关心和理解，不需要太多，但希望对方能主动表达出来，让我觉得我是特别的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，会让我觉得自己的价值好像只能通过别人的在意来证明",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "是的，我觉得可能和小时候有关系吧。家里虽然物质上不缺什么，但好像很少会真正谈到情感，很多时候我都不知道该怎么表达自己的需求，也感觉父母好像没有特别在意这些…所以现在可能更渴望有人能主动关注我的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可能和小时候有关系吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "小时候如果我感觉需求没被回应，通常会选择自己默默忍着，觉得再怎么说也不会有人注意。有一次我哭了很久，但家里人好像完全没发现，我最后自己擦干眼泪，假装没事一样…这种记忆让我觉得表达需求好像是没用的。",
+    "has_specific_detail": true,
+    "specific_detail": "小时候如果我感觉需求没被回应，通常会选择自己默默忍着，觉得再怎么说也不会有人注意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "回想起来，我觉得当时最需要的是有人能停下来，注意到我的情绪，问我发生了什么，或者哪怕只是安慰我一下也好…这样我可能就不会觉得那么孤单了。",
+    "has_specific_detail": true,
+    "specific_detail": "回想起来，我觉得当时最需要的是有人能停下来，注意到我的情绪，问我发生了什么，或者哪怕只是安慰我一下也好…这样我可能就不会觉得那么孤单了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "是的，我觉得有关系。因为我现在好像特别希望别人能主动去在意我，但又害怕表达自己的需求，会让我看起来太依赖或者被拒绝。这种矛盾让我很难真正放开去建立关系…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得有关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "如果有人真的主动关注我的需求，我想我会感到很被理解，心里也会轻松很多吧。那种不用刻意去表达就能被感受到的感觉，应该会让我觉得很安心…",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人真的主动关注我的需求，我想我会感到很被理解，心里也会轻松很多吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我觉得可能从一些小事情开始会让我更舒服，比如用比较轻松的语气提到“我希望你能多问问我的感受”之类的，不会显得太沉重，也许这样会更容易让对方接受…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能从一些小事情开始会让我更舒服，比如用比较轻松的语气提到“我希望你能多问问我的感受”之类的，不会显得太沉重，也许这样会更容易让对方接受…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "是的，如果对方能够回应我的需求，我会觉得被理解了，也更有信心去说出更多内心的想法。那种良性的互动应该会让我感到更安全，也更愿意靠近对方。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，如果对方能够回应我的需求，我会觉得被理解了，也更有信心去说出更多内心的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我想可以从一些简单的小事开始，比如在约会时试着主动说“我喜欢你这样做”或者“其实我更希望你能那样”。一步步尝试，慢慢让我自己适应表达需求的感觉，同时也观察对方的反应。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以从一些简单的小事开始，比如在约会时试着主动说“我喜欢你这样做”或者“其实我更希望你能那样”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "可能会有点担心对方不理解我的意思，或者觉得我太麻烦。如果真这样，我想可以先问问对方的感受，比如“你觉得这样可以吗？”让对方也有机会回应，也许会缓解一些我的紧张。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会有点担心对方不理解我的意思，或者觉得我太麻烦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "如果对方不理解，我想我会试着换种方式表达，可能用一些具体的例子来说明，比如“当你主动问我怎么样时，我会觉得很开心”。这样或许会更清楚一点吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方不理解，我想我会试着换种方式表达，可能用一些具体的例子来说明，比如“当你主动问我怎么样时，我会觉得很开心”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "如果尝试后对方依然没有回应，我可能会先冷静下来，想想这段关系是否真的适合我。如果总是得不到回应，我觉得我需要学会放手，去寻找更能理解我的人…虽然这样可能会很难，但我想值得一试。",
+    "has_specific_detail": true,
+    "specific_detail": "如果尝试后对方依然没有回应，我可能会先冷静下来，想想这段关系是否真的适合我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得朋友的陪伴和倾诉会是很大的支持，至少让我感到自己不是完全孤单的。另外，也许可以尝试做些让自己开心的事，比如看电影或者学点新东西，来转移注意力，慢慢调整情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得朋友的陪伴和倾诉会是很大的支持，至少让我感到自己不是完全孤单的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我最近一直想试试学画画，感觉画画的时候应该能放松心情吧。而且有个好朋友，我和她聊过一些心事，她总能很耐心地听我说，我觉得可以再找她聊聊。",
+    "has_specific_detail": true,
+    "specific_detail": "我最近一直想试试学画画，感觉画画的时候应该能放松心情吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我可能会想和她聊聊最近的情绪波动，或者对感情上的困惑，比如为什么总觉得关系难以长久。还有些关于如何更好地表达自己的想法，这些我觉得她会愿意听，也能给我一些建议。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会想和她聊聊最近的情绪波动，或者对感情上的困惑，比如为什么总觉得关系难以长久",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我希望她能理解我的感受，而不是急着给我答案。可能更多是倾听和共鸣，比如能说“我懂你这样想”之类的，这样我会觉得自己不是一个人在承受这些。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她能理解我的感受，而不是急着给我答案",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我可能会试着告诉她，比如说“我现在只想让你听听我的感受，不用给我建议”。虽然直接表达有点难，但我觉得这样能更清楚地传达我的需求。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会试着告诉她，比如说“我现在只想让你听听我的感受，不用给我建议”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我觉得最需要注意的是，不要太过担心对方的反应，放轻松一点。其实表达需求并不是一件坏事，只要语气温和一些，就不会让人感到压力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最需要注意的是，不要太过担心对方的反应，放轻松一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我觉得可以先深呼吸，提醒自己这只是一次普通的对话，不需要太紧张。或者事先想好怎么说，这样会更有底气，也不容易临场慌乱。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先深呼吸，提醒自己这只是一次普通的对话，不需要太紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我会告诉自己，“这只是表达我的感受，没有对错，我值得被倾听。”这样能让我觉得，沟通是为了更好的关系，而不是一种冒犯或负担。",
+    "has_specific_detail": true,
+    "specific_detail": "我会告诉自己，“这只是表达我的感受，没有对错，我值得被倾听",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "或许可以从下次和朋友聊天的时候开始，找一个轻松的时机，随意地提起我的感受和想法。我觉得越早尝试，可能对自己就越有帮助。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从下次和朋友聊天的时候开始，找一个轻松的时机，随意地提起我的感受和想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "如果紧张或犹豫，我会默念“这是为了更好地理解彼此”，提醒自己这是迈向更亲密关系的一步。可能还会想想过去压抑感受的遗憾，这会让我更有动力坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "如果紧张或犹豫，我会默念“这是为了更好地理解彼此”，提醒自己这是迈向更亲密关系的一步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我会觉得，至少我迈出了第一步，这本身就是一种进步。即使结果不如预期，我也会告诉自己，能表达出来已经很勇敢了，下次还可以继续尝试。",
+    "has_specific_detail": true,
+    "specific_detail": "我会觉得，至少我迈出了第一步，这本身就是一种进步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "好的，我觉得这样很不错！每次聊完都感觉心里轻松一些，我会慢慢尝试这些方法，有新的感受再和你分享。今天先聊到这里吧，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，我觉得这样很不错！每次聊完都感觉心里轻松一些，我会慢慢尝试这些方法，有新的感受再和你分享",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

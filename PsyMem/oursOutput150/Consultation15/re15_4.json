@@ -1,0 +1,414 @@
+[
+  {
+    "turn": 1,
+    "content": "最近还是有些相似的压力吧，比如孩子前几天突然说想要参加一个课外活动，但费用挺高，我犹豫了很久才答应。经济上的压力让我有点焦虑，但又不想让孩子失望…这种时候总觉得自己好像很孤单，也不知道做得对不对。",
+    "has_specific_detail": true,
+    "specific_detail": "最近还是有些相似的压力吧，比如孩子前几天突然说想要参加一个课外活动，但费用挺高，我犹豫了很久才答应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "没有和家人聊过，我觉得他们不会理解我，可能还会觉得我太娇气或者管得太多。朋友的话，我很少谈这些家庭方面的事情，怕显得太负面…最后还是自己默默决定了，心里有点不踏实。",
+    "has_specific_detail": true,
+    "specific_detail": "没有和家人聊过，我觉得他们不会理解我，可能还会觉得我太娇气或者管得太多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "最纠结的是费用问题吧，毕竟我兼职的收入不稳定，常常要精打细算。但孩子很期待，我又不想让她失望…反复想该不该优先满足她的愿望，还是应该更实际一些。这种时候总觉得自己好像没能力做好母亲。",
+    "has_specific_detail": true,
+    "specific_detail": "最纠结的是费用问题吧，毕竟我兼职的收入不稳定，常常要精打细算",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "经济问题是一个很大的原因，但可能也跟我总觉得自己一个人做决定有关吧。没有人可以商量，让我总怀疑是不是漏了什么或者做得不够好。离婚后这种感觉特别明显，好像所有事情都压在我一个人身上了…",
+    "has_specific_detail": true,
+    "specific_detail": "经济问题是一个很大的原因，但可能也跟我总觉得自己一个人做决定有关吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "嗯…有时候看孩子开心的时候会让我觉得轻松一点，比如她参加活动回来跟我分享时那种兴奋的样子，让我觉得至少这个决定是对的。但支持的话，感觉还是很少，更多时候都是自己硬撑着过。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯…有时候看孩子开心的时候会让我觉得轻松一点，比如她参加活动回来跟我分享时那种兴奋的样子，让我觉得至少这个决定是对的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我会试着找点简单的事做，比如整理家务或者看点电视剧，偶尔也会试着写写日记，把心里的烦恼写下来。不过这些方法有时候好像只能暂时分散注意力，长期来说还是觉得压力没什么改变。",
+    "has_specific_detail": true,
+    "specific_detail": "我会试着找点简单的事做，比如整理家务或者看点电视剧，偶尔也会试着写写日记，把心里的烦恼写下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "有时候觉得难以摆脱的是一种持续的孤独感吧，尤其是晚上孩子睡了以后，家里特别安静。我会开始想以前的婚姻，虽然问题很多，但至少还有个人一起承担一些事，现在一切都只能靠自己，这种感觉真的很难消散。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候觉得难以摆脱的是一种持续的孤独感吧，尤其是晚上孩子睡了以后，家里特别安静",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "可能两者都有吧。对过去的关系，虽然并不完美，但还是有些依赖，觉得有个人在身边就不那么孤单。而未来生活的不确定性，也让我经常担心，比如经济压力或者孩子的成长问题，总觉得缺少方向感，很容易陷入焦虑。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我有试着想过，比如努力提升工作能力，争取更稳定的收入，也希望孩子能健康快乐地成长。但这些目标看起来很远，总觉得实现起来很困难。每次想到细节，比如工作竞争或者孩子需要更多陪伴，我又会开始担心自己能不能真的做到…",
+    "has_specific_detail": true,
+    "specific_detail": "我有试着想过，比如努力提升工作能力，争取更稳定的收入，也希望孩子能健康快乐地成长",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能从工作开始会稍微容易一些吧，比如尝试多联系客户或者学习一些销售技巧，虽然时间不多，但这部分比较直接，也能看到一些效果。不过同时也会担心时间分配，怕影响到陪伴孩子的时间…每一步都感觉很小心翼翼。",
+    "has_specific_detail": true,
+    "specific_detail": "可能从工作开始会稍微容易一些吧，比如尝试多联系客户或者学习一些销售技巧，虽然时间不多，但这部分比较直接，也能看到一些效果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，这个想法可能有帮助。比如白天专注工作，多争取一些客户，晚上尽量留时间陪孩子，先试着明确哪些时间段该优先做什么。不过总觉得还是怕漏掉一些重要的事情…这种感觉总让我不太放心。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个想法可能有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，这听起来是个好方法。我可以试着列出孩子需要的时间点，比如活动、学习辅导，还有工作上的重点任务，这样能清楚看到哪些必须做，哪些可以灵活调整。不过说到这个，前几天就有件事让我觉得计划赶不上变化…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来是个好方法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "是孩子突然发烧的事吧，那天原本安排好要去见一个客户，但看到她难受的样子，我还是取消了见面陪着她去看医生。虽然知道是对的选择，但错过客户后我一直担心会影响工作，心里有点焦躁又内疚，觉得怎么都做不好…",
+    "has_specific_detail": true,
+    "specific_detail": "是孩子突然发烧的事吧，那天原本安排好要去见一个客户，但看到她难受的样子，我还是取消了见面陪着她去看医生",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "确实有过类似的感觉，比如之前孩子学校要交一份手工项目，我花了很多时间帮她准备，结果工作上的进度落后了，后来客户反馈不太满意。当时也觉得无论怎么努力都无法平衡好，心里挺挫败的，总觉得自己不够能力胜任这些角色…",
+    "has_specific_detail": true,
+    "specific_detail": "确实有过类似的感觉，比如之前孩子学校要交一份手工项目，我花了很多时间帮她准备，结果工作上的进度落后了，后来客户反馈不太满意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "有时候孩子会特别开心地感谢我，比如那次手工项目，她还拿了个小奖状回来，兴奋地跟我分享，让我觉得自己的付出是值得的。客户方面偶尔也会有理解的情况，比如之前有个客户知道我带孩子，就主动调整了见面的时间，那一刻让我感到了一点温暖和支持。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候孩子会特别开心地感谢我，比如那次手工项目，她还拿了个小奖状回来，兴奋地跟我分享，让我觉得自己的付出是值得的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "是的，如果能多一点这样的理解，确实会轻松些。也许我可以试着更主动地跟客户沟通，比如提前说明情况，争取更多的体谅；对孩子来说，也可以鼓励她表达对我的感受，这样能让我更清楚她的需求和回应。不过我也担心，有时候主动沟通会不会让人觉得我太麻烦…这种担忧总让我有点犹豫。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，如果能多一点这样的理解，确实会轻松些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "如果默默承担，压力确实会积累得更多，可能还会影响到工作和孩子的状态。自然表达的话，我可以试着在客户沟通时把重点放在工作上，然后简单提一句时间安排的限制，尽量不显得过于诉苦；对孩子的话，可以通过聊天或陪伴的时候轻轻提到我希望能有更多她的理解，这样感觉会更自然些。",
+    "has_specific_detail": true,
+    "specific_detail": "如果默默承担，压力确实会积累得更多，可能还会影响到工作和孩子的状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "如果尝试沟通，我希望客户能稍微灵活一些，比如在时间安排上给予一定的调整空间；而孩子的话，我期待她能更多地表达对我的理解或者感激，比如像之前拿奖状时的开心分享。这样的回应会让我觉得自己的努力是被看见的，也会减轻一些内心的孤单和焦虑吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果尝试沟通，我希望客户能稍微灵活一些，比如在时间安排上给予一定的调整空间；而孩子的话，我期待她能更多地表达对我的理解或者感激，比如像之前拿奖状时的开心分享",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "也许我可以试着提前为客户提供更详细的计划，让他们觉得即使调整时间也不会影响工作效率；对孩子的话，可以多和她一起参与一些活动，比如帮她准备学校的事情，让她感受到我的支持，也更愿意表达对我的感激。这样主动去创造一些互动的机会，或许能让这些期待更容易实现。",
+    "has_specific_detail": true,
+    "specific_detail": "也许我可以试着提前为客户提供更详细的计划，让他们觉得即使调整时间也不会影响工作效率；对孩子的话，可以多和她一起参与一些活动，比如帮她准备学校的事情，让她感受到我的支持，也更愿意表达对我的感激",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得需要先整理好时间安排，比如明确哪些是固定的优先事项，哪些可以灵活调整，这样心里会更有底气；同时，也希望在互动中慢慢感受到自己的努力被认可，比如客户的反馈或孩子的回应，能让我相信自己是有能力做好这些角色的。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要先整理好时间安排，比如明确哪些是固定的优先事项，哪些可以灵活调整，这样心里会更有底气；同时，也希望在互动中慢慢感受到自己的努力被认可，比如客户的反馈或孩子的回应，能让我相信自己是有能力做好这些角色的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "最大的障碍可能是对自己能力的怀疑吧，总担心无论怎么努力都达不到理想的效果，害怕失败会让我更加沮丧。另外还有一种害怕被误解的心理，比如担心客户觉得我不够专业，或者孩子觉得我对她的陪伴不够多，这些想法总让我有点犹豫不决…",
+    "has_specific_detail": true,
+    "specific_detail": "最大的障碍可能是对自己能力的怀疑吧，总担心无论怎么努力都达不到理想的效果，害怕失败会让我更加沮丧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，这样可能会轻松些，比如先试着跟一个客户简单沟通时间上的调整，或者在孩子面前表达我陪伴她的感受。小目标让我觉得没那么有压力，也能慢慢积累一些信心。说到这个，最近有个机会好像可以试试…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样可能会轻松些，比如先试着跟一个客户简单沟通时间上的调整，或者在孩子面前表达我陪伴她的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "最近有个客户需要安排一次会议，时间和孩子的课外活动有冲突。我觉得可以试着主动沟通一下，看能不能调整到稍晚的时间。这是个好机会，可以练习如何自然地表达我的时间限制，同时看看对方的回应会不会让我觉得更轻松一点。",
+    "has_specific_detail": true,
+    "specific_detail": "最近有个客户需要安排一次会议，时间和孩子的课外活动有冲突",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我可以提前想好要说的话，比如先明确会议的重要性，再自然提到时间安排的冲突，比如“这段时间我需要处理家庭事务，但可以稍晚些完成所有准备工作”。这样既表达了我的情况，也让对方觉得我还是会尽力配合。提前想清楚这些会让我更有信心一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以提前想好要说的话，比如先明确会议的重要性，再自然提到时间安排的冲突，比如“这段时间我需要处理家庭事务，但可以稍晚些完成所有准备工作”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得需要注意语气要尽量平和，不要显得过于紧张，同时要清楚表达自己可以提供的替代方案，比如具体的时间调整或者完成工作的方式。另外，也要留意对方的反应，如果感觉有些不太理解，可以适度解释我的家庭情况，保持一种互相尊重的态度。这样沟通起来可能更顺畅。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要注意语气要尽量平和，不要显得过于紧张，同时要清楚表达自己可以提供的替代方案，比如具体的时间调整或者完成工作的方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我希望能收获一点对自己能力的肯定，比如能顺利调整时间并让客户理解我的情况，这会让我觉得自己是可以平衡家庭和工作的。同时，也希望通过这次尝试减少对沟通的恐惧，慢慢积累自信心，让以后面对类似问题时能更从容一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能收获一点对自己能力的肯定，比如能顺利调整时间并让客户理解我的情况，这会让我觉得自己是可以平衡家庭和工作的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "如果对方不太配合，我会试着保持冷静，不把拒绝看成对我的否定，而是理解他们可能有自己的困难。同时，我可以提供更多选择，比如尽量调整其他时间或者工作方式，避免让冲突升级。这样就算结果不尽如人意，我也能觉得自己尽力了，减少内心的挫败感。",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方不太配合，我会试着保持冷静，不把拒绝看成对我的否定，而是理解他们可能有自己的困难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "是个好主意！如果这次顺利完成，我可以把过程和对方的反应写下来，比如哪些话术有效，或者哪些细节需要注意。这样以后遇到类似问题就能更有把握，感觉自己也在一点点进步。这种总结可能会让我心里踏实一些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "是个好主意！如果这次顺利完成，我可以把过程和对方的反应写下来，比如哪些话术有效，或者哪些细节需要注意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得需要再确认客户的具体需求，比如会议的重点内容和时间灵活性，这样能更有针对性地提出调整建议。另外，也想再梳理一下自己的时间安排，确保不会遗漏其他重要的事情，这样沟通时心里会更有底气。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要再确认客户的具体需求，比如会议的重点内容和时间灵活性，这样能更有针对性地提出调整建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "或许可以提醒自己这一步虽然很小，但意义很大。它不仅是一次具体的沟通，更是我尝试平衡家庭和工作的努力。这么想的话，会让我觉得即使结果不完美，我也是在慢慢向前走，能为自己争取一点认可和成长。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以提醒自己这一步虽然很小，但意义很大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "好的，我会努力试试！如果有新的感受或者进展，我会再跟你分享。谢谢你的支持，这让我觉得心里更踏实一些。今天先聊到这里吧，我们下次再继续！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，我会努力试试！如果有新的感受或者进展，我会再跟你分享",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

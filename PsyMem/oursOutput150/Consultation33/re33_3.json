@@ -1,0 +1,463 @@
+[
+  {
+    "turn": 1,
+    "content": "最近让我印象深刻的是，有一天孩子生病了，我忙着带他去医院，丈夫却完全没过问。我觉得特别疲惫，也很孤单…",
+    "has_specific_detail": true,
+    "specific_detail": "最近让我印象深刻的是，有一天孩子生病了，我忙着带他去医院，丈夫却完全没过问",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "当时真的觉得有些崩溃，但我也没说什么，因为觉得他说了也不会改变什么。我只是默默处理所有事情…",
+    "has_specific_detail": true,
+    "specific_detail": "当时真的觉得有些崩溃，但我也没说什么，因为觉得他说了也不会改变什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "是啊，每次都觉得自己说了也没用，反而更心累。之前试过说我的感受，但他总是轻描淡写地应付过去，后来就懒得说了…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，每次都觉得自己说了也没用，反而更心累",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "是的，他平时对家庭的参与真的很少。比如周末我忙着收拾家，他却在一旁玩手机，感觉像是在独自撑起整个家…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，他平时对家庭的参与真的很少",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我觉得可能两方面都有吧。他好像真的不太在意家庭事务，也可能觉得这些事本来就是我应该做的，从来没意识到我有多累…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我有试过提过几次，但他说他工作已经很累了，让我别再烦他。每次听到这些话，我都觉得特别无力，也不想再多说了…",
+    "has_specific_detail": true,
+    "specific_detail": "我有试过提过几次，但他说他工作已经很累了，让我别再烦他",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是的，每次都觉得自己说了也没意义，心里特别堵。通常我会转移注意力，比如埋头工作或者陪孩子，虽然还是觉得孤独…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，每次都觉得自己说了也没意义，心里特别堵",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "其实仔细想想，这种孤独感好像婚后就一直有，只是最近几年变得越来越强烈。尤其是有了孩子后，感觉自己承担的更多了…",
+    "has_specific_detail": true,
+    "specific_detail": "其实仔细想想，这种孤独感好像婚后就一直有，只是最近几年变得越来越强烈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "婚前其实感觉他更关心我一些，经常会主动联系、陪伴我，那时候觉得自己很被在乎。但结婚后，他好像就变得越来越冷淡了…",
+    "has_specific_detail": true,
+    "specific_detail": "婚前其实感觉他更关心我一些，经常会主动联系、陪伴我，那时候觉得自己很被在乎",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "是啊，这种反差真的让我很难过。我觉得可能是生活压力大吧，他总是说忙，但有时候又看他有空玩游戏，感觉不是完全因为工作…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，这种反差真的让我很难过",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "有可能吧，他是不是也觉得家庭关系很累，所以才选择逃避？但我又觉得不公平，因为我一个人扛着所有压力，他却可以这么轻松…",
+    "has_specific_detail": true,
+    "specific_detail": "有可能吧，他是不是也觉得家庭关系很累，所以才选择逃避？但我又觉得不公平，因为我一个人扛着所有压力，他却可以这么轻松…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "这种感觉让我越来越疲惫，也越来越不想主动和他说话了。我觉得我们之间的距离好像越来越远，有时候甚至觉得他已经不在乎我了…",
+    "has_specific_detail": true,
+    "specific_detail": "这种感觉让我越来越疲惫，也越来越不想主动和他说话了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "偶尔会有吧，比如我生病的时候，他会帮忙买药或者问两句。但这些关心总是很短暂，无法让我觉得真正被支持…",
+    "has_specific_detail": true,
+    "specific_detail": "偶尔会有吧，比如我生病的时候，他会帮忙买药或者问两句",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "这种感觉让我想起小时候妈妈对我的态度。她会关心我的成绩，但很少真正问过我累不累、开不开心，那种被忽略的感觉好像一直没变过…",
+    "has_specific_detail": true,
+    "specific_detail": "这种感觉让我想起小时候妈妈对我的态度",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "是的，我想我在婚姻里特别渴望被理解和支持，可能就是因为小时候一直缺乏这种情感的满足吧。但现实却让我觉得，反而回到了那种被忽视的状态…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我想我在婚姻里特别渴望被理解和支持，可能就是因为小时候一直缺乏这种情感的满足吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得可能需要更多关注自己吧，比如找点让我真正开心的事情去做。但说实话，我平时实在没什么时间，也不太知道该从哪里开始…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能需要更多关注自己吧，比如找点让我真正开心的事情去做",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "偶尔有吧，比如晚上孩子睡了之后，我会看看喜欢的电视剧或者泡个热水澡，那些时候会觉得自己稍微轻松一点…",
+    "has_specific_detail": true,
+    "specific_detail": "偶尔有吧，比如晚上孩子睡了之后，我会看看喜欢的电视剧或者泡个热水澡，那些时候会觉得自己稍微轻松一点…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "这些时刻确实让我稍微放松了一些，但孤独感好像没什么改变。我偶尔会试着写写日记，把心里的话记录下来，感觉能舒缓一点…",
+    "has_specific_detail": true,
+    "specific_detail": "这些时刻确实让我稍微放松了一些，但孤独感好像没什么改变",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "有的，我发现自己总是反复问，为什么我付出了这么多，却还是觉得不被重视？好像这种问题一直在我心里萦绕不去…",
+    "has_specific_detail": true,
+    "specific_detail": "有的，我发现自己总是反复问，为什么我付出了这么多，却还是觉得不被重视？好像这种问题一直在我心里萦绕不去…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "可能两方面都有吧。他确实忽略了很多，但我自己也总觉得必须做得更好，才能让人看到我的价值。所以有时候，好像是自己给自己加了更多压力…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "应该是从小时候开始的吧。妈妈总是要求我表现出色，考试一定要考好，不然就会被批评。那时候我就觉得，只有做到最好才会被认可…",
+    "has_specific_detail": true,
+    "specific_detail": "应该是从小时候开始的吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "这种信念让我总觉得不能停下来，不管是工作还是家庭都要尽力做到最好。可这样一来，我常常感到特别疲惫，还会因为达不到预期而自责…",
+    "has_specific_detail": true,
+    "specific_detail": "这种信念让我总觉得不能停下来，不管是工作还是家庭都要尽力做到最好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "其实很少，可能是因为内心总有种声音在说：“你不做就没人做了。”所以即使想放松，也会觉得有点内疚…",
+    "has_specific_detail": true,
+    "specific_detail": "其实很少，可能是因为内心总有种声音在说：“你不做就没人做了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得可能和过去经历有关系吧。小时候妈妈总是强调责任，说我作为姐姐就要多付出，不能指望别人，所以这种想法可能是从那时开始的…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能和过去经历有关系吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "很少吧，妈妈总是更在意我有没有把事情做好。如果我表达自己的累或者难过，她通常会说“谁让你是姐姐呢”，好像我的感受从来都不重要…",
+    "has_specific_detail": true,
+    "specific_detail": "很少吧，妈妈总是更在意我有没有把事情做好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "其实还是不太容易，尤其是面对丈夫或者家里人时，总觉得说出来也不会被理解，还不如自己消化来得省事…",
+    "has_specific_detail": true,
+    "specific_detail": "其实还是不太容易，尤其是面对丈夫或者家里人时，总觉得说出来也不会被理解，还不如自己消化来得省事…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "确实有想过，但每次到要开口的时候，心里就会犹豫，害怕对方还是不在意。我觉得可能需要先找到一个合适的时机和方式吧…",
+    "has_specific_detail": true,
+    "specific_detail": "确实有想过，但每次到要开口的时候，心里就会犹豫，害怕对方还是不在意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "也许是在他不忙、心情不错的时候吧，比如晚上孩子睡了以后。我觉得那时候他可能更愿意听我说，但我也不确定自己怎么开头比较好…",
+    "has_specific_detail": true,
+    "specific_detail": "也许是在他不忙、心情不错的时候吧，比如晚上孩子睡了以后",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，这样听起来确实比较自然，也不会让他觉得我是在抱怨。我可以试试看，先从简单的感受说起，看看他的反应如何…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样听起来确实比较自然，也不会让他觉得我是在抱怨",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我想表达的是，我最近真的很累，也希望他能多分担一些家庭的事情。我不想一开始说太多，怕他觉得压力大，可以先聊这些…",
+    "has_specific_detail": true,
+    "specific_detail": "我想表达的是，我最近真的很累，也希望他能多分担一些家庭的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得可以用平和一些的语气，不带指责，尽量让他知道我只是想分享感受，而不是在埋怨他。这样他可能更愿意听…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用平和一些的语气，不带指责，尽量让他知道我只是想分享感受，而不是在埋怨他",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我觉得可以从一些简单的事情开始，比如帮忙洗碗或者陪孩子写作业。我想这样不会让他觉得太难，也能慢慢让他参与进来…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从一些简单的事情开始，比如帮忙洗碗或者陪孩子写作业",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我觉得可以真诚地跟他说一句“谢谢你帮忙，我真的轻松了不少”，这样他可能会觉得被认可，也更愿意继续分担…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以真诚地跟他说一句“谢谢你帮忙，我真的轻松了不少”，这样他可能会觉得被认可，也更愿意继续分担…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，现在确实感觉思路清晰了不少！我觉得暂时没什么特别需要再准备的，可能就是需要鼓起勇气，迈出第一步去尝试吧…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，现在确实感觉思路清晰了不少！我觉得暂时没什么特别需要再准备的，可能就是需要鼓起勇气，迈出第一步去尝试吧…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "谢谢你的鼓励！这次的交流真的让我感觉轻松了很多，也有了些信心去试试看。今天先聊到这里吧，下次我会再来和你说说进展！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励！这次的交流真的让我感觉轻松了很多，也有了些信心去试试看",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

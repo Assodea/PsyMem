@@ -1,0 +1,546 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近倒是有件事让我挺不舒服的。前几天我加班回家晚了，看到丈夫和舍友一起在客厅玩游戏，看起来很轻松愉快。我当时心里就很复杂，一方面觉得他们关系这么亲密让我有点被“排除”的感觉，另一方面又想自己可能太敏感了，应该放宽心。但那种刺痛感还是没法完全忽略…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近倒是有件事让我挺不舒服的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "那时候我没有直接说什么，只是打了个招呼就回房间了。其实心里挺堵的，但又不想让气氛尴尬，就假装没事。后来一个人待着时，越想越觉得委屈，好像总有种被忽视的感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "那时候我没有直接说什么，只是打了个招呼就回房间了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "可能确实有吧。像小时候，我父母总是忙工作，很少有时间陪我，更多时候是我自己一个人呆着，或者和祖辈在一起。那时候我也经常觉得自己的感受没什么人会注意，所以现在遇到类似的情景，好像一下子就触动了这种老感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "可能确实有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "小时候大概就是看书或者画画吧，这些能让我安静下来，也感觉自己还算有点成就感。但其实我特别渴望父母能多陪陪我，哪怕只是一起吃饭或者聊聊天，也会觉得被关注了。不过这种机会总是很少，所以我后来也就不太主动去要求了…",
+    "has_specific_detail": true,
+    "specific_detail": "小时候大概就是看书或者画画吧，这些能让我安静下来，也感觉自己还算有点成就感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "确实是这样。在婚姻里，我有时候明明觉得不舒服，却还是会忍住不说，怕他觉得我小题大做或者太敏感。我会试着表现得“没事”，但其实心里早就积攒了一堆情绪，后来往往就会突然爆发出来…",
+    "has_specific_detail": true,
+    "specific_detail": "确实是这样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，我觉得担忧被认为敏感，可能是因为我很在意自己在对方眼里的形象吧。我总想表现得成熟、冷静，不想被看作是“麻烦”或“多事”的人。其实背后还有一种害怕吧，就是怕他因为觉得我难搞而疏远我，甚至不再重视我们的关系…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得担忧被认为敏感，可能是因为我很在意自己在对方眼里的形象吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "如果表达了真实感受，却没得到他的理解或者回应，我可能会觉得特别失落，好像自己在关系里是孤立的，甚至会怀疑这段婚姻是否真的稳固。这种时候，我可能会变得更敏感，开始把他的每个行为都解读成对我的冷漠或者不重视…",
+    "has_specific_detail": true,
+    "specific_detail": "如果表达了真实感受，却没得到他的理解或者回应，我可能会觉得特别失落，好像自己在关系里是孤立的，甚至会怀疑这段婚姻是否真的稳固",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "通常我会选择回避吧，像是故意减少交流或者忙于自己的事，试图让自己别太在意。但其实心里是希望他能主动来问我发生了什么，这样我就能感觉到他还是关心我的。不过这种期待又常让我陷入一种矛盾状态，总害怕他根本不会注意到我的情绪…",
+    "has_specific_detail": true,
+    "specific_detail": "通常我会选择回避吧，像是故意减少交流或者忙于自己的事，试图让自己别太在意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "如果他真的没注意到，我可能会变得更冷淡，用这种方式表达自己的不满，但又不直接说出来。有时候我会选择埋头工作，试图转移注意力。但其实，心里还是会有种被忽视的委屈感挥之不去，甚至会觉得是不是我自己哪里做得不够好…",
+    "has_specific_detail": true,
+    "specific_detail": "如果他真的没注意到，我可能会变得更冷淡，用这种方式表达自己的不满，但又不直接说出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，确实有关系。小时候我总觉得只有努力表现得好，父母才会多看我一眼。所以现在在婚姻里，这种习惯好像延续了。我常觉得如果自己更体贴、更优秀，他就会更重视我。但一旦发现这些努力没有效果，就会特别失落，好像自己永远无法满足对方的期待…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，确实有关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "是的，有时候我确实会觉得自己在关系里很弱势，好像总是需要付出更多，才能维持平衡。尤其是当我努力了却没得到回应时，会不自觉地怀疑自己的价值，好像不够好、不够值得被重视。这种想法让我对自己和关系都变得更加焦虑…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，有时候我确实会觉得自己在关系里很弱势，好像总是需要付出更多，才能维持平衡",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，这种模式确实让我觉得很累，尤其是当我意识到自己好像总在迎合对方时，会感到压抑。但有时候，它又让我觉得稍微安全一点，仿佛通过努力能掌控关系的走向。虽然这种控制感很短暂，但至少能让我心里不那么慌乱…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这种模式确实让我觉得很累，尤其是当我意识到自己好像总在迎合对方时，会感到压抑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "如果没有这种模式，我可能会觉得更无助吧，好像失去了应对不安的一个方式。但同时，我也会希望自己能尝试直接表达需求，而不是通过不断付出来换取关注。只是这种选择对我来说还是挺困难的，总会担心表达后对方不理解或者产生冲突…",
+    "has_specific_detail": true,
+    "specific_detail": "如果没有这种模式，我可能会觉得更无助吧，好像失去了应对不安的一个方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "可能跟过去的经历有关系吧。小时候，我对父母表达情绪时，如果他们觉得我的想法“不合理”，就会直接忽略或者批评我。所以我慢慢养成了“别去争辩，避免矛盾”的习惯。在现在的关系里，这种害怕冲突的心理好像还是根深蒂固，总觉得一旦争执，会让感情变得更脆弱…",
+    "has_specific_detail": true,
+    "specific_detail": "可能跟过去的经历有关系吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我最担心的还是关系会变得疏远，甚至破裂吧。争执的时候我总会害怕对方对我的看法变差，觉得我是个难相处的人，这种担忧让我更不敢表达真实的想法。好像一旦冲突发生，就意味着失去了某种安全感，我特别害怕这种感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "我最担心的还是关系会变得疏远，甚至破裂吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "对我来说，安全感可能更多是一种被接纳和被需要的感觉吧。就是无论发生什么，对方都还是愿意在意我的感受，愿意把我放在重要的位置上。关系的稳定性当然也重要，但如果没有那种“被看见”的感觉，稳定也会显得很空洞…",
+    "has_specific_detail": true,
+    "specific_detail": "对我来说，安全感可能更多是一种被接纳和被需要的感觉吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "有时候会有吧，比如丈夫偶尔主动问我工作上的事，或者在我很累时帮我分担一点家务。那种被关注的瞬间让我觉得自己是重要的。但其实我更希望他能在我情绪低落时主动过来关心，哪怕只是简单地问一句“你还好吗”，都能让我感觉被看见和理解了…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候会有吧，比如丈夫偶尔主动问我工作上的事，或者在我很累时帮我分担一点家务",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得可能是两方面都有吧。他本身性格比较理性，不太习惯关注情绪上的细节。而且我平时也总表现得“没事”，可能让他觉得我不需要特别的关心。所以有时候我会怀疑，是不是我自己没有让他真正明白我的需求，才导致这种忽略发生…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "有时候会觉得挺无力的，尤其是当我试图暗示他，却发现他好像根本没注意到。但我确实尝试过，比如在谈话中稍微提到自己最近很累或者心情不好，希望他能接收到这个信号。但往往他只是听一听，没有进一步的反应，这种时候我会觉得挺挫败的…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候会觉得挺无力的，尤其是当我试图暗示他，却发现他好像根本没注意到",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我确实想过直接表达，但总会担心对方觉得我是无理取闹，或者不够独立。尤其是在关系里，我很怕被贴上“过于依赖”的标签，好像直接表达需求会让我显得脆弱。所以每次想开口时，都会犹豫，最后还是选择压抑下来…",
+    "has_specific_detail": true,
+    "specific_detail": "我确实想过直接表达，但总会担心对方觉得我是无理取闹，或者不够独立",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我觉得用轻松的语气可能会稍微容易一点，但我又担心这样表达会让对方觉得我的需求不那么重要，反而更加忽略了。所以在面对这些时候，我常常陷入一种挣扎，不知道该怎么找到一个既能被重视又不显得过于强烈的表达方式…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得用轻松的语气可能会稍微容易一点，但我又担心这样表达会让对方觉得我的需求不那么重要，反而更加忽略了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "这种方式听起来挺理想的，但对我来说还是有点难，因为主动分享的时候，总会担心对方的反应。如果他表现得冷淡或者觉得我的情绪“没必要”，那我可能会更加受挫，甚至觉得自己不该主动提出来。所以，我对这种方式是既期待又害怕吧…",
+    "has_specific_detail": true,
+    "specific_detail": "这种方式听起来挺理想的，但对我来说还是有点难，因为主动分享的时候，总会担心对方的反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "或许我可以试着提前告诉自己，对方的反应不代表我的情绪不重要，只是他表达方式不同。另外，也许我可以学着慢慢去接受，表达需求本身就已经是值得肯定的，而不是完全依赖他的回应来判断自己的价值。这种调整可能需要时间，但我觉得是一个方向…",
+    "has_specific_detail": true,
+    "specific_detail": "或许我可以试着提前告诉自己，对方的反应不代表我的情绪不重要，只是他表达方式不同",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得从简单的情绪分享开始可能更容易一些，比如在一个轻松的时刻随口提到“今天有点累”或者“刚刚有点心烦”。这样不会显得太严肃，但也能慢慢让对方习惯我表达感受。或许这样能让我迈出第一步，逐渐减少对表达的恐惧感…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得从简单的情绪分享开始可能更容易一些，比如在一个轻松的时刻随口提到“今天有点累”或者“刚刚有点心烦”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "如果对方回应积极，我会觉得被理解了，也会更有信心去表达更多的感受；这种正向的反馈会让我感觉关系更紧密。但如果回应不如预期，我可能会提醒自己，这只是开始，不一定每次都能得到理想的反应。我可以试着继续保持轻松的方式，一点一点去适应这个过程，不让一次失败否定所有努力。",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方回应积极，我会觉得被理解了，也会更有信心去表达更多的感受；这种正向的反馈会让我感觉关系更紧密",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "设定小目标可能会很有帮助，比如每周至少主动表达一次情绪，不管是正面的还是负面的。同时，我觉得记录自己的感受也是个好方法，比如写日记或者用手机记下表达后的情绪变化。这样既能帮我观察自己的进步，也能提醒自己这个过程是值得的，哪怕偶尔遇到挫折也不要轻易放弃。",
+    "has_specific_detail": true,
+    "specific_detail": "设定小目标可能会很有帮助，比如每周至少主动表达一次情绪，不管是正面的还是负面的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我希望能从中获得更多对关系的信心吧，感觉自己在关系里是可以被看见和理解的。同时，我也希望能够认可自己的表达能力，不再觉得表达需求是一件困难或者“冒险”的事，而是看到它的积极意义。这种变化会让我在婚姻里更加轻松，也更能享受真实的亲密关系。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能从中获得更多对关系的信心吧，感觉自己在关系里是可以被看见和理解的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我觉得可以设定一些自我鼓励的方式，比如在成功表达后给自己写一句肯定的话，或者做点让自己开心的小事当作奖励。另外，适当和丈夫分享这个小目标也可能是个好方法，让他知道我在努力调整自己，这样既能获得支持，也能让他更理解我的需求。我觉得这些都能让我更坚定地坚持下去！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以设定一些自我鼓励的方式，比如在成功表达后给自己写一句肯定的话，或者做点让自己开心的小事当作奖励",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我可能会选择一个我们都比较放松的时机，比如周末一起散步或吃饭的时候，用一种轻松的语气提到，“最近我在试着多表达自己的感受，希望你能帮我更了解自己。”这样不会显得太正式，也能让他知道我的心思，顺便看看他的反应。如果他愿意参与，我觉得自己会更有动力坚持下去！",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会选择一个我们都比较放松的时机，比如周末一起散步或吃饭的时候，用一种轻松的语气提到，“最近我在试着多表达自己的感受，希望你能帮我更了解自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "如果他能在我表达时认真倾听，或者用一些简单的话回应，比如“我明白你的感受”或者“谢谢你告诉我”，都会让我觉得被鼓励。另外，如果他主动问我一些问题，比如“还有什么想和我分享的吗？”那种被关注的感觉会让我特别安心，也更愿意继续尝试表达自己的情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他能在我表达时认真倾听，或者用一些简单的话回应，比如“我明白你的感受”或者“谢谢你告诉我”，都会让我觉得被鼓励",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "如果这些期待能够逐步实现，我觉得自己会更有信心去表达真实的感受，也会觉得在关系里更加被看见和重视。亲密感应该也会提升很多，因为这种互动让我感觉彼此的距离更近了，不再像之前那么疏离。我可能会变得更放松，更愿意相信对方能理解和接纳我，这种变化对我来说会是非常大的突破。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这些期待能够逐步实现，我觉得自己会更有信心去表达真实的感受，也会觉得在关系里更加被看见和重视",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我希望未来我们能有更深入的沟通，比如定期聊聊彼此的感受和需求，而不是只关注生活琐事。同时，我也期待我们可以一起建立一些新的习惯，比如每天抽一点时间互相分享当天的心情，或者共同参与一些有趣的活动。这些互动能让关系变得更有活力，也让我感觉婚姻是一个共同努力的过程，而不是单方面的付出。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望未来我们能有更深入的沟通，比如定期聊聊彼此的感受和需求，而不是只关注生活琐事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我觉得可以先从简单的步骤开始，比如每天晚上吃饭后抽几分钟聊聊当天的心情，或者周末安排一次轻松的活动，比如一起散步或看电影。慢慢让这些互动变成习惯，而不是刻意的安排。同时，我希望我们能彼此鼓励和提醒，比如当其中一方忘记了，也可以温柔地提议继续，这样不会有压力，反而更自然地融入生活。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从简单的步骤开始，比如每天晚上吃饭后抽几分钟聊聊当天的心情，或者周末安排一次轻松的活动，比如一起散步或看电影",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "如果这些尝试逐步融入生活，我觉得我的情绪状态会变得更稳定，不再那么容易感到焦虑或被忽视。同时，我对关系的整体感受也会更加积极，可能会觉得婚姻是一个温暖、支持和互相理解的空间，而不是充满不安和猜测的场所。这种提升会让我更有信心去享受亲密关系，也能让我在其他方面更放松，更有活力。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这些尝试逐步融入生活，我觉得我的情绪状态会变得更稳定，不再那么容易感到焦虑或被忽视",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我觉得尊重彼此的节奏是特别重要的，不能强求对方马上适应或者改变，要给彼此足够的空间慢慢调整。同时，保持开放的心态也很关键，不论是对对方的回应还是对自己的情绪，都要允许有不完美的时刻。我觉得这些原则能让互动更轻松，也能让我们更愿意坚持下去，逐步建立一种更健康、更自然的关系模式。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得尊重彼此的节奏是特别重要的，不能强求对方马上适应或者改变，要给彼此足够的空间慢慢调整",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我想可以从每天主动表达一个简单的情绪开始，比如“今天工作有点累”或者“刚刚觉得有点开心”。同时，我也可以试着在一个轻松的时刻和丈夫聊聊这些期待，告诉他我希望我们能多一些这样的互动。一步步尝试，不用太急，我觉得这样会比较容易迈出行动的第一步！",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以从每天主动表达一个简单的情绪开始，比如“今天工作有点累”或者“刚刚觉得有点开心”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "记录自己的变化应该会很有帮助，比如写下每次表达后的感受和对方的反应，这样可以让我看到自己的进步，也能更明确哪些方式更有效。另外，定期回顾这些尝试的效果，比如每周总结一次，会让我更清楚哪些地方需要调整，同时也能提醒自己已经在努力了，不要轻易放弃。我觉得这些方法能让我保持动力，继续向前走。",
+    "has_specific_detail": true,
+    "specific_detail": "记录自己的变化应该会很有帮助，比如写下每次表达后的感受和对方的反应，这样可以让我看到自己的进步，也能更明确哪些方式更有效",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "如果遇到挫折，我觉得回忆自己的初衷会是很重要的动力，比如提醒自己为什么开始尝试这些改变，是为了让关系更健康、让自己更轻松。另外，适当寻求外部支持，比如和朋友聊聊或者阅读一些相关的文章，也能给我带来新的视角和力量，让我重新振作，继续坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到挫折，我觉得回忆自己的初衷会是很重要的动力，比如提醒自己为什么开始尝试这些改变，是为了让关系更健康、让自己更轻松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我觉得需要一种平和的心态吧，就是接受过程中的不确定性，告诉自己结果可能不会马上显现，但这并不代表努力是徒劳的。同时，也要允许对方有自己的节奏，不急着要求他马上给出完美反应。只要我持续尝试，并保持耐心和开放，就算有些未知，也能一步步适应并找到新的平衡。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要一种平和的心态吧，就是接受过程中的不确定性，告诉自己结果可能不会马上显现，但这并不代表努力是徒劳的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我希望最终能从中获得对表达自我的更多信心，以及对亲密关系的一种更深的理解和体验。我希望能真正感受到被接纳和被看见，同时也能学会在关系中更坦然地面对情绪和需求。不仅是改善婚姻，我觉得这些成长也会让我在其他方面更自在、更坚定，能够更从容地面对未来的挑战和变化。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望最终能从中获得对表达自我的更多信心，以及对亲密关系的一种更深的理解和体验",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "今天的讨论让我更明确了自己想要的方向，也梳理出了具体的行动步骤。尤其是对如何表达自己的情绪、建立新的互动习惯，我觉得思路更清晰了。暂时没有特别需要深入的部分，这些问题我想先消化一下，再慢慢实践起来。谢谢你今天的陪伴和引导，我觉得很有收获！",
+    "has_specific_detail": true,
+    "specific_detail": "今天的讨论让我更明确了自己想要的方向，也梳理出了具体的行动步骤",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

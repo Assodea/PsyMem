@@ -1,0 +1,432 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯……主要还是和父母的关系。他们总是对我的生活指手画脚，比如前几天，我下班后玩游戏放松了一会儿，他们却说我不务正业，完全不理解我的想法。这种话让我觉得压抑，也很孤独。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯……主要还是和父母的关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是的，这种情况挺多的。比如吃饭的问题，他们总是觉得我应该跟他们一起吃，但我有时因为倒班作息乱了，自己简单解决更方便。他们却说我不顾家，这让我挺无奈的……",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种情况挺多的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我觉得他们确实是关心，但更多是因为他们习惯了以自己的标准来要求我，比如在他们眼里，家人就应该一起吃饭，这才叫“团结”。但对我来说，有时候真的力不从心…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得他们确实是关心，但更多是因为他们习惯了以自己的标准来要求我，比如在他们眼里，家人就应该一起吃饭，这才叫“团结”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "我试过跟他们解释，比如说倒班后真的很累，想安静地吃点东西就休息，但他们总是觉得这是借口，还是坚持让我按照他们的方式来。每次沟通都感觉是在对牛弹琴，很挫败…",
+    "has_specific_detail": true,
+    "specific_detail": "我试过跟他们解释，比如说倒班后真的很累，想安静地吃点东西就休息，但他们总是觉得这是借口，还是坚持让我按照他们的方式来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是的，他们的反应通常挺情绪化，比如会说“我们都是为你好”“你这样将来会后悔”。听到这些话，我有时会觉得没必要再解释了，反正说了他们也不会听…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，他们的反应通常挺情绪化，比如会说“我们都是为你好”“你这样将来会后悔”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "大多数时候，我会选择顺从他们的要求，比如勉强陪他们吃饭，但心里其实挺抗拒的。偶尔实在累了，就会避开他们，自己待着。但这样又会被说成“冷淡”或者“不孝”，让我更烦躁…",
+    "has_specific_detail": true,
+    "specific_detail": "大多数时候，我会选择顺从他们的要求，比如勉强陪他们吃饭，但心里其实挺抗拒的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，烦躁有时候会持续一整天，尤其是上班前发生这种事时，情绪很难完全切换过去，导致工作时注意力不集中，甚至会觉得干活特别累…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，烦躁有时候会持续一整天，尤其是上班前发生这种事时，情绪很难完全切换过去，导致工作时注意力不集中，甚至会觉得干活特别累…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "我有时候会在休息时玩会儿手机游戏，暂时放空自己，但只能缓解一会儿。至于跟同事聊聊，我很少提这些家里的事，感觉他们可能也不太能理解吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我有时候会在休息时玩会儿手机游戏，暂时放空自己，但只能缓解一会儿",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "主要是不太习惯在工作场合谈这些吧，我觉得大家更愿意聊轻松的话题，像家里的矛盾提出来可能会让气氛变得沉重，所以就一直憋着不说…",
+    "has_specific_detail": true,
+    "specific_detail": "主要是不太习惯在工作场合谈这些吧，我觉得大家更愿意聊轻松的话题，像家里的矛盾提出来可能会让气氛变得沉重，所以就一直憋着不说…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "其实也差不多。我跟朋友聊的时候，大多还是聊一些共同的兴趣爱好，比如游戏，很少提家里的事。可能是觉得这些事说了也没法改变，反而会让自己显得更消极…",
+    "has_specific_detail": true,
+    "specific_detail": "其实也差不多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "可能两方面都有吧。一方面是觉得说了也改变不了父母的态度，另一方面也怕朋友觉得我在抱怨或者麻烦他们，所以干脆就不提了，自己扛着算了…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我觉得可能是理解吧，希望有人能站在我的角度看看，明白我并不是不想孝顺或者不顾家，而是也有自己的需求和难处…这种被理解的感觉对我来说挺重要的。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是理解吧，希望有人能站在我的角度看看，明白我并不是不想孝顺或者不顾家，而是也有自己的需求和难处…这种被理解的感觉对我来说挺重要的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "也许有可能吧，但我还没找到合适的方式。每次尝试沟通时，气氛总是变得很紧张，我也不太会用很温和的语气表达自己的感受，感觉挺困难的…",
+    "has_specific_detail": true,
+    "specific_detail": "也许有可能吧，但我还没找到合适的方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，这个倒是可以试试。比如我下班后跟他们聊聊今天厂里发生的有趣事，或者分享我在游戏里的小成就，可能会让他们觉得更容易交流一些吧…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个倒是可以试试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "是的，可能从这些轻松的话题入手，再慢慢提到自己的感受，比如聊到工作时顺便提一下倒班的辛苦，让他们多一些理解，或许比直接表达矛盾更容易接受。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，可能从这些轻松的话题入手，再慢慢提到自己的感受，比如聊到工作时顺便提一下倒班的辛苦，让他们多一些理解，或许比直接表达矛盾更容易接受",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 16,
+    "content": "我觉得试试这样做应该会好一些，至少比直接争论更容易让人接受。不过我还是有点担心，万一他们又开始情绪化地反驳，我该怎么应对才不会让局面失控呢？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得试试这样做应该会好一些，至少比直接争论更容易让人接受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，也许倾听他们的观点会是个办法，至少先让他们觉得被尊重。但如果他们越说越激动，我可能会试着转移话题，比如聊些轻松的事，让气氛别太僵硬…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，也许倾听他们的观点会是个办法，至少先让他们觉得被尊重",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得这种策略听起来挺可行的，至少不会让矛盾进一步激化。不过可能还需要调整自己的心态，不要太在意他们一时的反应，这样也许能更坦然地面对。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这种策略听起来挺可行的，至少不会让矛盾进一步激化",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得语气是一个重点，尽量放缓语速，不带情绪地表达。另外，挑他们心情比较好的时候聊，比如吃饭后或者周末，可能会更容易接受我的想法。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得语气是一个重点，尽量放缓语速，不带情绪地表达",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "如果他们还是坚持自己的观点，我可能会告诉自己，无法改变别人的想法是正常的，重要的是我已经尽力沟通了。然后可能会找个时间做点自己喜欢的事，比如玩会儿游戏，让自己放松下来。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们还是坚持自己的观点，我可能会告诉自己，无法改变别人的想法是正常的，重要的是我已经尽力沟通了",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 21,
+    "content": "有可能吧，毕竟如果我表现得更平和、更坚持自己的方式，他们或许会意识到一些问题，慢慢接受我的生活方式。虽然过程可能会比较长，但我觉得值得去尝试。",
+    "has_specific_detail": true,
+    "specific_detail": "有可能吧，毕竟如果我表现得更平和、更坚持自己的方式，他们或许会意识到一些问题，慢慢接受我的生活方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得定期做些自我调节挺重要的，比如每周给自己留点时间打游戏或者看喜欢的节目，让心情放松。另外，如果有信任的人可以倾诉，也许会让我更轻松一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得定期做些自我调节挺重要的，比如每周给自己留点时间打游戏或者看喜欢的节目，让心情放松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我觉得可以，这些方法能让我更关注自己的感受，不再总是被他们的情绪牵着走。如果我自己内心更稳定，面对他们时也会更有底气、更从容一点。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以，这些方法能让我更关注自己的感受，不再总是被他们的情绪牵着走",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得可以先从调整情绪管理开始，比如深呼吸或短暂离开现场，避免被他们的情绪牵动。然后尝试用平和的语气，找一个轻松的时机跟他们聊些无关紧要的小事，慢慢建立更好的沟通氛围。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从调整情绪管理开始，比如深呼吸或短暂离开现场，避免被他们的情绪牵动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我希望能和父母建立一种更平等的关系，他们能接受我的生活方式，不再过多干涉，同时我们之间还能保有亲近感，不是现在这样总是带着矛盾和压力。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能和父母建立一种更平等的关系，他们能接受我的生活方式，不再过多干涉，同时我们之间还能保有亲近感，不是现在这样总是带着矛盾和压力",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 26,
+    "content": "我觉得最重要的是坚持表达真实感受，同时保持耐心，不急着要求他们立刻改变。只要我持续用平和的方式沟通，慢慢让他们理解我的想法，就算过程漫长也会有希望的。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最重要的是坚持表达真实感受，同时保持耐心，不急着要求他们立刻改变",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得如果他们开始愿意听我讲完，不打断或直接否定，或者偶尔会问问我的感受和想法，而不是只强调自己的观点，那就算是一种改善了。这会让我觉得他们在慢慢理解我。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果他们开始愿意听我讲完，不打断或直接否定，或者偶尔会问问我的感受和想法，而不是只强调自己的观点，那就算是一种改善了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "如果我感受到他们的改变，我会主动表达感谢，比如说“谢谢你听我说”，或者“我很开心你能理解我的想法”。这样可能会让他们也觉得沟通是有意义的，更愿意继续保持这种方式。",
+    "has_specific_detail": true,
+    "specific_detail": "如果我感受到他们的改变，我会主动表达感谢，比如说“谢谢你听我说”，或者“我很开心你能理解我的想法”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得会的。如果我们能建立起这种更健康的沟通方式，很多矛盾可能就能在一开始就化解，不会积累成大问题。那样的话，我们的关系应该会更自然、更轻松一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "目前整体方向我觉得是清晰的，但在具体执行时，可能还需要调整自己的语气和情绪，尤其是面对他们情绪化的时候，如何更好地控制自己的反应，这方面我还不太有把握。",
+    "has_specific_detail": true,
+    "specific_detail": "目前整体方向我觉得是清晰的，但在具体执行时，可能还需要调整自己的语气和情绪，尤其是面对他们情绪化的时候，如何更好地控制自己的反应，这方面我还不太有把握",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得提前告诉自己可能会遇到情绪化的情况，做好心理准备，会让我不至于那么慌张。如果真的觉得情绪上来了，可以找借口比如“我先倒杯水”暂时离开，调整好再回来继续聊。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得提前告诉自己可能会遇到情绪化的情况，做好心理准备，会让我不至于那么慌张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "是的，这些方法让我觉得自己有了更多的掌控感，不再那么被动。虽然过程可能还是会有起伏，但我对改善关系的信心比之前强了一些，至少觉得方向是对的。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这些方法让我觉得自己有了更多的掌控感，不再那么被动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我觉得今天的对话帮我理清了很多思路，比如调整沟通方式、管理情绪的方法，感觉心里轻松了一些。目前这些内容我想先消化一下，等实践后再看看效果。今天先聊到这里吧，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得今天的对话帮我理清了很多思路，比如调整沟通方式、管理情绪的方法，感觉心里轻松了一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

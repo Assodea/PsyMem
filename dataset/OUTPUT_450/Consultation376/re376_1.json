@@ -1,0 +1,260 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，是关于我和室友的事情。她最近总是随意动我的东西，比如拿我的水杯用完也不放回原位，我觉得很烦躁…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，是关于我和室友的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是的，我确实感觉很无奈，好像我的边界被忽视了。这种情况大概持续了一个月吧，我试过跟她说，希望她注意一些，但好像没什么效果…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实感觉很无奈，好像我的边界被忽视了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "她当时只是随口说了“哦，我以后会注意”，但之后并没有改变。我和她平时关系还算过得去，不算特别亲近，基本是礼貌交流为主吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "她当时只是随口说了“哦，我以后会注意”，但之后并没有改变",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 4,
+    "content": "我觉得可能她本身对这些细节不敏感，或者觉得这些不是什么大事吧。但确实让我有点介意，现在我们相处时，我总会不自觉地盯着她的行为，心里很紧张…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能她本身对这些细节不敏感，或者觉得这些不是什么大事吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是的，确实让我更烦躁…每次看到她随意动我的东西，我就会想“为什么她不尊重我的空间？”还有种“是不是我表达得不够清楚？”的自责感…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，确实让我更烦躁…每次看到她随意动我的东西，我就会想“为什么她不尊重我的空间？”还有种“是不是我表达得不够清楚？”的自责感…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "是的，这种矛盾让我很累…回想起来，我可能只说了希望她注意，但没明确告诉她哪些行为让我不舒服，也没强调这对我来说很重要。可能她觉得我没那么在意吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种矛盾让我很累…回想起来，我可能只说了希望她注意，但没明确告诉她哪些行为让我不舒服，也没强调这对我来说很重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，我想如果重新沟通的话，我会具体列出哪些行为让我不舒服，比如动我的水杯或者用完不归还。我可能会直接告诉她这让我感觉我的空间被侵犯了，希望她能尊重这些细节…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我想如果重新沟通的话，我会具体列出哪些行为让我不舒服，比如动我的水杯或者用完不归还",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "我觉得选在我们都比较放松的场合，比如吃饭或者聊天时，可能会更自然一些。我会尽量用平和的语气，不带责备，只是表达自己的感受和希望…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得选在我们都比较放松的场合，比如吃饭或者聊天时，可能会更自然一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "是的，我确实有点担心她还是敷衍回应，那样我可能会觉得更加无力吧。如果真的这样，我可能会尝试再调整自己的心态，比如提醒自己不需要为她的行为过度内耗，专注在自己能控制的部分…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实有点担心她还是敷衍回应，那样我可能会觉得更加无力吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得可以试着做一些记录，比如写下自己的感受和她的具体行为，这样能帮助我理清思路，减少反复纠结。同时，我可能会把注意力转移到自己喜欢的事情上，比如读书或者画画，让心情平稳一些…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着做一些记录，比如写下自己的感受和她的具体行为，这样能帮助我理清思路，减少反复纠结",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得坚持这样做一段时间，可能会让我对自己的情绪有更清晰的认识，也能减少对室友行为的过度关注，让我不再那么容易被她影响。或许我还能找到更有效的方式来调整和应对…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得坚持这样做一段时间，可能会让我对自己的情绪有更清晰的认识，也能减少对室友行为的过度关注，让我不再那么容易被她影响",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "如果情绪仍有波动，我可能会尝试和其他朋友聊聊，听听他们的建议或者只是倾诉一下，也许能让我感觉轻松些。另外，我也会考虑安排一些独处时间，比如去校园里散步，让自己彻底放松下来…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果情绪仍有波动，我可能会尝试和其他朋友聊聊，听听他们的建议或者只是倾诉一下，也许能让我感觉轻松些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我希望自己最终能做到不再因室友的行为过度烦躁，能以更平和的心态面对这些问题。同时，我也希望能建立更清晰的边界，既表达自己的需求，又不让这些矛盾影响我的情绪和生活…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望自己最终能做到不再因室友的行为过度烦躁，能以更平和的心态面对这些问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我觉得第一步可以从重新和室友沟通开始，找个轻松的时机，用具体的例子告诉她哪些行为让我不舒服，同时表达我对这些事的重视，希望我们能共同维护好生活的边界…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得第一步可以从重新和室友沟通开始，找个轻松的时机，用具体的例子告诉她哪些行为让我不舒服，同时表达我对这些事的重视，希望我们能共同维护好生活的边界…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "是的，我觉得提前整理思路很重要，我可能会写下几个核心点，比如具体行为、我的感受以及希望她怎么做。还可以试着在心里模拟一下对话，想象她可能的反应和我的应对方式，这样能让我更有准备…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得提前整理思路很重要，我可能会写下几个核心点，比如具体行为、我的感受以及希望她怎么做",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "如果遇到让我紧张的情境，我可能会提醒自己先深呼吸，让心情平静下来。或者可以提前准备一些简单的回应，比如“我理解你的想法，但这对我来说确实很重要”，这样能让我更有底气…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到让我紧张的情境，我可能会提醒自己先深呼吸，让心情平静下来",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 17,
+    "content": "如果室友有所改变，我想我会感到轻松很多吧，也会觉得自己的努力是值得的。这可能让我对自己在处理人际问题上的能力更有信心，同时也能更专注于自己的生活和兴趣…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果室友有所改变，我想我会感到轻松很多吧，也会觉得自己的努力是值得的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "如果真的有了改变，我可能会奖励自己一顿喜欢的餐点，或者去买一本期待已久的书，算是对自己的鼓励吧。也许还会写一段日记，记录这次的经历和感受，让自己记住这个成长的瞬间…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果真的有了改变，我可能会奖励自己一顿喜欢的餐点，或者去买一本期待已久的书，算是对自己的鼓励吧",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 19,
+    "content": "我觉得最大的收获可能是学会了更清晰地表达自己的需求，同时也增强了处理人际关系的信心。这让我意识到，其实通过沟通和调整，很多问题是可以慢慢解决的，而不是只能被动忍受或回避…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最大的收获可能是学会了更清晰地表达自己的需求，同时也增强了处理人际关系的信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，今天聊下来让我更清楚自己对边界的重视，也意识到其实我可以通过更具体的表达来改善关系。感觉自己的思路更清晰了，也对下一步怎么做有了更多信心…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，今天聊下来让我更清楚自己对边界的重视，也意识到其实我可以通过更具体的表达来改善关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

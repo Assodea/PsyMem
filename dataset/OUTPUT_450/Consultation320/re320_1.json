@@ -1,0 +1,365 @@
+[
+  {
+    "turn": 1,
+    "content": "最近我失业了，虽然也在努力投简历，但总觉得自己能力不够。尤其是前几天面试时，面试官问到一个问题，我没答好，回来后一直在反思是不是自己不够优秀…",
+    "has_specific_detail": true,
+    "specific_detail": "最近我失业了，虽然也在努力投简历，但总觉得自己能力不够",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "当时面试结束后，首先是懊悔，觉得自己不应该答得那么糟；然后是自责，总觉得自己没准备充分。紧张也有，担心这次机会就这么没了…",
+    "has_specific_detail": true,
+    "specific_detail": "当时面试结束后，首先是懊悔，觉得自己不应该答得那么糟；然后是自责，总觉得自己没准备充分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "现在懊悔和紧张少了些，但自责的感觉还在，特别是每次想起面试情景时，又会觉得自己是不是能力真的有问题…",
+    "has_specific_detail": true,
+    "specific_detail": "现在懊悔和紧张少了些，但自责的感觉还在，特别是每次想起面试情景时，又会觉得自己是不是能力真的有问题…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "我觉得主要是临场表现的问题，当时面试官突然问到一个和岗位相关的细节，我一下子没反应过来，脑子有点空白，后来越想越懊恼。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得主要是临场表现的问题，当时面试官突然问到一个和岗位相关的细节，我一下子没反应过来，脑子有点空白，后来越想越懊恼",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是的，以前在大学答辩时也有过类似情况。当时导师提问后我紧张到语无伦次，事后也特别懊悔，总感觉自己一遇到压力就容易出问题…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，以前在大学答辩时也有过类似情况",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "平时也会有，比如工作时任务一多就会觉得焦虑，生怕自己做不好被领导批评。尤其是事情堆起来的时候，心里总有一种无形的压力。",
+    "has_specific_detail": true,
+    "specific_detail": "平时也会有，比如工作时任务一多就会觉得焦虑，生怕自己做不好被领导批评",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我通常会先列个清单，把任务分成小块，优先完成紧急的。但即使这样，有时候心里还是放不下，总是担心自己遗漏了什么，甚至会熬夜确认细节。",
+    "has_specific_detail": true,
+    "specific_detail": "我通常会先列个清单，把任务分成小块，优先完成紧急的",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 8,
+    "content": "更多是对结果的焦虑吧，总觉得如果有一点没做好，后果可能会很严重，甚至会让别人觉得我不可靠。这种担心一直困扰着我。",
+    "has_specific_detail": true,
+    "specific_detail": "更多是对结果的焦虑吧，总觉得如果有一点没做好，后果可能会很严重，甚至会让别人觉得我不可靠",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "是的，有一次工作时因为一个小失误，导致项目延期，领导当着同事的面批评了我。虽然后来问题解决了，但那种被指责的感觉让我印象很深，后来就更害怕犯错了。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，有一次工作时因为一个小失误，导致项目延期，领导当着同事的面批评了我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "后来领导私下跟我说项目延期也有其他原因，但当时还是觉得自己应该承担主要责任。虽然同事们没有明显指责，但我内心一直觉得丢脸，也没主动跟别人提起这件事…",
+    "has_specific_detail": true,
+    "specific_detail": "后来领导私下跟我说项目延期也有其他原因，但当时还是觉得自己应该承担主要责任",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "可能两者都有吧。我怕如果提了，别人会觉得我是在为自己开脱；也怕被认为太情绪化，不够专业。所以索性就把这些情绪藏起来了。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "如果当时能和信任的人聊聊，可能心里会没那么压抑吧。至少可以听到一些客观的看法，而不是一直陷在自己的自责和想象中。不过我总觉得开口很难…",
+    "has_specific_detail": true,
+    "specific_detail": "如果当时能和信任的人聊聊，可能心里会没那么压抑吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "可能是一个关系较好的朋友吧，她平时比较懂得倾听，也不会轻易评价别人。但即便如此，我还是有点害怕被她觉得我“太弱”了…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是一个关系较好的朋友吧，她平时比较懂得倾听，也不会轻易评价别人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "或许可以试试吧，跟她提到压力大应该不会太突兀。但我还是会担心，她会不会觉得我总是在抱怨…这让我有点矛盾。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试试吧，跟她提到压力大应该不会太突兀",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "这样试探性地说一点，应该会让我感觉没那么有压力。比如可以和她说最近面试后有点不顺心，看看她怎么回应，但心里还是有点忐忑…",
+    "has_specific_detail": true,
+    "specific_detail": "这样试探性地说一点，应该会让我感觉没那么有压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "可能用稍微轻松一点的方式吧，比如说“最近面试好像没发挥好，有点郁闷”。这样感觉不那么沉重，也容易自然地开始聊天。",
+    "has_specific_detail": true,
+    "specific_detail": "可能用稍微轻松一点的方式吧，比如说“最近面试好像没发挥好，有点郁闷”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "如果她能安慰或者说点支持的话，我应该会放松些，也更愿意多说一些内心的想法。不过我还是有点担心她会觉得我的问题没那么严重，不值得太在意…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她能安慰或者说点支持的话，我应该会放松些，也更愿意多说一些内心的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "如果她的回应让我觉得被理解，可能会让我更有信心以后表达自己吧。至少不会总觉得情绪是“不能说的”，也许也会慢慢觉得和人分享没那么难…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她的回应让我觉得被理解，可能会让我更有信心以后表达自己吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "是的，我觉得可以试试看，哪怕只是小小的一步，也许能让我慢慢适应这种沟通方式。毕竟一直压在心里，也让我觉得挺累的…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可以试试看，哪怕只是小小的一步，也许能让我慢慢适应这种沟通方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得可能周末比较合适，大家都比较放松，可以随意聊聊天。到时候找个轻松的话题开头，再自然地提到这件事，应该会比较顺其自然吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能周末比较合适，大家都比较放松，可以随意聊聊天",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "或许可以提前想好怎么表达，比如简单说“最近面试后有点不顺心，总觉得自己表现得不好”。这样说起来会更有条理，也能稍微缓解我的紧张感。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以提前想好怎么表达，比如简单说“最近面试后有点不顺心，总觉得自己表现得不好”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我最期待的是支持和安慰吧，比如她能说“没关系，下次会更好”之类的话。这样会让我觉得被理解，而不是过多关注问题本身。",
+    "has_specific_detail": true,
+    "specific_detail": "我最期待的是支持和安慰吧，比如她能说“没关系，下次会更好”之类的话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "如果她的反应让我觉得被理解，可能会让我轻松很多吧。至少不会再觉得这些情绪只能自己扛，也许心里会更踏实些。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她的反应让我觉得被理解，可能会让我轻松很多吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "可能会吧，如果这次效果好，我觉得自己会更愿意去表达内心的想法。也许我会慢慢明白，情绪并不是一定要藏起来的东西。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果这次效果好，我觉得自己会更愿意去表达内心的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "可能需要提醒自己，不要太在意对方的反应，不管她怎么说，这都是我为自己做的一次尝试。这样或许会让我心态更放松一些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "可能需要提醒自己，不要太在意对方的反应，不管她怎么说，这都是我为自己做的一次尝试",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 26,
+    "content": "也许可以犒劳自己一顿喜欢的甜点吧，算是对自己的鼓励。毕竟迈出这一步真的需要勇气，我觉得自己值得一点小奖励！",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以犒劳自己一顿喜欢的甜点吧，算是对自己的鼓励",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "好的，谢谢你一直耐心听我说！今天聊了这些，我感觉轻松了不少。接下来我会试着迈出这一步，有新的感受我再来分享！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，谢谢你一直耐心听我说！今天聊了这些，我感觉轻松了不少",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "好的，谢谢你的支持和鼓励！今天的聊天真的让我感觉好多了，那就先聊到这里吧，下次再见！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，谢谢你的支持和鼓励！今天的聊天真的让我感觉好多了，那就先聊到这里吧，下次再见！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

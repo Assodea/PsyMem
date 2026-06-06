@@ -1,0 +1,857 @@
+[
+  {
+    "turn": 1,
+    "content": "最近还是围绕和我妈的关系吧，前几天因为她突然要我帮忙联系医生的事，又有点不愉快…让我觉得特别疲惫。",
+    "has_specific_detail": true,
+    "specific_detail": "最近还是围绕和我妈的关系吧，前几天因为她突然要我帮忙联系医生的事，又有点不愉快…让我觉得特别疲惫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "她突然打电话让我帮忙约医生，说她最近总觉得不舒服，可我那天刚忙完工作，累得不想动…我说能不能改天再约，她就有点不高兴了。",
+    "has_specific_detail": true,
+    "specific_detail": "她突然打电话让我帮忙约医生，说她最近总觉得不舒服，可我那天刚忙完工作，累得不想动…我说能不能改天再约，她就有点不高兴了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "她语气立刻变得很冷，说“我身体不好你不关心，还要推脱”，让我觉得很委屈…但又不想吵，只能硬着头皮答应了。",
+    "has_specific_detail": true,
+    "specific_detail": "她语气立刻变得很冷，说“我身体不好你不关心，还要推脱”，让我觉得很委屈…但又不想吵，只能硬着头皮答应了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "是的，这种感觉太常见了。她总是觉得我应该无条件帮她，但有时候我真的累了，想要点自己的空间，却又不敢拒绝她…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种感觉太常见了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我想，可能是怕她觉得我不孝吧…她经常提小时候怎么辛苦照顾我，我就会觉得，如果拒绝了好像自己很没良心。",
+    "has_specific_detail": true,
+    "specific_detail": "我想，可能是怕她觉得我不孝吧…她经常提小时候怎么辛苦照顾我，我就会觉得，如果拒绝了好像自己很没良心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "可能两者都有吧…她总会提这些事，但也许是我自己想太多了，总觉得要做到足够好才对得起她的付出。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧…她总会提这些事，但也许是我自己想太多了，总觉得要做到足够好才对得起她的付出",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "她没明确说过，但她经常会讲“别人家孩子怎么孝顺”，让我不自觉觉得，自己也应该做到那样才行…这让我总是紧张。",
+    "has_specific_detail": true,
+    "specific_detail": "她没明确说过，但她经常会讲“别人家孩子怎么孝顺”，让我不自觉觉得，自己也应该做到那样才行…这让我总是紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "可能是她的一种情绪吧，比如孤单或者不被重视…但听到这些话的时候，我总是先觉得自己不够好，忽略了她真正的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是她的一种情绪吧，比如孤单或者不被重视…但听到这些话的时候，我总是先觉得自己不够好，忽略了她真正的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "或许会吧，如果能换个角度看，可能我就不会总觉得有压力了…但每次面对她时，这种自责的感觉就很难控制住。",
+    "has_specific_detail": true,
+    "specific_detail": "或许会吧，如果能换个角度看，可能我就不会总觉得有压力了…但每次面对她时，这种自责的感觉就很难控制住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "也许可以试着先深呼吸，提醒自己她的情绪不一定全是因为我做得不够，然后再回应她…这样或许能冷静一点。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试着先深呼吸，提醒自己她的情绪不一定全是因为我做得不够，然后再回应她…这样或许能冷静一点",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 11,
+    "content": "或许可以试着用更平和的语气告诉她我的真实状态，比如“我今天有点累，但明天一定帮你处理”，这样可能不会让她觉得我在推脱。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试着用更平和的语气告诉她我的真实状态，比如“我今天有点累，但明天一定帮你处理”，这样可能不会让她觉得我在推脱",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "可能会吧，至少听起来比直接说“改天再说”更让她安心一些…我觉得值得试试看，说不定效果会好一点。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，至少听起来比直接说“改天再说”更让她安心一些…我觉得值得试试看，说不定效果会好一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我可以在心里先告诉自己，不需要完美，只要真诚就好，然后尽量用温和的语气表达我的状态和计划。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以在心里先告诉自己，不需要完美，只要真诚就好，然后尽量用温和的语气表达我的状态和计划",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 14,
+    "content": "或许我可以试着告诉自己，她的不满是她的情绪，并不代表我真的做得不好…这样可以稍微放过自己一些，不再那么纠结。",
+    "has_specific_detail": true,
+    "specific_detail": "或许我可以试着告诉自己，她的不满是她的情绪，并不代表我真的做得不好…这样可以稍微放过自己一些，不再那么纠结",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 15,
+    "content": "我觉得可能会让我更冷静地和她沟通，不再总是紧张或委屈…这样关系可能会少一些摩擦，多一点理解吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能会让我更冷静地和她沟通，不再总是紧张或委屈…这样关系可能会少一些摩擦，多一点理解吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "比如她总是突然让我做一些事情，还带着“你就该帮忙”的态度…这种时候我会觉得被压迫，很容易紧张和烦躁。",
+    "has_specific_detail": true,
+    "specific_detail": "比如她总是突然让我做一些事情，还带着“你就该帮忙”的态度…这种时候我会觉得被压迫，很容易紧张和烦躁",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "这个主意不错！如果能提前约定，比如她需要帮忙时能提早告诉我，而不是临时要求，或许我会觉得更有掌控感，不那么容易紧张。",
+    "has_specific_detail": true,
+    "specific_detail": "这个主意不错！如果能提前约定，比如她需要帮忙时能提早告诉我，而不是临时要求，或许我会觉得更有掌控感，不那么容易紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我可以用比较温和的方式，比如说“有些事情如果能提前告诉我，我会更容易安排时间，也能更快帮到你”，这样可能她会觉得是在为她着想。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以用比较温和的方式，比如说“有些事情如果能提前告诉我，我会更容易安排时间，也能更快帮到你”，这样可能她会觉得是在为她着想",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "如果她愿意配合，我觉得我会少一些无力感，能更专注地帮助她，而不是总在情绪里挣扎…这样我们可能都更轻松一些。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她愿意配合，我觉得我会少一些无力感，能更专注地帮助她，而不是总在情绪里挣扎…这样我们可能都更轻松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "或许可以在她情绪比较平稳的时候，比如吃饭时随意聊起…这样她可能会更愿意听我说，也不会觉得是在埋怨她。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以在她情绪比较平稳的时候，比如吃饭时随意聊起…这样她可能会更愿意听我说，也不会觉得是在埋怨她",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我想需要注意语气尽量温和，不让她觉得我是在指责。另外可以多表达我的感受，比如“这样我会更好安排时间”，让她理解我的出发点。",
+    "has_specific_detail": true,
+    "specific_detail": "我想需要注意语气尽量温和，不让她觉得我是在指责",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得要提醒自己，不要太急着让她完全理解或改变，可能需要一些时间去适应…所以要有耐心，不要因为一两次效果不好就放弃。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得要提醒自己，不要太急着让她完全理解或改变，可能需要一些时间去适应…所以要有耐心，不要因为一两次效果不好就放弃",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "如果她一时不理解，我可以先深呼吸，告诉自己这是一个过程，不需要立刻有结果…只要我态度真诚，总会慢慢有所改善的。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她一时不理解，我可以先深呼吸，告诉自己这是一个过程，不需要立刻有结果…只要我态度真诚，总会慢慢有所改善的",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 24,
+    "content": "我觉得可以尝试和朋友聊聊，或者写写日记，把自己的情绪整理一下…这样能让我更清楚地看到问题，也能给自己一些支持和鼓励。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以尝试和朋友聊聊，或者写写日记，把自己的情绪整理一下…这样能让我更清楚地看到问题，也能给自己一些支持和鼓励",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "这些支持可以让我不再把所有情绪压在心里，感觉更轻松一些…也能让我在和她相处时，保持更平和的心态，不容易被影响。",
+    "has_specific_detail": true,
+    "specific_detail": "这些支持可以让我不再把所有情绪压在心里，感觉更轻松一些…也能让我在和她相处时，保持更平和的心态，不容易被影响",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "如果能持续调节情绪，我觉得我会更有精力去关注自己的需求，不再总是被她的情绪牵着走，生活可能会变得更有掌控感。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能持续调节情绪，我觉得我会更有精力去关注自己的需求，不再总是被她的情绪牵着走，生活可能会变得更有掌控感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得工作上也可以，比如更主动规划自己的发展方向，而不是只满足于稳定；还有社交方面，尝试认识更多朋友，扩展自己的生活圈子。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得工作上也可以，比如更主动规划自己的发展方向，而不是只满足于稳定；还有社交方面，尝试认识更多朋友，扩展自己的生活圈子",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "或许可以先从简单的事情开始，比如每天花一点时间思考工作上的兴趣点，或者主动联系一位许久未见的朋友聊聊天。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以先从简单的事情开始，比如每天花一点时间思考工作上的兴趣点，或者主动联系一位许久未见的朋友聊聊天",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 29,
+    "content": "我觉得可以先试着联系朋友聊聊天，这比较轻松，也能让我缓解一些内心的孤独感，为之后的改变积累一点动力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先试着联系朋友聊聊天，这比较轻松，也能让我缓解一些内心的孤独感，为之后的改变积累一点动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我可能会联系大学时关系不错的一个朋友，聊聊最近的生活变化或者问问她的近况，感觉从这些话题开始会比较自然。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会联系大学时关系不错的一个朋友，聊聊最近的生活变化或者问问她的近况，感觉从这些话题开始会比较自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "或许就今晚吧，趁着自己刚有这个想法，赶紧行动起来，不然拖久了可能又会犹豫不决了。",
+    "has_specific_detail": true,
+    "specific_detail": "或许就今晚吧，趁着自己刚有这个想法，赶紧行动起来，不然拖久了可能又会犹豫不决了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我可以说：“好久没联系了，最近怎么样？突然想起我们之前一起做的某件有趣的事，忍不住想问问你近况。”这样感觉会比较亲切。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以说：“好久没联系了，最近怎么样？突然想起我们之前一起做的某件有趣的事，忍不住想问问你近况",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我会期待她能回复一些近况，哪怕只是简单地聊聊她最近的生活，也会让我觉得我们的联系还在，不会感到那么孤单。",
+    "has_specific_detail": true,
+    "specific_detail": "我会期待她能回复一些近况，哪怕只是简单地聊聊她最近的生活，也会让我觉得我们的联系还在，不会感到那么孤单",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我会告诉自己，不用过于在意对方的态度，重要的是我已经迈出了主动联系的这一步，这本身就值得鼓励。",
+    "has_specific_detail": true,
+    "specific_detail": "我会告诉自己，不用过于在意对方的态度，重要的是我已经迈出了主动联系的这一步，这本身就值得鼓励",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 35,
+    "content": "或许接下来可以再主动联系一两个朋友，慢慢建立更稳定的社交圈；同时也可以试着规划一下工作上的小目标，比如学点新技能。",
+    "has_specific_detail": true,
+    "specific_detail": "或许接下来可以再主动联系一两个朋友，慢慢建立更稳定的社交圈；同时也可以试着规划一下工作上的小目标，比如学点新技能",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 36,
+    "content": "我觉得可以给自己设定一些小奖励，比如完成一个目标后，给自己买喜欢的小东西或放松一下，这样会更有动力坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以给自己设定一些小奖励，比如完成一个目标后，给自己买喜欢的小东西或放松一下，这样会更有动力坚持下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "或许可以给自己买一本一直想看的书，这既是放松又能提升自己，感觉会很有意义。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以给自己买一本一直想看的书，这既是放松又能提升自己，感觉会很有意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我有点想买一本关于心理成长的书，比如之前听人提到的《被讨厌的勇气》，感觉会很适合现在的状态。",
+    "has_specific_detail": true,
+    "specific_detail": "我有点想买一本关于心理成长的书，比如之前听人提到的《被讨厌的勇气》，感觉会很适合现在的状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我希望能学到如何更坦然地面对别人的情绪和期待，不总是压抑自己，让自己在关系中更自如一点。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能学到如何更坦然地面对别人的情绪和期待，不总是压抑自己，让自己在关系中更自如一点",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 40,
+    "content": "我可以边读边做一些笔记，把觉得有共鸣的观点记录下来，然后试着在日常生活中慢慢实践，比如调整和我妈的沟通方式。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以边读边做一些笔记，把觉得有共鸣的观点记录下来，然后试着在日常生活中慢慢实践，比如调整和我妈的沟通方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我觉得可以从她突然提出要求的场景开始，试着用书里的观点调整我的反应，比如更清楚地表达自己的感受和需求，而不是直接压抑自己去迎合她。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从她突然提出要求的场景开始，试着用书里的观点调整我的反应，比如更清楚地表达自己的感受和需求，而不是直接压抑自己去迎合她",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "或许可以说：“我很想帮你，但现在需要一点时间调整自己的状态，这样才能更好地处理你的事。”感觉既表达了关心，也照顾了自己的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以说：“我很想帮你，但现在需要一点时间调整自己的状态，这样才能更好地处理你的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "她可能会有些不满，觉得我在拖延，但如果是这样，我会试着坚持自己的表达，同时用平和的语气安抚她，比如再明确承诺具体的时间。",
+    "has_specific_detail": true,
+    "specific_detail": "她可能会有些不满，觉得我在拖延，但如果是这样，我会试着坚持自己的表达，同时用平和的语气安抚她，比如再明确承诺具体的时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "我可以告诉自己，我的感受和需求也是重要的，适当地坚持并不是自私，而是为了让关系更健康、更平衡。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以告诉自己，我的感受和需求也是重要的，适当地坚持并不是自私，而是为了让关系更健康、更平衡",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 45,
+    "content": "我觉得会变得轻松很多，能够有更多的时间和精力关注自己，不再总是被情绪困扰，也可能让我在其他关系中更加自信和自在。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会变得轻松很多，能够有更多的时间和精力关注自己，不再总是被情绪困扰，也可能让我在其他关系中更加自信和自在",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "近期可以试着多主动调整与她的沟通模式，同时继续联系朋友扩展社交圈，再慢慢找一些让自己感兴趣的活动充实生活，比如学一项新技能。",
+    "has_specific_detail": true,
+    "specific_detail": "近期可以试着多主动调整与她的沟通模式，同时继续联系朋友扩展社交圈，再慢慢找一些让自己感兴趣的活动充实生活，比如学一项新技能",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 47,
+    "content": "我想优先从调整和她的沟通模式开始，因为这对我的情绪影响最大，如果能改善这部分，我觉得会更有动力去尝试其他事情。",
+    "has_specific_detail": true,
+    "specific_detail": "我想优先从调整和她的沟通模式开始，因为这对我的情绪影响最大，如果能改善这部分，我觉得会更有动力去尝试其他事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "我觉得可以从她突然让我帮忙的时候开始，试着用前面说的方式表达我的状态和计划，这样她可能也会慢慢习惯新的沟通模式。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从她突然让我帮忙的时候开始，试着用前面说的方式表达我的状态和计划，这样她可能也会慢慢习惯新的沟通模式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "我可以写下沟通的过程和她的反应，看看哪些地方做得好，哪些还需要改进，这样能更直观地看到自己的进步，也能帮助调整下一次的尝试。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以写下沟通的过程和她的反应，看看哪些地方做得好，哪些还需要改进，这样能更直观地看到自己的进步，也能帮助调整下一次的尝试",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 50,
+    "content": "我会特别关注她的反应是否有所缓和，以及自己在表达时有没有足够清晰和冷静，这些都是判断沟通是否有效的重要依据。",
+    "has_specific_detail": true,
+    "specific_detail": "我会特别关注她的反应是否有所缓和，以及自己在表达时有没有足够清晰和冷静，这些都是判断沟通是否有效的重要依据",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 51,
+    "content": "或许可以奖励自己一个轻松的下午，比如看一部喜欢的电影，或者给自己点一顿好吃的外卖，让自己感受到努力的价值。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以奖励自己一个轻松的下午，比如看一部喜欢的电影，或者给自己点一顿好吃的外卖，让自己感受到努力的价值",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 52,
+    "content": "如果效果比预期更好，我可能会更有信心尝试建立自己的生活节奏，比如更多关注兴趣爱好，甚至开始规划一些长期的目标，比如职业发展或个人成长。",
+    "has_specific_detail": true,
+    "specific_detail": "如果效果比预期更好，我可能会更有信心尝试建立自己的生活节奏，比如更多关注兴趣爱好，甚至开始规划一些长期的目标，比如职业发展或个人成长",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 53,
+    "content": "我觉得可以先列一个清单，写下我感兴趣的事情和想要尝试的方向，然后根据优先级选一件开始行动，比如报名一个相关的课程。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先列一个清单，写下我感兴趣的事情和想要尝试的方向，然后根据优先级选一件开始行动，比如报名一个相关的课程",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "我觉得今晚就可以开始列清单，趁现在还有动力，把脑海里的想法都先写下来，再慢慢梳理和调整方向。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得今晚就可以开始列清单，趁现在还有动力，把脑海里的想法都先写下来，再慢慢梳理和调整方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "我可以问自己：“平时最想做却没时间尝试的事情是什么？”“有哪些技能或兴趣是我一直觉得有吸引力的？”这样能让清单更具体。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以问自己：“平时最想做却没时间尝试的事情是什么？”“有哪些技能或兴趣是我一直觉得有吸引力的？”这样能让清单更具体",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "我会根据兴趣和实际可行性来选择，比如哪件事让我觉得最有热情，同时也比较容易实现，这样能更快开始行动，建立信心。",
+    "has_specific_detail": true,
+    "specific_detail": "我会根据兴趣和实际可行性来选择，比如哪件事让我觉得最有热情，同时也比较容易实现，这样能更快开始行动，建立信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "一旦选定，我会先查找相关的资源，比如课程、书籍或社群，然后给自己设定一个小目标，比如一周内完成某个任务，这样更容易推进。",
+    "has_specific_detail": true,
+    "specific_detail": "一旦选定，我会先查找相关的资源，比如课程、书籍或社群，然后给自己设定一个小目标，比如一周内完成某个任务，这样更容易推进",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 58,
+    "content": "我可以设置一些小奖励，比如每完成一个阶段性任务就奖励自己一件小东西，同时也可以通过日记记录进展，提醒自己已经走了多远，不轻易放弃。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以设置一些小奖励，比如每完成一个阶段性任务就奖励自己一件小东西，同时也可以通过日记记录进展，提醒自己已经走了多远，不轻易放弃",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 59,
+    "content": "我觉得可以找一些志同道合的人，比如加入相关的兴趣小组或者在线社区，这样有共同目标的人一起交流，会让我更有动力坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以找一些志同道合的人，比如加入相关的兴趣小组或者在线社区，这样有共同目标的人一起交流，会让我更有动力坚持下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "我希望能从中获得一些灵感和建议，也期待能和别人分享自己的进展，互相鼓励，这会让我觉得自己不是一个人在努力。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能从中获得一些灵感和建议，也期待能和别人分享自己的进展，互相鼓励，这会让我觉得自己不是一个人在努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "我觉得可以在完成清单之后就开始找，看看有没有相关的线上或线下活动，这样能尽快融入一些有共同兴趣的人群中。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以在完成清单之后就开始找，看看有没有相关的线上或线下活动，这样能尽快融入一些有共同兴趣的人群中",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 62,
+    "content": "我会优先关注小组的氛围，比如是否包容、积极，以及成员之间是否有真实的互动，这些都能让我更放心地参与进去。",
+    "has_specific_detail": true,
+    "specific_detail": "我会优先关注小组的氛围，比如是否包容、积极，以及成员之间是否有真实的互动，这些都能让我更放心地参与进去",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 63,
+    "content": "我可能会先观察一下小组的交流方式，然后试着参与讨论，或者分享一些自己的小想法，慢慢熟悉大家的节奏，这样比较自然。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先观察一下小组的交流方式，然后试着参与讨论，或者分享一些自己的小想法，慢慢熟悉大家的节奏，这样比较自然",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 64,
+    "content": "我觉得要注意保持真诚，同时不过于急于表现自己，更多地倾听和学习，这样互动起来会更轻松自然，也能更快找到共同话题。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得要注意保持真诚，同时不过于急于表现自己，更多地倾听和学习，这样互动起来会更轻松自然，也能更快找到共同话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "如果找到归属感，我觉得会更自信，也会感觉生活不再那么孤单，可能还能从中获得新的启发，让自己更愿意尝试和探索不同的可能性。",
+    "has_specific_detail": true,
+    "specific_detail": "如果找到归属感，我觉得会更自信，也会感觉生活不再那么孤单，可能还能从中获得新的启发，让自己更愿意尝试和探索不同的可能性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "我想对未来的自己说：“无论过程有多难，坚持走下去，你会发现原来自己有更多可能性，生活也会变得更加丰富和精彩。”",
+    "has_specific_detail": true,
+    "specific_detail": "我想对未来的自己说：“无论过程有多难，坚持走下去，你会发现原来自己有更多可能性，生活也会变得更加丰富和精彩",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 67,
+    "content": "是的，我准备好了！从清单开始，一步步走下去，相信未来会有不一样的改变和收获。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我准备好了！从清单开始，一步步走下去，相信未来会有不一样的改变和收获",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  }
+]

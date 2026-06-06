@@ -1,0 +1,388 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，我确实尝试了一段时间写日记。刚开始还挺有动力，记录了一些完成作业、跑步这种小成就，但后来总觉得没什么特别值得写的，就有点懈怠了…有时候翻回去看，也会觉得这些小事好像没那么重要，不知道是不是我太在意结果了？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我确实尝试了一段时间写日记",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是啊，我好像总觉得成就感得来自“很大的成果”，比如考试拿高分、某件事被别人认可。像日记里那些小事，虽然完成了，但没什么外在的反馈，就会觉得没什么意思…可能还是希望自己能“被看到”吧，哪怕只是一点点认可。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我好像总觉得成就感得来自“很大的成果”，比如考试拿高分、某件事被别人认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，有一次我在社团活动里负责一个小项目，虽然只是协调一些琐事，但当时学姐夸我细心靠谱，我心里特别开心！其实我也挺希望爸妈能多注意到我这些细节上的努力，但他们一般只会问成绩或者生活上的大事，其他好像就很少提到…有时候就会觉得自己的付出没被完全看见。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有一次我在社团活动里负责一个小项目，虽然只是协调一些琐事，但当时学姐夸我细心靠谱，我心里特别开心！其实我也挺希望爸妈能多注意到我这些细节上的努力，但他们一般只会问成绩或者生活上的大事，其他好像就很少提到…有时候就会觉得自己的付出没被完全看见",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "小时候其实也差不多吧，比如我画了一幅画或者完成了手工，妈妈会夸“画得不错”或者“做得挺好”，但就是一句带过，没太深聊过。我记得有次考试成绩不错，她还特意带我去吃了顿好的，那时候我感觉更像是被“真正注意到”了…所以可能一直觉得，只有大成果才能让他们更关注吧。",
+    "has_specific_detail": true,
+    "specific_detail": "小时候其实也差不多吧，比如我画了一幅画或者完成了手工，妈妈会夸“画得不错”或者“做得挺好”，但就是一句带过，没太深聊过",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "对啊，有时候完成一些小事，心里还是会冒出“这是不是不够好”的想法，特别是没有人提到的时候，就会觉得好像自己努力了也没什么用…这种感觉有点像小时候那些画被一句带过的场景，会让我质疑这些小成果到底值不值得被认可。",
+    "has_specific_detail": true,
+    "specific_detail": "对啊，有时候完成一些小事，心里还是会冒出“这是不是不够好”的想法，特别是没有人提到的时候，就会觉得好像自己努力了也没什么用…这种感觉有点像小时候那些画被一句带过的场景，会让我质疑这些小成果到底值不值得被认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "如果有人能真正看到我的小努力，可能会让我觉得自己做的这些事是有意义的吧。理想中的认可，或许不需要多么夸张的表扬，而是能稍微具体一点，比如“我看到你在这个细节上花了很多心思，挺好的”。这样我会觉得自己不仅被注意到了，还被理解了，心里会踏实很多。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人能真正看到我的小努力，可能会让我觉得自己做的这些事是有意义的吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "让我感受到具体关注的，大概是那些和我关系比较近的人吧，比如朋友偶尔会说“你最近是不是忙得挺辛苦？”这种简单的关心，都会让我觉得被看见了。至于主动表达…其实我不太擅长，有时候觉得说出来好像有点尴尬，怕被认为是在“邀功”或者“矫情”，所以很多时候还是选择默默做自己的事，不太去提。",
+    "has_specific_detail": true,
+    "specific_detail": "让我感受到具体关注的，大概是那些和我关系比较近的人吧，比如朋友偶尔会说“你最近是不是忙得挺辛苦？”这种简单的关心，都会让我觉得被看见了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "这个方法听起来还不错，可能比直接说“我做了什么”要自然一些。比如分享“今天完成了一篇短文，写得还挺顺的”，这种方式或许别人会更容易接话，也不会让我觉得太突兀。不过我还是会有点顾虑，不知道对方会不会真的感兴趣，或者觉得这些不值一提…",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来还不错，可能比直接说“我做了什么”要自然一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "嗯，这样想的话，确实可能慢慢建立点信心。其实我有个朋友性格挺开朗的，她经常会主动聊自己的小事，我觉得她应该能理解这种分享的心情。或许我可以先从她开始试着说说，比如下次见面时提到“最近试着写了点东西，还挺有趣的”，看她的反应再决定要不要多聊一些…这样会让我放松一点吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想的话，确实可能慢慢建立点信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "是啊，如果朋友的回应是积极的，比如她说“听起来挺有意思的”或者主动问一些细节，我觉得心里会挺暖的，也会觉得自己的小尝试是被认可的。这样可能会让我更愿意去表达，甚至会期待以后有更多类似的互动吧。不过，我觉得可能也需要慢慢来，先试着适应这样的分享方式，不给自己太大压力。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，如果朋友的回应是积极的，比如她说“听起来挺有意思的”或者主动问一些细节，我觉得心里会挺暖的，也会觉得自己的小尝试是被认可的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，记录互动后的感受听起来挺好的，比如写下“今天分享了某件事，朋友的反应让我感到轻松”这种，能让我更清楚地感受到分享的积极影响。还有提前思考表达方式，比如用比较轻松的语气、加点幽默感，可能会让话题更自然，不会让我觉得在“刻意表现”。这样慢慢积累一些正面的经验，可能会让我越来越有信心吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，记录互动后的感受听起来挺好的，比如写下“今天分享了某件事，朋友的反应让我感到轻松”这种，能让我更清楚地感受到分享的积极影响",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "如果慢慢建立了信心，我觉得下一步可能会尝试和家人分享，特别是妈妈。虽然她平时不太关注小事，但我还是希望能让她知道我在努力，比如说“最近试着学了点新东西，感觉挺有趣的”。至于分享内容，我可能会更愿意谈一些让我真正感兴趣的事情，这样说起来会更有热情，也更容易让对方感受到我的用心吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果慢慢建立了信心，我觉得下一步可能会尝试和家人分享，特别是妈妈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "如果妈妈的回应能超出我的预期，比如问“那你是怎么学的？”或者“觉得学这个对以后有什么帮助吗？”，我想我会感到很惊喜吧。可能会觉得她不仅注意到了我在做的事情，还在尝试了解我的想法。这种互动应该会让我觉得我们之间的沟通更有深度，也能让我更愿意去分享更多的东西吧，甚至可能让我对我们的关系有一些新的期待。",
+    "has_specific_detail": true,
+    "specific_detail": "如果妈妈的回应能超出我的预期，比如问“那你是怎么学的？”或者“觉得学这个对以后有什么帮助吗？”，我想我会感到很惊喜吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我觉得选一个她比较放松的时机会更好，比如吃饭的时候或者周末一起聊天，气氛轻松一些，感觉开口会自然很多。至于语气，我可能会用一种比较随意的方式开头，比如“最近试了点新东西，还挺有意思的，你猜是什么？”这样有点像抛个小问题，既不会显得太刻意，也能引起她的好奇心吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得选一个她比较放松的时机会更好，比如吃饭的时候或者周末一起聊天，气氛轻松一些，感觉开口会自然很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，我想如果她真的表现出好奇，我可能会先更专注于分享自己的感受，比如“我觉得学这个挺有趣的，还能让我放松”。不过，等气氛更轻松之后，我也挺想听听她的看法，特别是她会不会觉得这些事情对我的未来有帮助，或者她有没有类似的兴趣经历。这种交流可能会让我感觉我们之间的距离缩短了一些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我想如果她真的表现出好奇，我可能会先更专注于分享自己的感受，比如“我觉得学这个挺有趣的，还能让我放松”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "如果她的回应是我期待的，比如说“我小时候也喜欢尝试这种新东西”或者“挺好的，你可以继续学下去看看”，我想我会感到很被支持吧。这种感觉应该会让我对以后和她沟通更有信心，甚至会主动找机会分享更多事情，可能还会觉得我们的关系比之前更亲近了一些。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她的回应是我期待的，比如说“我小时候也喜欢尝试这种新东西”或者“挺好的，你可以继续学下去看看”，我想我会感到很被支持吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "对，我觉得如果和妈妈的关系更亲近了，可能我就不再那么强烈地渴望外界的认可了。因为只要她能看到我的努力，并且让我感觉被理解，我就会觉得这些小成就本身已经很有意义了。这样一来，我可能也会更愿意认可自己，甚至在没有外界反馈的时候，也能告诉自己“这些小努力是值得的”，慢慢地减少那种不安和自我怀疑的情绪吧。",
+    "has_specific_detail": true,
+    "specific_detail": "对，我觉得如果和妈妈的关系更亲近了，可能我就不再那么强烈地渴望外界的认可了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得可以用一种仪式感的方式来提醒自己，比如每天在日记里写下“今天让我感到满足的一件事”，哪怕是一点小进步，比如解决了一个难题或者完成了某件琐事。这样不仅能让我更关注内心的感受，也能积累一些积极的记忆，提醒自己这些努力是有意义的，即使没有外界反馈也一样重要。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用一种仪式感的方式来提醒自己，比如每天在日记里写下“今天让我感到满足的一件事”，哪怕是一点小进步，比如解决了一个难题或者完成了某件琐事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "嗯，这听起来挺有趣的！我觉得可以尝试用一些小奖励，比如完成一项任务后给自己泡杯喜欢的茶，或者在日记旁画一个小星星作为“庆祝”。这样既不会太复杂，又能让我更直观地感受到自己的努力被认可了。慢慢积累这些小仪式，可能会让我对自己的付出更加珍惜和有成就感吧！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来挺有趣的！我觉得可以尝试用一些小奖励，比如完成一项任务后给自己泡杯喜欢的茶，或者在日记旁画一个小星星作为“庆祝”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "是的，我觉得这种习惯可能会让我更注重过程中的点滴努力，而不是只盯着最终结果。比如即使一件事情没完全达到预期，但如果过程中我学到了新东西或者克服了一些困难，我也能更容易认可自己的付出。这种改变可能会让我对目标本身更有耐心，也不会因为一时的结果不理想就轻易否定自己了。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得这种习惯可能会让我更注重过程中的点滴努力，而不是只盯着最终结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "如果再遇到自我怀疑，我觉得可以试着停下来问自己几个问题，比如“我在这过程中学到了什么？”或者“有哪些努力是值得肯定的？”另外，也可以翻回以前的日记，看看那些记录的小进步，提醒自己曾经也克服过类似的情绪。这种方式可能会让我重新聚焦在过程和成长上，而不是一味纠结结果的不完美吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果再遇到自我怀疑，我觉得可以试着停下来问自己几个问题，比如“我在这过程中学到了什么？”或者“有哪些努力是值得肯定的？”另外，也可以翻回以前的日记，看看那些记录的小进步，提醒自己曾经也克服过类似的情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "对，我觉得这完全可以变成一种“情绪急救”工具！每次感到困惑或自我怀疑时，就拿出这些问题问问自己，或者翻看那些日记记录，提醒自己曾经的努力和成长。这种固定的方式可能会给我一种安定感，就像有个随时可用的“内心指南”，可以帮助我快速调整状态，不至于陷入过度焦虑和否定中。",
+    "has_specific_detail": true,
+    "specific_detail": "对，我觉得这完全可以变成一种“情绪急救”工具！每次感到困惑或自我怀疑时，就拿出这些问题问问自己，或者翻看那些日记记录，提醒自己曾经的努力和成长",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，我觉得可以准备一个专门的笔记本，叫它“情绪急救本”之类的，感觉会更有仪式感。每次心情不太好时，就留出十分钟写下当下的困惑和尝试回答那些问题，像“今天我学到了什么？”或者“这件事的努力有哪些意义？”这样不仅能帮助我理清情绪，也能慢慢养成一种习惯，让这个工具更有用、更容易坚持下来。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以准备一个专门的笔记本，叫它“情绪急救本”之类的，感觉会更有仪式感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "这个主意真不错！在第一页写上一些鼓励自己的话，感觉就像一个温暖的“起点”。比如可以写：“每一份努力都有意义，无论结果如何，你值得被肯定。”或者“不要忘了关注自己走过的路，而不仅仅是终点。”每次翻开时看到这些话，可能会让我更快进入一种平和的状态，也提醒自己用更温柔的方式对待自己的情绪和努力。",
+    "has_specific_detail": true,
+    "specific_detail": "这个主意真不错！在第一页写上一些鼓励自己的话，感觉就像一个温暖的“起点”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "嗯，这样会更有意义！我觉得可以选一个特别的日子开始，比如我的生日或者一个对我有纪念意义的日子，这样启用的时候会感觉像是给自己的一份礼物。或者就从今天开始也不错，毕竟情绪调整是随时需要的嘛。无论哪天开始，只要迈出第一步，我想这个习惯都会慢慢变成陪伴我的一种支持吧！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样会更有意义！我觉得可以选一个特别的日子开始，比如我的生日或者一个对我有纪念意义的日子，这样启用的时候会感觉像是给自己的一份礼物",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "第一篇的话，我可能会写最近尝试日记记录小进步的感受。比如记录下最初的动力、后来遇到的懈怠，还有那种觉得努力没被看到的复杂情绪。然后再尝试回答那些问题，比如“我学到了什么？”“这件事对我的意义是什么？”这样既能梳理情绪，也能让这个“急救本”从一个具体的经历开始，有一种踏实感。",
+    "has_specific_detail": true,
+    "specific_detail": "第一篇的话，我可能会写最近尝试日记记录小进步的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "好主意！写完第一篇后，我可以泡一杯热可可，边喝边翻看刚写的内容，像是在给自己一个小庆祝，也是一种自我鼓励的仪式。这样不仅让我对这个“急救本”有了更美好的开始，还能增强继续写下去的动力。用这种温暖的小奖励方式，感觉真的很治愈呢！",
+    "has_specific_detail": true,
+    "specific_detail": "好主意！写完第一篇后，我可以泡一杯热可可，边喝边翻看刚写的内容，像是在给自己一个小庆祝，也是一种自我鼓励的仪式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "是的，我想未来一定会时不时翻看这些记录。可能在某个低落的时刻，回顾曾经写下的那些努力和情绪，会让我感到自己其实一直在进步。看到成长的轨迹，或许能给我更多力量，也让我更相信自己的努力是有意义的。这种积累就像给未来的自己准备了一份温暖的“备忘录”，想想就觉得很踏实呢！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我想未来一定会时不时翻看这些记录",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，我觉得现在已经准备得差不多了！第一篇的主题和方向很清晰了，甚至连写完后喝热可可的小奖励也计划好了（笑）。现在只需要拿起笔，把这些最近的经历和感受写下来就好。谢谢你帮我理清了这些思路，让我对这个“急救本”充满期待！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得现在已经准备得差不多了！第一篇的主题和方向很清晰了，甚至连写完后喝热可可的小奖励也计划好了（笑）",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

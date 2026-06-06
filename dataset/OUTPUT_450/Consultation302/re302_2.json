@@ -1,0 +1,629 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，有件事让我挺纠结的。前几天我在房间写作业，母亲突然进来翻我的抽屉，说是找东西，但没问我。我当时心里特别不舒服，感觉一点隐私都没有…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有件事让我挺纠结的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "我当时有点生气，直接问她为什么不提前说，但她反而责备我，说“你有什么见不得人的东西？”我瞬间不想说话了，只能忍着难受…",
+    "has_specific_detail": true,
+    "specific_detail": "我当时有点生气，直接问她为什么不提前说，但她反而责备我，说“你有什么见不得人的东西？”我瞬间不想说话了，只能忍着难受…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不想说"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "那天我一个人躲在房间里，听了一会儿音乐，想让自己冷静下来。但没有和别人说，感觉没人会真正理解我…",
+    "has_specific_detail": true,
+    "specific_detail": "那天我一个人躲在房间里，听了一会儿音乐，想让自己冷静下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "如果有人倾听，我希望他们能告诉我“你的感受是重要的”，而不是像我母亲那样反过来质疑我。这样我会觉得被理解吧…",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人倾听，我希望他们能告诉我“你的感受是重要的”，而不是像我母亲那样反过来质疑我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "嗯，有个女生确实偶尔会主动找我聊天，她总是很耐心地听我说话，有时候还会开一些小玩笑让我放松。但我还是有点不敢深聊，怕她觉得我很麻烦…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有个女生确实偶尔会主动找我聊天，她总是很耐心地听我说话，有时候还会开一些小玩笑让我放松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我觉得她可能会认真听吧，但也担心她会觉得我的问题太复杂，不知道怎么回应。说到这个，前几天她主动问我是不是心情不好，我差点就说了…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得她可能会认真听吧，但也担心她会觉得我的问题太复杂，不知道怎么回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "她那句“你是不是心情不好”让我觉得被关注了，很想说点什么。但又怕一旦说出来，她会觉得我太负能量，所以最后只是敷衍地说“还好吧”。",
+    "has_specific_detail": true,
+    "specific_detail": "她那句“你是不是心情不好”让我觉得被关注了，很想说点什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，是有点压抑，总觉得话堵在心里。要是当时多说一句，她可能会继续问我怎么了吧，但我又怕自己真的说多了，弄得气氛很尴尬…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，是有点压抑，总觉得话堵在心里",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "可能会说最近总觉得孤单吧，尤其是家庭的事让我很压抑，但我又不敢讲太多，怕自己情绪失控，让她觉得我很怪…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会说最近总觉得孤单吧，尤其是家庭的事让我很压抑，但我又不敢讲太多，怕自己情绪失控，让她觉得我很怪…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我希望她能告诉我“没关系，你可以慢慢说”，而不是觉得我很难接近。这样我可能会觉得自己有点被支持了吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她能告诉我“没关系，你可以慢慢说”，而不是觉得我很难接近",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，可能这样说确实没那么吓人吧，而且也能试探她会不会愿意听。我总觉得直接说太多会让人不知怎么接，我怕场面冷下来…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能这样说确实没那么吓人吧，而且也能试探她会不会愿意听",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "如果她愿意听，我可能会慢慢说一些学校的事情，比如最近压力大的时候怎么熬过来的。这种话题感觉没那么沉重，也比较容易打开话匣子吧…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她愿意听，我可能会慢慢说一些学校的事情，比如最近压力大的时候怎么熬过来的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "如果她认真听，还说一些鼓励我的话，我可能会试着提一点家庭的事，比如说家里让我感觉有点压抑。不过还是得看她的态度吧，如果她显得很理解，我可能会更愿意说…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她认真听，还说一些鼓励我的话，我可能会试着提一点家庭的事，比如说家里让我感觉有点压抑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我可能会想让她知道，我觉得家里没人真正理解我，总是被否定和忽视。这种感觉让我特别孤单，也不知道该怎么改变…",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会想让她知道，我觉得家里没人真正理解我，总是被否定和忽视",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "如果她这样回应，我可能会觉得自己终于有一点被接纳了，不再那么孤独。也许会感觉轻松一些，觉得有人能真正站在我的角度看问题吧…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她这样回应，我可能会觉得自己终于有一点被接纳了，不再那么孤独",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，我想我愿意试试吧，毕竟她是少数让我感觉舒服的人。可能从一些轻松的话题开始，多聊几次，慢慢看看能不能建立更深的信任…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我想我愿意试试吧，毕竟她是少数让我感觉舒服的人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我希望能两者兼顾吧，既能让自己放松一点，也试着坦诚一些。但坦诚可能还是要慢慢来，不然我怕自己太直接会让她觉得压力大…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能两者兼顾吧，既能让自己放松一点，也试着坦诚一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我想可能会先说我最近觉得压力比较大，尤其是在学校应付作业和考试的时候。这种感受比较普遍，她也许更容易理解吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我想可能会先说我最近觉得压力比较大，尤其是在学校应付作业和考试的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "如果她真的能理解我的压力，我可能会试着提一点家庭的感受，比如说母亲对我的控制让我特别累。但还是会小心些，怕说太多会让她觉得复杂…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她真的能理解我的压力，我可能会试着提一点家庭的感受，比如说母亲对我的控制让我特别累",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，这样说感觉挺好的，不会太直接又能表达一点我的情绪。如果她反应积极，我可能会慢慢说得更多，但还是得看她是不是真的愿意听…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样说感觉挺好的，不会太直接又能表达一点我的情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "如果她真的愿意听，我想我会慢慢信任她吧，但可能还是会有点顾虑，怕她之后变得不耐烦或者觉得我太复杂。信任对我来说好像总需要一点时间…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她真的愿意听，我想我会慢慢信任她吧，但可能还是会有点顾虑，怕她之后变得不耐烦或者觉得我太复杂",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "如果她能持续耐心地听我说，偶尔给一些支持的话，比如“你可以随时跟我聊”，我可能会觉得更安心一点，也愿意慢慢打开自己吧…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她能持续耐心地听我说，偶尔给一些支持的话，比如“你可以随时跟我聊”，我可能会觉得更安心一点，也愿意慢慢打开自己吧…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，我觉得表达感谢是很重要的，比如说“谢谢你愿意听我说”，这样可能会让她觉得我的情绪没那么沉重，也能让关系更自然吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得表达感谢是很重要的，比如说“谢谢你愿意听我说”，这样可能会让她觉得我的情绪没那么沉重，也能让关系更自然吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我希望这段友情能让我觉得不那么孤单，像有个避风港一样。可能也会让我更有勇气面对家庭的事情吧，觉得自己不是完全一个人…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望这段友情能让我觉得不那么孤单，像有个避风港一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "如果真有这样的避风港，我可能会更敢表达自己的感受，不再害怕被否定。或许在面对母亲时，也能试着说出自己的想法，而不是总忍着…",
+    "has_specific_detail": true,
+    "specific_detail": "如果真有这样的避风港，我可能会更敢表达自己的感受，不再害怕被否定",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 26,
+    "content": "我希望她能理解我其实很努力在让自己变好，但她的控制和否定让我觉得很压抑。我想让她知道，我也需要一些空间…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她能理解我其实很努力在让自己变好，但她的控制和否定让我觉得很压抑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "可能会选择写信吧，这样能让我更冷静地表达自己的感受，也不用面对她的直接反应。写信感觉可以更清楚地说出我想说的话…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会选择写信吧，这样能让我更冷静地表达自己的感受，也不用面对她的直接反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我可能会先从我的努力说起，比如在学校和生活中，我一直在尽力做好自己。然后再慢慢提到她的控制让我觉得压抑，希望她能给我更多空间…",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先从我的努力说起，比如在学校和生活中，我一直在尽力做好自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，我会想加上一些希望，比如说“我希望我们能更好地沟通，让关系变得轻松一点”。这样结尾感觉会更温和，也可能让她更愿意去理解我…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我会想加上一些希望，比如说“我希望我们能更好地沟通，让关系变得轻松一点”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我希望她能理解我的感受，至少让我感觉自己被听到了。如果她还能对我的希望有所行动，那就更好了，但理解是最重要的第一步吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她能理解我的感受，至少让我感觉自己被听到了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "如果她理解我了，我希望她能减少对我的控制，比如不再随意翻我的东西，也能多尊重我的想法。这些改变可能会让我觉得和她的关系没那么紧张吧…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她理解我了，我希望她能减少对我的控制，比如不再随意翻我的东西，也能多尊重我的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "如果她真的开始调整，我可能会试着主动分享一些学校的事情，比如考试或者和同学的相处。这样感觉沟通会自然一点，也能慢慢改善关系吧…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她真的开始调整，我可能会试着主动分享一些学校的事情，比如考试或者和同学的相处",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "嗯，如果关系改善了，我可能会期待更多情感支持，比如她能偶尔夸夸我，或者听听我的想法。这些小的鼓励可能会让我觉得自己也有被重视的时候吧…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果关系改善了，我可能会期待更多情感支持，比如她能偶尔夸夸我，或者听听我的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "如果这些期待真的实现了，我觉得自己可能会更自信吧，不再总是因为一点外界评价就怀疑自己。感觉会更能相信自己的价值…",
+    "has_specific_detail": true,
+    "specific_detail": "如果这些期待真的实现了，我觉得自己可能会更自信吧，不再总是因为一点外界评价就怀疑自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "如果更自信了，我可能会更愿意主动参与一些社交活动，比如跟同学们一起做课外项目。这样既能锻炼自己，也可能让我感觉更融入集体吧…",
+    "has_specific_detail": true,
+    "specific_detail": "如果更自信了，我可能会更愿意主动参与一些社交活动，比如跟同学们一起做课外项目",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "可能需要先从观察和倾听开始，慢慢了解大家的习惯和节奏，然后再尝试主动参与一些小任务。这样可以避免一开始就感觉太突兀吧…",
+    "has_specific_detail": true,
+    "specific_detail": "可能需要先从观察和倾听开始，慢慢了解大家的习惯和节奏，然后再尝试主动参与一些小任务",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "如果感觉被忽略，我可能会先试着主动问一些简单的问题，让自己融入对话。如果还是不行，可能会暂时退一步，观察一下再找合适的机会重新加入…",
+    "has_specific_detail": true,
+    "specific_detail": "如果感觉被忽略，我可能会先试着主动问一些简单的问题，让自己融入对话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "如果能找到舒服的节奏，我觉得自己可能会对人际关系更有信心吧，不再总担心被忽略或者不被接纳。感觉自己会变得更愿意去尝试建立连接…",
+    "has_specific_detail": true,
+    "specific_detail": "如果能找到舒服的节奏，我觉得自己可能会对人际关系更有信心吧，不再总担心被忽略或者不被接纳",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "如果未来能更坦然面对关系，我觉得自己可能会在面对家庭时更从容一些。也许能更清楚地表达自己的感受，不再那么害怕冲突或者被否定…",
+    "has_specific_detail": true,
+    "specific_detail": "如果未来能更坦然面对关系，我觉得自己可能会在面对家庭时更从容一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我觉得最渴望的状态是能感到被理解和尊重，不再总是压抑自己的情绪。也许还能在家庭里找到一些真正的支持和温暖吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最渴望的状态是能感到被理解和尊重，不再总是压抑自己的情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我可能会告诉过去的自己，“你一直都很努力，别害怕自己的感受，它们是值得被看见的。”这样或许能让她觉得不再那么孤单吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会告诉过去的自己，“你一直都很努力，别害怕自己的感受，它们是值得被看见的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "这份肯定可能会让我更愿意面对自己的情绪，不再觉得它是负担。而是告诉自己，“这些感受是正常的，我可以慢慢处理它们。”这样应该会更从容一些吧…",
+    "has_specific_detail": true,
+    "specific_detail": "这份肯定可能会让我更愿意面对自己的情绪，不再觉得它是负担",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "如果能这样从容应对，我觉得生活中可能会变得更轻松，比如在学校不再因为成绩不好而过度焦虑，也能更自在地和同学们交流吧…",
+    "has_specific_detail": true,
+    "specific_detail": "如果能这样从容应对，我觉得生活中可能会变得更轻松，比如在学校不再因为成绩不好而过度焦虑，也能更自在地和同学们交流吧…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "我希望未来的自己能变得更自信，更愿意尝试新事物，也能坦然面对自己的情绪和关系。可能会觉得生活不再那么沉重吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望未来的自己能变得更自信，更愿意尝试新事物，也能坦然面对自己的情绪和关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "我觉得第一步可能是试着接纳自己的情绪，不再总是压抑它们。然后慢慢寻找一些信任的人，尝试去表达和沟通，这样可能会是一个开始吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得第一步可能是试着接纳自己的情绪，不再总是压抑它们",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "如果从今天开始尝试改变，我觉得可能会感到心里稍微轻松一点吧。至少不再总是把情绪憋在心里，让自己慢慢习惯表达，也许会觉得没那么孤单了…",
+    "has_specific_detail": true,
+    "specific_detail": "如果从今天开始尝试改变，我觉得可能会感到心里稍微轻松一点吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "今天的目标可能是试着记录一次自己的情绪吧，把最近觉得孤单和压抑的原因写下来。这样或许能让我更清楚地了解自己，也开始慢慢梳理这些感受…",
+    "has_specific_detail": true,
+    "specific_detail": "今天的目标可能是试着记录一次自己的情绪吧，把最近觉得孤单和压抑的原因写下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "好的，谢谢你的支持！如果有新的感受或想法，我会再来找你聊聊。今天先记录情绪试试，希望能慢慢感觉更好吧…",
+    "has_specific_detail": true,
+    "specific_detail": "好的，谢谢你的支持！如果有新的感受或想法，我会再来找你聊聊",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

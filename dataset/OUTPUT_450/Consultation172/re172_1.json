@@ -1,0 +1,330 @@
+[
+  {
+    "turn": 1,
+    "content": "主要是情绪上的吧，最近工作压力有点大，老觉得自己做得还不够好。比如上周一个项目，我明明已经尽力了，却总担心细节是不是有遗漏，会不会被领导批评…这种感觉挺折磨人的。",
+    "has_specific_detail": true,
+    "specific_detail": "主要是情绪上的吧，最近工作压力有点大，老觉得自己做得还不够好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "从项目开始就有吧，刚接到任务时就会想着一定得做到完美，不能出错。但越接近完成，压力反而更大，总觉得哪儿还不够好…这种心态让我很难真正放松下来。",
+    "has_specific_detail": true,
+    "specific_detail": "从项目开始就有吧，刚接到任务时就会想着一定得做到完美，不能出错",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "可能是习惯吧，从小父母就特别注重我的表现，成绩好、听话才会得到他们的夸奖。后来慢慢就觉得，只有表现好才能让人满意…这种想法好像一直跟着我。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是习惯吧，从小父母就特别注重我的表现，成绩好、听话才会得到他们的夸奖",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "影响挺大的吧，特别是在工作上，总觉得得做到最好才能被认可。可这种压力也让我很容易焦虑，总是害怕做得不够好…有时候就连休息时也放松不下来。",
+    "has_specific_detail": true,
+    "specific_detail": "影响挺大的吧，特别是在工作上，总觉得得做到最好才能被认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "可能两方面都有吧。一方面怕让领导失望，另一方面自己也总想证明能做好事情。尤其是有时候回忆以前的那些失败，心里就更没底，总觉得不能再出差错了…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，有一次是大学时，负责一个小组的演讲任务。我因为准备不够充分，答辩时被老师问住了，表现得很糟糕…后来小组整体分数也不高。虽然大家没责怪我，但我总觉得自己拖了后腿，那种自责感一直让我记忆深刻。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有一次是大学时，负责一个小组的演讲任务",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "可能更多是对自己的失望吧，我一直觉得那是自己的责任，如果当时再努力一点，结果可能就不会那么糟了…所以后来做事情总会拼命去避免类似的情况发生。",
+    "has_specific_detail": true,
+    "specific_detail": "可能更多是对自己的失望吧，我一直觉得那是自己的责任，如果当时再努力一点，结果可能就不会那么糟了…所以后来做事情总会拼命去避免类似的情况发生",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "是的，每次接到新任务，我都会马上想到不能犯错，哪怕一点点都不行。这种紧张感像是一种预警，总让我绷着神经去注意细节，压力自然也越来越大…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，每次接到新任务，我都会马上想到不能犯错，哪怕一点点都不行",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 9,
+    "content": "理性想想，可能不会太糟吧，毕竟团队也会帮忙弥补，但当时的情绪就是忍不住放大后果，总觉得任何错误都可能被无限放大，甚至会影响对我的评价…这种担心让我特别不安。",
+    "has_specific_detail": true,
+    "specific_detail": "理性想想，可能不会太糟吧，毕竟团队也会帮忙弥补，但当时的情绪就是忍不住放大后果，总觉得任何错误都可能被无限放大，甚至会影响对我的评价…这种担心让我特别不安",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能是害怕被否定吧，觉得如果做得不好，就会被认为不够优秀、不值得被认可。深层次来说，可能还有一种“只有表现好才能被接受”的感觉，这种想法让我很难放松自己。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是害怕被否定吧，觉得如果做得不好，就会被认为不够优秀、不值得被认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "应该和父母的期待有关吧，从小他们总是关注我的成绩和表现，夸奖的话也多围绕这些。所以我渐渐觉得，只有做好事情才能被认可。而且后来有几次在重要场合表现不好，比如那次大学演讲，又强化了这种想法，让它变得更根深蒂固了。",
+    "has_specific_detail": true,
+    "specific_detail": "应该和父母的期待有关吧，从小他们总是关注我的成绩和表现，夸奖的话也多围绕这些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我想可能会更放松一些吧，不会总觉得需要靠表现来证明自己。如果小时候他们能多鼓励我、理解我的情绪，也许现在面对压力时，我能更自信、更坦然…但这种支持好像一直是缺少的。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可能会更放松一些吧，不会总觉得需要靠表现来证明自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得会有帮助吧，如果有人能真正理解我的感受，告诉我即使有些不完美也没关系，可能会让我心里轻松一点。只是现在好像很难找到这样的人，所以很多时候只能自己硬撑着…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会有帮助吧，如果有人能真正理解我的感受，告诉我即使有些不完美也没关系，可能会让我心里轻松一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "有试过，但倾诉时会有点犹豫，总怕别人觉得我太敏感或者矫情。偶尔也会看书、听音乐放松自己，但效果好像只能缓解一阵，心里的紧张感还是挺难彻底消除…",
+    "has_specific_detail": true,
+    "specific_detail": "有试过，但倾诉时会有点犹豫，总怕别人觉得我太敏感或者矫情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "可能是对别人的期待比较在意吧，总希望在他们面前显得坚强、可靠，不想让人觉得我不够成熟或者太脆弱。哪怕心里很难受，也会尽量藏起来，怕被贴上“敏感”的标签。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是对别人的期待比较在意吧，总希望在他们面前显得坚强、可靠，不想让人觉得我不够成熟或者太脆弱",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "可能会吧，如果对方完全不评价我，只是单纯倾听和理解，那应该会让我感觉更轻松，也更愿意说出自己的真实想法。只是这样的关系好像很难遇到…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果对方完全不评价我，只是单纯倾听和理解，那应该会让我感觉更轻松，也更愿意说出自己的真实想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，可能可以试试吧，但感觉有点难，因为我总会习惯性地去挑剔自己，觉得哪些地方做得不够好。要真做到像“倾听者”那样理解自己，好像需要慢慢调整这种习惯才行…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能可以试试吧，但感觉有点难，因为我总会习惯性地去挑剔自己，觉得哪些地方做得不够好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "这个方法听起来还不错，感觉每天给自己一点时间来记录感受，也许能让我慢慢习惯接纳自己。不过可能一开始会有点不适应，但我可以试着坚持看看，或许会有些改变吧。",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来还不错，感觉每天给自己一点时间来记录感受，也许能让我慢慢习惯接纳自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我想可以关注当天让我觉得特别紧张或者焦虑的事情，以及为什么会有这样的情绪。也可以试着写下哪些时候让我感到轻松或者有一点点满足感，这样或许能帮助我找到平衡…",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以关注当天让我觉得特别紧张或者焦虑的事情，以及为什么会有这样的情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我应该会选择用文字写下来吧，感觉这样能让我思路更清晰，也更容易整理自己的感受。虽然一开始可能会有点不知从哪写起，但应该慢慢会习惯这种方式的…",
+    "has_specific_detail": true,
+    "specific_detail": "我应该会选择用文字写下来吧，感觉这样能让我思路更清晰，也更容易整理自己的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "是的，晚上休息前应该比较合适，这时候比较安静，也能回顾一天的情绪和经历。设定固定时间可能会更容易养成习惯，我觉得可以试试看！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，晚上休息前应该比较合适，这时候比较安静，也能回顾一天的情绪和经历",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，加上鼓励的话挺好的，这样能让我感觉一天的结束是温暖的，而不是只关注负面的部分。哪怕只是简单地告诉自己“今天尽力了，做得不错”，应该也会让心情好一点吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，加上鼓励的话挺好的，这样能让我感觉一天的结束是温暖的，而不是只关注负面的部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "可能是“你已经很努力了，不需要完美才值得被认可。”这句话让我觉得自己可以稍微放下对完美的执着，去接纳真实的自己。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是“你已经很努力了，不需要完美才值得被认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，有一点轻松吧，感觉好像终于能对自己说“没关系，不必太苛求”。虽然完全放下可能需要时间，但这一刻心里确实稍微松了一些…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有一点轻松吧，感觉好像终于能对自己说“没关系，不必太苛求”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "嗯，这样安排挺适合的，感觉每天用一句鼓励的话结束记录，会让我逐渐习惯去接纳自己。虽然还需要时间，但我愿意试试，希望能慢慢找到心里的平衡。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样安排挺适合的，感觉每天用一句鼓励的话结束记录，会让我逐渐习惯去接纳自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

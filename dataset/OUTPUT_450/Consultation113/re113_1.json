@@ -1,0 +1,682 @@
+[
+  {
+    "turn": 1,
+    "content": "最近总觉得情绪起伏很大，前几天在工作上遇到个小问题，本来只是领导指出了我的一点疏忽，但我当时就很紧张，一整天都心神不宁，甚至回家后还一直想着，会不会因此被领导看低…",
+    "has_specific_detail": true,
+    "specific_detail": "最近总觉得情绪起伏很大，前几天在工作上遇到个小问题，本来只是领导指出了我的一点疏忽，但我当时就很紧张，一整天都心神不宁，甚至回家后还一直想着，会不会因此被领导看低…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "其实我一直对别人的评价挺敏感的，尤其是工作上的事情。就好像如果没表现好，就觉得自己很差劲一样…说到这个，前段时间有次同事被表扬，我心里也有点不是滋味，总忍不住拿自己和她比。",
+    "has_specific_detail": true,
+    "specific_detail": "其实我一直对别人的评价挺敏感的，尤其是工作上的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "好像从小时候开始就有点类似吧。记得小时候妈妈总会夸我弟弟聪明，说他学东西特别快，而我得花更多时间才能做好。有时候我明明也努力了，但还是觉得不够好，怕被忽视…这种感觉好像一直延续到现在。",
+    "has_specific_detail": true,
+    "specific_detail": "好像从小时候开始就有点类似吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "有时候确实会得到认可，比如考好了妈妈会表扬我，但总觉得那种关注是短暂的，好像下一次如果没做到更好，就会被忽视一样。所以当时就特别在意表现，生怕自己没达到他们的期待。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候确实会得到认可，比如考好了妈妈会表扬我，但总觉得那种关注是短暂的，好像下一次如果没做到更好，就会被忽视一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我觉得自己一直都挺努力的，很多事情都会花时间去认真做，但小时候常觉得这些努力是理所当然的，只有结果好才能算数。即使偶尔感觉自己有点小成就，也不敢太自信，怕万一下次做不好又被否定了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得自己一直都挺努力的，很多事情都会花时间去认真做，但小时候常觉得这些努力是理所当然的，只有结果好才能算数",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，是这样的。我总是第一时间想到别人会怎么看，而不是先肯定自己的努力。比如这次领导指出我的问题，我后来回想，其实那并不是什么大错，但当时就觉得特别糟糕，好像全盘否定了我的能力一样…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，是这样的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "可能会吧，如果领导语气轻松一点，我可能就不会这么紧张；但更多还是自己内心的问题，好像总觉得一旦出错，就证明我不够好。就算别人不批评，我也很难放过自己…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果领导语气轻松一点，我可能就不会这么紧张；但更多还是自己内心的问题，好像总觉得一旦出错，就证明我不够好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，我觉得“不够好”更多是感觉自己没达到一个“应该有的标准”。可能是能力不够全面，或者表现得不够完美，就会觉得对不起别人的期待，也觉得自己不值得被肯定…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得“不够好”更多是感觉自己没达到一个“应该有的标准”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "这个问题我也想过，可能一开始是从父母那里来的，比如小时候成绩要好、表现要听话；但后来好像变成了我自己给自己设定的标准。现在想想，它确实有点高了，好像总追求完美，稍微没做到就会觉得不够好。",
+    "has_specific_detail": true,
+    "specific_detail": "这个问题我也想过，可能一开始是从父母那里来的，比如小时候成绩要好、表现要听话；但后来好像变成了我自己给自己设定的标准",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "有时候也会想告诉自己“没关系，已经尽力了”，但情绪上很难真正放下，总觉得结果不好就说明努力不够。说到这个，前几天还有件事，我帮同事整理了一份资料，虽然她说很满意，但我自己还是挑出了不少小毛病，甚至开始怀疑她是不是只是客气…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候也会想告诉自己“没关系，已经尽力了”，但情绪上很难真正放下，总觉得结果不好就说明努力不够",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "是的，我经常会这样。就算别人觉得我做得不错，我也总能找到一些不足的地方，然后忍不住想“下次一定要做得更完美”。但这样其实让我挺累的，好像永远在追一个达不到的目标…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我经常会这样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，你说得对，好像确实是有种担忧，怕自己一旦不够好，就会被忽视或者失去别人的认可。还有种感觉是，我总希望通过表现来证明自己的价值，但又觉得自己永远达不到那个理想的状态…这让我有点矛盾和无力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，你说得对，好像确实是有种担忧，怕自己一旦不够好，就会被忽视或者失去别人的认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "这种情绪在工作上最强烈吧，尤其是面对领导或需要展示成果的时候。我总觉得他们的认可很重要，所以特别害怕出错。比如上次提交一个方案前，我反复修改了好几遍，但最后还是觉得不够完美，交上去后整个人都很紧张…",
+    "has_specific_detail": true,
+    "specific_detail": "这种情绪在工作上最强烈吧，尤其是面对领导或需要展示成果的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "老实说，我很少能真正安慰自己，通常就是反复回想细节，确认有没有问题，甚至会提前设想最坏的后果。这样虽然让我感觉“准备充分”，但其实没什么帮助，反而让焦虑更强了…",
+    "has_specific_detail": true,
+    "specific_detail": "老实说，我很少能真正安慰自己，通常就是反复回想细节，确认有没有问题，甚至会提前设想最坏的后果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，我觉得可以试试这样做。虽然对我来说，“已经尽力了”不太容易真正相信，但如果能找到一两个让我满意的地方，或许能稍微缓解一些紧张感。比如上次那个方案，其实有一部分我花了很多心思，后来领导还特别提到过…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以试试这样做",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得可以试试，下次可以有意识地去想“自己做得好的地方”，而不是只盯着那些不完美的细节。这样或许能让我稍微放松些，也更容易接纳自己的努力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试试，下次可以有意识地去想“自己做得好的地方”，而不是只盯着那些不完美的细节",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，有的，比如和朋友相处时，我也会不自觉地追求“不能出错”。前阵子跟朋友聚餐，点菜时我选了个新菜，结果大家不太喜欢，我心里一直过意不去，觉得自己没做好“安排得当”的责任…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有的，比如和朋友相处时，我也会不自觉地追求“不能出错”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "当时没有主动问，但朋友后来随口提到“菜还行，只是有点偏咸”，其实他们并没特别在意。但我心里还是会放大这种评价，觉得自己“没选好”就是失误，好像总是无法轻易放过自己…",
+    "has_specific_detail": true,
+    "specific_detail": "当时没有主动问，但朋友后来随口提到“菜还行，只是有点偏咸”，其实他们并没特别在意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得两者都有吧。一方面是想让别人满意，觉得这样关系会更和谐；另一方面，可能更深层的原因还是怕别人觉得我“不够好”，所以一直在努力避免犯错，好像只有这样才能得到认同…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "你这么一说，我觉得可能没完全取决于表现。其实朋友更看重的是相处时的真诚和陪伴，比如那次聚餐，他们其实更在意聊天和气氛，而不是具体点了什么菜。只是我自己总容易把注意力放在“结果”上，忽略了这些更重要的部分…",
+    "has_specific_detail": true,
+    "specific_detail": "你这么一说，我觉得可能没完全取决于表现",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，听你这么说，我觉得确实可以试着放下对“完美”的执着，更多关注互动和相处本身。这样或许会让我轻松一些，也更能享受和别人在一起的时光，而不是总担心自己哪里做得不够好。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，听你这么说，我觉得确实可以试着放下对“完美”的执着，更多关注互动和相处本身",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "这个建议挺好的，我觉得可以试着去做。比如在完成任务时，不只关注自己有没有做到最好，而是多看看团队合作中大家的贡献，学习从整体中找到成就感，这样可能会更有收获，也更少自我苛责。",
+    "has_specific_detail": true,
+    "specific_detail": "这个建议挺好的，我觉得可以试着去做",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我觉得在自我评价上也需要调整。比如在面对自己的外貌或者能力时，我总是挑剔那些不够好的地方，很少认可自己的优点。如果能学会接纳自己不完美的部分，或许会更轻松，也更容易感到满足吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得在自我评价上也需要调整",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "这个方法听起来挺好，我觉得可以试着每天记录一个自己觉得还不错的地方，比如今天完成了一项任务，或者在某件小事上坚持了努力。这样或许能慢慢培养对自己的认可感，让我学会更多关注积极的一面，而不是总盯着不足。",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来挺好，我觉得可以试着每天记录一个自己觉得还不错的地方，比如今天完成了一项任务，或者在某件小事上坚持了努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得需要提醒自己，这个过程不是为了找“完美”，而是去发现哪怕微小的努力或优点都值得肯定。同时，尽量避免和别人对比，专注于自己的进步。比如今天就可以肯定自己，愿意认真思考这些问题，其实已经是一个积极的改变了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要提醒自己，这个过程不是为了找“完美”，而是去发现哪怕微小的努力或优点都值得肯定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "如果又开始挑不足，我可以试着停下来，深呼吸几次，然后问自己“有没有哪怕一点点值得肯定的地方？”比如即使结果不完美，但我可能已经付出了很多努力，这本身也是值得认可的。我觉得用这种方式能帮我把注意力拉回到积极的方向上。",
+    "has_specific_detail": true,
+    "specific_detail": "如果又开始挑不足，我可以试着停下来，深呼吸几次，然后问自己“有没有哪怕一点点值得肯定的地方？”比如即使结果不完美，但我可能已经付出了很多努力，这本身也是值得认可的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得可以用在工作中提交任务或接受反馈的时候。比如当我交上方案时，如果感到紧张，我可以先深呼吸，提醒自己“我已经尽力了”。然后试着找到方案里自己满意的部分，比如逻辑清晰或者某个细节做得用心，这样能让我更冷静，也更有信心去面对可能的评价。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用在工作中提交任务或接受反馈的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，我觉得在和朋友互动时也可以用，比如当我不小心说错话或者做了一个不够周到的决定时，可以先深呼吸，告诉自己“朋友更在意的是我们的感情，而不是这些小失误”。然后试着去关注互动中愉快的部分，比如一起聊天时的轻松氛围，这样能让我少一些自责，更专注当下。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得在和朋友互动时也可以用，比如当我不小心说错话或者做了一个不够周到的决定时，可以先深呼吸，告诉自己“朋友更在意的是我们的感情，而不是这些小失误”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "如果深呼吸和自我提醒没效果，我觉得可以试着转移注意力，比如暂时把焦点放在别的事情上，比如听一首喜欢的歌，或者回忆一个让我开心的瞬间。这样可能能缓解紧张情绪，让自己稍微放松下来，再慢慢回到问题上。",
+    "has_specific_detail": true,
+    "specific_detail": "如果深呼吸和自我提醒没效果，我觉得可以试着转移注意力，比如暂时把焦点放在别的事情上，比如听一首喜欢的歌，或者回忆一个让我开心的瞬间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "如果放松下来后，我觉得可以重新梳理问题，比如问自己“这件事最坏的结果是什么？我能接受吗？”通常答案会让我意识到，事情可能没我想得那么严重。然后，再次提醒自己关注做得好的部分，比如我的努力或用心，这样能让我更平稳地面对接下来的挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "如果放松下来后，我觉得可以重新梳理问题，比如问自己“这件事最坏的结果是什么？我能接受吗？”通常答案会让我意识到，事情可能没我想得那么严重",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得需要特别注意避免“全盘否定”的心态，不能因为一次小失误就觉得自己一无是处。另外，也要提醒自己，调整是一个渐进的过程，不必要求立刻看到明显变化，只要每天进步一点点，就已经很值得肯定了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要特别注意避免“全盘否定”的心态，不能因为一次小失误就觉得自己一无是处",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我觉得可以提前做一些心理准备，比如在开始任务前给自己设定一个“合理的目标”，而不是追求“完美”。同时提醒自己，允许有小瑕疵存在，因为每一次挑战都是学习的机会，而不是必须证明自己的考试，这样或许能让我更放松地去面对工作中的压力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以提前做一些心理准备，比如在开始任务前给自己设定一个“合理的目标”，而不是追求“完美”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "在生活中，比如和朋友聚会或参加社交活动时，我觉得也可以提前调整心态。提醒自己这不是一场“表现的考试”，而是一个享受陪伴和互动的机会。即使偶尔说错话或者表现不够完美，也不会影响关系的本质，这样我可能会更自然、更自在地去参与这些场合。",
+    "has_specific_detail": true,
+    "specific_detail": "在生活中，比如和朋友聚会或参加社交活动时，我觉得也可以提前调整心态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我觉得可以试着每天做一个“心态记录”，比如在结束一天前，写下自己在哪些场合放下了完美的执念，或者在哪些地方关注到了积极的一面。这样可以不断强化这些意识，同时提醒自己，哪怕是小小的进步也值得被肯定。这种习惯应该能帮我更好地坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着每天做一个“心态记录”，比如在结束一天前，写下自己在哪些场合放下了完美的执念，或者在哪些地方关注到了积极的一面",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "今天早上开会时，领导提了一个需要改进的地方，我当时虽然有点紧张，但没有像以前那样过度自责，而是专注在他提的建议上，想着怎么改进。回想起来，这次我能把注意力放在解决问题上，而不是一味地担心评价，感觉挺不错的！",
+    "has_specific_detail": true,
+    "specific_detail": "今天早上开会时，领导提了一个需要改进的地方，我当时虽然有点紧张，但没有像以前那样过度自责，而是专注在他提的建议上，想着怎么改进",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "是的，我觉得可以把这个经验转化为一种新的思维模式。以后遇到类似情况时，我可以提醒自己，别把注意力放在“别人怎么看”，而是去思考“我能做些什么来改进”。这样既能让我更有方向感，也能缓解那种焦虑的情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可以把这个经验转化为一种新的思维模式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "如果再陷入那种担心评价的情绪，我可以提醒自己：“评价只是别人的看法，而我的价值并不取决于此。专注于行动才是我能掌控的事情。”这句话能让我从情绪中抽离出来，回到更积极的状态去面对问题。",
+    "has_specific_detail": true,
+    "specific_detail": "如果再陷入那种担心评价的情绪，我可以提醒自己：“评价只是别人的看法，而我的价值并不取决于此",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 38,
+    "content": "我觉得可以先设定一个简单的三步行动计划：第一，每天记录一个积极的瞬间；第二，在遇到焦虑时用深呼吸和那句话提醒自己；第三，每周回顾自己的进步，看看哪些场合更容易调整成功，哪些需要继续努力。这样一步步来，应该能逐渐巩固新的思维习惯。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先设定一个简单的三步行动计划：第一，每天记录一个积极的瞬间；第二，在遇到焦虑时用深呼吸和那句话提醒自己；第三，每周回顾自己的进步，看看哪些场合更容易调整成功，哪些需要继续努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我觉得可以设一个小奖励，比如每完成一周的记录和回顾，就允许自己做一件特别想做的事情，比如去吃一顿喜欢的餐厅，或者买一本想看的书。这样会更有动力坚持下去，也能让我更期待每周的进步！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以设一个小奖励，比如每完成一周的记录和回顾，就允许自己做一件特别想做的事情，比如去吃一顿喜欢的餐厅，或者买一本想看的书",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "确实可能会有情绪低落或者懒得记录的时候。我觉得可以提前准备一个“激励清单”，写上一些让我觉得开心或者鼓舞自己的话，比如“每一小步都值得肯定”或者“哪怕今天只记录一件事，也是进步”。这样在困难时翻出来看看，可能会让我重新找到动力继续坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "确实可能会有情绪低落或者懒得记录的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "这个主意挺好的！我觉得可以找个信任的朋友，每周跟他\/她分享一下我的进步和感受。这样不仅让我更有动力去坚持，可能也会让我更容易意识到自己的成长，毕竟有时候别人比自己更能看到我们的好。",
+    "has_specific_detail": true,
+    "specific_detail": "这个主意挺好的！我觉得可以找个信任的朋友，每周跟他\/她分享一下我的进步和感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "除了分享进步，我觉得还可以聊聊一些过程中遇到的小困难，看看他们有没有类似的经历或者建议。这样既能让对话更自然，也可能从他们的反馈中获得不同的视角和鼓励。其实，听听他们的看法，本身也会让我感到被理解和支持。",
+    "has_specific_detail": true,
+    "specific_detail": "除了分享进步，我觉得还可以聊聊一些过程中遇到的小困难，看看他们有没有类似的经历或者建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "我觉得可以跟朋友简单说明一下我的调整目标，比如“我最近在练习更关注自己的努力，而不是追求完美”。同时也可以告诉他们，我希望通过分享进步和困难，能获得一些鼓励或者他们的建议。这样对方更清楚我的需求，互动也会更有针对性。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以跟朋友简单说明一下我的调整目标，比如“我最近在练习更关注自己的努力，而不是追求完美”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "这个主意很好！我觉得可以设置一个轻松的小环节，比如每次分享时都互相说一件“今天最开心的事”或者“最近觉得值得骄傲的瞬间”。这样既能让聊天更有趣，也能互相感染积极的情绪，增加分享的动力和乐趣。",
+    "has_specific_detail": true,
+    "specific_detail": "这个主意很好！我觉得可以设置一个轻松的小环节，比如每次分享时都互相说一件“今天最开心的事”或者“最近觉得值得骄傲的瞬间”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "我觉得可以试着每天晚上花几分钟，写下三件让我感到感激或开心的小事，比如今天的好天气、朋友的关心，或者完成了一项小目标。这样能让我把注意力更多放在生活的美好和自己的努力上，而不是纠结那些不完美的地方，从而逐步缓解压力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着每天晚上花几分钟，写下三件让我感到感激或开心的小事，比如今天的好天气、朋友的关心，或者完成了一项小目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "我觉得可以设一个固定的时间，比如睡前十分钟，用一个漂亮的小本子来记录，这样会感觉更有仪式感。还可以配上一杯热茶或者听一首轻音乐，让这个过程成为一种放松的“自我对话”，这样可能会更容易坚持下去，也更有意义。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以设一个固定的时间，比如睡前十分钟，用一个漂亮的小本子来记录，这样会感觉更有仪式感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "如果遇到特别难的日子，我觉得可以调整记录方式，比如允许自己写一些中性的观察，而不是强求一定要是积极的。比如“今天虽然有点累，但我还是完成了基本任务”或者“虽然情绪不高，但我愿意给自己一点时间去缓解”。这样能让我更温柔地对待自己，不因为状态不好而增加压力。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到特别难的日子，我觉得可以调整记录方式，比如允许自己写一些中性的观察，而不是强求一定要是积极的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "我觉得可以用情绪变化和自我对话的内容作为衡量标志。比如，之前遇到批评时可能会陷入自责，但如果现在能更快地冷静下来，或者更多关注解决问题，那就是一种进步。还有在记录中，发现自己越来越多地写下积极的瞬间，也能说明心态在慢慢变好。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用情绪变化和自我对话的内容作为衡量标志",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "我觉得可以用一些小庆祝方式，比如给自己写一封鼓励的信，记录下这段时间的努力和进步，或者做一次自己喜欢的小旅行。这样的庆祝不仅能让我感受到成果的喜悦，也会激励自己继续保持这个调整的方向，迈向更多积极的变化。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用一些小庆祝方式，比如给自己写一封鼓励的信，记录下这段时间的努力和进步，或者做一次自己喜欢的小旅行",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "我觉得需要提前做好心理准备，接受调整是一个可能有反复的过程，比如偶尔还是会陷入自责或者焦虑，但这不代表失败。可以设一个“复盘日”，定期回顾哪些地方做得好，哪些需要改进，同时重新激励自己。还可以和朋友或咨询师保持联系，从他们的反馈中获得支持和动力，这样就能更稳定地走下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要提前做好心理准备，接受调整是一个可能有反复的过程，比如偶尔还是会陷入自责或者焦虑，但这不代表失败",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "我觉得可以用这样一句话：“改变是一个缓慢但有意义的过程，每一次小进步，都是我在向更好的自己靠近。”这句话能让我在遇到挫折时，提醒自己不需要完美，只要坚持前行，就已经在进步了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用这样一句话：“改变是一个缓慢但有意义的过程，每一次小进步，都是我在向更好的自己靠近",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "今天的讨论让我感觉思路清晰了很多，也让我对未来的变化更有信心。这些方法和计划都很实用，我也想先按照这些步骤去尝试调整。如果之后还有新的困惑或遇到困难，再和你聊聊。谢谢你这么耐心地陪我梳理！",
+    "has_specific_detail": true,
+    "specific_detail": "今天的讨论让我感觉思路清晰了很多，也让我对未来的变化更有信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

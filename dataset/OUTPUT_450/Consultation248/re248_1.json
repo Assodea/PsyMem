@@ -1,0 +1,510 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近让我感到有些纠结的，是关于工作的事情。刚入职场没多久，我现在在一家挺稳定的公司实习，按理说一切顺利，可总觉得缺了点什么…这让我有点迷茫。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近让我感到有些纠结的，是关于工作的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "可能是因为工作内容有点偏重复和规矩吧，虽然能学到东西，但总觉得没什么创意可发挥。有时候会想，是不是自己并不适合这样稳定的方向呢…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是因为工作内容有点偏重复和规矩吧，虽然能学到东西，但总觉得没什么创意可发挥",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，我其实很想尝试一些需要创新或者策划的工作，比如在大学时参加的社团活动，那种自己设计方案、带团队实践的感觉特别让我充实和有成就感。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我其实很想尝试一些需要创新或者策划的工作，比如在大学时参加的社团活动，那种自己设计方案、带团队实践的感觉特别让我充实和有成就感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "我试过提一些小建议，但感觉领导更倾向于按流程来，可能觉得我经验不足吧。这样一来，我就不太敢再主动提了，怕被觉得不切实际…",
+    "has_specific_detail": true,
+    "specific_detail": "我试过提一些小建议，但感觉领导更倾向于按流程来，可能觉得我经验不足吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "可能两方面都有吧，一方面怕领导觉得我冒失，另一方面也会担心自己的想法是不是确实不够成熟，没法真正解决问题…这种犹豫让我总是在提与不提之间纠结。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧，一方面怕领导觉得我冒失，另一方面也会担心自己的想法是不是确实不够成熟，没法真正解决问题…这种犹豫让我总是在提与不提之间纠结",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "也许可以在提建议前，多花点时间做些准备吧，比如查相关资料或者提前和同事交流意见。但有时候又觉得，这样会不会显得太刻意？我不太确定这是不是最好的方式…",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以在提建议前，多花点时间做些准备吧，比如查相关资料或者提前和同事交流意见",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，这样好像会轻松点。如果能先和关系不错的同事聊聊，听听他们的想法，再看有没有改进的空间，感觉比直接提给领导更有底气一点。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样好像会轻松点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "有的，有个前辈人挺随和，我之前有问题时也找她请教过，感觉她挺愿意听我说的。或许可以试着先和她聊聊我的想法，看她怎么看。",
+    "has_specific_detail": true,
+    "specific_detail": "有的，有个前辈人挺随和，我之前有问题时也找她请教过，感觉她挺愿意听我说的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我想可以先从问题背景聊起，说明为什么会有这个想法，再简单提一下我的初步思路，听听她的建议。如果她觉得靠谱，我再细化下方案…这样比较踏实一点吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以先从问题背景聊起，说明为什么会有这个想法，再简单提一下我的初步思路，听听她的建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我打算这周找个她比较空闲的时间聊一聊，尽量不打扰她的工作。可能需要先理清我的想法，把问题和思路写下来，这样表达时更清楚一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我打算这周找个她比较空闲的时间聊一聊，尽量不打扰她的工作",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 11,
+    "content": "我觉得可以先简要说明现有问题的不足，重点放在我的建议能如何改进上，比如它可能带来的新想法或效率提升。这样说起来会更积极一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先简要说明现有问题的不足，重点放在我的建议能如何改进上，比如它可能带来的新想法或效率提升",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "对，这样会更有说服力。我可以找一些和我们项目类似的案例，看看别人是怎么做的，再把数据整理出来，用来支持我的建议。这样感觉更有底气了！",
+    "has_specific_detail": true,
+    "specific_detail": "对，这样会更有说服力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得两个方面都很重要，既要看成功的关键点有哪些，也得考虑这些方法是否适合我们实际的工作流程。这样才能让建议既有参考价值又能真正落地。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两个方面都很重要，既要看成功的关键点有哪些，也得考虑这些方法是否适合我们实际的工作流程",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我可能会优先找一些和我们行业或项目类似的案例，尤其是那些团队规模和文化接近的，这样更容易借鉴。也想看看他们是怎么平衡创意和执行的，感觉这个挺关键。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会优先找一些和我们行业或项目类似的案例，尤其是那些团队规模和文化接近的，这样更容易借鉴",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我更倾向于关注创意的可行性吧，毕竟再有趣的想法，如果无法实现也是白搭。当然，团队协作也很重要，但感觉那是可以在执行中逐步调整的。",
+    "has_specific_detail": true,
+    "specific_detail": "我更倾向于关注创意的可行性吧，毕竟再有趣的想法，如果无法实现也是白搭",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我会从成本和时间两个方面先判断，看看实现这个创意需要的资源是否在我们的能力范围内。团队的能力我觉得可以通过分工和培训来逐步补足，所以相对没那么担心。",
+    "has_specific_detail": true,
+    "specific_detail": "我会从成本和时间两个方面先判断，看看实现这个创意需要的资源是否在我们的能力范围内",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "对，我觉得设定具体的标准很有必要，比如预算不能超过多少，完成时间不能拖延关键节点。这样不仅能明确方向，也方便我在提建议时让人一目了然。",
+    "has_specific_detail": true,
+    "specific_detail": "对，我觉得设定具体的标准很有必要，比如预算不能超过多少，完成时间不能拖延关键节点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "是的，我觉得需要结合团队的目标，尤其要考虑领导更看重的是什么，比如成本控制还是效率提升。我可能会在沟通时，重点突出建议如何贴合这些优先级，这样更容易赢得认可。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得需要结合团队的目标，尤其要考虑领导更看重的是什么，比如成本控制还是效率提升",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "会的，我觉得可能的质疑必须提前想好，比如风险我可以说明应对措施，或者解释为什么这个方案比其他替代方案更适合当前情况。这样才能显得更有准备，也让人信服。",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我觉得可能的质疑必须提前想好，比如风险我可以说明应对措施，或者解释为什么这个方案比其他替代方案更适合当前情况",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得语气要自然、真诚，既要表达出自己的想法，也要表现出愿意听取意见的开放态度。这样既有自信又不会让人感到压力，沟通会更顺畅。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得语气要自然、真诚，既要表达出自己的想法，也要表现出愿意听取意见的开放态度",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "是的，我觉得具体的语言和例子很重要，比如用数据说明问题，或者引用类似项目的成功经验，这样可以让对方更直观地理解我的建议，也更容易接受。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得具体的语言和例子很重要，比如用数据说明问题，或者引用类似项目的成功经验，这样可以让对方更直观地理解我的建议，也更容易接受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，我觉得模拟演练挺有必要的。我可以试着自己先讲一遍，或者找那个关系不错的前辈帮忙听听，这样能发现表达中的不足，也更有信心去和领导正式沟通。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得模拟演练挺有必要的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我会更注意逻辑的清晰度吧，确保表达有条理，重点突出，同时也会留意语速和语气，不想让人觉得我太紧张或者没底气。",
+    "has_specific_detail": true,
+    "specific_detail": "我会更注意逻辑的清晰度吧，确保表达有条理，重点突出，同时也会留意语速和语气，不想让人觉得我太紧张或者没底气",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "如果发现不够顺畅的地方，我会先分析是内容不清楚还是表达方式的问题。如果是内容，我就补充资料；如果是表达，就试着换一种更简洁明了的说法，多练几遍直到觉得自然为止。",
+    "has_specific_detail": true,
+    "specific_detail": "如果发现不够顺畅的地方，我会先分析是内容不清楚还是表达方式的问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "会的，我希望至少能得到一个初步的认可，比如领导觉得我的建议有一定价值，愿意让我深入优化或试着实施，这样就算迈出第一步了。",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我希望至少能得到一个初步的认可，比如领导觉得我的建议有一定价值，愿意让我深入优化或试着实施，这样就算迈出第一步了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "如果领导支持，我会先制定一个更详细的计划，包括具体的步骤、时间节点和需要的资源，然后再把这些和团队成员讨论，确保大家都有明确的方向。这会让我更有信心推进下去！",
+    "has_specific_detail": true,
+    "specific_detail": "如果领导支持，我会先制定一个更详细的计划，包括具体的步骤、时间节点和需要的资源，然后再把这些和团队成员讨论，确保大家都有明确的方向",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 27,
+    "content": "我觉得可以先分享这个创意的意义和潜在的好处，比如它能为团队带来什么样的提升，再结合每个人的特长分配任务，让大家觉得自己是重要的一部分，这样会更有动力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先分享这个创意的意义和潜在的好处，比如它能为团队带来什么样的提升，再结合每个人的特长分配任务，让大家觉得自己是重要的一部分，这样会更有动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "如果遇到不同意见，我会先认真倾听他们的想法，看看是否有合理之处。然后尝试找到一个折中方案，或者一起讨论出更好的改进方向，让每个人都觉得自己的观点被尊重。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到不同意见，我会先认真倾听他们的想法，看看是否有合理之处",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得可以用一些开放式的问题引导对方，比如“你觉得这个方案还可以怎么优化？”这样既能了解他们的想法，也让讨论更聚焦于解决问题，而不是争论对错。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用一些开放式的问题引导对方，比如“你觉得这个方案还可以怎么优化？”这样既能了解他们的想法，也让讨论更聚焦于解决问题，而不是争论对错",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得可能是决策的果断性吧，有时候面对不同的建议会有些犹豫，怕选错方向。需要学着在听取意见后，更快速地做出判断，不让项目拖延。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是决策的果断性吧，有时候面对不同的建议会有些犹豫，怕选错方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得可以列出每个选择的优缺点，特别是从对目标的影响、实施的难度以及潜在的风险三个方面来评估。这样能更清晰地看到哪个选择更符合当前的需求。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以列出每个选择的优缺点，特别是从对目标的影响、实施的难度以及潜在的风险三个方面来评估",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "如果时间很紧，我可能会更多依靠直觉和以往的经验，尤其是类似情况下的教训或成功案例。这种时候，快速判断比过度犹豫更重要，哪怕不完美也得先行动。",
+    "has_specific_detail": true,
+    "specific_detail": "如果时间很紧，我可能会更多依靠直觉和以往的经验，尤其是类似情况下的教训或成功案例",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我觉得可以设置一个短期的检查点，比如在执行一小部分后，马上评估实际效果。如果发现问题，就及时调整策略，这样既能降低风险，又能逐步优化方案。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以设置一个短期的检查点，比如在执行一小部分后，马上评估实际效果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我会关注关键的结果指标，比如预期目标是否达成、资源使用是否在计划内，以及团队的反馈。如果有任何一个明显偏离，就说明需要调整方向了。",
+    "has_specific_detail": true,
+    "specific_detail": "我会关注关键的结果指标，比如预期目标是否达成、资源使用是否在计划内，以及团队的反馈",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 35,
+    "content": "我可能会先肯定团队的努力，告诉大家即使有问题也是进步的一部分，然后一起分析问题所在，让每个人都参与到解决方案中。这样可以让大家觉得有贡献，同时保持信心。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先肯定团队的努力，告诉大家即使有问题也是进步的一部分，然后一起分析问题所在，让每个人都参与到解决方案中",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我觉得透明和真诚是关键，比如在遇到困难时坦诚自己的想法，同时对团队的意见保持开放态度。这样大家会觉得我是和他们站在一起，而不是只是在发号施令。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得透明和真诚是关键，比如在遇到困难时坦诚自己的想法，同时对团队的意见保持开放态度",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "嗯，感觉清晰了一些吧！通过这些计划，我意识到自己其实可以在现有的环境中找到创造性和价值，只要主动去尝试和表达，或许就能慢慢改变之前的那种“缺了点什么”的感觉。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，感觉清晰了一些吧！通过这些计划，我意识到自己其实可以在现有的环境中找到创造性和价值，只要主动去尝试和表达，或许就能慢慢改变之前的那种“缺了点什么”的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我觉得从和那个前辈交流开始是最实际的第一步，先听听她的想法和建议，然后再根据反馈调整我的计划。这样可以更有信心地继续推进！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得从和那个前辈交流开始是最实际的第一步，先听听她的想法和建议，然后再根据反馈调整我的计划",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "有的，感觉理清了不少思路，也更明确自己可以从哪些小事入手去改变。我觉得这些问题慢慢去尝试就好了，谢谢你！今天就先聊到这里吧。",
+    "has_specific_detail": true,
+    "specific_detail": "有的，感觉理清了不少思路，也更明确自己可以从哪些小事入手去改变",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

@@ -1,0 +1,658 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，谢谢你的接纳。其实上次聊到待业状态，我还没说到具体的生活细节。比如每天醒来都觉得时间像被拉长了，没什么方向，偶尔会试着做点计划，但总是拖着拖着就忘了…这种感觉挺压抑的，有时候甚至觉得连起床都需要鼓励才行。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，谢谢你的接纳",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，我觉得可能是因为缺乏明确目标吧。比如上周试着列了个任务清单，但总觉得每件事都没什么意义，完成了也没什么实质改变。再加上有点担心做不好或者浪费时间，就干脆放弃了…这让我感觉更无力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可能是因为缺乏明确目标吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "好像是从大学毕业后开始的吧。那时候第一份工作没做多久就辞了，觉得自己不适合那个岗位。后来几次尝试也差不多，每次都觉得自己可能做不好，怕别人失望或者被批评，这种担心慢慢变成了习惯。",
+    "has_specific_detail": true,
+    "specific_detail": "好像是从大学毕业后开始的吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "嗯，第一份工作是做销售，但每天要和很多人打交道，感觉很累。我总是紧张，不知道该怎么跟客户说话，有时候话还没说完就想退缩…这种压力让我觉得自己不合适，也没办法坚持。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，第一份工作是做销售，但每天要和很多人打交道，感觉很累",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "有一次主管让我做一个重要客户的电话沟通，刚开始还挺紧张，但硬着头皮打了过去。结果对方语气很冷淡，我完全不知道怎么应对，最后只匆匆结束了通话。后来主管问我为什么没深入谈，我解释了，但他表情明显不太满意…这件事让我觉得自己根本不适合这类工作。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次主管让我做一个重要客户的电话沟通，刚开始还挺紧张，但硬着头皮打了过去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "说实话，当时觉得自己挺失败的，尤其是没能顺利和客户沟通，让主管不满意。但回头想想，其实我已经尽力去打了电话，虽然紧张，但也尝试着按要求做了。只是这种尽力好像并没有带来什么认可，反而让我更怀疑自己的能力…",
+    "has_specific_detail": true,
+    "specific_detail": "说实话，当时觉得自己挺失败的，尤其是没能顺利和客户沟通，让主管不满意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，那之后我试着和主管聊过一次，说自己在沟通中总是紧张，希望能得到些建议。他倒是提了几个方法，但更多还是强调业绩的重要性，感觉他并不真正理解我的困扰。同事间也没太多交流，大家都很忙，我也不好意思主动去说这些…最终觉得还是靠自己吧，但这种孤立感越来越强。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，那之后我试着和主管聊过一次，说自己在沟通中总是紧张，希望能得到些建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，那段时间孤立感挺明显的，经常觉得自己在团队里像个外人。每天都很难提起动力去做事情，工作变成了机械的任务，甚至开始害怕上班。最后实在撑不下去，就选择辞职了…但辞职后又陷入另一种失控的感觉。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，那段时间孤立感挺明显的，经常觉得自己在团队里像个外人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "有一次辞职后的早晨，醒来后突然意识到自己完全没有安排，也不用去上班。那种空荡荡的感觉特别强烈，就连吃早餐都提不起劲，整个人像被困在一个无形的框里动不了…后来试着找工作，但每次投简历都觉得没希望，感觉越来越迷茫。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次辞职后的早晨，醒来后突然意识到自己完全没有安排，也不用去上班",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "对，是有的。每次看到招聘要求，总觉得自己不够好，怕达不到他们的期待。比如有些岗位要求很强的沟通能力或团队协作，我就会马上联想到之前的工作经历，觉得自己可能又会失败…这种自我怀疑让我甚至不敢尝试更多的机会。",
+    "has_specific_detail": true,
+    "specific_detail": "对，是有的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "最让我焦虑的还是沟通能力吧。比如看到岗位需要频繁和客户或团队交流时，我就会特别担心自己无法胜任。回想之前那些紧张和退缩的场景，就觉得自己好像永远都学不会怎么自然地跟别人互动，这种压力真的很难摆脱…",
+    "has_specific_detail": true,
+    "specific_detail": "最让我焦虑的还是沟通能力吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，仔细想想，还是有过的。有一次在大学时帮忙组织一个小组讨论，虽然不算特别复杂，但我负责的部分被大家认可了。那时候的氛围比较轻松，压力没那么大，我也能更自然地表达想法…但后来进入职场就完全变了，感觉沟通变成了一种“任务”，每句话都要小心翼翼，生怕出错或被否定。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，仔细想想，还是有过的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我想可能是职场的环境更注重结果吧。在大学时，大家更像是平等的伙伴，讨论没那么多“对错”的压力。而在职场，每次沟通似乎都有明确目标，比如要说服客户或完成任务，感觉自己的每句话都被放在一个“评判框架”里，这让我很紧张，也更害怕失败。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可能是职场的环境更注重结果吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，我觉得可能会好一些吧。如果职场的沟通能更像大学时那样，大家能互相支持、交流想法，而不是一味追求结果，压力应该会小很多。我可能也会更愿意尝试表达，但现在这种氛围真的很少，想象起来还是有点难…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可能会好一些吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，确实会让我犹豫。有时候我会想，也许自己改变了也没用，职场的环境还是一样。比如试着主动和同事聊几句，但对方反应一般，我就会觉得没意义。慢慢地，这种尝试的动力也一点点减弱了…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，确实会让我犹豫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "有一次开会时，我提了一个解决问题的小建议，虽然声音不大，但经理居然采纳了，还简单夸了一句。这让我有点意外，也觉得可能自己并不是完全没能力，只是这种正面的反馈很少出现，总让我不敢期待太多…",
+    "has_specific_detail": true,
+    "specific_detail": "有一次开会时，我提了一个解决问题的小建议，虽然声音不大，但经理居然采纳了，还简单夸了一句",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，我觉得肯定会有帮助吧。每次被认可的时候，我都会觉得好像自己也能做到一些事情，这种感觉挺重要的。但问题是，这种机会太少了，或者说我很难主动去争取更多类似的场景，因为总怕失败或者被忽略…这种矛盾让我不知道该怎么突破。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得肯定会有帮助吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，听起来是个不错的方向。如果是在比较随意的讨论里，我可能会更放松一些，不那么担心出错或被否定。但问题是，我还是会犹豫要不要主动开口，因为怕说的东西不够有价值…这种犹豫常常让我错过了机会。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，听起来是个不错的方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "嗯，这倒是个可以考虑的方法。如果是在私下和一两个人聊，压力确实会小一些，比如上次跟一个同事聊项目细节时就感觉稍微自然些。但我还是会有点担心，比如对方会不会觉得我多余或者打扰他…这种担忧总是挥之不去，让我不太敢主动尝试。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这倒是个可以考虑的方法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，这确实是个好方法。如果是在茶水间或者休息时，那种轻松的氛围可能让我感觉没那么正式，也更容易开口。不过我可能还是会先犹豫一会儿，担心对方会觉得聊这些没意义…说到这个，前几天在茶水间就有类似的场景，但我最后还是没开口。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这确实是个好方法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，当时好像是内心的顾虑占了上风吧。我看到对方正在休息，感觉他可能不想被打扰，再加上自己又怕话题没意思或说错什么，就退缩了…后来一直想，是不是应该试着说点简单的，比如问问最近的工作进展，但总觉得不太自然。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，当时好像是内心的顾虑占了上风吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，听起来是个不错的尝试。如果只是简单问候，应该没那么压力大，也不会显得突兀。但我可能还是会有些担心，比如对方会不会觉得我在刻意套近乎…这种顾虑还是挺难完全摆脱的，不过下次或许可以试着尝试看看。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，听起来是个不错的尝试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，确实如果是关系熟一点的同事，可能会更容易开口。比如之前有个同事经常会主动跟我聊项目进展，我觉得跟他互动还算自然。如果能从类似这样的同事开始尝试，也许压力会小一些，不过还是需要鼓起勇气才行…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，确实如果是关系熟一点的同事，可能会更容易开口",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，提前准备话题确实能让我感觉更有底气，比如聊项目进展或者问一些和工作相关的建议。但我还是会担心自己表达的不够清楚，或者对方不感兴趣…不过这样至少能让我多一点方向，下次可以试着先观察一下时机，再尝试开口。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，提前准备话题确实能让我感觉更有底气，比如聊项目进展或者问一些和工作相关的建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "嗯，如果对方回应是积极的，肯定会让我感觉更有信心。那种被认可的感觉很重要，可能也会让我更愿意去尝试其他场景的交流。不过还是会有点担心，这种正向反馈能不能持续出现…但至少能让我迈出第一步吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果对方回应是积极的，肯定会让我感觉更有信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "嗯，我想可能需要一种稳定的鼓励吧，比如哪怕是小小的认可，都能让我感觉自己在进步。也许如果有人能在沟通后给我一点具体的反馈，告诉我哪些地方做得不错，就会让我更有动力去尝试更多的交流。不过这种支持好像挺难主动去争取，总觉得直接问别人反馈有点尴尬…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我想可能需要一种稳定的鼓励吧，比如哪怕是小小的认可，都能让我感觉自己在进步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "嗯，这听起来是个比较自然的方式。如果我先感谢对方，比如说“谢谢你的时间，今天聊得很有帮助”，然后再顺便问一句“你觉得我的想法怎么样”，应该会让气氛轻松些。不过我还是会担心万一对方反应比较冷淡，会让我更不敢继续…但也许可以试着先尝试一次，看看效果。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来是个比较自然的方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，选择具体任务或项目确实会让对方更容易回应积极一些，毕竟是工作相关的内容，大家通常都会认真对待。如果能围绕这种明确的话题去交流，可能我的表达也会更顺畅些。不过说到这个，前段时间有次讨论任务时，我就犹豫着没开口，现在想想其实是个挺适合的机会…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，选择具体任务或项目确实会让对方更容易回应积极一些，毕竟是工作相关的内容，大家通常都会认真对待",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，如果再有类似场景，我觉得可以提前理清自己要表达的内容，比如列个简单的思路，确保自己说的话有条理。另外可能还需要心理上的准备，比如告诉自己这只是一次普通的交流，没必要过分紧张或担心失败。这样应该会让我更容易抓住机会去尝试。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果再有类似场景，我觉得可以提前理清自己要表达的内容，比如列个简单的思路，确保自己说的话有条理",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "嗯，写几个关键词确实是个好方法，比如围绕任务的核心问题写下几点自己想说的内容，这样表达时就不会太乱。模拟对话也挺有帮助的，可以试着在心里预演一下可能的场景，想想怎么开头和回应对方的反应。这样准备起来会更踏实，感觉也能减少一些临场的紧张感。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写几个关键词确实是个好方法，比如围绕任务的核心问题写下几点自己想说的内容，这样表达时就不会太乱",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "嗯，自我鼓励的话，我可能会试着告诉自己“这只是一次尝试，不需要完美”，或者提醒自己之前也有过成功的交流，比如那次在会议上提建议被认可。这些积极的想法能让我稍微放松一些，尽量别把压力放得太大。不过说到这个，实践起来可能还是会犹豫，但至少有这些鼓励能让我更愿意试试吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，自我鼓励的话，我可能会试着告诉自己“这只是一次尝试，不需要完美”，或者提醒自己之前也有过成功的交流，比如那次在会议上提建议被认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "嗯，深呼吸确实会有帮助。比如在开口前，先缓慢吸气、吐气几次，让自己稍微放松下来，感觉压力减轻一些。还有像握紧拳头然后松开的动作，也能让我释放一些紧张感。这样身体和心态都调整好后，应该会更容易进入交流状态。不过还是需要多练习才行…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，深呼吸确实会有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "嗯，小奖励听起来是个不错的方式。比如每次试着主动交流后，可以给自己买杯喜欢的饮料或者看一集喜欢的剧，作为一种鼓励。这种自我奖励能让我感觉尝试是有意义的，也更愿意继续练习。不过说到这个，还需要坚持去执行，不然可能又会因为拖延把奖励的动力给淡化了…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，小奖励听起来是个不错的方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，在日历上标注确实是个好办法。比如设定一个具体的日期和时间，提醒自己去尝试主动交流，然后同时标注奖励内容，这样就会有一个明确的目标和动力。不过有时候可能还是会犹豫或者拖延，但至少这个计划能让我更有方向感，不至于完全放弃尝试。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，在日历上标注确实是个好办法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "嗯，其实有一个大学时的朋友我们偶尔会聊近况，他性格比较开朗，总是鼓励我尝试新事物。如果能跟他分享我的计划，让他帮我监督或者给些建议，可能会更容易坚持下去。不过我还是会有点担心，怕说太多自己的困扰会让他觉得麻烦，所以也不确定该不该主动提这件事…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，其实有一个大学时的朋友我们偶尔会聊近况，他性格比较开朗，总是鼓励我尝试新事物",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "嗯，这样确实会轻松些。如果只是简单说目标，应该不会让他觉得负担太重，比如“我最近想试着在工作中多主动交流，不太擅长这块”。如果他的反应比较积极，我可能就会更愿意进一步聊自己的困扰，感觉这样会让我有更多安全感。不过还是需要鼓起勇气去开口，毕竟这种话题对我来说还是有点难。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实会轻松些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "嗯，这样想确实能让我感觉更容易开始。如果把分享计划看作是一次“主动交流”的练习，那就没那么有压力了，反而是一步步实现目标的一部分。不过说到这个，我还是会有点担心，比如他的反应不如我预期怎么办…但或许可以告诉自己，就算结果一般，至少我迈出了这一步，这已经是一种进步了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想确实能让我感觉更容易开始",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "嗯，如果反应不如预期，我觉得可以试着告诉自己“每个人都有不同的关注点，可能他只是没想到怎么回应”。然后回顾自己的初衷，比如这只是一次练习，不需要追求完美。再给自己一点时间，比如看一部喜欢的电影或者听听音乐，让心情稍微平复后，再继续尝试其他机会。这样就不会轻易因为一次小挫折放弃了吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果反应不如预期，我觉得可以试着告诉自己“每个人都有不同的关注点，可能他只是没想到怎么回应”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我觉得可以从这周末开始吧，周末和朋友聊天的时候氛围会更轻松一些，不会有太多工作压力。我可以先提到自己最近的想法，比如“我最近在试着练习主动交流”，然后看他的反应。如果顺利的话，再逐步分享更多自己的计划和困扰，这样应该是个比较自然的开端。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从这周末开始吧，周末和朋友聊天的时候氛围会更轻松一些，不会有太多工作压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "嗯，提前准备确实会让我感觉更踏实一些。比如我可以先想好怎么开头，用比较轻松的语气说“最近我在试着练习主动交流，感觉有点挑战呢”，然后可以分享一些具体例子，比如之前在茶水间犹豫没开口的事。这样既能让话题显得真实，也可能更容易让他共鸣。准备好这些后，应该会让我更有信心去试试吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，提前准备确实会让我感觉更踏实一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "如果反应积极，我觉得可以先总结一下这次的感受，比如告诉自己“主动分享并不是那么难，反而能收获支持”。然后可以设定一个小目标，比如下一次在工作中也试着主动交流一次，继续积累这种正向体验。可能还会把这次成功的经历记录下来，作为以后鼓励自己的一个参考。这样每次进步都能形成一种循环，让动力慢慢延续下去。",
+    "has_specific_detail": true,
+    "specific_detail": "如果反应积极，我觉得可以先总结一下这次的感受，比如告诉自己“主动分享并不是那么难，反而能收获支持”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "嗯，定期回顾确实是个好办法。比如每周抽一天时间，简单记录一下自己主动交流的尝试和感受，看看哪些地方做得好，哪些可以改进。同时可以根据自己的进步调整目标，比如从简单的问候逐渐尝试更深入的对话。这样既能保持动力，又不会让目标变得太难，让自己觉得更容易坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，定期回顾确实是个好办法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "我觉得手机提醒会更方便一些，比如设定每周一个固定时间提醒自己做回顾记录。可以用手机的备忘录功能，把每次尝试的感受简单写下来，比如“今天主动问了同事一个问题，感觉还不错”。如果喜欢手写的话，也可以用笔记本记录，这样更有仪式感。关键是找到适合自己的方式，能让我更容易坚持这个习惯。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得手机提醒会更方便一些，比如设定每周一个固定时间提醒自己做回顾记录",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "嗯，这确实是个好主意！如果能在记录里加一些表情符号或者贴图，比如用笑脸标记成功的尝试，或者用星星表示奖励进度，感觉会更有趣。还可以设定一个奖励目标，比如完成三次主动交流后给自己一个小礼物，这样每次记录都会更有动力，也更容易坚持下去。这个方式听起来挺值得试试的！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这确实是个好主意！如果能在记录里加一些表情符号或者贴图，比如用笑脸标记成功的尝试，或者用星星表示奖励进度，感觉会更有趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "嗯，现在回头看，确实感觉整个计划变得更清晰、更可行了。从具体的尝试目标到记录和奖励的细节设计，这些都让我觉得主动交流不再是那么难以实现的一件事。虽然还是会有点紧张，但这种一步步推进的方式让我觉得自己有能力去尝试，也更有信心坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，现在回头看，确实感觉整个计划变得更清晰、更可行了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "如果遇到新的挑战，我觉得首先要冷静下来分析问题，比如是哪些地方让我卡住了，或者是哪个环节需要改进。然后可以尝试调整目标，比如缩小范围，从更简单的场景开始重新练习。同时也会回顾之前的成功经验，提醒自己已经迈出过几步，没必要因为一次困难就否定自己。可能还会给自己一点缓冲时间，比如休息一天，再以更放松的状态继续尝试，这样动力就能慢慢恢复。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到新的挑战，我觉得首先要冷静下来分析问题，比如是哪些地方让我卡住了，或者是哪个环节需要改进",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "嗯，回顾整个计划后，我觉得自己对主动交流的尝试有了更多期待。比如希望能逐渐从简单问候发展到更深入的交流，慢慢建立起和同事或朋友的信任感。同时也期待通过这些练习，能让我在工作中更自然地表达想法，不再那么害怕被评价。虽然目标还需要时间去实现，但现在感觉自己已经踏出了第一步，有了一些方向，这让我心里多了一点希望。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，回顾整个计划后，我觉得自己对主动交流的尝试有了更多期待",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "我觉得接下来最重要的一步是开始行动，比如先从周末和朋友的分享计划入手，迈出第一步去尝试主动交流。同时坚持记录每次尝试的感受和进展，用这些反馈来帮助自己调整目标和策略。只要开始了，哪怕是小小的进步，也能让我慢慢积累信心，逐步实现更大的期待。行动可能会有些困难，但现在感觉方向已经清晰，值得去努力试试看。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得接下来最重要的一步是开始行动，比如先从周末和朋友的分享计划入手，迈出第一步去尝试主动交流",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "谢谢你的鼓励，我也觉得现在是时候迈出这一步了。周末的分享计划我会认真准备，试着从小的尝试开始积累改变的力量。如果有什么新的感受，我一定会再来聊！今天的讨论让我清晰了很多，谢谢！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励，我也觉得现在是时候迈出这一步了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

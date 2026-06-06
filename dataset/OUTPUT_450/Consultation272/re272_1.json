@@ -1,0 +1,568 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，其实是关于我的感情问题。最近和男朋友的关系让我特别烦心，我们是异地恋，本来就不容易沟通好，但他总是很忙，回复消息也慢，有时候一天都听不到他的声音，我觉得特别孤独。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，其实是关于我的感情问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "我跟他说过几次，刚开始他会道歉，说以后注意，可没过多久又回到老样子。有时候他说自己真的忙，但我心里还是会觉得，他是不是不够在意我呢…这种感觉让我很难受。",
+    "has_specific_detail": true,
+    "specific_detail": "我跟他说过几次，刚开始他会道歉，说以后注意，可没过多久又回到老样子",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "最明显的就是他不主动联系我。有时候我忍着不发消息，想看看他会不会找我，结果一整天过去，他都没有反应…让我觉得自己好像不重要一样。",
+    "has_specific_detail": true,
+    "specific_detail": "最明显的就是他不主动联系我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "其实我更多时候会选择主动联系他，因为如果等着他，我会特别焦虑，觉得对方根本没把我放在心上。但每次主动了之后，又觉得自己好累，好像一直是我在维系这段关系。",
+    "has_specific_detail": true,
+    "specific_detail": "其实我更多时候会选择主动联系他，因为如果等着他，我会特别焦虑，觉得对方根本没把我放在心上",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "主要是情绪上的消耗吧，总感觉自己的付出没有被同等回应。有时候我期待着他能主动一点，哪怕只是一个问候，但等不到的时候就会特别失落，觉得自己好像在强求什么似的…",
+    "has_specific_detail": true,
+    "specific_detail": "主要是情绪上的消耗吧，总感觉自己的付出没有被同等回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我试着说过，比如希望他每天能固定发条消息问候一下我，但他说怕自己做不到，毕竟工作太忙。我当时很委屈，觉得这个要求也不算过分，可他还是觉得有压力，我就不敢再多说了…",
+    "has_specific_detail": true,
+    "specific_detail": "我试着说过，比如希望他每天能固定发条消息问候一下我，但他说怕自己做不到，毕竟工作太忙",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "情绪大多都积压在心里了吧，我不想让他觉得我太难缠。但有时候真的忍不住，会在电话里语气变得不太好，或者干脆冷淡几天，希望他能察觉到我的不开心，可结果往往适得其反…",
+    "has_specific_detail": true,
+    "specific_detail": "情绪大多都积压在心里了吧，我不想让他觉得我太难缠",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "可能是因为害怕吧，怕直接表达会让他觉得我太黏人，或者给他更多压力，甚至引发争吵…我不想因为自己的需求让关系变得更紧张，所以才会选择这种更“隐晦”的方式，可结果却让我更不舒服。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是因为害怕吧，怕直接表达会让他觉得我太黏人，或者给他更多压力，甚至引发争吵…我不想因为自己的需求让关系变得更紧张，所以才会选择这种更“隐晦”的方式，可结果却让我更不舒服",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我觉得也许可以用更轻松的语气，或者先表达对他的理解，再提我的需求，比如说“我知道你工作很忙，但如果有时间能主动发个消息，我会觉得特别开心”。但每次真要说的时候，总是会有些犹豫…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得也许可以用更轻松的语气，或者先表达对他的理解，再提我的需求，比如说“我知道你工作很忙，但如果有时间能主动发个消息，我会觉得特别开心”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能是对自己需求被满足的信心不足吧。我总会想，他会不会觉得我的要求太多，或者根本无法改变他的习惯…这种不确定感让我在表达前就开始打退堂鼓了。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是对自己需求被满足的信心不足吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得我的需求应该是合理的吧，毕竟异地恋本来就需要更多的沟通和关心。但有时候又会怀疑，是不是我真的太敏感了，或者要求得太多了…这种矛盾感让我更加不确定该怎么去表达。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得我的需求应该是合理的吧，毕竟异地恋本来就需要更多的沟通和关心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我觉得可能两方面都有吧。他的反应让我觉得自己的需求好像是个负担，而过去我在家里也经常压抑自己的情绪，总觉得自己不该添麻烦，久而久之，好像对表达需求就变得很犹豫了…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "主要是家人的态度吧。他们更关注我的成绩和表现，情感上不太会主动关心我。我小时候如果表达不满或者有需求，他们可能会觉得是“矫情”或者“不懂事”，所以久而久之我就学会了把这些情绪藏起来。",
+    "has_specific_detail": true,
+    "specific_detail": "主要是家人的态度吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "有一次我记得很清楚，小学的时候，我考试没考好，特别难过，回家想和爸妈说说心里的委屈，但他们却只问我为什么没发挥好，还让我赶紧去复习。当时我觉得自己好像只能被“表现”定义，而不是被真正地关心，那种孤单感到现在还记得。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次我记得很清楚，小学的时候，我考试没考好，特别难过，回家想和爸妈说说心里的委屈，但他们却只问我为什么没发挥好，还让我赶紧去复习",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "是的，我确实很担心被误解或者不被重视。好像从小到大，我总觉得自己的情绪和感受在别人眼里不够重要，所以慢慢地就不太敢去表达，怕换来的又是忽视或批评…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实很担心被误解或者不被重视",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "是的，我特别在意他的回应。如果他不回复消息或者反应冷淡，我就会联想到小时候那种被忽视的感觉，会觉得自己是不是又不够重要了，心里特别不安。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我特别在意他的回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我会先试着说服自己别多想，告诉自己他可能真的忙，但如果这种状态持续很久，我就会忍不住主动联系他，或者找点其他事情转移注意力，但心里还是会觉得很委屈。",
+    "has_specific_detail": true,
+    "specific_detail": "我会先试着说服自己别多想，告诉自己他可能真的忙，但如果这种状态持续很久，我就会忍不住主动联系他，或者找点其他事情转移注意力，但心里还是会觉得很委屈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我想更多是因为我的需求没被满足吧。虽然我理解他工作忙，但我更希望能感受到他的在意和主动，哪怕只是一个简单的问候，也会让我觉得自己是被放在心上的…这种落差让我觉得特别委屈。",
+    "has_specific_detail": true,
+    "specific_detail": "我想更多是因为我的需求没被满足吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "会的，除了孤独，我有时候也会感到失望，觉得自己是不是选错了人，甚至会怀疑自己是不是不够好，才让他没有动力去主动关心我…这些情绪混在一起，真的挺难受的。",
+    "has_specific_detail": true,
+    "specific_detail": "会的，除了孤独，我有时候也会感到失望，觉得自己是不是选错了人，甚至会怀疑自己是不是不够好，才让他没有动力去主动关心我…这些情绪混在一起，真的挺难受的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "有的，比如在工作上，如果我没达到预期，或者别人对我的努力没什么反馈，我也会怀疑自己是不是不够优秀。这种感觉很像小时候，只有表现好了才会得到认可，所以现在一旦缺乏肯定，我就会很没自信。",
+    "has_specific_detail": true,
+    "specific_detail": "有的，比如在工作上，如果我没达到预期，或者别人对我的努力没什么反馈，我也会怀疑自己是不是不够优秀",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "是的，我确实对他的回应特别敏感，甚至有点过度在意。我总觉得，如果他能更主动地关心我，就像是一种肯定，证明我是被需要的。但当他没有回应时，我就会立刻陷入自我怀疑，好像自己的价值全都建立在他的反应上了一样…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实对他的回应特别敏感，甚至有点过度在意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得，或许在工作中完成一件有挑战的任务，或者朋友主动联系我、表达关心的时候，我也会感到被需要和认可。但这些感觉好像都没办法完全替代亲密关系中的那种安全感和满足感。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得，或许在工作中完成一件有挑战的任务，或者朋友主动联系我、表达关心的时候，我也会感到被需要和认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我觉得两方面都有吧。小时候缺少情感支持，让我更渴望在关系中找到那种被关心和理解的感觉；而现在因为异地恋的不确定性，我也会担心未来的稳定性，害怕关系会因为距离和沟通问题逐渐疏远…这些担忧让我对安全感的需求更加强烈。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我想，如果他能主动多一点，比如每天主动问候、分享他的生活细节，或者在忙的时候提前告诉我，至少让我知道自己是被惦记的，那样我会觉得很安心，关系也会更稳定一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我想，如果他能主动多一点，比如每天主动问候、分享他的生活细节，或者在忙的时候提前告诉我，至少让我知道自己是被惦记的，那样我会觉得很安心，关系也会更稳定一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "是的，我觉得他可能确实需要时间适应吧，毕竟他本身不太是那种会主动表达的人。我也知道改变习惯不是一蹴而就的，但我心里有点矛盾，既怕自己要求太多，又希望他能真正为我去做出一些努力…这种拉扯感让我很纠结。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得他可能确实需要时间适应吧，毕竟他本身不太是那种会主动表达的人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得如果他能做到每天一个简单的问候，那我会感觉很满足，也不至于觉得自己在强求什么。这种小小的改变可能也会让我们之间的沟通更顺畅一些，至少我不会总是感到孤单了…不过我还是有点担心他能不能坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果他能做到每天一个简单的问候，那我会感觉很满足，也不至于觉得自己在强求什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得这种方式可能会更好一些，听起来不像是在要求他，而是我们一起尝试去改善关系。如果我用轻松的语气告诉他，这样的小改变对我来说有多重要，他或许会更容易接受吧…我可以试试看！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这种方式可能会更好一些，听起来不像是在要求他，而是我们一起尝试去改善关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "是的，我觉得调整心态很重要。我需要告诉自己，他可能一开始做得不完美，但只要他愿意尝试，就是在为我们的关系努力。我应该多给他一些时间，而不是一味期待立刻的改变，这样自己也会少一些失落感吧。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得调整心态很重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我打算找一个我们都比较轻松的时间，比如周末视频聊天时，跟他聊聊这个想法。我会尽量让氛围轻松一些，这样他可能也不会觉得有压力…希望这次能是个好的开始！",
+    "has_specific_detail": true,
+    "specific_detail": "我打算找一个我们都比较轻松的时间，比如周末视频聊天时，跟他聊聊这个想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我想先表达对他的理解，比如说“我知道你平时工作很忙，我也很心疼你”。然后再提我的需求，比如“但如果你能每天发个问候的消息，我会觉得特别开心，感觉我们离得没那么远”。这样可能更容易让他接受吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我想先表达对他的理解，比如说“我知道你平时工作很忙，我也很心疼你”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我最希望听到的是他愿意尝试，比如说“好，我会尽量做到”。但我也有点担心他会觉得麻烦，或者直接说“我可能坚持不了”。如果是后者，我会有些失落，但还是想试着去引导他理解我的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "我最希望听到的是他愿意尝试，比如说“好，我会尽量做到”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "如果他说“坚持不了”，我可能会告诉他，“我不是想让你觉得有负担，只是希望能更感受到你的在意，哪怕是偶尔的主动联系，也会让我很开心。”这样或许能让他明白，这并不是要求完美，而是我对关系的一种期待。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他说“坚持不了”，我可能会告诉他，“我不是想让你觉得有负担，只是希望能更感受到你的在意，哪怕是偶尔的主动联系，也会让我很开心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我觉得可以先观察一两周吧，看看他会不会有一些小的改变。如果有进步，我会及时肯定他的努力；如果没有，我也想再耐心地和他聊聊，可能需要更多的时间和引导。毕竟改变是一个过程，我也不想太着急。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先观察一两周吧，看看他会不会有一些小的改变",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我会尽量把注意力放在自己的生活上，比如专注工作或者多和朋友聊聊天，分散一些注意力。同时告诉自己，这段时间是我们关系的调整期，不必太急于看到结果，让自己保持平和的心态。",
+    "has_specific_detail": true,
+    "specific_detail": "我会尽量把注意力放在自己的生活上，比如专注工作或者多和朋友聊聊天，分散一些注意力",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 35,
+    "content": "如果情绪波动，我会试着对自己说，“这很正常，因为我在乎这段关系。”然后可能写一写日记，把感受记录下来，或者做些放松的事情，比如听音乐或散步，让自己慢慢平静下来。",
+    "has_specific_detail": true,
+    "specific_detail": "如果情绪波动，我会试着对自己说，“这很正常，因为我在乎这段关系",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 36,
+    "content": "我可能更倾向于记录情绪的具体原因，这样能帮助我理清楚到底是哪些事情让我不安。同时也会写一些感受，像是和自己对话一样，这样会让我觉得心里轻松些，好像找到了一个可以倾诉的出口。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能更倾向于记录情绪的具体原因，这样能帮助我理清楚到底是哪些事情让我不安",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "有的，比如看一部温馨的电影，或者泡一杯自己喜欢的茶，安安静静地读书。这些小习惯能让我暂时放下烦恼，感觉自己被温暖包围，内心会平静很多。",
+    "has_specific_detail": true,
+    "specific_detail": "有的，比如看一部温馨的电影，或者泡一杯自己喜欢的茶，安安静静地读书",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我觉得让我坚持下去的信念是“所有好的关系都需要时间和努力”。只要我们都愿意为彼此尝试改变，这段感情就有可能变得更好。这种信念会让我在困难时不轻易放弃，也让我更有耐心去面对调整的过程。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得让我坚持下去的信念是“所有好的关系都需要时间和努力”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "如果有更多积极的变化，我希望自己能学会更自信地表达需求，而不再害怕被拒绝。同时，也能在关系中找到更多的平衡，不再总是以对方为中心，而是学会更好地照顾自己的感受和需要。这种成长会让我觉得自己变得更强大，也会让我们的感情更加健康和稳定。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有更多积极的变化，我希望自己能学会更自信地表达需求，而不再害怕被拒绝",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "如果这些目标实现了，我觉得自己会变得更从容，不再因为他的反应而轻易自我怀疑。而我们的感情也会更加稳固和轻松，彼此能在关系中感受到更多的支持和安全感，一起面对未来的挑战。我会觉得，这段感情是让我感到幸福和踏实的。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这些目标实现了，我觉得自己会变得更从容，不再因为他的反应而轻易自我怀疑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我觉得自己开始更清楚地认识到自己的需求是合理的，不用过多地否定自己。同时，我也学会了用更平和的方式去沟通，而不是一味地压抑或者隐晦表达。这种对自己的接纳和对关系的积极调整，让我感到比之前更有力量，也更有方向感了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得自己开始更清楚地认识到自己的需求是合理的，不用过多地否定自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "我觉得关于“接纳自己的需求”这部分对我触动很大。一直以来，我总是怀疑自己的情绪是不是合理，但今天我意识到，它们其实是有原因的，也是值得被重视的。这让我对自己多了一份理解，也更愿意去尝试表达真实的感受了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得关于“接纳自己的需求”这部分对我触动很大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "我想对自己说：“你的感受是重要的，不要害怕表达真实的需求，只要你愿意努力，幸福是可以慢慢靠近的。”",
+    "has_specific_detail": true,
+    "specific_detail": "我想对自己说：“你的感受是重要的，不要害怕表达真实的需求，只要你愿意努力，幸福是可以慢慢靠近的",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  }
+]

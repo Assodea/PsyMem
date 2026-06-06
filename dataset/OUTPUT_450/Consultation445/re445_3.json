@@ -1,0 +1,410 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，说到最近的事，有一件让我挺纠结的。我一个朋友在找工作时问我意见，但其实我自己也还没找到方向。当时我很想给她一些建议，可是又觉得自己没有底气，心里就特别矛盾和自责。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，说到最近的事，有一件让我挺纠结的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "可能是因为她对我表达了信任，我觉得自己应该帮上忙。但同时又想到自己现在的状态，觉得没资格给建议，怕让她失望…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是因为她对我表达了信任，我觉得自己应该帮上忙",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我觉得两方面都有吧。她怎么看我确实让我在意，但更多还是我对自己的评价吧，总觉得自己不够好，连自己的问题都没解决，又怎么能帮别人呢…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "是啊，特别是在和家人聊天时，比如他们问我工作的进展，我总觉得自己的回答不够让他们满意。这种时候我会不自觉地开始怀疑自己。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，特别是在和家人聊天时，比如他们问我工作的进展，我总觉得自己的回答不够让他们满意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我觉得他们希望我有一份稳定又体面的工作，最好能让亲戚朋友觉得“有面子”。但我现在连方向都没确定，总觉得离他们的期待差很远…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得他们希望我有一份稳定又体面的工作，最好能让亲戚朋友觉得“有面子”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "可能两者都有吧，他们确实关心我，但我感觉更多还是为了外界的看法。尤其是每次亲戚聚会，他们总会拿我和别人家的孩子比，这种时候我会很想躲开…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧，他们确实关心我，但我感觉更多还是为了外界的看法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我觉得是提醒吧，像是在告诉我“你需要更努力”。但他们的语气有时候会让我觉得是对我不满，好像我不够好，才让他们没法在别人面前骄傲似的…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得是提醒吧，像是在告诉我“你需要更努力”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "很少有直接的肯定吧，更多时候是说“你还可以再怎样怎样”。虽然我知道这是他们的一种期待，但听起来总有点刺耳，让我觉得自己的努力好像不够被看见…",
+    "has_specific_detail": true,
+    "specific_detail": "很少有直接的肯定吧，更多时候是说“你还可以再怎样怎样”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "如果他们能多肯定一点，哪怕只是说“你已经很努力了”，我觉得心里会轻松很多吧。可能也会让我更有信心去面对现在的这些迷茫…",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们能多肯定一点，哪怕只是说“你已经很努力了”，我觉得心里会轻松很多吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能会理解吧，但我总觉得难以开口，怕他们会觉得我在逃避或者矫情。每次有这种想法，我就会犹豫，最后还是选择沉默…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会理解吧，但我总觉得难以开口，怕他们会觉得我在逃避或者矫情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，或许可以试试吧，比如在他们问到我的近况时，顺带提一下我最近的感受。不过我还是有点担心，他们会不会觉得我太脆弱了…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，或许可以试试吧，比如在他们问到我的近况时，顺带提一下我最近的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "这个方式听起来不错，感觉比直接倾诉会轻松一点。我可以试着这样说，既表达了自己的状态，又不会显得太情绪化。",
+    "has_specific_detail": true,
+    "specific_detail": "这个方式听起来不错，感觉比直接倾诉会轻松一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我希望他们能说一些像“你已经做得很好”或者“我们相信你能找到自己的方向”这样的话吧。听到这些会让我觉得被支持，而不是被催促或批评。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望他们能说一些像“你已经做得很好”或者“我们相信你能找到自己的方向”这样的话吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "如果他们没说，我可能会告诉自己，他们的关心只是表达方式不太一样，不是故意忽视我的努力。但这时我可能还是会觉得有点失落，需要花时间慢慢调整情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们没说，我可能会告诉自己，他们的关心只是表达方式不太一样，不是故意忽视我的努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，情绪低落时，我会听一些舒缓的音乐或者去散步，暂时让自己从烦恼中抽离出来。这些小事情虽然不能彻底解决问题，但会让我觉得轻松一点。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，情绪低落时，我会听一些舒缓的音乐或者去散步，暂时让自己从烦恼中抽离出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "有时候会想象他们对我说“我们相信你”之类的话，心里会觉得稍微暖一点，但很快又会想，这只是自己的幻想，现实可能不会这样…这种感觉有点复杂。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候会想象他们对我说“我们相信你”之类的话，心里会觉得稍微暖一点，但很快又会想，这只是自己的幻想，现实可能不会这样…这种感觉有点复杂",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得朋友可能是一个选择，虽然我不太主动提自己的感受，但有时候他们的随口一句鼓励也会让我觉得被理解。另外，写点东西也让我平静下来，像是和自己对话。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得朋友可能是一个选择，虽然我不太主动提自己的感受，但有时候他们的随口一句鼓励也会让我觉得被理解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我更倾向于记录当下的心情，写下让我困扰的细节和自己的想法。有时候也会试着写一些对未来的期望，像是给自己打气，但写的时候总觉得有点飘忽不定…",
+    "has_specific_detail": true,
+    "specific_detail": "我更倾向于记录当下的心情，写下让我困扰的细节和自己的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "可能两者都有吧，对未来的不确定让我看不清方向，而对自己的信心不足又让我怀疑，就算定了目标也能不能真的实现。这种感觉像是被困在原地…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧，对未来的不确定让我看不清方向，而对自己的信心不足又让我怀疑，就算定了目标也能不能真的实现",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "有过吧，比如大学选专业时，我一开始也很犹豫，但后来还是听从了父母的建议，虽然不是完全满意，但至少完成了学业。那种时候会觉得，尽管迷茫，但还是能迈出一步的。",
+    "has_specific_detail": true,
+    "specific_detail": "有过吧，比如大学选专业时，我一开始也很犹豫，但后来还是听从了父母的建议，虽然不是完全满意，但至少完成了学业",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "那时候是因为父母的建议让我觉得有个方向，虽然不是完全自主的决定，但至少让我有了行动的依据。现在的话，我觉得可能需要自己去找到一个类似的“起点”，但要靠自己下决心，这让我感觉有点难…",
+    "has_specific_detail": true,
+    "specific_detail": "那时候是因为父母的建议让我觉得有个方向，虽然不是完全自主的决定，但至少让我有了行动的依据",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，这样想好像确实轻松一些。如果不是非得一开始就确定大方向，可能先去尝试一些感兴趣的事情，比如之前有想过学点新技能，这样或许能慢慢找到感觉。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想好像确实轻松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "有时候会想到学点和写作相关的东西，比如文案或者新媒体运营之类的。虽然不确定自己能不能做得好，但这些领域让我觉得有点兴趣，也可能和以后找工作有关系吧。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候会想到学点和写作相关的东西，比如文案或者新媒体运营之类的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得可以先从看一些基础的课程开始，了解一下这两个领域的大致方向。然后试着写点小文章，看看自己的感觉，也许能找到一点信心吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从看一些基础的课程开始，了解一下这两个领域的大致方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "这个方法听起来不错，小目标不会太有压力，但能让我感觉在慢慢前进。比如每天看半小时课程，或者每周写一篇短文，这样会更容易坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来不错，小目标不会太有压力，但能让我感觉在慢慢前进",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我可以试着用一个小本子或者手机记录每天的学习内容和写作进展，哪怕是写下一两个关键词也好。这样回头看的时候，会觉得自己的努力是有痕迹的，也更有动力坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着用一个小本子或者手机记录每天的学习内容和写作进展，哪怕是写下一两个关键词也好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得会有帮助，看到这些记录就像在告诉自己“你已经开始并坚持了”。这种提醒可能会让我在想放弃的时候，再多给自己一次机会继续下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会有帮助，看到这些记录就像在告诉自己“你已经开始并坚持了”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "可能可以找个朋友聊聊，哪怕只是随便说说最近的进展，也会让我觉得自己没那么孤单。另外，偶尔给自己放个小假，比如看场电影或吃顿好吃的，也能让我稍微缓一缓，再重新出发。",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以找个朋友聊聊，哪怕只是随便说说最近的进展，也会让我觉得自己没那么孤单",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，比如完成一周的学习和写作目标后，奖励自己一杯喜欢的奶茶，或者去买一本一直想看的书。这样会让我觉得努力是有小小的回报的，也更有动力继续坚持。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，比如完成一周的学习和写作目标后，奖励自己一杯喜欢的奶茶，或者去买一本一直想看的书",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我想今天就先看一个基础课程的视频，了解一下文案写作的基本技巧。然后试着写一小段文字，作为练习，看看自己的感觉怎么样。",
+    "has_specific_detail": true,
+    "specific_detail": "我想今天就先看一个基础课程的视频，了解一下文案写作的基本技巧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "听起来很不错！完成后我可以去买杯奶茶当作奖励，也算给自己一个小庆祝吧。这种安排让我觉得今天的开始很有动力，谢谢你的建议！",
+    "has_specific_detail": true,
+    "specific_detail": "听起来很不错！完成后我可以去买杯奶茶当作奖励，也算给自己一个小庆祝吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

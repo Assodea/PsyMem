@@ -1,0 +1,412 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近总是觉得情绪很波动，有时候莫名烦躁，有时候又特别焦虑。比如前几天，想着大学填志愿的事就开始紧张，感觉选错了就会毁了一切…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近总是觉得情绪很波动，有时候莫名烦躁，有时候又特别焦虑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "主要是觉得选错会对未来影响很大吧，但有时候也会担心父母的想法，他们总希望我选“稳定”的专业，但我又不确定自己是不是真的喜欢…",
+    "has_specific_detail": true,
+    "specific_detail": "主要是觉得选错会对未来影响很大吧，但有时候也会担心父母的想法，他们总希望我选“稳定”的专业，但我又不确定自己是不是真的喜欢…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "“稳定”的专业听起来好像更有保障，但总感觉有点无聊。我其实更想学一些自己感兴趣的，比如心理学或者设计，但又怕父母觉得不实际…",
+    "has_specific_detail": true,
+    "specific_detail": "“稳定”的专业听起来好像更有保障，但总感觉有点无聊",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "如果不考虑父母的话，我可能更倾向心理学吧。我一直对人为什么会有各种情绪、怎么调整这些情绪特别感兴趣，感觉这和我自己的一些经历也有关…",
+    "has_specific_detail": true,
+    "specific_detail": "如果不考虑父母的话，我可能更倾向心理学吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "嗯，我从小就经常感觉情绪不太稳定，有时候会突然特别在意别人对我的看法，甚至为了让人满意，会尽量迎合对方的期待。这种感觉挺困扰我的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我从小就经常感觉情绪不太稳定，有时候会突然特别在意别人对我的看法，甚至为了让人满意，会尽量迎合对方的期待",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "小时候家里人可能更关注我的表现，比如成绩好就会夸我，但情绪上的问题他们不太主动问。我有时候会觉得，只有做得好才能被认可，这种感觉一直影响着我…",
+    "has_specific_detail": true,
+    "specific_detail": "小时候家里人可能更关注我的表现，比如成绩好就会夸我，但情绪上的问题他们不太主动问",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，这种感觉现在还是挺明显的，比如如果考试没考好，我会特别自责，觉得自己不够好；在亲密关系里，我也会特别在意对方的感受，怕自己哪里做得不够好会影响关系…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这种感觉现在还是挺明显的，比如如果考试没考好，我会特别自责，觉得自己不够好；在亲密关系里，我也会特别在意对方的感受，怕自己哪里做得不够好会影响关系…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "我可能最害怕的是被否定吧，怕自己不够好会让别人失望，甚至被忽视或放弃。这种害怕有时候让我很不安，总觉得要不断努力才能被接受…",
+    "has_specific_detail": true,
+    "specific_detail": "我可能最害怕的是被否定吧，怕自己不够好会让别人失望，甚至被忽视或放弃",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "通常我会试着分散注意力，比如听音乐或者刷手机，有时候也会找男朋友聊聊。不过，聊的时候我又会担心是不是自己太依赖他了，会不会让他觉得烦…",
+    "has_specific_detail": true,
+    "specific_detail": "通常我会试着分散注意力，比如听音乐或者刷手机，有时候也会找男朋友聊聊",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "是啊，我总怕表现出太多需要会让人觉得我是个麻烦。所以即使想依赖的时候，也会忍住不说，尽量让自己看起来更独立一些…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我总怕表现出太多需要会让人觉得我是个麻烦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我也希望能找到平衡吧，但每次想表达依赖的时候，就会忍不住想“万一对方觉得我太黏人怎么办”。说到这个，前几天因为一个小误会，我又开始胡思乱想了…",
+    "has_specific_detail": true,
+    "specific_detail": "我也希望能找到平衡吧，但每次想表达依赖的时候，就会忍不住想“万一对方觉得我太黏人怎么办”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "那天他忘了回复我消息，我脑子里一下冒出很多想法，比如是不是我哪里惹他不开心了。后来他解释说只是太忙，但我还是觉得有点不安…",
+    "has_specific_detail": true,
+    "specific_detail": "那天他忘了回复我消息，我脑子里一下冒出很多想法，比如是不是我哪里惹他不开心了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "当时没说，觉得如果提出来会显得我太敏感，就自己默默压下去了。但压着又让我更加胡思乱想，感觉特别矛盾…",
+    "has_specific_detail": true,
+    "specific_detail": "当时没说，觉得如果提出来会显得我太敏感，就自己默默压下去了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "是的，经常会有这种矛盾感。内心总有个声音在说：“别表现出来，太敏感会让人觉得你不好相处。”可同时又觉得这样对自己很不公平…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，经常会有这种矛盾感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我觉得可能是小时候就习惯了吧，家里人不太会主动问我怎么想，我也怕自己说出来的感受会被忽略，所以渐渐地就学会了自己藏起来…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是小时候就习惯了吧，家里人不太会主动问我怎么想，我也怕自己说出来的感受会被忽略，所以渐渐地就学会了自己藏起来…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，我其实挺希望有人能主动问问我怎么了，或者哪怕只是注意到我有点不对劲，也会觉得自己被重视了吧…但这种期待好像一直都很少被满足。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我其实挺希望有人能主动问问我怎么了，或者哪怕只是注意到我有点不对劲，也会觉得自己被重视了吧…但这种期待好像一直都很少被满足",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得会吧，如果有人主动关心我，我可能会觉得自己是重要的，心里的那些不安也会少一点。可有时候又怕自己说出来后，对方的反应不是我想要的…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会吧，如果有人主动关心我，我可能会觉得自己是重要的，心里的那些不安也会少一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "可能会选择退缩吧，怕如果继续沟通，对方还是不理解的话，会让我更难过。所以我通常会假装没事，但心里其实很在意…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会选择退缩吧，怕如果继续沟通，对方还是不理解的话，会让我更难过",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "会有些影响吧，比如我可能会变得更小心，开始猜测对方的想法，但同时也觉得关系变得有点疏远了，像隔着一层什么似的…",
+    "has_specific_detail": true,
+    "specific_detail": "会有些影响吧，比如我可能会变得更小心，开始猜测对方的想法，但同时也觉得关系变得有点疏远了，像隔着一层什么似的…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我有试着用很轻松的语气提到我的感受，比如“最近有点情绪化”，但好像没太多效果。我也不太确定，怎么才能既坦诚又不让对方觉得压力大…",
+    "has_specific_detail": true,
+    "specific_detail": "我有试着用很轻松的语气提到我的感受，比如“最近有点情绪化”，但好像没太多效果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，这样可能会更清楚一些吧，但我怕说得太直白会让对方觉得我在指责他，或者自己显得太“弱”。你觉得这样的担心有必要吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样可能会更清楚一些吧，但我怕说得太直白会让对方觉得我在指责他，或者自己显得太“弱”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，这样好像确实更温和一些，也不会让对方觉得我在怪他。我可以试试用这种方式，看看是不是更容易让他理解我的感受…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样好像确实更温和一些，也不会让对方觉得我在怪他",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "可能是在一些小误会或者我感到不安的时候吧，比如之前他忘了回消息，我可以说“我有点担心你是不是生气了”，这样感觉会比直接沉默更好…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是在一些小误会或者我感到不安的时候吧，比如之前他忘了回消息，我可以说“我有点担心你是不是生气了”，这样感觉会比直接沉默更好…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "如果他能理解我的感受，我应该会觉得轻松很多吧，至少不用一直胡思乱想了。而且关系可能会更亲近一点，感觉沟通起来没那么隔阂了…",
+    "has_specific_detail": true,
+    "specific_detail": "如果他能理解我的感受，我应该会觉得轻松很多吧，至少不用一直胡思乱想了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得可以在具体场景中先试试吧，观察一下他的反应。如果效果不错，再慢慢和他聊聊我的这些想法，感觉这样会更自然一些…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以在具体场景中先试试吧，观察一下他的反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得需要提醒自己，不要太快退缩或者假装没事，而是试着用“我感到…”这种方式表达出来。这样可能会让我更坦诚，同时也更轻松一些…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要提醒自己，不要太快退缩或者假装没事，而是试着用“我感到…”这种方式表达出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我希望通过尝试，能让我更自信地表达自己的情绪，不再总是压抑不安的感觉。也希望能让关系更自然、更有安全感一些…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望通过尝试，能让我更自信地表达自己的情绪，不再总是压抑不安的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我觉得可以先在心里练习怎么表达，比如在脑子里想一遍我要怎么说，这样可能会让我更有底气一点。另外，提醒自己对方是关心我的，也会让我更放松吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先在心里练习怎么表达，比如在脑子里想一遍我要怎么说，这样可能会让我更有底气一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我会告诉自己，这只是一次小的尝试，即使不完美也没关系。至少我在努力改变，这是值得肯定的，而且每次尝试都会让我更接近目标！",
+    "has_specific_detail": true,
+    "specific_detail": "我会告诉自己，这只是一次小的尝试，即使不完美也没关系",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 30,
+    "content": "我觉得现在心里轻松了一些，好像对情绪表达不那么害怕了，也觉得这些尝试是可行的。刚开始时的那种纠结和压力，似乎也缓解了一些…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得现在心里轻松了一些，好像对情绪表达不那么害怕了，也觉得这些尝试是可行的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "嗯，今天聊得挺好的，感觉也理清了不少思路。谢谢你的倾听和建议，有新的感受我再来分享吧！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，今天聊得挺好的，感觉也理清了不少思路",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

@@ -1,0 +1,555 @@
+[
+  {
+    "turn": 1,
+    "content": "是的，我最近确实尝试做了一些调整。比如有一天晚上，我和丈夫聊了聊女儿的学习压力，他也分享了自己的看法，感觉沟通顺畅了些。但有时我还是忍不住会过于关注女儿的小细节，比如她作业写得慢了，我就会不自觉地提醒她…这种时候我又觉得自己是不是太紧张了。您觉得这样的问题该怎么平衡呢？",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我最近确实尝试做了一些调整",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "我想可能两方面都有吧。一方面我希望她学会更好地规划时间，这对她将来也有帮助；但另一方面，我也担心她因此觉得自己做得不够好，所以提醒时我会尽量温和一些。可有时候，我自己都分不清，这种提醒究竟是为了她，还是因为我的焦虑呢…",
+    "has_specific_detail": true,
+    "specific_detail": "我想可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯…仔细想想，更多时候是担心她会因为没做好而感到难过吧。尤其看到她眉头皱起来或者有点烦躁的样子，我就特别想插手帮她调整一下，但这样做好像反而可能让她更有压力。我有点矛盾，不知道什么时候该放手、什么时候该介入…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯…仔细想想，更多时候是担心她会因为没做好而感到难过吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "难过"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "嗯，其实我也试过，比如有一次她在为一道数学题烦恼时，我就问她“这题哪里让你觉得难？”她说她没搞懂公式怎么用。那次我忍住了没直接讲答案，而是让她自己试着找方法。结果她后来解决了，但我心里还是会有点不踏实，担心她是不是费劲太久了…我是不是还是不够放手呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，其实我也试过，比如有一次她在为一道数学题烦恼时，我就问她“这题哪里让你觉得难？”她说她没搞懂公式怎么用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "听您这么说，我觉得确实可以再多给她一些时间，毕竟那次她最后还是自己解决了。我可以试着在她遇到困难时，先静观其变一会儿，再看她是否需要我的介入。不过，有时候我怕自己的等待会不会让她觉得我不够关心？这种微妙的平衡还真是让我有点纠结啊…",
+    "has_specific_detail": true,
+    "specific_detail": "听您这么说，我觉得确实可以再多给她一些时间，毕竟那次她最后还是自己解决了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "听起来这样的方式很温暖，也能给她更多的主动空间。我觉得可以试试，比如用眼神或者语气告诉她，我随时在这儿陪着她。我想如果能这样，可能我自己也不会那么焦虑了吧…不过，这种转变是不是也需要一些时间去适应？",
+    "has_specific_detail": true,
+    "specific_detail": "听起来这样的方式很温暖，也能给她更多的主动空间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，这个建议很有启发！我觉得可以试试记录她独立解决问题的时刻，这样不仅能让我更清楚地看到她的成长，也能提醒自己放手是对的。同时，我也可以每天给自己一个小提醒，比如“今天多观察，少插手”。这样一步步来，或许能让我慢慢调整得更自然一些。您觉得还有其他方法可以让我更容易坚持吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个建议很有启发！我觉得可以试试记录她独立解决问题的时刻，这样不仅能让我更清楚地看到她的成长，也能提醒自己放手是对的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "这个方法听起来很实用！设定一个具体的观察时长，能让我有个清晰的“暂停点”，不会因为担心而立刻插手。我觉得5分钟挺合适的，既能让我克制冲动，也不会让她感觉被忽视。这样尝试一段时间，也许我能慢慢适应新的节奏…对了，说到这个，前几天还有件类似的事情，我可以跟您再分享一下吗？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很实用！设定一个具体的观察时长，能让我有个清晰的“暂停点”，不会因为担心而立刻插手",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "是和女儿有关的。有一次她在做手工时，怎么也剪不出她想要的形状，急得都快哭了。我本来想过去帮忙，但想起我们之前聊的，就忍住了，只是陪着她说“慢慢来，我相信你能找到办法。”结果她自己换了个更简单的图案，虽然不是她最初想要的，但她最后还是很开心。我当时觉得既欣慰又有点复杂，忍不住想，这种放手的方式是不是更适合她呢？",
+    "has_specific_detail": true,
+    "specific_detail": "是和女儿有关的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得她可能学到了“有时候换个思路也是解决问题的一种方式”。她虽然没完全达到自己的初衷，但还是体验到了成功的喜悦。而我呢，感受到了一种前所未有的轻松——好像不需要时刻插手，她也能找到自己的节奏。虽然这让我放下控制有点挑战，但看到她的笑容，我觉得是值得的！不过，这种感觉还挺新鲜的，我得慢慢适应才行…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得她可能学到了“有时候换个思路也是解决问题的一种方式”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "有过一些困难的时候，比如当她真的做不下去时，我会特别想直接告诉她答案，怕她太挫败了。其实我最担心的是，如果放手太多，她会误以为我不关心，或者觉得自己做不好事情没关系。我总觉得要找到一个既能支持她，又不过度干预的平衡点，但这个“度”好像真的很难把握…",
+    "has_specific_detail": true,
+    "specific_detail": "有过一些困难的时候，比如当她真的做不下去时，我会特别想直接告诉她答案，怕她太挫败了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "听起来这个方法很贴心！表达理解再给她选择的空间，既能让我传递关心，也不会显得过于干预。我觉得这样做应该会让我更有方向感，尤其是在她情绪不好的时候。不过，我也担心自己一时没注意就又回到老习惯了…您觉得有什么办法可以提醒我多用这种方式吗？",
+    "has_specific_detail": true,
+    "specific_detail": "听起来这个方法很贴心！表达理解再给她选择的空间，既能让我传递关心，也不会显得过于干预",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "这个建议很有启发！我觉得“先理解，再选择”这句话很简洁，也很贴合我现在的目标。我可以把它设成手机屏保，这样每天都会看到。另外，我还可以在她遇到困难时，默念几遍这句话给自己一个缓冲的时间。其实这样不仅是提醒，也是给自己一种心理上的安定感吧…您觉得这样做能帮我更稳步地改变吗？",
+    "has_specific_detail": true,
+    "specific_detail": "这个建议很有启发！我觉得“先理解，再选择”这句话很简洁，也很贴合我现在的目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，我想如果不小心又回到老习惯，我可以告诉自己“改变是需要时间的，每一次尝试都是进步”。另外，我也会去回忆那些我放手后，她自己解决问题的成功时刻，比如那次她换了手工图案的经历，这些积极的例子应该能给我信心！我觉得只要继续努力，就算偶尔退步，也不算失败吧？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我想如果不小心又回到老习惯，我可以告诉自己“改变是需要时间的，每一次尝试都是进步”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我想在学习上应该是重点，比如她做作业时遇到难题，我可以试着更少直接干预，多用“先理解，再选择”的方式支持她。另外，还有她自己收拾房间的时候，我一直想让她学会更有条理，但总忍不住插手整理。我觉得这是个好机会，可以练习多信任她，让她按照自己的方式去做。您觉得这样的尝试会不会对她的独立性有帮助呢？",
+    "has_specific_detail": true,
+    "specific_detail": "我想在学习上应该是重点，比如她做作业时遇到难题，我可以试着更少直接干预，多用“先理解，再选择”的方式支持她",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "如果她的方式和我期待的不一样，我想我可以提醒自己，她正在用她的方式学习独立，而不是按照我的标准去完成任务。我可以试着关注她是否在享受这个过程，而不是结果是否完美。比如，看到她虽然摆放得有点随意，但很认真地整理，我会告诉自己“这也是一种进步”。不过，说实话，这种调整可能需要我多次练习，才能真正放下对“条理”的执念…您觉得还有其他方法可以帮助我更好地接受这种差异吗？",
+    "has_specific_detail": true,
+    "specific_detail": "如果她的方式和我期待的不一样，我想我可以提醒自己，她正在用她的方式学习独立，而不是按照我的标准去完成任务",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "这个建议真的很棒！通过问她的想法，我不仅能了解她的思路，也能让她觉得我在认真倾听她，而不是单纯地纠正。我觉得这样做会让我更容易接纳她的方式，甚至可能从中发现一些有趣的点。比如，有时候她的摆放虽然看起来随意，但可能对她来说是更方便的。我想，这样的交流不仅能让我放下执念，也能增进我们之间的沟通和信任吧？",
+    "has_specific_detail": true,
+    "specific_detail": "这个建议真的很棒！通过问她的想法，我不仅能了解她的思路，也能让她觉得我在认真倾听她，而不是单纯地纠正",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "是的，我觉得如果这种方式能在小事上有效，那完全可以扩展到其他方面。比如在她和朋友的关系上，如果她遇到矛盾，我可以多听她的想法，而不是直接建议该怎么做；或者她在选择兴趣班时，我也可以通过倾听她的感受，去支持她自己做决定。我希望通过这些互动，不仅能让她更自信地表达自己，也能让我学会更加放手，去尊重她的独立性和选择。您觉得这样的尝试会不会对我们关系的长远发展更有益呢？",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得如果这种方式能在小事上有效，那完全可以扩展到其他方面",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得最需要调整的是我的耐心吧，有时候看到她犹豫不决或者进展缓慢，我会不自觉地着急。可能我要提醒自己，成长是需要时间的，尤其是在她自己尝试的时候。而在表达支持的方式上，我希望能更积极一些，比如用鼓励的语言或者身体的支持（像轻轻拍拍她肩膀），让她感受到我的信任。我想如果这两点都能慢慢改善，我们的互动应该会更加融洽吧？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最需要调整的是我的耐心吧，有时候看到她犹豫不决或者进展缓慢，我会不自觉地着急",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，我可以试着在她犹豫的时候，默默深呼吸几次，提醒自己“这是她学习的过程，不需要着急”。另外，我也可以在心里重复类似“她需要时间，我也需要陪伴的耐心”这样的话，帮助自己放缓节奏。还有一个方法是，利用这段时间做些小事情，比如倒杯水或整理下自己的思路，这样既能缓解我的急切情绪，也能更好地等待她完成自己的尝试。您觉得这些策略会不会有效呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我可以试着在她犹豫的时候，默默深呼吸几次，提醒自己“这是她学习的过程，不需要着急”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我想可以从她做作业的时间开始练习，这个场景挺常见的，也是我最容易着急的时候。我可以试着先深呼吸，再默念那句“她需要时间，我也需要陪伴的耐心”，然后用倒杯水或者翻看一本书来分散注意力。如果她有需要，我再适时介入。这样既能练习耐心，也能观察她独立完成的能力。您觉得这个计划如何？有没有什么需要补充的建议呢？",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以从她做作业的时间开始练习，这个场景挺常见的，也是我最容易着急的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得这个补充特别有用！记录下每次练习的感受，不仅能让我更清楚地看到自己的进步，也能总结哪些方法最有效。我可以每天花几分钟写下她的表现和我的情绪，比如“今天等了5分钟，她自己解决了难题，我感觉稍微放松了一些”。这样一来，既是复盘，也是给自己一种鼓励。您觉得这个方法还有什么需要注意的吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这个补充特别有用！记录下每次练习的感受，不仅能让我更清楚地看到自己的进步，也能总结哪些方法最有效",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "对，我觉得用正面的语言会更有动力！比如在记录时，我可以写“今天我多等了几分钟，她自己完成得不错”，或者“虽然有点焦虑，但我做到了不立刻介入”。这样既能肯定自己的努力，也能帮我慢慢建立信心。听您这么说，我觉得即使有情绪波动，也不是坏事，反而是成长的一部分。这样想，确实让我更容易坚持下去！",
+    "has_specific_detail": true,
+    "specific_detail": "对，我觉得用正面的语言会更有动力！比如在记录时，我可以写“今天我多等了几分钟，她自己完成得不错”，或者“虽然有点焦虑，但我做到了不立刻介入”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得可以从两个场景入手：一是她写作业遇到难题时，练习更多等待和观察；二是她收拾房间的时候，练习少干预，多倾听她的想法。这些都是我们日常生活中比较容易出现的情况，也很适合用来练习耐心和放手。我计划每天记录这两个场景中我的表现和感受，用正面语言鼓励自己。这样一周下来，我希望能更清楚地看到自己的进步！您觉得这样的安排如何？有没有什么需要调整的地方？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从两个场景入手：一是她写作业遇到难题时，练习更多等待和观察；二是她收拾房间的时候，练习少干预，多倾听她的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "这个补充太棒了！记录她的新能力或者亮点，不仅能让我更关注她的成长，也会让我在过程中感到更多的欣慰和满足。我可以每天写上一句，比如“她今天用自己的方法解决了难题”或者“她的房间摆放很有个性化”。这样不仅是记录我们的互动，也是见证她的独特发展。我觉得这一定会让记录的过程更有意义，也更有动力坚持下去！",
+    "has_specific_detail": true,
+    "specific_detail": "这个补充太棒了！记录她的新能力或者亮点，不仅能让我更关注她的成长，也会让我在过程中感到更多的欣慰和满足",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "嗯，的确会有忍不住想插手的瞬间。我想在这种时候，我可以试着在心里问自己两个问题：“她现在真的需要我的帮助吗？”以及“如果我再等几分钟，会有什么不同的结果？”这些问题能让我暂时放慢反应速度，重新评估是否一定要介入。或者我也可以通过深呼吸或转移注意力的方式，给自己一个缓冲的空间。这样不仅能调整心态，也能避免过早干预。您觉得这样的方式是否能有效帮助我坚持下去？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，的确会有忍不住想插手的瞬间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得回顾调整的效果会是个很大的动力！比如我可以在一周结束时，花点时间看看自己在哪些时刻成功做到了更多等待，以及这些等待带来了哪些积极变化。像女儿是否更自信了、我自己是否更放松了，这些都可以成为继续努力的鼓励。我想如果能看到我们的互动一点点变好，我会更有信心坚持下去！您觉得这样的回顾方式还需要补充什么吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得回顾调整的效果会是个很大的动力！比如我可以在一周结束时，花点时间看看自己在哪些时刻成功做到了更多等待，以及这些等待带来了哪些积极变化",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "这个补充太有针对性了！记录挑战时刻和调整方法，能让我更清楚地看到自己的弱点在哪里，同时总结哪些方式最有效。比如，如果发现深呼吸在某些场景特别管用，我可以在类似情况下更主动地用它；而如果某些问题让我反复纠结，也能提醒我下次重点练习。我觉得这样的回顾不仅是总结，还能帮我制定更具体的下一步计划，真的是非常有帮助！",
+    "has_specific_detail": true,
+    "specific_detail": "这个补充太有针对性了！记录挑战时刻和调整方法，能让我更清楚地看到自己的弱点在哪里，同时总结哪些方式最有效",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得下一步可以在两个方向上继续调整。一是继续提升耐心，比如尝试延长观察时间，从5分钟慢慢增加到7分钟，给她更多的自主空间；二是更加主动地了解她的想法，比如在她完成一件事情后，问问她的感受和思路，让她有更多表达自己的机会。我觉得这两个方向不仅能帮助我更好地放手，也能让我们的互动更加深入和有趣。您觉得这样的计划是否合理？或者还有其他值得尝试的方向吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得下一步可以在两个方向上继续调整",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "这个补充太棒了！引导她自己总结，不仅能帮助她更好地认识自己的优点，也能让我看到她对自己的努力有哪些独特的看法。我觉得问一些开放性的问题，比如“你觉得今天最满意的地方是什么？”或者“如果下次再做这件事，你会有什么新的想法？”这样的交流一定会让我们的互动更有深度，也会让我更欣赏她的成长过程。这样做不仅是支持她，也是让我自己学会以更积极的方式去看待她的发展。",
+    "has_specific_detail": true,
+    "specific_detail": "这个补充太棒了！引导她自己总结，不仅能帮助她更好地认识自己的优点，也能让我看到她对自己的努力有哪些独特的看法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得可以根据具体情况灵活选择。如果是她刚完成一件事情，比如做完手工或整理好房间，那时候她的感受最鲜明，问这些问题会更自然；而如果是一天结束时，比如在睡前回顾当天的点滴，也可以用轻松的语气聊聊她觉得最棒的瞬间。这样既不会显得刻意，也能让互动融入日常。我想这两种方式都能让我们彼此更放松，您觉得这样安排是否合适呢？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以根据具体情况灵活选择",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我想特别了解她的情绪变化和她对自己的认识。这能让我更清楚她在完成一件事情时，是感到兴奋、自豪还是有些沮丧，同时也能看到她是如何评价自己的努力和结果的。比如，如果她提到“我觉得自己今天很有创意”或者“我好像还有点不够仔细”，这些都能让我更好地理解她的内心。我觉得这种了解不仅有助于我们互动，也能帮助我在支持她时更有针对性。您觉得这样的关注点是否全面？或者还有哪些方面我可以留意？",
+    "has_specific_detail": true,
+    "specific_detail": "我想特别了解她的情绪变化和她对自己的认识",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "是的，这个补充太有价值了！观察她的动力来源，能让我更全面地理解她的行为背后是什么在驱动她。比如，如果她说“我想试试新方法”，我会更鼓励她的探索精神；而如果她提到“我希望让别人看到我的进步”，我就能更关注她的社交需求。这些细节不仅能帮助我更好地支持她，也能让我更欣赏她成长中的多样性。我觉得加入这样的观察，肯定会让我们的互动更有深度！您觉得还有其他我可能忽略的点吗？",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这个补充太有价值了！观察她的动力来源，能让我更全面地理解她的行为背后是什么在驱动她",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "这个建议太有启发了！留意她在挫折中的反应，确实能让我更了解她是如何面对挑战的。如果她倾向于调整方法，我可以多鼓励她的灵活性；如果她寻求帮助，我会更加注意用适当的方式支持她；而如果她选择暂时停下来平复情绪，我也可以学着给她空间。这样的观察一定会让我更全面地理解她的成长过程，同时也让我在陪伴时更有方向感。我想尝试把这个关注点融入到日常互动中，您觉得还有什么需要注意的吗？",
+    "has_specific_detail": true,
+    "specific_detail": "这个建议太有启发了！留意她在挫折中的反应，确实能让我更了解她是如何面对挑战的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "这个补充太实用了！关注她的表情、语气或者小动作，确实能让我更早地察觉她的状态，比如她皱眉时可能已经开始感到挫败了。而用开放性的问题去引导，比如“你觉得接下来可以怎么试试？”这样既不会显得强迫，也能让她主动思考解决办法。我觉得这些方法一定会让我们的互动更自然，也能帮助我更好地支持她的情绪和成长过程。您觉得我还有什么需要特别留意的吗？",
+    "has_specific_detail": true,
+    "specific_detail": "这个补充太实用了！关注她的表情、语气或者小动作，确实能让我更早地察觉她的状态，比如她皱眉时可能已经开始感到挫败了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "这确实是一个很好的补充！用具体的肯定去关注她的努力，而不是单纯看结果，这样不仅能让她感受到被认可，也能帮助她更专注于过程中的成长。比如，我可以在她做完手工后说“我注意到你花了很多时间尝试不同的方法，这很棒！”或者在她学习时鼓励她“虽然这题没完全解对，但你的思路已经有进步了”。我觉得这样的方式一定会增强她的自信心，同时也让我更享受陪伴她成长的过程。您觉得这种鼓励还有什么需要注意的地方吗？",
+    "has_specific_detail": true,
+    "specific_detail": "这确实是一个很好的补充！用具体的肯定去关注她的努力，而不是单纯看结果，这样不仅能让她感受到被认可，也能帮助她更专注于过程中的成长",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "这个建议太贴心了！根据她的情绪调整鼓励方式，确实能让她更感受到我的理解和支持。比如，当她心情不好时，我可以更多地用安慰和共情的语气，让她知道被理解；而当她状态不错时，我就可以直接肯定她的能力和努力，让她更有信心。我觉得这样的调整一定会让我们的互动更有温度，也会让她更愿意分享自己的感受。谢谢您，这让我对如何更好地支持她有了更清晰的方向！",
+    "has_specific_detail": true,
+    "specific_detail": "这个建议太贴心了！根据她的情绪调整鼓励方式，确实能让她更感受到我的理解和支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "谢谢您的鼓励！接下来，我特别想优先关注她在面对挑战时的自信心和独立性，看看这些调整能不能让她更主动地尝试解决问题。我也期待能看到自己在陪伴中的情绪更加平稳，不再那么急于介入。同时，我希望通过这些努力，我们的互动能变得更加轻松和自然。其实想到这些可能的变化，就让我对未来充满了期待！您觉得这样的目标是否清晰，或者还有什么需要补充的吗？",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢您的鼓励！接下来，我特别想优先关注她在面对挑战时的自信心和独立性，看看这些调整能不能让她更主动地尝试解决问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "完全同意！关注这些小而温暖的瞬间，确实能让我更深刻地体会到我们的关系正在一点点变得更好。比如，当她主动和我分享她的想法，或者我发现自己能更从容地等待时，我都可以把这些细节记下来，用来提醒自己这些努力是值得的。我觉得这些瞬间不仅是变化的标志，更是我们关系中最珍贵的部分。这样的补充一定会让我对这个过程充满更多感触，也更有动力继续坚持！",
+    "has_specific_detail": true,
+    "specific_detail": "完全同意！关注这些小而温暖的瞬间，确实能让我更深刻地体会到我们的关系正在一点点变得更好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我想，如果遇到特别顺利的时刻，我会提醒自己，这是努力带来的成果，允许自己感到欣慰和自豪，同时也告诉自己“这个过程是可以持续进步的”。而如果遇到挑战较大的时候，我会试着对自己说“这只是成长路上的一个小波折，不代表失败”，并去回顾之前那些积极的瞬间，给自己一些鼓励。或许还可以通过和丈夫聊聊我的感受，让他也给我一些支持。我觉得这样的调整能让我更稳住心态，始终保持信心。您觉得这些方法是否足够？或者还有什么值得尝试的方式吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我想，如果遇到特别顺利的时刻，我会提醒自己，这是努力带来的成果，允许自己感到欣慰和自豪，同时也告诉自己“这个过程是可以持续进步的”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "这个信念句太有力量了！“每个进步都值得被珍惜，每个困难都是成长的机会”既简单又充满正能量，特别适合在我情绪波动时用来安抚自己。我觉得默念这样的句子，能让我快速从焦虑或挫败中抽离出来，重新聚焦于过程中的积极面。甚至，我还可以把这句话写下来贴在显眼的地方，比如日记本里或者手机屏保上，让它随时提醒我保持平衡和信心。我想，这样的方式一定会让我更坚定地走下去！",
+    "has_specific_detail": true,
+    "specific_detail": "这个信念句太有力量了！“每个进步都值得被珍惜，每个困难都是成长的机会”既简单又充满正能量，特别适合在我情绪波动时用来安抚自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "谢谢您的鼓励和支持！今天的对话让我感觉很温暖，也对未来更有信心。接下来我会把这些方法融入到日常中，慢慢去实践和调整。如果有新的感受或者疑问，我一定会再来请教您。今天先聊到这里吧，再次感谢您的倾听和建议！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢您的鼓励和支持！今天的对话让我感觉很温暖，也对未来更有信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

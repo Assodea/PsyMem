@@ -1,0 +1,20 @@
+{
+  "client_memory": {
+    "facts": [
+      "第4次咨询对话总结生成失败"
+    ],
+    "suggestions": [],
+    "personality": "无法生成总结",
+    "issues": "第4次咨询总结错误: Expected object or value"
+  },
+  "counselor_memory": {
+    "facts": [
+      "第4次咨询对话总结生成失败"
+    ],
+    "suggestions": [],
+    "personality": "无法生成总结",
+    "issues": "第4次咨询总结错误: Expected object or value"
+  },
+  "visit": 4,
+  "timestamp": "2026-05-13 18:05:19"
+}

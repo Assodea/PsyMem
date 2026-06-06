@@ -1,0 +1,20 @@
+{
+  "client_memory": {
+    "facts": [
+      "第3次咨询对话总结生成失败"
+    ],
+    "suggestions": [],
+    "personality": "无法生成总结",
+    "issues": "第3次咨询总结错误: Request timed out."
+  },
+  "counselor_memory": {
+    "facts": [
+      "第3次咨询对话总结生成失败"
+    ],
+    "suggestions": [],
+    "personality": "无法生成总结",
+    "issues": "第3次咨询总结错误: Request timed out."
+  },
+  "visit": 3,
+  "timestamp": "2026-05-19 11:45:30"
+}

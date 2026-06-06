@@ -1,0 +1,330 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯……最近学校的作业和考试压力让我很难受。前几天有一门测验没考好，老师当着全班点名批评了我，我当时真的特别尴尬…感觉自己怎么这么差劲。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯……最近学校的作业和考试压力让我很难受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，委屈是有的吧……但更多是自责吧，觉得老师批评得也没错，可能我确实不够努力。还有点害怕，怕家里知道了又会失望…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，委屈是有的吧……但更多是自责吧，觉得老师批评得也没错，可能我确实不够努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "是的，我爸妈一直都很关注我的成绩。每次考试他们都会问得很详细，有时候即使考得还可以，他们也会说“可以更好”，让我觉得怎么做都不够好…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我爸妈一直都很关注我的成绩",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "嗯，是挺大的，有时候就会忍不住一个人偷偷掉眼泪吧，但更多时候我会努力让自己别想太多，埋头去学习。可这样做又觉得特别累…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，是挺大的，有时候就会忍不住一个人偷偷掉眼泪吧，但更多时候我会努力让自己别想太多，埋头去学习",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是的，总觉得如果不做到更好，就没办法让爸妈满意，好像也证明自己不够好…但有时候也会想，哪怕只是为了别再被批评，也得咬牙坚持住。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，总觉得如果不做到更好，就没办法让爸妈满意，好像也证明自己不够好…但有时候也会想，哪怕只是为了别再被批评，也得咬牙坚持住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "可能两方面都有吧…正面是让我更努力，但负面是压力太大，常常觉得快要撑不住了。尤其一旦没达到预期，就很容易开始怀疑自己。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧…正面是让我更努力，但负面是压力太大，常常觉得快要撑不住了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，怀疑自己时会想“我是不是不够聪明”“为什么别人都比我好”之类的吧。这些想法让我很沮丧，有时候甚至觉得自己是不是根本做不到…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，怀疑自己时会想“我是不是不够聪明”“为什么别人都比我好”之类的吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "我觉得两方面都有吧…自己会忍不住去看别人表现得多好，但爸妈也会时不时提起别人家孩子的成绩，感觉像是在暗示我不够优秀。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两方面都有吧…自己会忍不住去看别人表现得多好，但爸妈也会时不时提起别人家孩子的成绩，感觉像是在暗示我不够优秀",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "嗯，可能更多是负担吧。因为总觉得达不到他们的标准，哪怕努力了也好像看不到他们真的满意的时候…这让我有点累。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能更多是负担吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "失落肯定有的吧…有时候也会有一点点生气，觉得他们为什么不能多肯定我一下，但又不敢真的表现出来，怕他们更失望。",
+    "has_specific_detail": true,
+    "specific_detail": "失落肯定有的吧…有时候也会有一点点生气，觉得他们为什么不能多肯定我一下，但又不敢真的表现出来，怕他们更失望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "好像从小学的时候就这样了吧。记得有一次因为成绩不好，我试着跟爸妈说自己很难过，但他们只说“难过没用，要努力才行”，后来我就不太敢表达这些情绪了。",
+    "has_specific_detail": true,
+    "specific_detail": "好像从小学的时候就这样了吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "好像大部分时候都这样吧，特别是在跟爸妈相处时，很多话都会藏在心里，怕说出来他们不理解，或者觉得我在找借口。",
+    "has_specific_detail": true,
+    "specific_detail": "好像大部分时候都这样吧，特别是在跟爸妈相处时，很多话都会藏在心里，怕说出来他们不理解，或者觉得我在找借口",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "是的，好像对谁都是这样…跟朋友聊天时常常不敢说太多自己的事，怕他们觉得我太矫情；老师那边更是，只会点头听着，很少主动说想法。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，好像对谁都是这样…跟朋友聊天时常常不敢说太多自己的事，怕他们觉得我太矫情；老师那边更是，只会点头听着，很少主动说想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，两种感觉都有吧。孤单的时候会想要有人能懂我，但又觉得这样保持距离挺安全的，至少不用冒着被误解的风险…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，两种感觉都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "好像很少有这样的时刻吧…不过有一次和一个朋友聊起学业，她没有直接评价我，而是认真听我说，那时候感觉挺轻松的，好像被接纳了一点。",
+    "has_specific_detail": true,
+    "specific_detail": "好像很少有这样的时刻吧…不过有一次和一个朋友聊起学业，她没有直接评价我，而是认真听我说，那时候感觉挺轻松的，好像被接纳了一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "她没有急着给建议或者评价，只是听我说，让我感觉自己说的东西有被重视。跟父母的方式不同，爸妈总是关注“怎么改进”，但很少关心我到底怎么想…这种倾听让我觉得安心吧。",
+    "has_specific_detail": true,
+    "specific_detail": "她没有急着给建议或者评价，只是听我说，让我感觉自己说的东西有被重视",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，我试过几次吧，但他们总会回到“我们是为了你好”之类的话题，好像没办法真正听到我的感受…所以后来也不太敢再提了，感觉说了也没用。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我试过几次吧，但他们总会回到“我们是为了你好”之类的话题，好像没办法真正听到我的感受…所以后来也不太敢再提了，感觉说了也没用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我希望他们能先听我把话说完，不要急着打断或者评价。如果能说一句“我们知道你也很努力”，可能我会感觉好多了…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望他们能先听我把话说完，不要急着打断或者评价",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "可能就是跟那个朋友聊聊吧，虽然不常见面，但有时候说点心里话会感觉轻松些。还有就是自己写写日记，也能稍微缓解一些情绪…",
+    "has_specific_detail": true,
+    "specific_detail": "可能就是跟那个朋友聊聊吧，虽然不常见面，但有时候说点心里话会感觉轻松些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，有时候写日记会让我更清楚自己到底在纠结什么，感觉像是把乱糟糟的情绪整理出来了。而跟朋友聊时，听到她说“我懂你”，会觉得没那么孤单…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有时候写日记会让我更清楚自己到底在纠结什么，感觉像是把乱糟糟的情绪整理出来了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我希望在学业上，父母能多认可我的努力，而不是总关注结果；在关系上，希望他们能主动问问我真实的感受，而不是只谈成绩。这样或许会让我觉得被他们更看见一点吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望在学业上，父母能多认可我的努力，而不是总关注结果；在关系上，希望他们能主动问问我真实的感受，而不是只谈成绩",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "或许可以在一次成绩还不错的时候试着跟他们聊聊吧，那时他们可能心情会好些，比较愿意听我说。我可以试着表达“其实我更希望你们看到我的努力”。不知道这样会不会有用，但至少可以试一试…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以在一次成绩还不错的时候试着跟他们聊聊吧，那时他们可能心情会好些，比较愿意听我说",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 23,
+    "content": "嗯，这样感觉会稍微自然一点吧，不会那么突兀。而且先说自己的努力，可能他们也更容易接受，不会一下子觉得我在抱怨或者反驳他们…我可以试着这样做。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样感觉会稍微自然一点吧，不会那么突兀",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "如果他们还是给建议，我可能会先听完，然后再试着说“这些建议我会考虑，但其实我更想听到你们对我努力的看法”。这样可能不会显得太抗拒，又能继续引导他们关注我的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们还是给建议，我可能会先听完，然后再试着说“这些建议我会考虑，但其实我更想听到你们对我努力的看法”",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 25,
+    "content": "谢谢你愿意听我说这么多，感觉轻松了不少。我会试着按照这个方法去沟通，如果有问题或者新的想法，下次再跟你聊。今天先聊到这里吧！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你愿意听我说这么多，感觉轻松了不少",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

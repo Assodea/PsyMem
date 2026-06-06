@@ -1,0 +1,1313 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近试了试写日记，但没坚持几天就停了，因为总觉得没什么特别的事可写…这让我有点挫败，好像自己在浪费时间一样。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近试了试写日记，但没坚持几天就停了，因为总觉得没什么特别的事可写…这让我有点挫败，好像自己在浪费时间一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，我觉得可能要写一些有意义的事，比如完成了某个任务或者心情特别好的时候，但平时好像没什么这样的事情发生，就觉得没必要写。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可能要写一些有意义的事，比如完成了某个任务或者心情特别好的时候，但平时好像没什么这样的事情发生，就觉得没必要写",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "好像是这样…有时候吃到喜欢的零食或者放学路上听到一首好听的歌，心情确实会好一点，但这些感觉太普通了，写出来会不会显得很无聊？",
+    "has_specific_detail": true,
+    "specific_detail": "好像是这样…有时候吃到喜欢的零食或者放学路上听到一首好听的歌，心情确实会好一点，但这些感觉太普通了，写出来会不会显得很无聊？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "嗯，你这么说好像有点道理…如果能记录这些小事，可能会让我对每天的感觉稍微好一点吧。不过我也担心，有时候情绪不好时，会不会写不出什么“积极”的内容？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，你这么说好像有点道理…如果能记录这些小事，可能会让我对每天的感觉稍微好一点吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "可能会吧，但写负面的东西总觉得像是在抱怨，心里会有点别扭…而且有时候连自己都说不清楚到底怎么了，写起来会不会更乱？",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，但写负面的东西总觉得像是在抱怨，心里会有点别扭…而且有时候连自己都说不清楚到底怎么了，写起来会不会更乱？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，这听起来简单一些，可能试试看会好点。就算写不多，至少能记下一点感受，也比什么都不写强…说到这个，前几天有次情绪低落，就特别想睡觉，感觉好像是在逃避一样。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来简单一些，可能试试看会好点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "好像也没发生什么特别的事，就是那天作业多，感觉脑子很乱，越想赶快做完越静不下来…后来干脆就放下不管了，直接去睡了。",
+    "has_specific_detail": true,
+    "specific_detail": "好像也没发生什么特别的事，就是那天作业多，感觉脑子很乱，越想赶快做完越静不下来…后来干脆就放下不管了，直接去睡了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "醒来后好像轻松了一点，但看到没完成的作业，压力又回来了…而且时间更紧了，感觉自己总是陷在这个恶性循环里。",
+    "has_specific_detail": true,
+    "specific_detail": "醒来后好像轻松了一点，但看到没完成的作业，压力又回来了…而且时间更紧了，感觉自己总是陷在这个恶性循环里",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我觉得如果能提前停下来，深呼吸或者听点轻音乐可能会有帮助。但每次压力上来时，脑子就乱成一团，根本想不到去做这些事…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果能提前停下来，深呼吸或者听点轻音乐可能会有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "这个主意听起来不错，把方法写下来，可能会更容易记得去试一试…不过就算做了这些，不知道能不能真的缓解那种烦躁的感觉。",
+    "has_specific_detail": true,
+    "specific_detail": "这个主意听起来不错，把方法写下来，可能会更容易记得去试一试…不过就算做了这些，不知道能不能真的缓解那种烦躁的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "也许吧，如果能让脑子没那么乱，可能会更容易开始去做作业。不过，有时候就算稍微平静了，也还是会拖延，觉得好像“休息一会再说”更舒服…",
+    "has_specific_detail": true,
+    "specific_detail": "也许吧，如果能让脑子没那么乱，可能会更容易开始去做作业",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，五分钟听起来不算太难接受，可能可以试试这样的方法。说到这个，我好像对任务特别长的作业更容易拖延，就觉得怎么做都做不完一样。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，五分钟听起来不算太难接受，可能可以试试这样的方法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "拆成小块可能确实会减轻一点压力，起码不会一下子觉得“全都做不完”…但有时候光是想着怎么分块，都已经浪费了不少时间，还是觉得很烦。",
+    "has_specific_detail": true,
+    "specific_detail": "拆成小块可能确实会减轻一点压力，起码不会一下子觉得“全都做不完”…但有时候光是想着怎么分块，都已经浪费了不少时间，还是觉得很烦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "听起来好像能节省点时间，比如每次就按页数或者题目数量来分块，这样不用再纠结…不过有时候面对完全不会的题，还是觉得压力很大，分块也不管用。",
+    "has_specific_detail": true,
+    "specific_detail": "听起来好像能节省点时间，比如每次就按页数或者题目数量来分块，这样不用再纠结…不过有时候面对完全不会的题，还是觉得压力很大，分块也不管用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，跳过简单的题可能会让我感觉稍微轻松一点，至少能看到自己有在完成些什么。不过有时候跳过去了，就很难再回头去面对那些难题…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，跳过简单的题可能会让我感觉稍微轻松一点，至少能看到自己有在完成些什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "设个时间提醒自己回头，听起来是个好办法，可能会减少拖着的感觉…不过有时候就算定了时间，还是会找借口拖下去，比如“再休息一会儿”。",
+    "has_specific_detail": true,
+    "specific_detail": "设个时间提醒自己回头，听起来是个好办法，可能会减少拖着的感觉…不过有时候就算定了时间，还是会找借口拖下去，比如“再休息一会儿”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "小奖励可能会有点用，想想完成后能吃喜欢的东西，确实会感觉稍微有点动力。不过我怕如果没完成，反而会觉得更挫败…这样是不是又给自己增加压力了？",
+    "has_specific_detail": true,
+    "specific_detail": "小奖励可能会有点用，想想完成后能吃喜欢的东西，确实会感觉稍微有点动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，这样好像会宽松一些，只要尽力去试就算是进步了，感觉没那么紧绷…不过有时候尝试了几次还是做不出来，心情还是会很烦躁，觉得自己不够好。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样好像会宽松一些，只要尽力去试就算是进步了，感觉没那么紧绷…不过有时候尝试了几次还是做不出来，心情还是会很烦躁，觉得自己不够好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "换个角度试着想，可能会让自己没那么自责，不过要真说服自己还是挺难的…特别是看到别人很轻松就能做出来时，更觉得自己差劲。",
+    "has_specific_detail": true,
+    "specific_detail": "换个角度试着想，可能会让自己没那么自责，不过要真说服自己还是挺难的…特别是看到别人很轻松就能做出来时，更觉得自己差劲",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "这样可能会好一点，起码能看到自己有在努力，不过有时候就觉得这些“小进步”没什么意义，根本追不上别人…这种感觉真的很压抑。",
+    "has_specific_detail": true,
+    "specific_detail": "这样可能会好一点，起码能看到自己有在努力，不过有时候就觉得这些“小进步”没什么意义，根本追不上别人…这种感觉真的很压抑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，可能关注自己的进步会轻松些，不用老想着别人怎么做。不过有时候目标定得太小，又会觉得自己是不是在自我安慰，不够努力一样…这种平衡好难找。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能关注自己的进步会轻松些，不用老想着别人怎么做",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "听起来是个不错的方法，如果把小目标看成通向大目标的步骤，可能会觉得每一步都有意义…不过有时候我又会担心，这样会不会进展太慢，最后还是达不到？",
+    "has_specific_detail": true,
+    "specific_detail": "听起来是个不错的方法，如果把小目标看成通向大目标的步骤，可能会觉得每一步都有意义…不过有时候我又会担心，这样会不会进展太慢，最后还是达不到？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "定期回顾可能会让我更有成就感，看到自己在慢慢前进…不过也怕万一没完成预期的进度，反而觉得更受打击，甚至会开始怀疑这种方法是不是没用。",
+    "has_specific_detail": true,
+    "specific_detail": "定期回顾可能会让我更有成就感，看到自己在慢慢前进…不过也怕万一没完成预期的进度，反而觉得更受打击，甚至会开始怀疑这种方法是不是没用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "专注于学到的东西听起来比盯着结果轻松一些，可能会让我更少自责…不过有时候学得慢，也会觉得自己是不是不够聪明，真有点沮丧。",
+    "has_specific_detail": true,
+    "specific_detail": "专注于学到的东西听起来比盯着结果轻松一些，可能会让我更少自责…不过有时候学得慢，也会觉得自己是不是不够聪明，真有点沮丧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "嗯，这样想好像能缓解一些压力，慢一点可能确实更扎实。不过，有时候看别人学得快还是会忍不住觉得自己“差一截”，这种比较真的挺难控制的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想好像能缓解一些压力，慢一点可能确实更扎实",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "可能可以试试这样做，不过有时候感觉自己的优点也没什么特别，想到这些会让我觉得更普通…我好像一直在找不到自己特别在哪里一样。",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以试试这样做，不过有时候感觉自己的优点也没什么特别，想到这些会让我觉得更普通…我好像一直在找不到自己特别在哪里一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "嗯，小事可能确实更容易想到，比如之前帮同学讲解一道题，他说我讲得很清楚…但这种小事真的算“闪光点”吗？感觉有点不值一提。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，小事可能确实更容易想到，比如之前帮同学讲解一道题，他说我讲得很清楚…但这种小事真的算“闪光点”吗？感觉有点不值一提",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "也许吧，多留意可能会发现一些没注意到的地方。不过这些小亮点总觉得不够“重要”，好像还是无法和别人那些更明显的优点相比…这让我有点纠结。",
+    "has_specific_detail": true,
+    "specific_detail": "也许吧，多留意可能会发现一些没注意到的地方",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，这样想可能会让我觉得这些小亮点更值得被珍视，至少它们是属于我的。不过有时候还是会忍不住去想，如果能像别人那样拥有更“抢眼”的优点就好了…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想可能会让我觉得这些小亮点更值得被珍视，至少它们是属于我的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "也许可以试试，把精力放在用好这些小亮点，可能会让我感觉更踏实。不过有时候心情不好时，连注意这些小亮点的动力都没有…这种时候真的很难调整过来。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试试，把精力放在用好这些小亮点，可能会让我感觉更踏实",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "可能可以试试，深呼吸或者听音乐确实会让人稍微平静一些，不过有时候情绪低落时，连去做这些事情都觉得没意义…好像什么都提不起兴趣一样。",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以试试，深呼吸或者听音乐确实会让人稍微平静一些，不过有时候情绪低落时，连去做这些事情都觉得没意义…好像什么都提不起兴趣一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "嗯，有时候泡杯热饮确实会让我感觉好一点，尤其是喝热可可的时候，心里会有一点点暖意…不过这样的感觉通常也维持不了多久，很快又回到那种低落的状态。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有时候泡杯热饮确实会让我感觉好一点，尤其是喝热可可的时候，心里会有一点点暖意…不过这样的感觉通常也维持不了多久，很快又回到那种低落的状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "也许可以试试，多做几件小事可能会让感觉好一些，比如喝热可可后再听一首喜欢的歌…不过有时候连做这些的动力都提不起来，就觉得一切都无所谓了。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试试，多做几件小事可能会让感觉好一些，比如喝热可可后再听一首喜欢的歌…不过有时候连做这些的动力都提不起来，就觉得一切都无所谓了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "可能会吧，有人陪着的话，至少不会感觉完全孤单…不过我有时候也不太愿意让别人看到我这种状态，怕他们觉得我太负面或者麻烦。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，有人陪着的话，至少不会感觉完全孤单…不过我有时候也不太愿意让别人看到我这种状态，怕他们觉得我太负面或者麻烦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "也许可以试着分享一点点，但要找到能真正理解的人好像不容易…有时候和我妈说一些感受，她总是觉得我想太多了，这让我更不想开口了。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试着分享一点点，但要找到能真正理解的人好像不容易…有时候和我妈说一些感受，她总是觉得我想太多了，这让我更不想开口了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "或许这样会好一些，比如跟她说“今天作业真的好多，头都涨了”，可能比直接说我情绪不好更容易让她明白…但有时候就算这样，她也会觉得我是在抱怨，不够努力。",
+    "has_specific_detail": true,
+    "specific_detail": "或许这样会好一些，比如跟她说“今天作业真的好多，头都涨了”，可能比直接说我情绪不好更容易让她明白…但有时候就算这样，她也会觉得我是在抱怨，不够努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "这听起来像是个不错的办法，可能能让她明白我不是在抱怨，而是需要发泄一下…不过我也担心，就算这样说了，她还是会觉得我在找借口，不够认真面对问题。",
+    "has_specific_detail": true,
+    "specific_detail": "这听起来像是个不错的办法，可能能让她明白我不是在抱怨，而是需要发泄一下…不过我也担心，就算这样说了，她还是会觉得我在找借口，不够认真面对问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "嗯，这样说可能会让她更明白我的意思，不至于马上开始评判…不过有时候她就算听了，还是会忍不住给建议，让我感觉压力更大。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样说可能会让她更明白我的意思，不至于马上开始评判…不过有时候她就算听了，还是会忍不住给建议，让我感觉压力更大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "或许可以试着提这样的约定，不过她能不能做到还是不好说…有时候我觉得她习惯了“教育”我，可能很难真正安静地听进去。这让我有点不抱希望。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试着提这样的约定，不过她能不能做到还是不好说…有时候我觉得她习惯了“教育”我，可能很难真正安静地听进去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "这样可能会更简单一点，比如聊聊学校里的趣事或者轻松的日常，应该不太容易引起她的“教育模式”…不过这样聊着，总觉得跟我真正想说的东西还是有距离，心里没那么满足。",
+    "has_specific_detail": true,
+    "specific_detail": "这样可能会更简单一点，比如聊聊学校里的趣事或者轻松的日常，应该不太容易引起她的“教育模式”…不过这样聊着，总觉得跟我真正想说的东西还是有距离，心里没那么满足",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "也许可以试试这样做，写下来可能会让我觉得至少自己明白自己的感受，不过有时候把情绪都写出来，反而会让我更清楚自己有多乱，心情会更沉重。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试试这样做，写下来可能会让我觉得至少自己明白自己的感受，不过有时候把情绪都写出来，反而会让我更清楚自己有多乱，心情会更沉重",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "嗯，这样可能会更积极一些，写希望的话也许能让我对未来有点盼头…不过有时候希望写着写着，又会怀疑自己能不能做到，就会觉得有点无力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样可能会更积极一些，写希望的话也许能让我对未来有点盼头…不过有时候希望写着写着，又会怀疑自己能不能做到，就会觉得有点无力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "这样拆分可能会让我觉得没那么遥远，比如先试着坚持每天写两句话日记，这样比较容易开始…不过有时候就算知道可以从小事做起，还是会忍不住拖延，觉得一切好像没意义一样。",
+    "has_specific_detail": true,
+    "specific_detail": "这样拆分可能会让我觉得没那么遥远，比如先试着坚持每天写两句话日记，这样比较容易开始…不过有时候就算知道可以从小事做起，还是会忍不住拖延，觉得一切好像没意义一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "问自己“最需要什么”可能会让我更了解自己的感受，比如是休息还是陪伴…不过有时候答案可能还是“我也不知道”，那种空白的感觉会让我更迷茫。",
+    "has_specific_detail": true,
+    "specific_detail": "问自己“最需要什么”可能会让我更了解自己的感受，比如是休息还是陪伴…不过有时候答案可能还是“我也不知道”，那种空白的感觉会让我更迷茫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "嗯，关注身体需求听起来是个简单的办法，比如喝水或者深呼吸，可能会让我感觉稍微放松一点…不过有时候就算身体舒服了，心里的那种压抑感还是挥之不去，让人难受。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，关注身体需求听起来是个简单的办法，比如喝水或者深呼吸，可能会让我感觉稍微放松一点…不过有时候就算身体舒服了，心里的那种压抑感还是挥之不去，让人难受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "这听起来挺有趣的，也许可以试着想象，比如它像一团黑云一样笼罩着我…这样可能会让我觉得它是外在的东西，而不是完全属于我的，或许能稍微轻松一点。",
+    "has_specific_detail": true,
+    "specific_detail": "这听起来挺有趣的，也许可以试着想象，比如它像一团黑云一样笼罩着我…这样可能会让我觉得它是外在的东西，而不是完全属于我的，或许能稍微轻松一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "嗯，想象黑云慢慢飘远，确实让人感觉压抑感好像在变轻一点，不过有时候它又会突然回来，让我觉得这种放松只是暂时的，很难真正摆脱。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，想象黑云慢慢飘远，确实让人感觉压抑感好像在变轻一点，不过有时候它又会突然回来，让我觉得这种放松只是暂时的，很难真正摆脱",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "或许可以试试，每次都去想象它变淡，可能会让心情一段时间内好受一点…不过这种反复真的挺消耗精力的，有时候会让我觉得好累，不知道还能坚持多久。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试试，每次都去想象它变淡，可能会让心情一段时间内好受一点…不过这种反复真的挺消耗精力的，有时候会让我觉得好累，不知道还能坚持多久",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "嗯，这样想可能会减轻一点压力，把它当成一种照顾自己的方式，而不是硬逼着自己去做…不过有时候还是会忍不住觉得，这样真的会有用吗？还是只是在拖延解决问题？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想可能会减轻一点压力，把它当成一种照顾自己的方式，而不是硬逼着自己去做…不过有时候还是会忍不住觉得，这样真的会有用吗？还是只是在拖延解决问题？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "这样想好像更能接受一些，像是在为后续努力积攒力量，而不是浪费时间…不过有时候面对问题时，还是会觉得无从下手，不知道从哪里开始才好。",
+    "has_specific_detail": true,
+    "specific_detail": "这样想好像更能接受一些，像是在为后续努力积攒力量，而不是浪费时间…不过有时候面对问题时，还是会觉得无从下手，不知道从哪里开始才好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "嗯，先选最简单的一步可能会容易一点，比如只做一道题或者写一个开头…不过有时候即使完成了，也会觉得离整个任务还有很远，心里还是会有压力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，先选最简单的一步可能会容易一点，比如只做一道题或者写一个开头…不过有时候即使完成了，也会觉得离整个任务还有很远，心里还是会有压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "或许这样会让我感觉没那么失落，至少能看到一点进步…不过有时候光是肯定自己，好像还是不足以缓解那种总是追不上的焦虑感，真的挺难受的。",
+    "has_specific_detail": true,
+    "specific_detail": "或许这样会让我感觉没那么失落，至少能看到一点进步…不过有时候光是肯定自己，好像还是不足以缓解那种总是追不上的焦虑感，真的挺难受的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "这样分开来可能会让我更清楚该优先做什么，至少能减轻一点混乱感…不过有时候即使列出了“必须完成”的部分，还是会觉得时间不够用，那种紧迫感很压人。",
+    "has_specific_detail": true,
+    "specific_detail": "这样分开来可能会让我更清楚该优先做什么，至少能减轻一点混乱感…不过有时候即使列出了“必须完成”的部分，还是会觉得时间不够用，那种紧迫感很压人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "设定最小目标可能会让我觉得没那么难开始，比如先完成一道关键的题…不过有时候就算完成了最核心的部分，心里还是觉得不够，总想追求更完美的结果。",
+    "has_specific_detail": true,
+    "specific_detail": "设定最小目标可能会让我觉得没那么难开始，比如先完成一道关键的题…不过有时候就算完成了最核心的部分，心里还是觉得不够，总想追求更完美的结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "这样想可能会让我没那么纠结细节，觉得完成本身已经是种进步了…不过有时候还是会忍不住回头看，觉得“如果当时再多努力一点”是不是会更好，心里挺矛盾的。",
+    "has_specific_detail": true,
+    "specific_detail": "这样想可能会让我没那么纠结细节，觉得完成本身已经是种进步了…不过有时候还是会忍不住回头看，觉得“如果当时再多努力一点”是不是会更好，心里挺矛盾的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "嗯，专注于下一次的改进可能会更积极一些，比如总结经验后再试着改进…不过有时候反复想这些，还是会觉得有点累，好像永远在修修补补一样。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，专注于下一次的改进可能会更积极一些，比如总结经验后再试着改进…不过有时候反复想这些，还是会觉得有点累，好像永远在修修补补一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "可能会让我感觉轻松一点，告诉自己“做到这里就可以了”确实能减少一些压力…不过有时候也会担心，这会不会让我变得不够努力，或者越来越懒散？",
+    "has_specific_detail": true,
+    "specific_detail": "可能会让我感觉轻松一点，告诉自己“做到这里就可以了”确实能减少一些压力…不过有时候也会担心，这会不会让我变得不够努力，或者越来越懒散？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "这样听起来合理一些，允许自己休息的同时，也有明确的方向，不至于完全放松下来…不过有时候计划了“明天再继续”，但第二天还是容易拖延，感觉又陷入循环了。",
+    "has_specific_detail": true,
+    "specific_detail": "这样听起来合理一些，允许自己休息的同时，也有明确的方向，不至于完全放松下来…不过有时候计划了“明天再继续”，但第二天还是容易拖延，感觉又陷入循环了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "细化到具体时间可能会更有约束力，比如定好几点开始，就能减少拖延的借口…不过有时候到了时间点，还是会忍不住找别的事做，总感觉自己控制力很差。",
+    "has_specific_detail": true,
+    "specific_detail": "细化到具体时间可能会更有约束力，比如定好几点开始，就能减少拖延的借口…不过有时候到了时间点，还是会忍不住找别的事做，总感觉自己控制力很差",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "嗯，告诉自己只需要开始五分钟，可能会让我没那么抗拒，至少愿意试试看…不过有时候即使开始了五分钟，也会很快被其他事分神，感觉还是挺难专注的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，告诉自己只需要开始五分钟，可能会让我没那么抗拒，至少愿意试试看…不过有时候即使开始了五分钟，也会很快被其他事分神，感觉还是挺难专注的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "关掉手机通知可能会减少一些干扰，至少不会总被消息打断…不过有时候即使环境安静了，脑子里还是会想着其他事情，感觉更像是自己内心的问题。",
+    "has_specific_detail": true,
+    "specific_detail": "关掉手机通知可能会减少一些干扰，至少不会总被消息打断…不过有时候即使环境安静了，脑子里还是会想着其他事情，感觉更像是自己内心的问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 62,
+    "content": "写下杂念听起来是个有趣的办法，可能会让我感觉把心里的东西清理出来了一些…不过有时候杂念太多，写完了还是觉得满脑子乱糟糟的，好像效果不大。",
+    "has_specific_detail": true,
+    "specific_detail": "写下杂念听起来是个有趣的办法，可能会让我感觉把心里的东西清理出来了一些…不过有时候杂念太多，写完了还是觉得满脑子乱糟糟的，好像效果不大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "写完再深呼吸几次可能会让我稍微放松一点，感觉脑子没那么紧绷…不过有时候休息完重新开始时，还是会觉得状态提不上来，像是需要很大的力气才能集中注意力一样。",
+    "has_specific_detail": true,
+    "specific_detail": "写完再深呼吸几次可能会让我稍微放松一点，感觉脑子没那么紧绷…不过有时候休息完重新开始时，还是会觉得状态提不上来，像是需要很大的力气才能集中注意力一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "从最简单的部分入手可能确实更容易，比如先写个标题或者列个大纲，至少能让我觉得有了个开始…不过有时候刚开了个头，还是会觉得整体任务太多，心里一下子又慌了。",
+    "has_specific_detail": true,
+    "specific_detail": "从最简单的部分入手可能确实更容易，比如先写个标题或者列个大纲，至少能让我觉得有了个开始…不过有时候刚开了个头，还是会觉得整体任务太多，心里一下子又慌了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "嗯，停下来夸自己一句可能会让我感觉有点成就感，觉得任务没那么可怕…不过有时候夸了自己也会想，是不是只是在安慰自己，怕面对真正的困难部分。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，停下来夸自己一句可能会让我感觉有点成就感，觉得任务没那么可怕…不过有时候夸了自己也会想，是不是只是在安慰自己，怕面对真正的困难部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "嗯，这样做可能会让我觉得困难部分没想象中那么可怕，至少先了解一下也算是个开始…不过有时候看了一眼，发现真的很难，就会想干脆再拖一拖，心里还是有点抵触。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样做可能会让我觉得困难部分没想象中那么可怕，至少先了解一下也算是个开始…不过有时候看了一眼，发现真的很难，就会想干脆再拖一拖，心里还是有点抵触",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "抵触"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 67,
+    "content": "把难题拆成更小的部分可能会让我觉得没那么复杂，比如先理解题目意思，再慢慢往后推进…不过有时候就算第一步解决了，后面的步骤还是卡住，感觉自己好像一直在被难题牵着走，很沮丧。",
+    "has_specific_detail": true,
+    "specific_detail": "把难题拆成更小的部分可能会让我觉得没那么复杂，比如先理解题目意思，再慢慢往后推进…不过有时候就算第一步解决了，后面的步骤还是卡住，感觉自己好像一直在被难题牵着走，很沮丧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 68,
+    "content": "换个简单任务可能会让我稍微放松一下，再回头时思路可能会更清楚一点…不过有时候一停下来就不想再回去做了，觉得难题还是很让人头疼，像个绕不开的坎。",
+    "has_specific_detail": true,
+    "specific_detail": "换个简单任务可能会让我稍微放松一下，再回头时思路可能会更清楚一点…不过有时候一停下来就不想再回去做了，觉得难题还是很让人头疼，像个绕不开的坎",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 69,
+    "content": "设定一个回头时间可能会让我感觉更有方向，比如休息十分钟后就得再试试…不过到时间点时还是会忍不住想再拖一下，就觉得自己特别没自控力，心里挺烦的。",
+    "has_specific_detail": true,
+    "specific_detail": "设定一个回头时间可能会让我感觉更有方向，比如休息十分钟后就得再试试…不过到时间点时还是会忍不住想再拖一下，就觉得自己特别没自控力，心里挺烦的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 70,
+    "content": "嗯，“先看两分钟题目”听起来确实没那么难，可能会让我更容易开始…不过有时候看着看着，又会觉得自己理解得很慢，就会有点怀疑是不是方法不对，还是自己不够聪明。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，“先看两分钟题目”听起来确实没那么难，可能会让我更容易开始…不过有时候看着看着，又会觉得自己理解得很慢，就会有点怀疑是不是方法不对，还是自己不够聪明",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 71,
+    "content": "这样想可能会让我稍微放松一点，觉得慢也是一种积累，不过有时候看别人很快就做完了，还是会忍不住比较，觉得自己不够好…那种挫败感真的很难摆脱。",
+    "has_specific_detail": true,
+    "specific_detail": "这样想可能会让我稍微放松一点，觉得慢也是一种积累，不过有时候看别人很快就做完了，还是会忍不住比较，觉得自己不够好…那种挫败感真的很难摆脱",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 72,
+    "content": "也许这样会让我感觉更专注于自己的成长，比如哪怕是比昨天多做了一道题，也算是进步…不过有时候这种小进步看起来还是太慢了，心里总会有点急躁。",
+    "has_specific_detail": true,
+    "specific_detail": "也许这样会让我感觉更专注于自己的成长，比如哪怕是比昨天多做了一道题，也算是进步…不过有时候这种小进步看起来还是太慢了，心里总会有点急躁",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 73,
+    "content": "嗯，这样想可能会让我觉得慢一点也没关系，至少每一步都更扎实了…不过有时候还是会忍不住问自己，为什么不能像别人一样又快又好，那种疑问真的挺压抑的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想可能会让我觉得慢一点也没关系，至少每一步都更扎实了…不过有时候还是会忍不住问自己，为什么不能像别人一样又快又好，那种疑问真的挺压抑的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 74,
+    "content": "这样问好像能让我更关注自己的特点，比如我讲题时别人经常说我讲得清楚，这可能是我的优点…不过有时候想到这些优点，还是觉得好像不够突出，无法真正让我自信起来。",
+    "has_specific_detail": true,
+    "specific_detail": "这样问好像能让我更关注自己的特点，比如我讲题时别人经常说我讲得清楚，这可能是我的优点…不过有时候想到这些优点，还是觉得好像不够突出，无法真正让我自信起来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 75,
+    "content": "嗯，这样想可能会让我觉得这些优点虽然不“抢眼”，但确实是我独特的一部分…不过有时候还是会忍不住想，如果能再多一点，或者更明显一点就好了，那种遗憾总是挥之不去。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想可能会让我觉得这些优点虽然不“抢眼”，但确实是我独特的一部分…不过有时候还是会忍不住想，如果能再多一点，或者更明显一点就好了，那种遗憾总是挥之不去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 76,
+    "content": "这样想可能会让我觉得，慢慢探索自己的潜力也算是一种进步，没必要一下子达到完美…不过有时候面对当前的压力，总觉得这些探索显得有点遥远，心里还是会很焦虑。",
+    "has_specific_detail": true,
+    "specific_detail": "这样想可能会让我觉得，慢慢探索自己的潜力也算是一种进步，没必要一下子达到完美…不过有时候面对当前的压力，总觉得这些探索显得有点遥远，心里还是会很焦虑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 77,
+    "content": "先解决最紧急的事可能会让我觉得有了一个清晰的起点，至少能减少一些混乱感…不过完成了一件事后，看到还有一大堆任务在等着，压力还是会一下子涌回来，感觉好像永远做不完一样。",
+    "has_specific_detail": true,
+    "specific_detail": "先解决最紧急的事可能会让我觉得有了一个清晰的起点，至少能减少一些混乱感…不过完成了一件事后，看到还有一大堆任务在等着，压力还是会一下子涌回来，感觉好像永远做不完一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 78,
+    "content": "这样分段可能会让我没那么疲惫，比如完成一部分后就休息一下，感觉会轻松一点…不过有时候休息着休息着，又会想“任务还在那里”，心里还是不踏实，总觉得放松是浪费时间。",
+    "has_specific_detail": true,
+    "specific_detail": "这样分段可能会让我没那么疲惫，比如完成一部分后就休息一下，感觉会轻松一点…不过有时候休息着休息着，又会想“任务还在那里”，心里还是不踏实，总觉得放松是浪费时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 79,
+    "content": "这样想可能会让我觉得放松是为了更好地完成任务，而不是在逃避…不过有时候“充电”完了，重新开始时又提不起劲，好像动力一下子就消散了。",
+    "has_specific_detail": true,
+    "specific_detail": "这样想可能会让我觉得放松是为了更好地完成任务，而不是在逃避…不过有时候“充电”完了，重新开始时又提不起劲，好像动力一下子就消散了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 80,
+    "content": "“先做两分钟”确实听起来更容易开始一点，可能能让我试着迈出第一步…不过有时候即使开始了，心里还是会冒出“这才刚开始，还有一大堆”等等念头，让我觉得很压抑。",
+    "has_specific_detail": true,
+    "specific_detail": "“先做两分钟”确实听起来更容易开始一点，可能能让我试着迈出第一步…不过有时候即使开始了，心里还是会冒出“这才刚开始，还有一大堆”等等念头，让我觉得很压抑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 81,
+    "content": "嗯，提醒自己“我已经在推进”可能会让我觉得事情有在进展，稍微缓解一点焦虑…不过有时候就算这样想，看到任务的整体量，还是会觉得有点喘不过气来，好像永远做不完一样。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，提醒自己“我已经在推进”可能会让我觉得事情有在进展，稍微缓解一点焦虑…不过有时候就算这样想，看到任务的整体量，还是会觉得有点喘不过气来，好像永远做不完一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 82,
+    "content": "只专注于眼前的小部分可能会让我感觉更容易开始，不用总想着全局的压力…不过有时候一旦停下来，就又会被整体的任务量压得喘不过气，感觉那种焦虑还是挥之不去。",
+    "has_specific_detail": true,
+    "specific_detail": "只专注于眼前的小部分可能会让我感觉更容易开始，不用总想着全局的压力…不过有时候一旦停下来，就又会被整体的任务量压得喘不过气，感觉那种焦虑还是挥之不去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 83,
+    "content": "深呼吸几次可能会让我稍微缓一缓，再重新看任务时可能没那么慌…不过有时候就算调整了状态，还是会觉得任务的压力像一座山一样压在那里，真的很难完全放下。",
+    "has_specific_detail": true,
+    "specific_detail": "深呼吸几次可能会让我稍微缓一缓，再重新看任务时可能没那么慌…不过有时候就算调整了状态，还是会觉得任务的压力像一座山一样压在那里，真的很难完全放下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 84,
+    "content": "嗯，把任务看成一块块小石头，确实会让我觉得没那么难以处理，至少每完成一块都能看到一点进展…不过有时候搬着搬着，还是会觉得石头太多，心里忍不住想“什么时候才能搬完”，又开始焦虑了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把任务看成一块块小石头，确实会让我觉得没那么难以处理，至少每完成一块都能看到一点进展…不过有时候搬着搬着，还是会觉得石头太多，心里忍不住想“什么时候才能搬完”，又开始焦虑了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 85,
+    "content": "也许关注每次的努力会让我感觉过程没那么压迫，比如搬掉一块就算是一个小胜利…不过有时候想到最终目标还是那么远，心里还是会有点不甘心，觉得为什么不能更快一些。",
+    "has_specific_detail": true,
+    "specific_detail": "也许关注每次的努力会让我感觉过程没那么压迫，比如搬掉一块就算是一个小胜利…不过有时候想到最终目标还是那么远，心里还是会有点不甘心，觉得为什么不能更快一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 86,
+    "content": "这样想可能会让我觉得慢一点也没关系，至少每一步都在向前靠近目标…不过有时候还是会忍不住问自己，这种坚持到底值不值得，心里有点迷茫。",
+    "has_specific_detail": true,
+    "specific_detail": "这样想可能会让我觉得慢一点也没关系，至少每一步都在向前靠近目标…不过有时候还是会忍不住问自己，这种坚持到底值不值得，心里有点迷茫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 87,
+    "content": "或许可以这样试着想，成长确实是坚持的一个回报，比如感觉自己比以前更能忍住压力…不过有时候成长的变化太慢，还是会让我怀疑这些努力是不是足够值得。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以这样试着想，成长确实是坚持的一个回报，比如感觉自己比以前更能忍住压力…不过有时候成长的变化太慢，还是会让我怀疑这些努力是不是足够值得",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 88,
+    "content": "记录进步可能会让我更直观地看到自己的努力，比如哪怕只完成了一小部分也能算进步…不过有时候写下这些还是会想，为什么这些变化不能快一点，感觉自己总是在追赶时间一样。",
+    "has_specific_detail": true,
+    "specific_detail": "记录进步可能会让我更直观地看到自己的努力，比如哪怕只完成了一小部分也能算进步…不过有时候写下这些还是会想，为什么这些变化不能快一点，感觉自己总是在追赶时间一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 89,
+    "content": "用每周来衡量目标可能会让我觉得没那么紧绷，不用每天都感到被时间压着…不过有时候一周过去了，发现进展还是不如预期，就会觉得特别沮丧，好像还是在拖后腿一样。",
+    "has_specific_detail": true,
+    "specific_detail": "用每周来衡量目标可能会让我觉得没那么紧绷，不用每天都感到被时间压着…不过有时候一周过去了，发现进展还是不如预期，就会觉得特别沮丧，好像还是在拖后腿一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 90,
+    "content": "这样想可能会让我更多地关注过程，而不是只盯着结果，比如发现自己在某些地方掌握得更清楚了…不过有时候学到的东西看起来也不多，就会觉得好像没什么值得肯定的地方，心里还是挺空的。",
+    "has_specific_detail": true,
+    "specific_detail": "这样想可能会让我更多地关注过程，而不是只盯着结果，比如发现自己在某些地方掌握得更清楚了…不过有时候学到的东西看起来也不多，就会觉得好像没什么值得肯定的地方，心里还是挺空的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 91,
+    "content": "也许关注到细节会让我觉得每一点理解都是一种进步，比如掌握了一个新方法或者记住了一个小知识点…不过有时候这些细节还是显得太零碎，感觉距离真正的“成果”还有很远，心里难免有些不满足。",
+    "has_specific_detail": true,
+    "specific_detail": "也许关注到细节会让我觉得每一点理解都是一种进步，比如掌握了一个新方法或者记住了一个小知识点…不过有时候这些细节还是显得太零碎，感觉距离真正的“成果”还有很远，心里难免有些不满足",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 92,
+    "content": "这样想可能会让我觉得每个小细节都在慢慢拼成一个完整的图画，确实更有意义一些…不过有时候这幅“图”显得太大了，拼起来好像永远都看不到全貌，还是觉得有些累。",
+    "has_specific_detail": true,
+    "specific_detail": "这样想可能会让我觉得每个小细节都在慢慢拼成一个完整的图画，确实更有意义一些…不过有时候这幅“图”显得太大了，拼起来好像永远都看不到全貌，还是觉得有些累",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 93,
+    "content": "专注于一个小角落可能会让我觉得目标更明确，比如只先完成一部分的任务，这样负担会小一点…不过有时候完成了这一小部分，看着剩下的地方还是会感到压力，感觉任务一直压在那儿没变轻。",
+    "has_specific_detail": true,
+    "specific_detail": "专注于一个小角落可能会让我觉得目标更明确，比如只先完成一部分的任务，这样负担会小一点…不过有时候完成了这一小部分，看着剩下的地方还是会感到压力，感觉任务一直压在那儿没变轻",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 94,
+    "content": "奖励自己可能会让我觉得轻松一点，比如完成后玩一会儿游戏或者听首歌…不过有时候做完这些放松的事，压力又会回来，感觉奖励只是暂时的缓解，心里的负担还是在。",
+    "has_specific_detail": true,
+    "specific_detail": "奖励自己可能会让我觉得轻松一点，比如完成后玩一会儿游戏或者听首歌…不过有时候做完这些放松的事，压力又会回来，感觉奖励只是暂时的缓解，心里的负担还是在",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 95,
+    "content": "这样提醒自己确实会让我感觉有些进步，比如每完成一部分都在向目标靠近…不过有时候这种进步太慢了，还是会让我觉得不够理想，心里会有点急躁。",
+    "has_specific_detail": true,
+    "specific_detail": "这样提醒自己确实会让我感觉有些进步，比如每完成一部分都在向目标靠近…不过有时候这种进步太慢了，还是会让我觉得不够理想，心里会有点急躁",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 96,
+    "content": "这样想可能会让我觉得慢一点也没关系，至少能让基础更稳固…不过有时候面对那些进展快的人，还是会忍不住想，为什么我不能和他们一样，心里总有种不甘心的感觉。",
+    "has_specific_detail": true,
+    "specific_detail": "这样想可能会让我觉得慢一点也没关系，至少能让基础更稳固…不过有时候面对那些进展快的人，还是会忍不住想，为什么我不能和他们一样，心里总有种不甘心的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 97,
+    "content": "嗯，记录每天的小进步可能会让我更关注自己，比如完成了一些作业或者解决了一个问题，确实能让我感觉稍微好一点…不过有时候这些进步还是觉得太小，总觉得自己离目标还差得远。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，记录每天的小进步可能会让我更关注自己，比如完成了一些作业或者解决了一个问题，确实能让我感觉稍微好一点…不过有时候这些进步还是觉得太小，总觉得自己离目标还差得远",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 98,
+    "content": "分阶段庆祝听起来不错，比如完成一单元后奖励自己吃喜欢的零食，这样可能会更有动力…不过有时候即使完成一个阶段，想到后面还有更多阶段，也还是会觉得压力很大。",
+    "has_specific_detail": true,
+    "specific_detail": "分阶段庆祝听起来不错，比如完成一单元后奖励自己吃喜欢的零食，这样可能会更有动力…不过有时候即使完成一个阶段，想到后面还有更多阶段，也还是会觉得压力很大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 99,
+    "content": "完全放松一段时间听起来挺好的，比如看个电影或者听会儿音乐，可能会让我觉得暂时没那么紧绷…不过有时候放松完了再回到任务上，又会觉得难以重新投入，像是在拖延一样。",
+    "has_specific_detail": true,
+    "specific_detail": "完全放松一段时间听起来挺好的，比如看个电影或者听会儿音乐，可能会让我觉得暂时没那么紧绷…不过有时候放松完了再回到任务上，又会觉得难以重新投入，像是在拖延一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

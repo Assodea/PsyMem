@@ -1,0 +1,498 @@
+[
+  {
+    "turn": 1,
+    "content": "最近学业上有点压力，感觉自己怎么努力都赶不上进度。昨天还因为拖延没完成作业，老师在课上点名批评了我，真的很挫败…",
+    "has_specific_detail": true,
+    "specific_detail": "最近学业上有点压力，感觉自己怎么努力都赶不上进度",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "应该是最近特别明显吧，尤其是这学期课程难度加大了，任务也多了。我总觉得自己做得不够好，就算完成了也很怀疑是不是达到了要求…",
+    "has_specific_detail": true,
+    "specific_detail": "应该是最近特别明显吧，尤其是这学期课程难度加大了，任务也多了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "有时候我会问姐姐，她总是安慰我说没关系，但我心里还是会忍不住觉得自己差劲，尤其是看到同学们都做得那么好…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候我会问姐姐，她总是安慰我说没关系，但我心里还是会忍不住觉得自己差劲，尤其是看到同学们都做得那么好…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "嗯，姐姐对我挺支持的，但每次和同学比较后，我都会觉得更焦虑，总担心自己会拖后腿，甚至怀疑自己是不是不够努力…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，姐姐对我挺支持的，但每次和同学比较后，我都会觉得更焦虑，总担心自己会拖后腿，甚至怀疑自己是不是不够努力…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我觉得两方面都有吧，一方面怕让老师和家人失望，另一方面也觉得自己不该这么差，感觉怎么努力都不够好…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两方面都有吧，一方面怕让老师和家人失望，另一方面也觉得自己不该这么差，感觉怎么努力都不够好…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯…小时候父母对我的期望挺高的，他们总是说“你一定能做到更好”，但如果没达到，他们会有些失望的表情，那种感觉一直让我很难忘记。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯…小时候父母对我的期望挺高的，他们总是说“你一定能做到更好”，但如果没达到，他们会有些失望的表情，那种感觉一直让我很难忘记",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "当时我很少跟父母说自己的感受，可能是怕他们觉得我不够努力吧。我会尽量按他们的要求去做，但内心其实经常很紧张，生怕再让他们失望…",
+    "has_specific_detail": true,
+    "specific_detail": "当时我很少跟父母说自己的感受，可能是怕他们觉得我不够努力吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "应该都有吧，现在遇到压力时，我会逼自己更努力，但如果还是达不到目标，就会特别自责，觉得是不是自己不够好、不够聪明…",
+    "has_specific_detail": true,
+    "specific_detail": "应该都有吧，现在遇到压力时，我会逼自己更努力，但如果还是达不到目标，就会特别自责，觉得是不是自己不够好、不够聪明…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "有时候完成任务后会有一点点成就感，但很快又会觉得“这只是基本的，别人可能做得更好”。这种动力好像有，但更多是焦虑驱动的…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候完成任务后会有一点点成就感，但很快又会觉得“这只是基本的，别人可能做得更好”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "是啊，现在觉得努力不是为了自己，而是为了不让别人失望或者不被落下，确实很沉重，甚至有时候会觉得累得喘不过气…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，现在觉得努力不是为了自己，而是为了不让别人失望或者不被落下，确实很沉重，甚至有时候会觉得累得喘不过气…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "偶尔会试着看书或者画画放松一下，但总觉得时间不够，用在这些事情上会浪费掉学习的时间，心里还是很焦虑…",
+    "has_specific_detail": true,
+    "specific_detail": "偶尔会试着看书或者画画放松一下，但总觉得时间不够，用在这些事情上会浪费掉学习的时间，心里还是很焦虑…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "如果不考虑学习压力的话，我应该会觉得挺自在的吧，画画的时候尤其能让我忘掉很多烦恼，心里会稍微轻松一点…",
+    "has_specific_detail": true,
+    "specific_detail": "如果不考虑学习压力的话，我应该会觉得挺自在的吧，画画的时候尤其能让我忘掉很多烦恼，心里会稍微轻松一点…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得可以试试，但心里可能还是会忍不住想着学习的事，怕耽误进度。不过如果是短时间的话，应该不会有太大影响吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试试，但心里可能还是会忍不住想着学习的事，怕耽误进度",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我觉得每天花十分钟画画可能会有点帮助吧，至少可以让自己稍微喘口气。我可以从明天开始试试，尽量坚持看看效果怎么样…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得每天花十分钟画画可能会有点帮助吧，至少可以让自己稍微喘口气",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "也许会让我没那么焦虑吧，心情放松一点的话，学习的时候可能也会更专注，效率也许会稍微好一些…",
+    "has_specific_detail": true,
+    "specific_detail": "也许会让我没那么焦虑吧，心情放松一点的话，学习的时候可能也会更专注，效率也许会稍微好一些…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 16,
+    "content": "我觉得固定时间可能会比较好，比如晚上学习前画十分钟，这样算是给自己一个过渡，让心情先调整过来，再进入学习状态…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得固定时间可能会比较好，比如晚上学习前画十分钟，这样算是给自己一个过渡，让心情先调整过来，再进入学习状态…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我希望能让心情稍微稳定一些，别总是被焦虑拉着走。如果效率也能提高，那就更好了，但至少别总觉得自己喘不过气就好…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能让心情稍微稳定一些，别总是被焦虑拉着走",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得可以试着调整一下，可能会再试试听音乐或者散步这些方式，找找更适合自己的办法，但还是希望能慢慢找到一种真正有效的方式…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着调整一下，可能会再试试听音乐或者散步这些方式，找找更适合自己的办法，但还是希望能慢慢找到一种真正有效的方式…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我可以试着记录每天的感受，比如画画后是不是感觉心情稍微放松了，学习的时候是不是没那么焦虑，这样大概能看出有没有效果…",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着记录每天的感受，比如画画后是不是感觉心情稍微放松了，学习的时候是不是没那么焦虑，这样大概能看出有没有效果…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "如果那天心情特别好，我可能会奖励自己吃点喜欢的甜点，或者多花一点时间画画，这样感觉轻松的时间也能延续久一点…",
+    "has_specific_detail": true,
+    "specific_detail": "如果那天心情特别好，我可能会奖励自己吃点喜欢的甜点，或者多花一点时间画画，这样感觉轻松的时间也能延续久一点…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "如果发现没什么变化，我可能会先提醒自己别着急，尝试换一种方式，比如多和姐姐聊聊，或者调整下时间，再坚持一阵看看…",
+    "has_specific_detail": true,
+    "specific_detail": "如果发现没什么变化，我可能会先提醒自己别着急，尝试换一种方式，比如多和姐姐聊聊，或者调整下时间，再坚持一阵看看…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 22,
+    "content": "我觉得她会跟我说“慢慢来，不用给自己太大压力”，然后可能还会提醒我别忘了好好吃饭或者早点休息，感觉她总是很贴心…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得她会跟我说“慢慢来，不用给自己太大压力”，然后可能还会提醒我别忘了好好吃饭或者早点休息，感觉她总是很贴心…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我觉得她的话会让我稍微安心一点，至少有人在支持我，不至于完全孤单。有时候听她说“你已经很努力了”，会让我觉得自己还可以再坚持一下…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得她的话会让我稍微安心一点，至少有人在支持我，不至于完全孤单",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我可以试着每天跟她聊聊，比如告诉她今天画了些什么，或者心情有没有好一点，这样也能让我感觉她一直在陪着我，支持我…",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着每天跟她聊聊，比如告诉她今天画了些什么，或者心情有没有好一点，这样也能让我感觉她一直在陪着我，支持我…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得可能还有几个关系不错的朋友吧，虽然不常倾诉，但如果主动找他们聊聊，也许能得到一些安慰。另外，画画本身也算一种陪伴，能让我安静下来…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能还有几个关系不错的朋友吧，虽然不常倾诉，但如果主动找他们聊聊，也许能得到一些安慰",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "也许会试试出去散散步，换个环境看看风景，或者听一些舒缓的音乐，让自己暂时从压力里抽离出来，感觉轻松一点…",
+    "has_specific_detail": true,
+    "specific_detail": "也许会试试出去散散步，换个环境看看风景，或者听一些舒缓的音乐，让自己暂时从压力里抽离出来，感觉轻松一点…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我可能会选个安静的公园，或者有水的地方，比如湖边，感觉这些地方比较平和。音乐的话，可能会听一些纯音乐或者轻柔的钢琴曲，比较舒缓…",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会选个安静的公园，或者有水的地方，比如湖边，感觉这些地方比较平和",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我可能更倾向于独自享受吧，感觉一个人安静地待一会儿比较放松。不过如果姐姐有时间陪我去，也会觉得挺温暖的…",
+    "has_specific_detail": true,
+    "specific_detail": "我可能更倾向于独自享受吧，感觉一个人安静地待一会儿比较放松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "可能会带上一个小本子，随手画点风景或者写下自己的感受吧。这样一边观察周围，一边记录下来，感觉会更融入那个安静的环境…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会带上一个小本子，随手画点风景或者写下自己的感受吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得两方面可能都会写一些吧，心情和周围的细节常常是连在一起的，比如听到鸟叫或者闻到草的味道，会让我觉得平静一点，就会想记下来…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两方面可能都会写一些吧，心情和周围的细节常常是连在一起的，比如听到鸟叫或者闻到草的味道，会让我觉得平静一点，就会想记下来…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得会让我更关注身边的美好吧，可能也会让我变得稍微乐观一点，不再总是被负面情绪占据，能更享受当下的时刻…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会让我更关注身边的美好吧，可能也会让我变得稍微乐观一点，不再总是被负面情绪占据，能更享受当下的时刻…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "如果心态改善了，我可能会买一本更漂亮的笔记本，把它当作记录专用，感觉会更有仪式感，也算是对自己的一个鼓励和奖励吧…",
+    "has_specific_detail": true,
+    "specific_detail": "如果心态改善了，我可能会买一本更漂亮的笔记本，把它当作记录专用，感觉会更有仪式感，也算是对自己的一个鼓励和奖励吧…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我觉得翻看时可能会感受到那段时间的努力和改变吧，也会提醒自己其实可以慢慢变好，这种回忆应该会给我继续前行的力量…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得翻看时可能会感受到那段时间的努力和改变吧，也会提醒自己其实可以慢慢变好，这种回忆应该会给我继续前行的力量…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我想记录一个黄昏时的场景吧，天边的云被夕阳染成橙色，微风轻轻吹过，周围很安静，那种时候我觉得心会特别平静…",
+    "has_specific_detail": true,
+    "specific_detail": "我想记录一个黄昏时的场景吧，天边的云被夕阳染成橙色，微风轻轻吹过，周围很安静，那种时候我觉得心会特别平静…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我可能更想用画笔表达吧，画出橙色的云和柔和的光影，感觉比文字更能呈现当时的氛围，也让我更容易沉浸在那个时刻…",
+    "has_specific_detail": true,
+    "specific_detail": "我可能更想用画笔表达吧，画出橙色的云和柔和的光影，感觉比文字更能呈现当时的氛围，也让我更容易沉浸在那个时刻…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我觉得会夹在笔记本里，这样以后翻看记录的时候能看到它，仿佛又回到那个平静的黄昏，感觉会特别温暖…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会夹在笔记本里，这样以后翻看记录的时候能看到它，仿佛又回到那个平静的黄昏，感觉会特别温暖…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得它可能会让我更关注生活中的小美好，而不是一味被压力和焦虑裹挟。也许我会慢慢学会，哪怕在忙碌中也能找到属于自己的那点平静…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得它可能会让我更关注生活中的小美好，而不是一味被压力和焦虑裹挟",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "嗯，我觉得确实有了一些新的想法，比如尝试用画画和记录的方式来缓解情绪，也开始意识到自己是可以找到平静的，只要愿意去尝试。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得确实有了一些新的想法，比如尝试用画画和记录的方式来缓解情绪，也开始意识到自己是可以找到平静的，只要愿意去尝试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

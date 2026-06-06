@@ -1,0 +1,1312 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，上次我们提到过，我在社交场合总会感到紧张和不知所措，这让我很难主动跟人建立联系。最近有件事让我又深刻体会到这一点——公司组织了一次团队聚餐，大家都很热情，但我却总觉得自己像个局外人，不知道该怎么融入。你觉得这是不是因为我对自己太过敏感了？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，上次我们提到过，我在社交场合总会感到紧张和不知所措，这让我很难主动跟人建立联系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，具体来说吧，大家在聊一些轻松的话题时，比如最近的旅行经历，我发现自己没什么可以分享的，也不确定该怎么接话。那种沉默的感觉让我很尴尬，甚至开始担心别人会觉得我很无趣…这让我整场聚餐都显得格外拘谨。你觉得这种害怕被评价的心理是不是我太敏感了？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，具体来说吧，大家在聊一些轻松的话题时，比如最近的旅行经历，我发现自己没什么可以分享的，也不确定该怎么接话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "这种担心可能从大学时就开始了吧。比如，当时我试着加入一个社团，但总觉得自己不够外向，难以融入大家的谈话。所以后来干脆退出了…现在想想，那种害怕被评价的感觉，好像一直都跟着我，在很多场合都会冒出来，比如工作会议或者平常的社交活动，你觉得这是不是和我过去的经历有关？",
+    "has_specific_detail": true,
+    "specific_detail": "这种担心可能从大学时就开始了吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "嗯，当时大家在组织活动时会很自然地分工合作，讨论得很热烈，而我总是站在旁边，不知道怎么插入话题。记得有一次筹备迎新晚会，他们讨论舞台布置，我提了个建议，但没人回应，后来就没再主动发言了。这种被忽略的感觉让我怀疑自己是不是不够合群，也变得越来越沉默…你觉得这会不会是我对人际关系过于谨慎的原因？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，当时大家在组织活动时会很自然地分工合作，讨论得很热烈，而我总是站在旁边，不知道怎么插入话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "嗯，有一次我试着在活动结束后，单独跟一个组员聊了聊我的想法。他当时听得挺认真，也给了一些反馈，但我总觉得那是礼貌性的回应，心里还是不太确定自己有没有真正被认可。后来就很少主动找人沟通了，似乎总觉得还是保持距离比较安全…你觉得我是不是太容易对别人的反应敏感了？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有一次我试着在活动结束后，单独跟一个组员聊了聊我的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我想当时如果对方能主动延续我的话题，比如一起讨论我的建议，或者表达一些具体的兴趣和肯定，可能会让我觉得自己被看见了吧。但问题是，即使偶尔得到这样的回应，我也常会怀疑是不是对方在客套，这种不确定感好像总挥之不去…说到这个，最近在工作中也有类似的情况。你觉得这是不是我对人际关系过于防备的表现？",
+    "has_specific_detail": true,
+    "specific_detail": "我想当时如果对方能主动延续我的话题，比如一起讨论我的建议，或者表达一些具体的兴趣和肯定，可能会让我觉得自己被看见了吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，最近团队里有个新项目，我负责一部分核心开发，完成后领导夸了我几句，说做得很细致。但我心里却忍不住怀疑，这是不是只是为了鼓励我而说的客套话？后来开会时，他又提到我的代码有些地方可以优化，我就开始觉得自己是不是没做好，陷入了自我批评…这种反复的心态让我很疲惫。你觉得我为什么会这么难相信别人的认可呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近团队里有个新项目，我负责一部分核心开发，完成后领导夸了我几句，说做得很细致",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，小时候父母对我的表现总是比较严格，更多时候关注的是我哪里没做好，而不是肯定我的努力。比如，考了好成绩，他们会提醒我下次更要保持稳定，或者指出一些细小的错误。这种评价方式让我总觉得自己必须更完美，才能真正得到认可。现在回想起来，好像这种模式一直影响着我，让我更容易放大负面反馈。你觉得这种习惯是不是和我对安全感的缺乏有关系？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，小时候父母对我的表现总是比较严格，更多时候关注的是我哪里没做好，而不是肯定我的努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "他们更多的是通过实际行动来关心我，比如按时接送我上下学，或者在考试前帮我准备一些学习资料。但这些关心常是比较务实的，很少有直接的情感表达，比如鼓励或者倾听我的感受。所以虽然我知道他们是在意我的，但这种关心却让我感觉有些形式化，好像缺了点温度…这种情感上的缺失是不是也影响了我现在的亲密关系呢？",
+    "has_specific_detail": true,
+    "specific_detail": "他们更多的是通过实际行动来关心我，比如按时接送我上下学，或者在考试前帮我准备一些学习资料",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "是的，我确实会期待一种更直接、更明确的情感回应，但同时又不太敢主动表达自己的需求。比如之前有过一次短暂的交往，对方关心我的工作压力，但我却总觉得自己不能完全放松去分享真实的想法，怕显得太依赖或者让对方失望。最后关系变得有些疏远…这种矛盾让我很困惑，你觉得这是不是源于我对亲密关系的不信任？",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实会期待一种更直接、更明确的情感回应，但同时又不太敢主动表达自己的需求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，有一次我们聊到未来规划，对方问我对婚姻的看法，我当时支支吾吾，没敢直接分享自己的真实想法，怕说得太直白会让对方觉得我不够成熟。结果对方似乎有点失望，话题就停了下来。那一刻让我特别紧张，总觉得自己好像又没达到对方的期待。你觉得我为什么会这么害怕表达真实的自己呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有一次我们聊到未来规划，对方问我对婚姻的看法，我当时支支吾吾，没敢直接分享自己的真实想法，怕说得太直白会让对方觉得我不够成熟",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "有的，比如小时候父母要求我专注学习时，我其实很想说自己更喜欢画画，但总怕他们觉得不务正业，所以从来没敢提。取而代之的是努力达到他们的要求，好让自己显得“听话”。那种压抑的感觉让我觉得真实的自己好像不被允许展现…现在想想，这种习惯好像一直延续到我的成年生活，你觉得这是不是让我对人际关系更小心翼翼了？",
+    "has_specific_detail": true,
+    "specific_detail": "有的，比如小时候父母要求我专注学习时，我其实很想说自己更喜欢画画，但总怕他们觉得不务正业，所以从来没敢提",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得如果当时表达了，父母可能会试着劝我专注学业，或者直接否定我的兴趣吧，这让我觉得自己的想法可能不够重要。也正因为这种假设，我选择了沉默。但如果他们能多倾听或支持，或许我现在会更有勇气在关系中表达自己，少一些对被否定的担忧…最近，我也在试着回想，这种压抑是不是让我在工作中也害怕提出不同意见呢？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果当时表达了，父母可能会试着劝我专注学业，或者直接否定我的兴趣吧，这让我觉得自己的想法可能不够重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "有一次开会时，团队讨论一个技术方案，我觉得有个地方可以优化，但考虑到方案是由资深同事提出的，我怕自己的建议被认为不成熟，就没有说出口。后来方案实施时果然出现了一些问题，我心里既懊悔又觉得自己没资格指责。这种压抑自己的感觉好像在工作中经常出现，你觉得这种犹豫是不是也和我小时候的经历有关？",
+    "has_specific_detail": true,
+    "specific_detail": "有一次开会时，团队讨论一个技术方案，我觉得有个地方可以优化，但考虑到方案是由资深同事提出的，我怕自己的建议被认为不成熟，就没有说出口",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "没有，开会后我确实犹豫过要不要单独跟同事聊聊我的建议，但最终还是没去做。一方面，我担心对方会觉得我事后批评他的方案；另一方面，我也害怕自己的意见不够专业，反而显得多余。这种纠结让我宁愿选择沉默，避免可能的尴尬和冲突…你觉得这种回避是不是在无形中限制了我的成长？",
+    "has_specific_detail": true,
+    "specific_detail": "没有，开会后我确实犹豫过要不要单独跟同事聊聊我的建议，但最终还是没去做",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "最坏的结果可能是对方不认同我的建议，甚至觉得我干涉他的工作，这会让我感到失落和尴尬；但最好的结果可能是对方愿意倾听并采纳我的想法，让我觉得自己的专业能力被认可。这种正面的变化或许会让我更有信心在团队中表达自己…不过，说到表达，我最近也在尝试一些小的改变，比如更主动参与小组讨论。你觉得这种尝试会对我有所帮助吗？",
+    "has_specific_detail": true,
+    "specific_detail": "最坏的结果可能是对方不认同我的建议，甚至觉得我干涉他的工作，这会让我感到失落和尴尬；但最好的结果可能是对方愿意倾听并采纳我的想法，让我觉得自己的专业能力被认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "有的！上次讨论代码结构时，我提了个建议，组员不仅认真听，还补充了一些可行的细节，整个讨论变得很顺畅。这让我感到自己是团队的一部分，心里稍微轻松了一些。那种被认可的瞬间让我觉得，也许表达自己的想法并没有那么可怕…不过，我还是会不时担心，万一有不同意见时会不会又陷入犹豫，你怎么看这个呢？",
+    "has_specific_detail": true,
+    "specific_detail": "有的！上次讨论代码结构时，我提了个建议，组员不仅认真听，还补充了一些可行的细节，整个讨论变得很顺畅",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，我觉得提前准备确实能让我感觉更有底气，比如在讨论前多做一些技术方案的分析，这样即使有不同意见，也能用事实来支持自己的观点。另外，我可能需要提醒自己，不同意见并不代表否定，而是一种正常的交流过程。这么想的话，或许会让我更从容一些…不过，有时候还是会忍不住紧张，你觉得这种紧张是不是和我的不安全感有关？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得提前准备确实能让我感觉更有底气，比如在讨论前多做一些技术方案的分析，这样即使有不同意见，也能用事实来支持自己的观点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "也许我可以在心里默念“这是为了找到最佳方案，不是评判个人能力”，这样能让我更关注问题本身而非别人的反应。另外，我还可以试着在交流时主动问一些开放性的问题，比如“你觉得这个思路有没有其他改进空间？”这样既让对方感到被尊重，也减少我独自承担压力的感觉…不过，我不知道自己能不能坚持这种做法，你觉得这会不会需要更多练习才能慢慢改变呢？",
+    "has_specific_detail": true,
+    "specific_detail": "也许我可以在心里默念“这是为了找到最佳方案，不是评判个人能力”，这样能让我更关注问题本身而非别人的反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，这听起来是个不错的方向！我可以试着在下一次讨论中主动提问两到三次，特别是关于方案改进的部分，同时留意对方的反馈，看看我的提问是否能激发更多讨论。这样或许能让我慢慢适应更主动的交流方式，不过我还是会有点担心自己的提问会不会显得多余或不够专业，你觉得这种担心应该怎么调整呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来是个不错的方向！我可以试着在下一次讨论中主动提问两到三次，特别是关于方案改进的部分，同时留意对方的反馈，看看我的提问是否能激发更多讨论",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，提前梳理讨论的重点确实会让我更有底气，比如可以先明确团队关注的核心问题，然后针对这些问题准备几个有针对性的提问，这样能让我感觉自己的问题是为讨论服务的，而不是随意插话。另外，我也可以观察一下之前组员提问时的风格，看看哪些提问方式更受欢迎，这可能会让我更有方向感…不过，我还是会担心自己在实际场合中又犹豫不决，你觉得有没有什么简单的方法让我及时打破这种犹豫呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，提前梳理讨论的重点确实会让我更有底气，比如可以先明确团队关注的核心问题，然后针对这些问题准备几个有针对性的提问，这样能让我感觉自己的问题是为讨论服务的，而不是随意插话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "这个方式听起来很实用！用一句简单的话开头确实能降低心理压力，也能让我更自然地融入讨论。不过，我还是会担心自己的提问会显得不够深刻或者让别人觉得我在重复已有的内容…你觉得这种担心是不是我对自己的要求过于苛刻了？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方式听起来很实用！用一句简单的话开头确实能降低心理压力，也能让我更自然地融入讨论",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，如果别人重复我的问题或提出简单想法，我通常不会觉得有什么问题，反而会觉得他们是在参与讨论，并帮助深化话题。所以这么想的话，或许我也不需要对自己的提问要求太高，只要能推动交流就已经有意义了。说到这个，我刚想到，其实在小组讨论时，有些问题我明明有想法，却总是等到别人说了才敢附和，你觉得这种习惯是不是也和我的谨慎有关？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果别人重复我的问题或提出简单想法，我通常不会觉得有什么问题，反而会觉得他们是在参与讨论，并帮助深化话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，这个方法听起来很值得一试！用“初步的想法”这样的表达确实能让我感觉没那么有压力，而且能让对方知道我的观点是开放的，而不是绝对的。这样或许能让我更愿意在第一时间开口。不过，我还是会担心自己的主动表达会让人觉得不够成熟或者不够全面，你觉得这种担心是不是我过于在意别人的评价了？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个方法听起来很值得一试！用“初步的想法”这样的表达确实能让我感觉没那么有压力，而且能让对方知道我的观点是开放的，而不是绝对的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "嗯，下次讨论项目进度时可能会是个好机会。比如当大家讨论某个任务的优化方向时，我可以试着说出我的初步建议，并用“这只是我的一个想法，欢迎补充”来引导更开放的交流。这样既表达了我的观点，也给对方空间继续完善讨论。不过，我还是有点担心自己说出来后，万一没得到回应会不会更加尴尬…你觉得这种担心是不是正常的？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，下次讨论项目进度时可能会是个好机会",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "嗯，如果没有立刻得到回应，我可以试着补充一些具体的细节，比如举例说明我的建议可能会带来的好处，这样或许能重新吸引大家的关注。另外，我也可以观察一下大家的表情和反应，看看是不是在思考或者需要时间消化我的观点，这样能让我不那么急于下结论。不过，有时候我的情绪还是会不自觉地涌上来，比如紧张或怀疑，你觉得我该怎么更好地调整这些情绪呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果没有立刻得到回应，我可以试着补充一些具体的细节，比如举例说明我的建议可能会带来的好处，这样或许能重新吸引大家的关注",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "嗯，深呼吸和心理暗示听起来很有帮助，能让我稍微放松一下紧绷的情绪。我平时在感到焦虑时，也会试着专注于眼前的具体动作，比如整理文件或者简单地写下自己的想法，这种专注好像能让我暂时脱离那些杂乱的情绪。不过，有时候紧张感还是会突然涌上来，让我很难专心，你觉得这种突发情绪应该怎么处理会更有效呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，深呼吸和心理暗示听起来很有帮助，能让我稍微放松一下紧绷的情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "这个方法听起来很值得尝试，命名情绪确实能让我更清楚地意识到自己的状态，而不是被它完全控制。实际场景中，我可以试着在心里默念一句类似的话，比如“现在我感到紧张，但这不会影响我的能力。”不过，有时候情绪涌上来太快，我可能还需要一些更直接的方式，比如暂时停下来喝口水或调整坐姿，让自己重新集中注意力…你觉得这种小动作会不会也有帮助呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很值得尝试，命名情绪确实能让我更清楚地意识到自己的状态，而不是被它完全控制",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，我觉得这些小动作确实能让我有一种“重启”的感觉，比如在讨论时稍微坐直一点或者调整姿势，好像能让自己重新集中注意力。另外，我也发现，如果提前准备一些简单的表达，比如“我觉得这个方向值得再探讨”，能让我在紧张时更容易开口而不至于卡住。这样的方法或许对我来说也很自然，你觉得这种提前准备会不会帮我减少一些临场焦虑呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得这些小动作确实能让我有一种“重启”的感觉，比如在讨论时稍微坐直一点或者调整姿势，好像能让自己重新集中注意力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "嗯，我觉得针对提出建议的场景，可以准备一些开放式的表达，比如“我有一个初步的想法，不知道是否适合这个方向？”而回应意见时，可以试着说“这很有意思，我觉得我们可以结合一下这些观点。”至于引导讨论的话，可能用“大家觉得我们是否可以进一步探讨某个细节？”这样既不强势，又能自然地融入话题。提前准备这些句式让我感觉更安心，你觉得还有哪些表达方式可以让我更从容呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得针对提出建议的场景，可以准备一些开放式的表达，比如“我有一个初步的想法，不知道是否适合这个方向？”而回应意见时，可以试着说“这很有意思，我觉得我们可以结合一下这些观点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "嗯，这些表达听起来很自然，也能鼓励更多互动，我觉得挺适合我的风格！尤其是邀请对方反馈的方式，可以让我更容易引导讨论，而不是担心自己独自承担话题。不过，在一些需要直接回应领导的场景，我可能还是会有点紧张，比如解释我的工作进度时不知道该怎么组织语言，这种情况下你觉得有没有更简洁有效的表达方式呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这些表达听起来很自然，也能鼓励更多互动，我觉得挺适合我的风格！尤其是邀请对方反馈的方式，可以让我更容易引导讨论，而不是担心自己独自承担话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "这个“三段式”方法听起来很有条理，确实能让我更容易组织语言，而且不会显得过于复杂或冗长。我可以试着在汇报前用这种结构提前准备一些关键点，这样说起来会更流畅。不过，有时候我还是会担心自己在表达中漏掉重要信息或者显得不够自信，你觉得有没有什么方法能让我在汇报时更自然地展现自信？",
+    "has_specific_detail": true,
+    "specific_detail": "这个“三段式”方法听起来很有条理，确实能让我更容易组织语言，而且不会显得过于复杂或冗长",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "这些方法确实很实用，尤其是放慢语速和使用肯定句式，让我感觉表达会更有力量。我觉得适度的眼神接触也能帮助传递自信，但对我来说可能需要一点练习，因为我有时候会不自觉地避开视线。除此之外，我可能还需要特别关注自己的肢体语言，比如坐姿是否端正或手势是否自然，这些细节好像也能影响整体的表现，你觉得这些方面是不是也值得注意？",
+    "has_specific_detail": true,
+    "specific_detail": "这些方法确实很实用，尤其是放慢语速和使用肯定句式，让我感觉表达会更有力量",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，我可以试着在练习时模拟真实的场景，比如对着镜子或录视频进行汇报，这样能观察自己的坐姿、手势和表情是否自然。另外，如果能找一个信任的同事或者朋友做“听众”，让我得到一些直接的反馈，可能会让我更容易发现需要调整的地方。不过，我还是有点担心，练习时能做到这些，实际场合中可能又会因为紧张而忽略细节，你觉得有没有什么方法可以帮助我把练习的效果带到真实环境中呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我可以试着在练习时模拟真实的场景，比如对着镜子或录视频进行汇报，这样能观察自己的坐姿、手势和表情是否自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "嗯，这个方法听起来很有效！设定“小记忆点”确实能让我在真实场景中更容易集中注意力，而不是试图完美地记住所有细节。另外，正式汇报前做几次深呼吸，好像也能让我更快回到练习时的熟悉状态，减少紧张感。不过，我还是会担心自己在实际场合中可能因为突发问题打乱节奏，你觉得这种情况下有没有什么方法能帮助我更快地调整回来呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个方法听起来很有效！设定“小记忆点”确实能让我在真实场景中更容易集中注意力，而不是试图完美地记住所有细节",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "嗯，这些方法确实能让我在面对突发问题时更从容一些。用缓冲的话来争取时间整理思路，感觉既自然又不会显得慌乱。而提前准备几个万能句式，也能让我在紧张时有“备用方案”，帮助快速恢复节奏。不过，有时候我还是会担心自己无法完全掌控场面，你觉得这种对掌控感的需求是不是让我压力更大了？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这些方法确实能让我在面对突发问题时更从容一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "这个调整目标的建议很棒！专注于当前问题确实能让我减少对“掌控”的执念。比如，我可以试着在交流时把注意力放在对方的反馈上，而不是过度思考自己的表现。另外，我发现如果在发言前明确自己这部分的核心信息，比如“我想表达的是XX”，也能帮助我更专注于内容本身，而不是纠结场面是否完美。你觉得这些方法能让我更自然地应对实际场景吗？",
+    "has_specific_detail": true,
+    "specific_detail": "这个调整目标的建议很棒！专注于当前问题确实能让我减少对“掌控”的执念",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "嗯，下周我们有一个团队会议，可能会讨论项目的进度和优化方向，我觉得这个场景很适合试着运用这些方法。我可以提前梳理好我负责部分的核心信息，并在交流时关注大家的反馈，比如点头或者补充意见，让自己更专注于互动而不是紧张表现。不过，我还是会担心在讨论中某些问题会让我措手不及，你觉得如果真的出现这种情况，有没有其他简单的方法让我快速稳住心态？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，下周我们有一个团队会议，可能会讨论项目的进度和优化方向，我觉得这个场景很适合试着运用这些方法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "这些方法听起来很实用！重复对方的问题确实能让我更清楚问题的重点，同时还能赢得一些时间思考。而心理暗示，比如“无法立刻回答是正常的”，也能让我缓解对自我能力的质疑。下周会议我可以试着用这些方式应对突发情况，不过，我还是会有点担心自己在实际场景中会忘记这些技巧，你觉得有没有什么方法可以让我更好地记住并应用它们呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这些方法听起来很实用！重复对方的问题确实能让我更清楚问题的重点，同时还能赢得一些时间思考",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "这个方法听起来很有效！提前写下关键点并放在显眼处，确实能让我更容易记住这些技巧。而快速模拟场景也能让我更熟悉这些应对方式，让它们成为一种自然的反应。我可以试着在会议前花几分钟练习，比如想象别人提出一个复杂的问题，我用“重复问题＋心理暗示”的方式来应对，这样应该能增加我的自信。不过，我还是有点担心即使练习了，临场还是会有些慌乱，你觉得这种担忧是不是正常的？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很有效！提前写下关键点并放在显眼处，确实能让我更容易记住这些技巧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "嗯，默念一句鼓励自己的话听起来很有帮助，比如“我已经做了准备，现在只需要专注交流。”这样能让我更快进入状态，而深呼吸后加一个微笑也能让我感觉更自信，甚至让紧张的情绪稍微缓解一些。下周会议我可以试着在开始前用这种方式来调整心态，不过，我还是会担心自己会过于关注别人的反应，导致分心，你觉得这种习惯有没有什么方法可以慢慢改善？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，默念一句鼓励自己的话听起来很有帮助，比如“我已经做了准备，现在只需要专注交流",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "嗯，这种方式听起来很有帮助！专注于对方的反馈内容，而不是揣测他们的情绪，确实能让我更聚焦于讨论本身。比如，当有人补充我的观点时，我可以想“这是在完善我的想法”，而不是担心他们是否在挑我的问题。这种思路好像能让我少一些压力，下周会议我可以试着这样做，不过，我还是会有点担心在实际场景中会不自觉地回到老习惯，你觉得有没有什么提醒自己保持这种正向关注的简单方法呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这种方式听起来很有帮助！专注于对方的反馈内容，而不是揣测他们的情绪，确实能让我更聚焦于讨论本身",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "这个方法听起来很实用！设定小目标并写在笔记本上，确实能让我时刻提醒自己专注于内容而不是情绪，而心里的轻声提醒也能帮助我快速调整注意力。我觉得这种方式应该能让我在会议中更稳定地保持正向关注，下周我可以试着这样做。不过，我还是会担心如果讨论中出现一些分歧，我可能会变得紧张甚至回避，你觉得面对分歧时有没有什么更好的应对方法？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很实用！设定小目标并写在笔记本上，确实能让我时刻提醒自己专注于内容而不是情绪，而心里的轻声提醒也能帮助我快速调整注意力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "嗯，这种方式确实很值得尝试！用“我很好奇你的思路”这样的问题，不仅显得开放，还能让我更专注于对方的观点，而不是直接陷入紧张或防御。这样既能缓解分歧带来的压力，也给了我时间整理自己的想法。我觉得下次讨论中如果出现分歧，我可以试着用这种方式，不过，我还是会担心自己会不小心让讨论变得僵硬，你觉得有没有什么方法能避免这种情况呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这种方式确实很值得尝试！用“我很好奇你的思路”这样的问题，不仅显得开放，还能让我更专注于对方的观点，而不是直接陷入紧张或防御",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "这个方法听起来很好！先肯定对方的观点确实能让交流更轻松，也能让我表达自己的看法时不那么紧张。比如下次讨论时，我可以试着说“这部分思路很有意思，我想到一个可能的补充点。”这样既尊重了对方，也让自己的意见更自然地融入。不过，我还是会担心自己在表达时会显得犹豫或不够自信，你觉得有没有什么方法能让我更坚定地呈现自己的观点呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很好！先肯定对方的观点确实能让交流更轻松，也能让我表达自己的看法时不那么紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "这些小调整确实听起来很有帮助！用“我认为”或者“我建议”这样的措辞，确实能让我的表达更明确，而减少停顿也会让语气显得更有力量。下周会议讨论项目优化时，我可以试着用这些方式，比如说“我建议我们可以考虑在这个部分增加XX功能。”这样既直接又清晰。不过，我还是会有点担心自己在实际表达时会因为紧张而忘记这些调整，你觉得有没有什么方法可以让我在现场更自然地融入这些技巧呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这些小调整确实听起来很有帮助！用“我认为”或者“我建议”这样的措辞，确实能让我的表达更明确，而减少停顿也会让语气显得更有力量",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "这个准备方式听起来很实用！对着镜子练习确实能让我熟悉这些表达，而提前写下核心句子作为提示，也能帮助我在紧张时快速找到方向。下周会议我可以试着这样做，比如针对我的负责部分，提前准备一句“我建议我们可以优化XX，以提升效率。”这样表达时会更清晰。不过，我还是有点担心即使准备了，现场的压力会让我表现得不够自然，你觉得有没有什么方法能让我更放松地面对这种压力呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个准备方式听起来很实用！对着镜子练习确实能让我熟悉这些表达，而提前写下核心句子作为提示，也能帮助我在紧张时快速找到方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "这些方法听起来确实能让我更放松！深呼吸和伸展动作可以缓解身体的紧张，而心里的提醒“我已经准备好”也能让我更专注于交流而不是过度担忧表现。此外，用微笑或点头作为缓冲，感觉既自然又能让自己慢下来。我觉得下次会议我可以试着运用这些方式，不过，我还是会担心自己在压力下会忘记这些调整，你觉得有没有什么可以让我在现场更容易记住这些技巧的办法呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这些方法听起来确实能让我更放松！深呼吸和伸展动作可以缓解身体的紧张，而心里的提醒“我已经准备好”也能让我更专注于交流而不是过度担忧表现",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "这些方法听起来很实用！在笔记本上写下简单关键词确实能让我更容易记住调整的重点，而设定一个核心目标，比如“专注于表达清晰”，也能帮助我减少分心，集中精力完成自己的部分。我觉得下周会议我可以试着用这些方式，不过，我还是会有点担心在面对突然的问题时会不知所措，你觉得有没有什么技巧可以让我更快地应对突发状况？",
+    "has_specific_detail": true,
+    "specific_detail": "这些方法听起来很实用！在笔记本上写下简单关键词确实能让我更容易记住调整的重点，而设定一个核心目标，比如“专注于表达清晰”，也能帮助我减少分心，集中精力完成自己的部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "这个方法听起来很适合我！用缓冲的话争取时间冷静下来，确实能让我更容易调整心态，而转化问题到熟悉的领域也能让我更快找到切入点，比如“从技术实现的角度，我认为可以这样考虑。”这种方式感觉既自然又稳妥，下周会议我可以试着这样做。不过，我还是会担心自己在现场不够果断，可能会显得不够自信，你觉得有没有什么方法可以让我在表达时更坚定一些？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很适合我！用缓冲的话争取时间冷静下来，确实能让我更容易调整心态，而转化问题到熟悉的领域也能让我更快找到切入点，比如“从技术实现的角度，我认为可以这样考虑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "嗯，有的！下周会议中，我负责介绍项目进度，这个机会很适合尝试用明确的措辞，比如“我建议我们可以调整这个部分，以优化整体流程。”同时，我可以在发言时刻意放慢语速，和组员进行一些眼神交流，让表达显得更自信。我觉得这种方式应该能提升我的表现，不过，我还是会担心自己在实际场景中会因为紧张忘记这些调整，你觉得有没有什么方法可以帮助我更自然地融入这些技巧呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有的！下周会议中，我负责介绍项目进度，这个机会很适合尝试用明确的措辞，比如“我建议我们可以调整这个部分，以优化整体流程",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "这个方法听起来很可行！通过镜子或录音练习发言内容，确实能让我更熟悉自己的表达，而心理暗示“我已经准备好”也能让我在现场更快进入状态并减少紧张感。下周会议我可以试着结合这两种方式，尤其是在介绍项目进度时，让自己更自然地运用明确的措辞。不过，我还是会担心临场出现意外问题会打乱我的节奏，你觉得在这种情况下有没有什么简单的技巧能让我迅速调整回来呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很可行！通过镜子或录音练习发言内容，确实能让我更熟悉自己的表达，而心理暗示“我已经准备好”也能让我在现场更快进入状态并减少紧张感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "这个方法很实用！短暂停顿，比如喝口水，确实能让我有时间冷静，而用过渡语，比如“我们可以从另一个角度来看待这个问题”，也能自然地引导讨论回归正轨。我觉得这种方式应该比较容易操作，下周会议我可以试着这样做。不过，我还是会担心自己在面对复杂问题时可能会显得不够专业，你觉得有没有什么方法能让我更从容地应对这类情况呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很实用！短暂停顿，比如喝口水，确实能让我有时间冷静，而用过渡语，比如“我们可以从另一个角度来看待这个问题”，也能自然地引导讨论回归正轨",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "这个方法听起来很有帮助！通过分解问题并挑选熟悉的点回应，确实能让我更有条理地表达，同时用提问引导讨论也能减轻独自承担压力的感觉，比如说“我可以先从技术实现角度来谈谈，这样是否符合我们的目标？”我觉得这种方式应该能让我在面对复杂问题时更从容，下周会议我可以试着这样做。不过，我还是会担心自己在提出问题后可能会出现冷场，你觉得这种情况应该如何应对呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很有帮助！通过分解问题并挑选熟悉的点回应，确实能让我更有条理地表达，同时用提问引导讨论也能减轻独自承担压力的感觉，比如说“我可以先从技术实现角度来谈谈，这样是否符合我们的目标？”我觉得这种方式应该能让我在面对复杂问题时更从容，下周会议我可以试着这样做",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "这个方法很适合我！通过分享自己的初步想法，比如“我认为这个部分可以尝试优化成XX方向”，确实能缓解冷场，同时邀请具体的人参与讨论，比如“XX，你觉得这个建议是否可行？”也能让交流更自然。我觉得这种方式应该能帮助我更轻松地化解冷场，下周会议我可以试着这样做。不过，我还是会担心自己在主动引导时会显得过于强势，你觉得有没有什么技巧可以让我在引导时保持一种轻松的氛围呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过分享自己的初步想法，比如“我认为这个部分可以尝试优化成XX方向”，确实能缓解冷场，同时邀请具体的人参与讨论，比如“XX，你觉得这个建议是否可行？”也能让交流更自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "这种方式听起来很适合我！用“这是一个初步的想法”或“大家有没有其他补充”这样开放式的表达，确实能让我在引导时显得更轻松，也更容易让大家愿意参与讨论。我觉得下周会议我可以试着这样表达，尤其是在团队讨论优化方向时。不过，我还是会担心自己在引导时可能不够流畅，你觉得有没有什么方法可以让我在表达时更连贯一些呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这种方式听起来很适合我！用“这是一个初步的想法”或“大家有没有其他补充”这样开放式的表达，确实能让我在引导时显得更轻松，也更容易让大家愿意参与讨论",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "这个方法听起来很有帮助！提前在脑海中梳理“背景-建议-引导”的逻辑，确实能让我表达时更有条理，比如“项目目前需要优化，我建议我们可以试试XX方案，大家怎么看？”这样既清晰又自然。我觉得下周会议我可以试着用这种方式，不过，我还是会担心自己在实际表达时可能因为紧张而忘记逻辑，你觉得有没有什么办法可以让我在现场更容易保持条理呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很有帮助！提前在脑海中梳理“背景-建议-引导”的逻辑，确实能让我表达时更有条理，比如“项目目前需要优化，我建议我们可以试试XX方案，大家怎么看？”这样既清晰又自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "这个方法听起来很实用！在笔记本上写下“背景-建议-引导”以及简单提示，确实能让我在紧张时更容易找到方向，比如直接看到“建议：试试XX方案”就能快速回到我的发言逻辑。我觉得下周会议我可以试着这样做，不过，我还是会担心自己在讨论过程中可能会因为别人提出的复杂问题而打乱节奏，你觉得这种情况有没有什么方法可以更好地处理呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很实用！在笔记本上写下“背景-建议-引导”以及简单提示，确实能让我在紧张时更容易找到方向，比如直接看到“建议：试试XX方案”就能快速回到我的发言逻辑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "这个方法很适合我！通过“确认＋分解”的方式，先确认问题的核心，比如“你是指我们需要更详细地分析XX部分吗？”确实能让我稳住节奏，而分解到熟悉的部分，比如“关于XX，我认为可以尝试优化成…”也能让我更容易找到切入点。我觉得这种方式应该能帮助我更好地应对复杂问题，下周会议我可以试着这样做。不过，我还是会担心自己在面对团队中资深同事的意见时，会显得不够自信，你觉得有没有什么方法可以让我在这种场合表现得更自信一些呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过“确认＋分解”的方式，先确认问题的核心，比如“你是指我们需要更详细地分析XX部分吗？”确实能让我稳住节奏，而分解到熟悉的部分，比如“关于XX，我认为可以尝试优化成…”也能让我更容易找到切入点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "这个表达方式很不错！通过“认可＋补充”，比如“你的观点很有道理，我觉得在XX方面可以进一步优化”，确实能让我显得更自信，同时也展现出我的专业性和建设性。我觉得这种方式应该能帮助我在资深同事面前更自然地表达，下周会议我可以试着这样做。不过，我还是会担心自己在表达时可能会显得紧张或拘谨，你觉得有没有什么方法可以让我在这种场合更放松一些呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个表达方式很不错！通过“认可＋补充”，比如“你的观点很有道理，我觉得在XX方面可以进一步优化”，确实能让我显得更自信，同时也展现出我的专业性和建设性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "这些方法听起来很有效！通过自然的坐姿、适度手势和眼神交流，确实能让我在表达时显得更自信，而深呼吸和默念“专注内容”也能帮助我转移注意力，让自己不那么紧张。我觉得下周会议我可以试着这样做，尤其是在介绍项目进度时。不过，我还是会担心自己在互动过程中可能会因为过度关注别人的反应而分心，你觉得有没有什么方法可以让我更专注于自己的表达呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这些方法听起来很有效！通过自然的坐姿、适度手势和眼神交流，确实能让我在表达时显得更自信，而深呼吸和默念“专注内容”也能帮助我转移注意力，让自己不那么紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 62,
+    "content": "这个方法听起来很适合我！默念“我正在分享我的想法”确实能让我把注意力集中在内容上，而不是过度关注别人的反应。而心里的提醒“回到内容”也能帮助我快速调整注意力。我觉得下周会议我可以试着这样做，尤其是在需要回应复杂问题时。不过，我还是会担心自己在面对分歧时可能会显得不够坚定，你觉得有没有什么方法可以让我在分歧中更自信地表达自己的观点呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很适合我！默念“我正在分享我的想法”确实能让我把注意力集中在内容上，而不是过度关注别人的反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "这个方法听起来很实用！通过“承认＋坚持”，比如“你的角度很有启发，但从我的经验来看，XX可能更适合当前情况”，确实能让我显得既尊重又坚定。我觉得下周会议我可以试着这样表达，尤其是在讨论项目优化时。不过，我还是会担心自己在分歧的场景中可能会过于谨慎，显得不够主动，你觉得有没有什么方法可以让我在这类场合更积极地参与？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很实用！通过“承认＋坚持”，比如“你的角度很有启发，但从我的经验来看，XX可能更适合当前情况”，确实能让我显得既尊重又坚定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "这个方法很适合我！通过“提问＋补充”，比如“你的观点很有启发，我想了解更多，能具体说说XX吗？”然后再补充自己的看法“从这个角度来看，我觉得XX也可以考虑”，确实能让我更主动地参与讨论，同时保持自然的交流。我觉得下周会议我可以试着这样做，尤其是在团队讨论优化方向时。不过，我还是会担心自己在提出问题后可能会因对方的强势反馈而感到压力，你觉得这种情况该怎么更好地处理呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过“提问＋补充”，比如“你的观点很有启发，我想了解更多，能具体说说XX吗？”然后再补充自己的看法“从这个角度来看，我觉得XX也可以考虑”，确实能让我更主动地参与讨论，同时保持自然的交流",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "这个方法听起来很适合我！用缓冲语句，比如“你的观点很有力量，我需要一点时间消化”，确实能让我暂时缓解压力，而通过澄清，比如“你提到XX部分，我的理解是…这样对吗？”也能帮助我重新整理思路并自然地引导讨论。我觉得下周会议我可以试着这样做，尤其是在面对资深同事的反馈时。不过，我还是会担心自己在这种场合中可能会因为紧张而显得缺乏条理，你觉得有没有什么方法可以让我更好地应对这种情况呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很适合我！用缓冲语句，比如“你的观点很有力量，我需要一点时间消化”，确实能让我暂时缓解压力，而通过澄清，比如“你提到XX部分，我的理解是…这样对吗？”也能帮助我重新整理思路并自然地引导讨论",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "这个方法很实用！通过“分段表达”，比如“首先，我觉得XX是一个关键点；其次，关于YY，我认为可以这样处理；最后，我建议我们可以尝试ZZ”，确实能让我更有条理地表达，同时也减轻紧张感。我觉得下周会议我可以试着用这种方式，尤其是在需要介绍自己的建议时。不过，我还是会担心自己在分段表达时可能会因为语速过快显得不够从容，你觉得有没有什么方法可以让我在表达时控制好语速呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很实用！通过“分段表达”，比如“首先，我觉得XX是一个关键点；其次，关于YY，我认为可以这样处理；最后，我建议我们可以尝试ZZ”，确实能让我更有条理地表达，同时也减轻紧张感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 67,
+    "content": "这个方法听起来很适合我！在段落之间稍作停顿并深呼吸，确实能让我更容易放慢节奏，而开头有意放慢第一句话，比如“我想分享三个关键点”，也能帮助我定下平稳的基调。我觉得下周会议我可以试着这样做，尤其是在介绍自己的建议时。不过，我还是会担心自己在发言时可能会因为过度关注细节而显得紧张，你觉得有没有什么方法可以让我在表达时减少这种分心呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很适合我！在段落之间稍作停顿并深呼吸，确实能让我更容易放慢节奏，而开头有意放慢第一句话，比如“我想分享三个关键点”，也能帮助我定下平稳的基调",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 68,
+    "content": "这个方法很实用！通过在心里默念“我的重点是XX”，确实能让我更专注于传递整体思路，而不是纠结每个细节。而提前准备总结性的话，比如“整体来看，这个方案的方向是…”也能帮助我在分心时快速回归主线。我觉得下周会议我可以试着这样做，尤其是在介绍项目进度时。不过，我还是会担心自己在面对复杂问题时可能会显得语气不够坚定，你觉得有没有什么方法可以让我在这种场合中更有信心地表达呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很实用！通过在心里默念“我的重点是XX”，确实能让我更专注于传递整体思路，而不是纠结每个细节",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 69,
+    "content": "这个方法听起来很适合我！通过使用肯定句式，比如“我认为这个方案能有效提升效率”，确实能让我的表达更有力量，而保持语速平稳并避免语尾上扬也能让我显得更自信。我觉得下周会议我可以试着这样做，尤其是在讨论优化方向时。不过，我还是会担心自己在面对多方意见时可能会因为犹豫而显得不够果断，你觉得有没有什么方法可以让我在这种情况下更好地应对？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很适合我！通过使用肯定句式，比如“我认为这个方案能有效提升效率”，确实能让我的表达更有力量，而保持语速平稳并避免语尾上扬也能让我显得更自信",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 70,
+    "content": "这个方法很适合我！通过“总结＋建议”，比如“刚才提到的方向分别是XX、YY和ZZ，我认为可以优先尝试XX，因为…”确实能让我更条理清晰，同时显得果断。我觉得下周会议我可以试着用这种方式，尤其是在团队讨论多种方案时。不过，我还是会担心自己在总结时可能遗漏某些观点，显得不够全面，你觉得有没有什么方法可以让我更好地避免这种情况呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过“总结＋建议”，比如“刚才提到的方向分别是XX、YY和ZZ，我认为可以优先尝试XX，因为…”确实能让我更条理清晰，同时显得果断",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 71,
+    "content": "这个方法很实用！通过随手记录大家的主要意见，用关键词标注，确实能让我在总结时更有依据。而在总结时留有余地，比如“如果还有我没提到的方向，欢迎补充”，也能让表达更开放，同时减轻遗漏的压力。我觉得下周会议我可以试着这样做，尤其是在讨论多个方案时。不过，我还是会担心自己在实际总结时可能会因为紧张而显得不够自然，你觉得有没有什么方法可以让我在总结时更放松一些呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很实用！通过随手记录大家的主要意见，用关键词标注，确实能让我在总结时更有依据",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 72,
+    "content": "这个方法听起来很适合我！通过简短的开场语，比如“让我来简单总结一下刚才的讨论重点”，确实能让我有一个过渡时间，同时用“梳理思路而非评判对错”的心态也能减轻紧张感。我觉得下周会议我可以试着这样做，尤其是在讨论结束时。不过，我还是会担心自己在总结时可能表达不够清晰，导致大家无法跟上我的逻辑，你觉得有没有什么方法可以让我更好地组织总结内容呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很适合我！通过简短的开场语，比如“让我来简单总结一下刚才的讨论重点”，确实能让我有一个过渡时间，同时用“梳理思路而非评判对错”的心态也能减轻紧张感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 73,
+    "content": "这个方法很实用！通过“分段式总结”，比如“第一，刚才讨论了XX；第二，提到YY；最后，建议我们可以优先考虑ZZ”，确实能让我表达更有条理，也能帮助大家更清楚地跟上我的逻辑。我觉得下周会议我可以试着这样做，尤其是在需要汇总多方意见时。不过，我还是会担心自己在总结过程中可能遗漏一些关键信息，你觉得有没有什么方法可以让我在总结时更全面一些呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很实用！通过“分段式总结”，比如“第一，刚才讨论了XX；第二，提到YY；最后，建议我们可以优先考虑ZZ”，确实能让我表达更有条理，也能帮助大家更清楚地跟上我的逻辑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 74,
+    "content": "这个方法很适合我！通过快速浏览笔记确保涵盖主要观点，再补充一句“如果还有其他重要补充，欢迎大家补充”，确实能让我总结时更全面，同时也体现了团队合作的态度。我觉得下周会议我可以试着这样做，尤其是在汇总复杂讨论内容时。不过，我还是会担心自己在总结后可能没有得到回应，显得有些尴尬，你觉得这种情况应该如何化解呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过快速浏览笔记确保涵盖主要观点，再补充一句“如果还有其他重要补充，欢迎大家补充”，确实能让我总结时更全面，同时也体现了团队合作的态度",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 75,
+    "content": "这个方式很实用！通过开放性问题，比如“大家觉得这个方向有没有需要调整的地方？”或者“还有没有其他意见可以补充进来？”确实能让我更自然地化解冷场，同时也鼓励更多互动。我觉得下周会议我可以试着这样做，尤其是在总结后没得到回应时。不过，我还是会担心自己在提问后可能会因为对方的沉默感到不安，你觉得有没有什么方法可以让我更坦然地面对这种情况呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方式很实用！通过开放性问题，比如“大家觉得这个方向有没有需要调整的地方？”或者“还有没有其他意见可以补充进来？”确实能让我更自然地化解冷场，同时也鼓励更多互动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 76,
+    "content": "这个方法很适合我！通过心里提醒“沉默可能是对方在思考”，确实能让我减少不必要的不安，而补充一句“如果需要更多时间思考，也可以稍后再补充意见”也能让交流更轻松自然。我觉得下周会议我可以试着这样做，尤其是在总结后遇到沉默时。不过，我还是会担心自己在回应沉默时会显得不够自信，你觉得有没有什么方法可以让我在这种情况下表现得更稳重一些呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过心里提醒“沉默可能是对方在思考”，确实能让我减少不必要的不安，而补充一句“如果需要更多时间思考，也可以稍后再补充意见”也能让交流更轻松自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 77,
+    "content": "这个方法很适合我！通过端正坐姿、平稳语速，以及肯定的语气补充，比如“大家可能需要一点时间消化这些内容，没关系，我们可以稍后再讨论”，确实能让我显得更稳重，同时也传递出理解和掌控感。我觉得下周会议我可以试着这样做，尤其是在总结后遇到沉默时。不过，我还是会担心自己在现场可能会因为过度关注自己的表现而显得紧张，你觉得有没有什么方法可以让我更专注于讨论本身呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过端正坐姿、平稳语速，以及肯定的语气补充，比如“大家可能需要一点时间消化这些内容，没关系，我们可以稍后再讨论”，确实能让我显得更稳重，同时也传递出理解和掌控感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 78,
+    "content": "这个方法很适合我！通过心里默念“我的任务是帮助团队理清思路，找到解决方案”，确实能让我把注意力转向目标而不是表现，而关注其他人的发言内容并尝试总结和回应，也能让我更自然地融入讨论。我觉得下周会议我可以试着这样做，尤其是在复杂问题的讨论中。不过，我还是会担心自己在实际场景中可能会因为某些突发状况而显得慌乱，你觉得有没有什么方法可以让我更好地应对这种突发情况呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过心里默念“我的任务是帮助团队理清思路，找到解决方案”，确实能让我把注意力转向目标而不是表现，而关注其他人的发言内容并尝试总结和回应，也能让我更自然地融入讨论",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 79,
+    "content": "这个方法听起来很实用！通过“暂停＋梳理”，比如用缓冲语“让我整理一下思路”，确实能让我暂时稳住心态，而快速梳理关键点并挑熟悉的方向切入，比如“针对XX部分，我觉得可以从这个角度来看”，也能帮助我迅速找回节奏。我觉得下周会议我可以试着这样做，尤其是在面对突然的问题时。不过，我还是会担心自己在这种情况下可能会因为时间紧迫而显得语速过快，你觉得有没有什么方法可以让我更好地掌控语速呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很实用！通过“暂停＋梳理”，比如用缓冲语“让我整理一下思路”，确实能让我暂时稳住心态，而快速梳理关键点并挑熟悉的方向切入，比如“针对XX部分，我觉得可以从这个角度来看”，也能帮助我迅速找回节奏",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 80,
+    "content": "这些方法听起来很适合我！通过在每句话之间停顿一两秒，比如“让我整理一下思路”后深吸一口气再继续，确实能让我表达更稳，同时默念“慢一点”也能提醒自己保持从容。我觉得下周会议我可以试着这样做，尤其是在面对复杂问题或突发状况时。不过，我还是会担心自己在表达时可能会因为过于专注语速而分散注意力，你觉得有没有什么方法可以让我更自然地平衡语速和内容呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这些方法听起来很适合我！通过在每句话之间停顿一两秒，比如“让我整理一下思路”后深吸一口气再继续，确实能让我表达更稳，同时默念“慢一点”也能提醒自己保持从容",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 81,
+    "content": "这个方法很适合我！通过专注于“说完一个完整的想法”，比如心里默念“我的重点是XX”，确实能让我更多关注内容逻辑而不是逐句纠结语速。而发言前深呼吸让身体放松，也能帮助我自然地调整语速。我觉得下周会议我可以试着这样做，尤其是在介绍项目进度时。不过，我还是会担心自己在实际场景中可能会因为对方提出的反对意见而显得紧张，你觉得有没有什么方法可以让我更自信地应对这种情况呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过专注于“说完一个完整的想法”，比如心里默念“我的重点是XX”，确实能让我更多关注内容逻辑而不是逐句纠结语速",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 82,
+    "content": "这个方法很适合我！通过“倾听＋回应”，比如先说“这是一个很好的视角”，然后结合自己的看法补充“从这个方向来看，我觉得XX可能更适合当前目标”，确实能让我既展现开放态度，又坚定表达立场。我觉得下周会议我可以试着这样做，尤其是在讨论方案时。不过，我还是会担心自己在回应时可能因为情绪波动而显得不够冷静，你觉得有没有什么方法可以让我更好地控制情绪呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过“倾听＋回应”，比如先说“这是一个很好的视角”，然后结合自己的看法补充“从这个方向来看，我觉得XX可能更适合当前目标”，确实能让我既展现开放态度，又坚定表达立场",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 83,
+    "content": "这个方法很适合我！通过短暂停顿，比如深吸一口气或喝口水，确实能让我稍作平静，而心里默念“对方的观点是针对问题，而不是针对我”也能帮助我将注意力转移到问题本身。我觉得下周会议我可以试着这样做，尤其是在需要回应复杂意见时。不过，我还是会担心自己在情绪波动时可能会影响表达的连贯性，你觉得有没有什么方法可以让我更好地保持表达的流畅呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过短暂停顿，比如深吸一口气或喝口水，确实能让我稍作平静，而心里默念“对方的观点是针对问题，而不是针对我”也能帮助我将注意力转移到问题本身",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 84,
+    "content": "这个方法听起来很适合我！通过“简单句＋过渡语”，比如先表明立场“我认为XX是一个不错的方向”，然后用过渡语引入细节“接下来我们可以考虑…”，确实能让我表达更清晰流畅，同时减少情绪对逻辑的干扰。我觉得下周会议我可以试着这样做，尤其是在讨论关键问题时。不过，我还是会担心自己在过渡时可能显得有些生硬，你觉得有没有什么方法可以让我更自然地衔接这些表达呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很适合我！通过“简单句＋过渡语”，比如先表明立场“我认为XX是一个不错的方向”，然后用过渡语引入细节“接下来我们可以考虑…”，确实能让我表达更清晰流畅，同时减少情绪对逻辑的干扰",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 85,
+    "content": "这个方式很实用！通过加入缓和的词语，比如“从这个角度来看”或“基于刚才的讨论”，确实能让我过渡得更自然，比如“我认为XX是一个不错的方向，从这个角度来看，我们还可以考虑…”这样听起来更流畅。我觉得下周会议我可以试着这样表达，尤其是在介绍建议时。不过，我还是会担心自己在实际场景中可能会因为紧张而忘记这些技巧，你觉得有没有什么方法可以让我更好地保持这些技巧的应用呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方式很实用！通过加入缓和的词语，比如“从这个角度来看”或“基于刚才的讨论”，确实能让我过渡得更自然，比如“我认为XX是一个不错的方向，从这个角度来看，我们还可以考虑…”这样听起来更流畅",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 86,
+    "content": "这个方法听起来很有效！通过列“表达清单”并写下关键过渡语，比如“从这个角度来看”“基于刚才的讨论”，确实能让我在紧张时快速找到方向，而会前模拟核心发言内容也能让我更熟悉这些技巧。我觉得下周会议我可以试着这样准备，尤其是在需要表达复杂想法时。不过，我还是会担心自己在现场可能会因为突发问题打乱节奏，你觉得有没有什么方法可以让我更快地调整回来呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很有效！通过列“表达清单”并写下关键过渡语，比如“从这个角度来看”“基于刚才的讨论”，确实能让我在紧张时快速找到方向，而会前模拟核心发言内容也能让我更熟悉这些技巧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 87,
+    "content": "这个方法很适合我！通过“缓冲＋重组”，比如先用缓冲语“这是个很好的问题，让我稍微整理一下思路”，然后快速重组核心内容，比如“从我的角度来看，关键点是XX，我们可以这样处理”，确实能让我赢得时间并恢复表达的条理性。我觉得下周会议我可以试着这样应对突发问题，尤其是在讨论比较复杂的主题时。不过，我还是会担心自己在紧张时可能会忘记这些策略，你觉得有没有什么方法可以让我更容易记住并运用它们呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过“缓冲＋重组”，比如先用缓冲语“这是个很好的问题，让我稍微整理一下思路”，然后快速重组核心内容，比如“从我的角度来看，关键点是XX，我们可以这样处理”，确实能让我赢得时间并恢复表达的条理性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 88,
+    "content": "这个方法很实用！通过“关键词卡片”列出缓冲语和结构，比如“缓冲：这是个很好的问题”、“重组：关键点是XX”，确实能让我在紧张时快速找到方向，而通过练习让这些句式变成自然反应，也能提升我的应用能力。我觉得下周会议我可以试着这样准备，尤其是在需要应对复杂问题时。不过，我还是会担心自己在面对资深同事或领导时可能会显得不够自信，你觉得有没有什么方法可以让我在这种场合更有信心地表达呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很实用！通过“关键词卡片”列出缓冲语和结构，比如“缓冲：这是个很好的问题”、“重组：关键点是XX”，确实能让我在紧张时快速找到方向，而通过练习让这些句式变成自然反应，也能提升我的应用能力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 89,
+    "content": "这个方法很适合我！通过“事实＋建议”，比如“根据我们之前的分析，XX的效率提升了20%，基于这个结果，我建议我们可以进一步优化YY”，确实能让我表达时更有依据和说服力，同时也显得专业。我觉得下周会议我可以试着这样表达，尤其是在回应领导的问题时。不过，我还是会担心自己在实际场合中可能会因为紧张而显得不够果断，你觉得有没有什么方法可以让我在表达时更坚定一些呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过“事实＋建议”，比如“根据我们之前的分析，XX的效率提升了20%，基于这个结果，我建议我们可以进一步优化YY”，确实能让我表达时更有依据和说服力，同时也显得专业",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 90,
+    "content": "这个方法听起来很适合我！通过用“我建议”“我认为”代替“我觉得”，确实能让我的表达更明确，而保持语速平稳并使用降调也能增强我的观点的力量。我觉得下周会议我可以试着这样调整，尤其是在需要提出建议时。不过，我还是会担心自己在面对可能的质疑时会显得不够从容，你觉得有没有什么方法可以让我在这种情况下更好地应对呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很适合我！通过用“我建议”“我认为”代替“我觉得”，确实能让我的表达更明确，而保持语速平稳并使用降调也能增强我的观点的力量",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 91,
+    "content": "这个方法很适合我！通过“感谢＋分析”，比如先说“谢谢你提出这个问题，这确实是个重要的视角”，然后分析质疑内容，比如“从我的理解来看，XX部分可能需要进一步讨论，但YY部分我认为仍然可行”，确实能让我显得冷静并展现思考能力。我觉得下周会议我可以试着这样应对质疑，尤其是在讨论复杂问题时。不过，我还是会担心自己在面对持续的反对意见时可能会感到压力，你觉得有没有什么方法可以让我更好地处理这种情况呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过“感谢＋分析”，比如先说“谢谢你提出这个问题，这确实是个重要的视角”，然后分析质疑内容，比如“从我的理解来看，XX部分可能需要进一步讨论，但YY部分我认为仍然可行”，确实能让我显得冷静并展现思考能力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 92,
+    "content": "这个方法很适合我！通过“共情＋提问”，比如先说“我理解你的顾虑，这确实是个值得深入探讨的问题”，然后引导对方进一步阐述，比如“你觉得在当前情况下，XX会有哪些具体挑战？”确实能让我显得更开放，也能让讨论更具建设性。我觉得下周会议我可以试着这样处理持续反对意见，尤其是在面对复杂讨论时。不过，我还是会担心自己在这种场合可能会因为反复争论而感到疲惫，你觉得有没有什么方法可以让我更好地调整心态呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过“共情＋提问”，比如先说“我理解你的顾虑，这确实是个值得深入探讨的问题”，然后引导对方进一步阐述，比如“你觉得在当前情况下，XX会有哪些具体挑战？”确实能让我显得更开放，也能让讨论更具建设性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 93,
+    "content": "这个方法听起来很适合我！通过“暂停＋自我提醒”，比如用一句“我们已经探讨了很多重要的观点，可以稍微整理一下思路再继续”，确实能让我缓解压力，而心里提醒自己“这是团队合作的一部分，我不需要独自解决所有问题”也能帮助我调整心态。我觉得下周会议我可以试着这样做，尤其是在长时间的讨论中。不过，我还是会担心自己在讨论结束后可能会因为自我评价而感到不安，你觉得有没有什么方法可以让我更好地处理这种后续的不安呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很适合我！通过“暂停＋自我提醒”，比如用一句“我们已经探讨了很多重要的观点，可以稍微整理一下思路再继续”，确实能让我缓解压力，而心里提醒自己“这是团队合作的一部分，我不需要独自解决所有问题”也能帮助我调整心态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 94,
+    "content": "这个方法很适合我！通过“回顾＋肯定”，比如回顾自己做得好的部分，“我清晰地表达了我的观点，也引导了几次有效讨论”，确实能让我更专注于积极的方面。而提醒自己“每次表达都是一次成长，我不需要完美”，也能帮助我减轻对自己的过度苛责。我觉得下周会议后我可以试着这样调整心态，不过，我还是会担心自己在面对新的挑战时又会陷入类似的不安，你觉得有没有什么方法可以让我更长久地提升自信呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过“回顾＋肯定”，比如回顾自己做得好的部分，“我清晰地表达了我的观点，也引导了几次有效讨论”，确实能让我更专注于积极的方面",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 95,
+    "content": "这个方法很适合我！通过“积累＋复盘”，记录自己的进步，比如“这次我更清晰地表达了观点”或“成功引导了一次讨论”，确实能让我更直观地看到自己的成长。而在面对新的挑战时提醒自己“我已经应对过类似情况，并取得了进步”，也能帮助我更稳固地建立自信。我觉得我可以试着养成这个习惯，不过，我还是会担心自己在长时间压力下可能会失去动力，你觉得有没有什么方法可以让我更好地保持这种积极的状态呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过“积累＋复盘”，记录自己的进步，比如“这次我更清晰地表达了观点”或“成功引导了一次讨论”，确实能让我更直观地看到自己的成长",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 96,
+    "content": "这个方法听起来很适合我！通过“阶段性奖励＋自我鼓励”，比如完成挑战后奖励自己一顿喜欢的餐点，确实能让我更有动力，而在压力大的时候提醒自己“这些努力是为了更好的成长，而不是一时的结果”，也能帮助我缓解压力。我觉得我可以试着这样做，尤其是在面对持续高强度工作时。不过，我还是会担心自己在压力下可能会陷入自我怀疑，你觉得有没有什么方法可以让我更好地应对这种负面情绪呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很适合我！通过“阶段性奖励＋自我鼓励”，比如完成挑战后奖励自己一顿喜欢的餐点，确实能让我更有动力，而在压力大的时候提醒自己“这些努力是为了更好的成长，而不是一时的结果”，也能帮助我缓解压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 97,
+    "content": "这个方法很适合我！通过“接纳＋对话”，比如告诉自己“我现在感到怀疑是正常的，这说明我在意这件事”，然后回顾自己的成就，比如“我曾成功完成XX，这证明我有能力”，确实能让我缓解负面情绪并重新激励自己。我觉得我可以试着这样做，尤其是在面对新的挑战或挫折时。不过，我还是会担心自己在长期积累负面情绪时可能会影响整体的状态，你觉得有没有什么方法可以让我更好地维护长期的心理平衡呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过“接纳＋对话”，比如告诉自己“我现在感到怀疑是正常的，这说明我在意这件事”，然后回顾自己的成就，比如“我曾成功完成XX，这证明我有能力”，确实能让我缓解负面情绪并重新激励自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 98,
+    "content": "这个方法很适合我！通过“定期释放＋积极输入”，比如用运动、写下感受或与信任的人倾诉，确实能让我减轻内心压力，而阅读受启发的书籍或参与正能量活动，也能让我充实内心并获得新的动力。我觉得我可以试着这样做，尤其是在压力较大的时候。不过，我还是会担心自己在执行这些方式时可能会因为拖延而中断，你觉得有没有什么方法可以让我更坚持这些积极的习惯呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法很适合我！通过“定期释放＋积极输入”，比如用运动、写下感受或与信任的人倾诉，确实能让我减轻内心压力，而阅读受启发的书籍或参与正能量活动，也能让我充实内心并获得新的动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 99,
+    "content": "这个方法听起来很适合我！通过“微目标＋记录”，比如每天写三句话记录感受，或者每周运动一次，确实能让我更容易开始行动，而通过在日历上打勾或写下完成的内容，也能让我感受到持续的成就感。我觉得我可以试着这样做，尤其是在建立新的积极习惯时。不过，我还是会担心自己在遇到繁忙或突发状况时可能会中断这些习惯，你觉得有没有什么方法可以让我更灵活地应对这种情况呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很适合我！通过“微目标＋记录”，比如每天写三句话记录感受，或者每周运动一次，确实能让我更容易开始行动，而通过在日历上打勾或写下完成的内容，也能让我感受到持续的成就感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

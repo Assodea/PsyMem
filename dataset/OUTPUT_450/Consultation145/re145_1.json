@@ -1,0 +1,582 @@
+[
+  {
+    "turn": 1,
+    "content": "最近有点觉得喘不过气，家里的事情太多了。比如说，前几天我想带孩子去公园散步，奶奶却坚持让我多给孩子穿衣服，甚至还拦着不让我出门。她是好意，但我真的觉得自己的选择被否定了…",
+    "has_specific_detail": true,
+    "specific_detail": "最近有点觉得喘不过气，家里的事情太多了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "当时我只能勉强解释了一下天气不冷，后来还是妥协了，给孩子多加了件衣服才出门。这种事其实挺常见的，她总是觉得她的经验更对，可我心里很无奈又不好直接反驳…",
+    "has_specific_detail": true,
+    "specific_detail": "当时我只能勉强解释了一下天气不冷，后来还是妥协了，给孩子多加了件衣服才出门",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，有时候会觉得委屈吧，毕竟我也在努力学着怎么当个好妈妈，但总被干涉让我怀疑自己的能力。而且还有点担心，这样下去孩子会不会也觉得我不够权威…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有时候会觉得委屈吧，毕竟我也在努力学着怎么当个好妈妈，但总被干涉让我怀疑自己的能力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "有的，比如我和老公商量育儿方式时，他经常会说“听我妈的吧，她有经验”，让我觉得不太被支持。还有些时候，家里其他人也会随意对孩子的饮食、作息提意见，我感觉自己在家里没什么话语权…",
+    "has_specific_detail": true,
+    "specific_detail": "有的，比如我和老公商量育儿方式时，他经常会说“听我妈的吧，她有经验”，让我觉得不太被支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我试过表达，比如跟老公说想按照自己的方式来带孩子，但他总觉得听长辈的更稳妥。结果往往是他劝我别太计较，我就只好作罢，心里却很失落…有时候甚至觉得是不是我真的不够好。",
+    "has_specific_detail": true,
+    "specific_detail": "我试过表达，比如跟老公说想按照自己的方式来带孩子，但他总觉得听长辈的更稳妥",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "通常都是自己默默消化吧，找点事情转移注意力，比如看书或者听音乐。但有时候效果不太好，反而会越想越多，感觉情绪还是压在心里没散开…",
+    "has_specific_detail": true,
+    "specific_detail": "通常都是自己默默消化吧，找点事情转移注意力，比如看书或者听音乐",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "对，我特别希望有人能站在我这边，哪怕只是认可我的想法也好。同时也很想要点自己的空间，哪怕每天能有半小时完全属于自己，都觉得能轻松一些…但家里人好像不太理解这些。",
+    "has_specific_detail": true,
+    "specific_detail": "对，我特别希望有人能站在我这边，哪怕只是认可我的想法也好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "有时候我会尝试用更柔和的语气表达，比如说“我觉得这样做可能更适合孩子”，但他们还是习惯用自己的经验来反驳我。结果往往是，我坚持了一两次，后来就不争了，因为觉得太费力，心里却更失落了…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候我会尝试用更柔和的语气表达，比如说“我觉得这样做可能更适合孩子”，但他们还是习惯用自己的经验来反驳我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "是的，我希望他们能尊重我的选择，哪怕只是在一些小事上给我更多自主空间。我自己也想学着更坚定一点，不总是退让，可是又怕太坚持会影响家庭的和谐…所以总觉得很矛盾。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我希望他们能尊重我的选择，哪怕只是在一些小事上给我更多自主空间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，我觉得如果能从一些小事开始试试，比如孩子的衣着或者饮食这些容易达成共识的地方，可能会比较容易。但我还是有点担心，万一尝试后对方还是坚持己见，我是不是又会陷入那种无力的感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得如果能从一些小事开始试试，比如孩子的衣着或者饮食这些容易达成共识的地方，可能会比较容易",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，这样设定界限听起来确实能让我更有掌控感，但实际去坚持的话，我可能会担心家人觉得我太固执，甚至引发一些不愉快的争执。我很在意家庭和谐，所以这种“坚持”的心理压力对我来说也不小…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样设定界限听起来确实能让我更有掌控感，但实际去坚持的话，我可能会担心家人觉得我太固执，甚至引发一些不愉快的争执",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "对，用孩子的需要来解释，可能会让他们更容易接受一点。比如说，我可以说“这样做是为了让孩子更舒服”，而不是直接否定他们的意见。我觉得还可以试着先和老公沟通好，争取他的支持，这样面对长辈时，我也会更有底气一些…",
+    "has_specific_detail": true,
+    "specific_detail": "对，用孩子的需要来解释，可能会让他们更容易接受一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，我觉得可以试试在孩子睡了之后找个轻松的时间跟他聊，比如说“今天奶奶又让我多给孩子穿衣服了，我其实有点委屈，因为我也是在认真考虑孩子的感受”。用具体的例子可能会让他更明白我的想法，而不是觉得我在无理取闹…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以试试在孩子睡了之后找个轻松的时间跟他聊，比如说“今天奶奶又让我多给孩子穿衣服了，我其实有点委屈，因为我也是在认真考虑孩子的感受”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "如果他能支持我，我应该会更有底气去坚持自己的方式，至少在面对奶奶时能不那么犹豫。不过我还是担心，一旦奶奶觉得我们“站在一起”，她可能会觉得自己被排斥了，情绪上会不太好接受，这也让我有点顾虑…",
+    "has_specific_detail": true,
+    "specific_detail": "如果他能支持我，我应该会更有底气去坚持自己的方式，至少在面对奶奶时能不那么犹豫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，这样说听起来确实更容易让她接受，毕竟她确实对我们一家付出了很多。我可以试着在表达自己想法时，先认可她的经验和用心，比如说“我知道您是为了孩子好”，然后再提出自己的方式，这样或许能让她觉得被尊重，而不是被否定…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样说听起来确实更容易让她接受，毕竟她确实对我们一家付出了很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "如果她还是坚持，我可能会有点挫败感，但至少我尽力了，心里会好受一些。我觉得需要告诉自己，不可能每次都让所有人满意，只要我保持耐心和尊重，慢慢来，总会有所改变的吧…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她还是坚持，我可能会有点挫败感，但至少我尽力了，心里会好受一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "有的，比如工作上的琐事也会让我觉得很疲惫。有时候白天处理一堆复杂的文件，回家后还要面对家庭的各种问题，就觉得整个人被压得透不过气，几乎没有属于自己的时间了…",
+    "has_specific_detail": true,
+    "specific_detail": "有的，比如工作上的琐事也会让我觉得很疲惫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，我偶尔会趁孩子睡着的时候喝杯热茶或者刷会儿手机，但总觉得时间太短，刚刚放松一点就要重新投入到琐事里了…感觉这种短暂的放松只能缓解一点点，没办法彻底调整过来。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我偶尔会趁孩子睡着的时候喝杯热茶或者刷会儿手机，但总觉得时间太短，刚刚放松一点就要重新投入到琐事里了…感觉这种短暂的放松只能缓解一点点，没办法彻底调整过来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "听起来很好，但实际操作可能有点难，尤其是孩子醒着的时候，总会被各种需求打断。不过如果能让老公帮忙分担一下，哪怕每天抽出半小时，也会让我觉得轻松很多…我觉得可以试着跟他商量一下这个可能性。",
+    "has_specific_detail": true,
+    "specific_detail": "听起来很好，但实际操作可能有点难，尤其是孩子醒着的时候，总会被各种需求打断",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得可以先跟他说说自己的感受，比如“最近总觉得特别累，几乎没有自己的时间”，然后再具体一点告诉他我的想法，比如每天晚上让他陪孩子半小时，这样我能有时间做点自己的事情。我觉得这样可能更容易让他理解吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先跟他说说自己的感受，比如“最近总觉得特别累，几乎没有自己的时间”，然后再具体一点告诉他我的想法，比如每天晚上让他陪孩子半小时，这样我能有时间做点自己的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "如果他能支持我，我觉得这半小时会让我觉得自己被重视了，也能稍微喘口气，情绪上会轻松很多。我可能会用这时间看看喜欢的书，或者干脆什么都不做，就静静待着放空一下…那种独处的感觉对我来说真的很重要。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他能支持我，我觉得这半小时会让我觉得自己被重视了，也能稍微喘口气，情绪上会轻松很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "看书对我来说很有帮助，尤其是一些轻松的小说，能让我暂时忘掉烦心事。其实我还一直想学点新的东西，比如画画或者插花，但总觉得没时间安静下来去尝试…如果真的能有固定的独处时间，我想试着去实现这些小愿望。",
+    "has_specific_detail": true,
+    "specific_detail": "看书对我来说很有帮助，尤其是一些轻松的小说，能让我暂时忘掉烦心事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我觉得可以先从插花开始，毕竟材料比较简单，家里也能做。如果每周能留出一个固定的晚上，比如孩子睡后用一小时练习，我觉得应该能慢慢坚持下来。这样既是放松，也算是对自己的一个小奖励吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从插花开始，毕竟材料比较简单，家里也能做",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "是的，我觉得可以先买一些简单的花材和工具，再去找些新手教程看看，这样心里更有底。光是想想那些色彩鲜艳的花，就觉得心情好了不少，感觉终于有点属于自己的小期待了！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可以先买一些简单的花材和工具，再去找些新手教程看看，这样心里更有底",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "嗯，我觉得可以先跟老公和家人说明这段时间是我的“专属时光”，希望他们能支持我。同时可以给自己设个小目标，比如每周完成一小瓶插花，拍张照片记录下来，这样会更有成就感，也更有动力坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以先跟老公和家人说明这段时间是我的“专属时光”，希望他们能支持我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "可能会有，比如家里突然有事情需要我处理，或者孩子闹腾让我分心。但我觉得可以提前跟老公沟通好，让他在这段时间多帮忙照顾孩子。如果真遇到突发情况，我也可以灵活调整，比如换个时间再完成插花，这样不会给自己太大压力，也能保持计划的延续性。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会有，比如家里突然有事情需要我处理，或者孩子闹腾让我分心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "如果能顺利开始，我觉得会让我每天都多一些期待，心情也会轻松很多。插花能让我暂时忘掉琐事，专注在那些美好的事物上，压力应该会减少不少。而且，看着自己完成的作品摆在家里，也会让我对生活的掌控感更强一点，感觉会更有动力面对其他的挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能顺利开始，我觉得会让我每天都多一些期待，心情也会轻松很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，其实除了插花，我也想试着改善和家人的沟通方式，让他们更理解我的感受。比如，平时多主动分享一些我带孩子的想法，或者在小事上多表达自己的意见，而不是总压抑在心里。我觉得如果能慢慢建立起更多的理解和信任，生活可能会更平衡一些，也能减少很多内耗的情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，其实除了插花，我也想试着改善和家人的沟通方式，让他们更理解我的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得可以从带孩子的一些具体细节开始，比如孩子的穿衣、饮食这些平时争议比较多的地方。比如在奶奶提意见时，我可以先说“您说的确实有道理，不过我也想试试这个方法，看孩子的反应如何”，这样既表达了尊重，也坚持了自己的想法。我觉得从这些日常小事入手，会比较自然，也更容易让家人慢慢适应我的方式。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从带孩子的一些具体细节开始，比如孩子的穿衣、饮食这些平时争议比较多的地方",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "如果他们能慢慢接受，我觉得我的信心一定会增强很多，特别是在育儿方面，可能会更相信自己的判断。同时，和家人的关系也应该会更融洽吧，少了冲突和误解，彼此的互动会变得更轻松，也更有温暖感。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们能慢慢接受，我觉得我的信心一定会增强很多，特别是在育儿方面，可能会更相信自己的判断",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得可以长期坚持的是，多用平和的语气和家人沟通，尤其是在意见不一致的时候，试着理解他们的出发点，而不是立刻反驳。同时，也要学着关注自己的情绪，及时调整，比如通过独处或做喜欢的事来缓解压力。这样既能让关系更稳固，也能让自己更平衡、更有力量去面对生活中的各种挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以长期坚持的是，多用平和的语气和家人沟通，尤其是在意见不一致的时候，试着理解他们的出发点，而不是立刻反驳",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "确实有难点，比如忙碌的时候可能会不自觉变得急躁，或者压力大时会忽略自己的情绪。我觉得可以试着给自己设置一个提醒，比如用手机定个每天的“情绪检查”闹钟，问问自己今天感觉怎么样；或者在心情不好时，先深呼吸几次再开口说话，这样能帮助我慢下来，避免因为情绪影响到沟通效果。",
+    "has_specific_detail": true,
+    "specific_detail": "确实有难点，比如忙碌的时候可能会不自觉变得急躁，或者压力大时会忽略自己的情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "如果能坚持下去，我觉得自信心会逐渐提升，因为能更好地处理情绪和沟通，自己也会更有掌控感。家庭氛围应该会更和谐，少了不必要的争执，更多的是理解和支持。最重要的是，整体的幸福感可能会更强，因为我能在忙碌中找到属于自己的节奏，也能从家人互动中感受到更多的温暖和认可。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能坚持下去，我觉得自信心会逐渐提升，因为能更好地处理情绪和沟通，自己也会更有掌控感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "是的，我觉得可以试着每周找一次机会和老公或奶奶深聊，不一定谈问题，可以聊聊日常感受，这样能增进理解。同时也可以用一个小笔记本记录情绪管理的进步，比如哪一天没发火、坚持了深呼吸，或者成功表达了自己的想法。这些小目标不仅能让我更有方向感，也会让我在过程中看到自己的成长，更有动力坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可以试着每周找一次机会和老公或奶奶深聊，不一定谈问题，可以聊聊日常感受，这样能增进理解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "这是个好主意！我觉得可以设定一些小奖励，比如完成一个目标后，买一束特别的花材来练习插花，或者买一本一直想看的书当作奖励。这样每达成一个目标，都能感受到一点成就感，也会更期待下一个目标的实现。这种方式应该会让我更有动力坚持下去！",
+    "has_specific_detail": true,
+    "specific_detail": "这是个好主意！我觉得可以设定一些小奖励，比如完成一个目标后，买一束特别的花材来练习插花，或者买一本一直想看的书当作奖励",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "对，保持灵活性很重要，我想提醒自己不必苛求每次都做到完美。如果某周实在太忙或者情绪不佳，可以调整目标的节奏，比如减少一些要求，或者把奖励时间稍微延后。允许自己偶尔放松一下，不强迫完成所有计划，这样整个过程会更轻松，也更容易坚持下去。我觉得，重要的是方向，而不是速度。",
+    "has_specific_detail": true,
+    "specific_detail": "对，保持灵活性很重要，我想提醒自己不必苛求每次都做到完美",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得会慢慢变得更平静，情绪不再像现在这么容易被触动。家庭互动可能也会更自然，争执减少了，彼此的理解和支持会更多。而且，我对自己的认可也会增强，能更自信地承担母亲、妻子以及自己的角色，甚至开始享受这些角色带来的意义，而不是觉得它们只是负担。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会慢慢变得更平静，情绪不再像现在这么容易被触动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我觉得对自己的耐心和对家庭关系的用心都很重要。要学会接纳自己在过程中可能遇到的挫折，不因为一时的失败否定努力；同时也要始终用心去维系家庭关系，理解彼此的立场，多一些包容和沟通。我想，这两点应该是让我坚持下去、实现改变的关键所在。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得对自己的耐心和对家庭关系的用心都很重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我希望自己能感受到一种轻松而满足的状态，既不再被琐事压得喘不过气，也能从家庭和自我成长中找到更多的力量感。那种踏实又温暖的感觉，应该就是我最想要的吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望自己能感受到一种轻松而满足的状态，既不再被琐事压得喘不过气，也能从家庭和自我成长中找到更多的力量感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我觉得长期坚持的应该是定期为自己创造独处的时间，不管是插花、读书还是简单地放空，都能让我重新找到内心的平静。同时，我也想保持一种感恩的心态，去关注生活中那些微小的美好，比如家人间的关爱或者孩子的成长，这些都会让我更加珍惜当下，稳定那种满足和幸福感。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得长期坚持的应该是定期为自己创造独处的时间，不管是插花、读书还是简单地放空，都能让我重新找到内心的平静",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我觉得，当某次家人能主动认可我的育儿方式，或者在家庭讨论中听到他们说“你说得对，我们可以试试你的方法”，可能就是一个重要的标志吧。还有，在完成一个小目标时，比如做出一瓶满意的插花作品，并且能静下心来欣赏它，心里觉得踏实又平和，那种瞬间应该会让我意识到，我正在逐步接近理想的状态了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得，当某次家人能主动认可我的育儿方式，或者在家庭讨论中听到他们说“你说得对，我们可以试试你的方法”，可能就是一个重要的标志吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "有的，我一直很喜欢一句话：“每一个小改变，都会让生活更靠近自己想要的样子。”我觉得用这句话提醒自己，不必急于求成，只要每一步都尽力，未来就会越来越好。这种信念能让我在遇到困难时找到力量，继续坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "有的，我一直很喜欢一句话：“每一个小改变，都会让生活更靠近自己想要的样子",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "如果真的实现了，我想对现在的自己说：“谢谢你没有放弃，即使在最累的时候，也愿意为自己和家庭做出改变。正是因为你的坚持和用心，才让我们拥有了今天的平静和幸福。”我觉得，这种感恩自己努力的心态，也是未来我想一直保持的。",
+    "has_specific_detail": true,
+    "specific_detail": "如果真的实现了，我想对现在的自己说：“谢谢你没有放弃，即使在最累的时候，也愿意为自己和家庭做出改变",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "今天的对话让我更清晰地看到了自己的需求和方向，也让我意识到，其实很多改变是可以从小事开始一步步实现的。目前我觉得这些思路已经很有帮助了，接下来我也想花点时间去消化这些内容，试着付诸行动。我们可以下次再聊更多，谢谢你的倾听和引导！",
+    "has_specific_detail": true,
+    "specific_detail": "今天的对话让我更清晰地看到了自己的需求和方向，也让我意识到，其实很多改变是可以从小事开始一步步实现的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

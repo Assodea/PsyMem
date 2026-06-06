@@ -1,0 +1,938 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近我和妈妈又因为我的动漫爱好吵了一次。她觉得我花太多时间画稿，还说这些没什么意义…我当时真的很生气，觉得她根本不理解我在这方面的努力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近我和妈妈又因为我的动漫爱好吵了一次",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "我确实试着跟她解释，说画稿不仅是我的兴趣，还能赚点零花钱，但她完全不听，直接说这些影响学业才是最大的问题…最后我忍不住哭了，感觉自己所有的努力都被否定了。",
+    "has_specific_detail": true,
+    "specific_detail": "我确实试着跟她解释，说画稿不仅是我的兴趣，还能赚点零花钱，但她完全不听，直接说这些影响学业才是最大的问题…最后我忍不住哭了，感觉自己所有的努力都被否定了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "她看我哭了，反而更生气，说我太情绪化，还说“画这些东西以后能有什么用？”她一直用这种语气，让我觉得自己完全无法反驳，也不被理解…",
+    "has_specific_detail": true,
+    "specific_detail": "她看我哭了，反而更生气，说我太情绪化，还说“画这些东西以后能有什么用？”她一直用这种语气，让我觉得自己完全无法反驳，也不被理解…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "最让我难受的还是她对我的兴趣完全不认可，好像我做的事情一点价值都没有…而她说话的方式也很刺耳，让我觉得自己根本没有发言权。",
+    "has_specific_detail": true,
+    "specific_detail": "最让我难受的还是她对我的兴趣完全不认可，好像我做的事情一点价值都没有…而她说话的方式也很刺耳，让我觉得自己根本没有发言权",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我觉得她可能是担心我的学业，但她总是用“你以后会后悔”这样的话来吓唬我…其实我也知道学习重要，但她完全不听我说，我觉得她只是想控制我的时间而已。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得她可能是担心我的学业，但她总是用“你以后会后悔”这样的话来吓唬我…其实我也知道学习重要，但她完全不听我说，我觉得她只是想控制我的时间而已",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "不仅是学业和兴趣，还有交朋友的事情也是这样。比如前阵子我想和同学一起去看展，她硬是说“不安全”，让我直接别去…这让我觉得她不信任我，也不让我有自己的生活。",
+    "has_specific_detail": true,
+    "specific_detail": "不仅是学业和兴趣，还有交朋友的事情也是这样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我试着问过她为什么总管我这么多，她说是为了我好，不想让我“走弯路”或者“浪费时间”…但她的期待好像就是让我听话，专注学习，其他都不重要，这让我觉得自己没有选择权。",
+    "has_specific_detail": true,
+    "specific_detail": "我试着问过她为什么总管我这么多，她说是为了我好，不想让我“走弯路”或者“浪费时间”…但她的期待好像就是让我听话，专注学习，其他都不重要，这让我觉得自己没有选择权",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "好像一直都是这种方式，她很少真正支持我的决定。比如我提到想参加学校的活动，她就会说“别浪费时间”，总觉得什么都比不上学习重要…这种关心让我觉得很压迫，而不是被鼓励。",
+    "has_specific_detail": true,
+    "specific_detail": "好像一直都是这种方式，她很少真正支持我的决定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "有一些朋友会支持我，比如之前我画了一个作品，他们说很喜欢，还鼓励我继续努力。这种认可让我特别开心，但同时也觉得，这份支持是我在家里完全得不到的…",
+    "has_specific_detail": true,
+    "specific_detail": "有一些朋友会支持我，比如之前我画了一个作品，他们说很喜欢，还鼓励我继续努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得更多是她过于专注自己的期待吧，她从来不尝试了解我的兴趣，总是先入为主地认为这些没意义…这种态度让我觉得，她关心的不是我，而是她认为“正确”的方向。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得更多是她过于专注自己的期待吧，她从来不尝试了解我的兴趣，总是先入为主地认为这些没意义…这种态度让我觉得，她关心的不是我，而是她认为“正确”的方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我想过，比如让她看我画的作品或者告诉她我通过约稿赚了零花钱，但每次提到这些，她都直接说“别浪费时间”，完全没兴趣了解…这让我觉得尝试沟通好像也没用。",
+    "has_specific_detail": true,
+    "specific_detail": "我想过，比如让她看我画的作品或者告诉她我通过约稿赚了零花钱，但每次提到这些，她都直接说“别浪费时间”，完全没兴趣了解…这让我觉得尝试沟通好像也没用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我想过在学校的作品展示或者比赛上取得一些成绩，让她看到我的努力有实际回报…但又担心她会觉得这只是“浪费时间”的另一种表现，怕她根本不会改变看法。",
+    "has_specific_detail": true,
+    "specific_detail": "我想过在学校的作品展示或者比赛上取得一些成绩，让她看到我的努力有实际回报…但又担心她会觉得这只是“浪费时间”的另一种表现，怕她根本不会改变看法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "如果能被认可，我会觉得自己做的事情是有价值的，至少证明我不是在“浪费时间”…这种肯定对我来说很重要，也可能让我有更多勇气去坚持自己的兴趣。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能被认可，我会觉得自己做的事情是有价值的，至少证明我不是在“浪费时间”…这种肯定对我来说很重要，也可能让我有更多勇气去坚持自己的兴趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我觉得我的兴趣本身就是一种力量吧，每次画稿的时候，我都很享受那种专注和创造的感觉…虽然妈妈不理解，但这份热爱让我觉得是自己真正喜欢的事情。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得我的兴趣本身就是一种力量吧，每次画稿的时候，我都很享受那种专注和创造的感觉…虽然妈妈不理解，但这份热爱让我觉得是自己真正喜欢的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "有时候会帮到我，比如每次吵完架，我就沉浸在画稿里，感觉心情稍微平静了一些…但同时也会想，如果她能看到我画的东西，也许就不会总是否定我了。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候会帮到我，比如每次吵完架，我就沉浸在画稿里，感觉心情稍微平静了一些…但同时也会想，如果她能看到我画的东西，也许就不会总是否定我了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得如果她能主动问我，或者表现出一点点兴趣，那我会很愿意给她看…但目前她总是用批判的态度，我很难主动展示，也怕被打击。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果她能主动问我，或者表现出一点点兴趣，那我会很愿意给她看…但目前她总是用批判的态度，我很难主动展示，也怕被打击",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得是因为她毕竟是我的妈妈吧，我还是希望她能支持我、认可我的选择…这种期待让我总想试着沟通，但又害怕再一次被否定。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得是因为她毕竟是我的妈妈吧，我还是希望她能支持我、认可我的选择…这种期待让我总想试着沟通，但又害怕再一次被否定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "也许可以试着先说一些她比较关心的部分，比如我怎么安排时间学习和画稿，再慢慢提到我的兴趣和成就…但我又担心，她会直接打断，不愿意继续听。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试着先说一些她比较关心的部分，比如我怎么安排时间学习和画稿，再慢慢提到我的兴趣和成就…但我又担心，她会直接打断，不愿意继续听",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不愿意"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "或许可以先问她对我的安排有没有什么建议，让她觉得自己参与了决定，这样她可能会更愿意听我说后面的部分…但我不确定这样会不会有效。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以先问她对我的安排有没有什么建议，让她觉得自己参与了决定，这样她可能会更愿意听我说后面的部分…但我不确定这样会不会有效",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我最想让她知道，我真的很认真对待自己的兴趣，并且在努力平衡学习和爱好…我希望她能看到我的用心，而不是一味觉得我在浪费时间。",
+    "has_specific_detail": true,
+    "specific_detail": "我最想让她知道，我真的很认真对待自己的兴趣，并且在努力平衡学习和爱好…我希望她能看到我的用心，而不是一味觉得我在浪费时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "如果她能明白，我觉得我们之间的冲突可能会少一些，我也能更自在地做自己喜欢的事情…或许还能让我们关系稍微缓和一些，不再那么紧张。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她能明白，我觉得我们之间的冲突可能会少一些，我也能更自在地做自己喜欢的事情…或许还能让我们关系稍微缓和一些，不再那么紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "还有关于交朋友吧，她总是限制我和同学出去，比如上次我想参加班级聚餐，她直接拒绝，说太晚了不安全…我觉得这让我更难融入同龄人的圈子，也越来越孤单。",
+    "has_specific_detail": true,
+    "specific_detail": "还有关于交朋友吧，她总是限制我和同学出去，比如上次我想参加班级聚餐，她直接拒绝，说太晚了不安全…我觉得这让我更难融入同龄人的圈子，也越来越孤单",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "可能是她自己比较担心吧，她经常说社会很复杂，害怕我遇到坏人…但我觉得她有点过度担忧了，因为和同学出去本来就是很正常的事情，她却总想阻止。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是她自己比较担心吧，她经常说社会很复杂，害怕我遇到坏人…但我觉得她有点过度担忧了，因为和同学出去本来就是很正常的事情，她却总想阻止",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我试过，比如告诉她我们只是去吃饭，还会准时回来，但她还是不放心，说“再好的朋友也有可能出问题”…这种态度让我觉得没办法让她信任我的判断。",
+    "has_specific_detail": true,
+    "specific_detail": "我试过，比如告诉她我们只是去吃饭，还会准时回来，但她还是不放心，说“再好的朋友也有可能出问题”…这种态度让我觉得没办法让她信任我的判断",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得可能更多是她自己的不安全感吧，她总是对外面的世界很警惕，好像认为一切都充满风险…但她这种态度让我觉得，她完全不相信我能处理好自己的事情。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能更多是她自己的不安全感吧，她总是对外面的世界很警惕，好像认为一切都充满风险…但她这种态度让我觉得，她完全不相信我能处理好自己的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "或许可以试着邀请她一起认识我的朋友，比如让她见见我经常提到的同学，这样她可能会觉得更放心…但我又担心她会过度干涉，或者对他们有太多挑剔。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试着邀请她一起认识我的朋友，比如让她见见我经常提到的同学，这样她可能会觉得更放心…但我又担心她会过度干涉，或者对他们有太多挑剔",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "这听起来是个不错的办法，电话或者简单聊天可能会让她觉得没那么“正式”，也减少一些压力…不过我还是不确定她会不会愿意尝试这种方式。",
+    "has_specific_detail": true,
+    "specific_detail": "这听起来是个不错的办法，电话或者简单聊天可能会让她觉得没那么“正式”，也减少一些压力…不过我还是不确定她会不会愿意尝试这种方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "或许可以，我可以试着告诉她我的朋友很有趣，比如某个同学也喜欢画画，我们经常交流作品…这样她可能会觉得有共同点，不那么抗拒，但我还是有点担心她会质疑这些是不是“真正的朋友”。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以，我可以试着告诉她我的朋友很有趣，比如某个同学也喜欢画画，我们经常交流作品…这样她可能会觉得有共同点，不那么抗拒，但我还是有点担心她会质疑这些是不是“真正的朋友”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "如果她质疑，我可以告诉她我们之间的互动，比如一起讨论学习或者分享兴趣，这些都很积极…但我还是怕她会觉得这些“没用”，继续否定我的社交选择。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她质疑，我可以告诉她我们之间的互动，比如一起讨论学习或者分享兴趣，这些都很积极…但我还是怕她会觉得这些“没用”，继续否定我的社交选择",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "这可能是个好办法，我可以先告诉她，这些朋友让我觉得自己被理解，不那么孤单…希望这样能让她看到，社交对我的情感支持有多重要，而不仅仅是“浪费时间”。",
+    "has_specific_detail": true,
+    "specific_detail": "这可能是个好办法，我可以先告诉她，这些朋友让我觉得自己被理解，不那么孤单…希望这样能让她看到，社交对我的情感支持有多重要，而不仅仅是“浪费时间”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "是的，朋友的支持确实让我觉得自己有价值，尤其是在妈妈不认可我的时候…这种感觉有点像我在努力找到属于自己的“安全感”，即使家里没有完全提供给我。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，朋友的支持确实让我觉得自己有价值，尤其是在妈妈不认可我的时候…这种感觉有点像我在努力找到属于自己的“安全感”，即使家里没有完全提供给我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "除了朋友，我觉得画稿也让我感受到安全感和价值，每次完成一幅作品，尤其是有人认可的时候，我都会觉得自己在做一件有意义的事…这让我暂时忘掉那些压迫感。",
+    "has_specific_detail": true,
+    "specific_detail": "除了朋友，我觉得画稿也让我感受到安全感和价值，每次完成一幅作品，尤其是有人认可的时候，我都会觉得自己在做一件有意义的事…这让我暂时忘掉那些压迫感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我觉得可以试试，比如告诉自己她不理解没关系，只要我自己知道这件事对我重要就够了…但有时候情绪上还是很难完全放下，总会觉得自己需要她的认可。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试试，比如告诉自己她不理解没关系，只要我自己知道这件事对我重要就够了…但有时候情绪上还是很难完全放下，总会觉得自己需要她的认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "或许可以，比如让她看到我通过画稿获得的零花钱，或者在学校的展示中被表扬…这些可能会让她意识到我的努力是有结果的，但我还是担心她会觉得这些不如学业重要。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以，比如让她看到我通过画稿获得的零花钱，或者在学校的展示中被表扬…这些可能会让她意识到我的努力是有结果的，但我还是担心她会觉得这些不如学业重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "这可能是个办法，我可以试着告诉她我每天的时间安排，比如什么时候学习、什么时候画稿…这样她可能会觉得我有规划，但我还是怕她会说“这些规划没用，学习才是第一位”。",
+    "has_specific_detail": true,
+    "specific_detail": "这可能是个办法，我可以试着告诉她我每天的时间安排，比如什么时候学习、什么时候画稿…这样她可能会觉得我有规划，但我还是怕她会说“这些规划没用，学习才是第一位”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "或许可以，比如告诉她我最近考试的分数或者完成的作业，这样她可能会觉得我没有耽误学习…但我还是担心她会继续强调“以后这些爱好没意义”。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以，比如告诉她我最近考试的分数或者完成的作业，这样她可能会觉得我没有耽误学习…但我还是担心她会继续强调“以后这些爱好没意义”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "这可能有效，比如告诉她画稿让我学到了时间管理和责任心，或者一些作品得到了认可…但她总是只关注长远的结果，我怕她还是会觉得这些只是“暂时的满足”。",
+    "has_specific_detail": true,
+    "specific_detail": "这可能有效，比如告诉她画稿让我学到了时间管理和责任心，或者一些作品得到了认可…但她总是只关注长远的结果，我怕她还是会觉得这些只是“暂时的满足”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "或许可以，比如告诉她画稿让我积累了技能，说不定以后还能用在工作上…但她可能会觉得“这些不是正经职业”，我还是怕她会直接否定我的想法。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以，比如告诉她画稿让我积累了技能，说不定以后还能用在工作上…但她可能会觉得“这些不是正经职业”，我还是怕她会直接否定我的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "这听起来不错，我可以提到一些通过动漫设计成功的人或者职业，比如插画师或者动画制作…这样可能会让她觉得这项技能有实际价值，但我担心她会认为这些职业“竞争太大”或者“不稳定”。",
+    "has_specific_detail": true,
+    "specific_detail": "这听起来不错，我可以提到一些通过动漫设计成功的人或者职业，比如插画师或者动画制作…这样可能会让她觉得这项技能有实际价值，但我担心她会认为这些职业“竞争太大”或者“不稳定”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "这或许能缓解她的顾虑，比如告诉她这些技能还能用在广告设计、品牌策划或者其他创意工作上…但我担心她还是会觉得“这些领域都不如传统职业可靠”，继续否定我的规划。",
+    "has_specific_detail": true,
+    "specific_detail": "这或许能缓解她的顾虑，比如告诉她这些技能还能用在广告设计、品牌策划或者其他创意工作上…但我担心她还是会觉得“这些领域都不如传统职业可靠”，继续否定我的规划",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我可以试着问她对“可靠职业”的看法，比如她觉得什么样的工作才算稳定…然后再看看我的规划有没有能符合她标准的部分，这可能会让她更愿意听我说。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着问她对“可靠职业”的看法，比如她觉得什么样的工作才算稳定…然后再看看我的规划有没有能符合她标准的部分，这可能会让她更愿意听我说",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "我觉得最需要注意的是不要急着反驳她的观点，要先听清楚她的标准，然后再慢慢引入我的规划…这样可能会让她觉得自己的意见被尊重，而不是直接被否定。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最需要注意的是不要急着反驳她的观点，要先听清楚她的标准，然后再慢慢引入我的规划…这样可能会让她觉得自己的意见被尊重，而不是直接被否定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "可能是规划中的稳定性吧，比如告诉她我会先把学业完成好，同时探索与兴趣相关的职业方向…这样她可能会觉得我的选择不是盲目的，而是有一定保障的。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是规划中的稳定性吧，比如告诉她我会先把学业完成好，同时探索与兴趣相关的职业方向…这样她可能会觉得我的选择不是盲目的，而是有一定保障的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "我可以举例，比如最近我安排了一周的时间表，每天学习和画稿的时间都很清晰，还完成了几个约稿…这样她可能会觉得我在认真规划，而不是随意浪费时间。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以举例，比如最近我安排了一周的时间表，每天学习和画稿的时间都很清晰，还完成了几个约稿…这样她可能会觉得我在认真规划，而不是随意浪费时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "她可能还是会担心我的学业是否受到影响，或者觉得这些规划能否长期坚持下去…她总是关注“以后会不会后悔”的问题，这让我觉得她还是不信任我的判断。",
+    "has_specific_detail": true,
+    "specific_detail": "她可能还是会担心我的学业是否受到影响，或者觉得这些规划能否长期坚持下去…她总是关注“以后会不会后悔”的问题，这让我觉得她还是不信任我的判断",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "或许可以定期向她汇报，比如告诉她我的学习进度和画稿成果，让她看到我一直在努力平衡两者…但我还是有点担心，她会觉得这些汇报只是“表面功夫”。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以定期向她汇报，比如告诉她我的学习进度和画稿成果，让她看到我一直在努力平衡两者…但我还是有点担心，她会觉得这些汇报只是“表面功夫”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "这可能有效，比如告诉她我最近为了完成约稿调整了学习时间，但也确保考试复习没落下…这样可能让她觉得我的规划更实际，也看到了我的解决问题能力。",
+    "has_specific_detail": true,
+    "specific_detail": "这可能有效，比如告诉她我最近为了完成约稿调整了学习时间，但也确保考试复习没落下…这样可能让她觉得我的规划更实际，也看到了我的解决问题能力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "我最希望得到的是她的认可吧，哪怕只是一句“你做得不错”都能让我觉得安心…这会让我更有动力去坚持自己的兴趣和规划，而不是总感觉被否定。",
+    "has_specific_detail": true,
+    "specific_detail": "我最希望得到的是她的认可吧，哪怕只是一句“你做得不错”都能让我觉得安心…这会让我更有动力去坚持自己的兴趣和规划，而不是总感觉被否定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "如果她能减少对我的干涉，比如不再直接否定我的时间安排，或者不再阻止我做喜欢的事情…这可能会让我觉得她开始接纳我的选择，即使她没直接说出来。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她能减少对我的干涉，比如不再直接否定我的时间安排，或者不再阻止我做喜欢的事情…这可能会让我觉得她开始接纳我的选择，即使她没直接说出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "或许可以从一些小事情开始，比如先让她知道我的学习和兴趣安排不会冲突，然后再试着让她参与，比如一起看看我的作品…这样可能会让她觉得自己不是被排除在外，而是一起了解我的努力。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从一些小事情开始，比如先让她知道我的学习和兴趣安排不会冲突，然后再试着让她参与，比如一起看看我的作品…这样可能会让她觉得自己不是被排除在外，而是一起了解我的努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "我觉得需要注意她的反应，不要太强硬地要求她参与，可以用轻松的语气，比如“你想看看我最近画的东西吗？”这样可能让她觉得这是一种自然的分享，而不是压力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要注意她的反应，不要太强硬地要求她参与，可以用轻松的语气，比如“你想看看我最近画的东西吗？”这样可能让她觉得这是一种自然的分享，而不是压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "我最想让她看到我的作品中蕴含的努力和热情，告诉她这不仅是兴趣，也是我认真对待的一部分…希望她能明白这些对我来说真的很重要。",
+    "has_specific_detail": true,
+    "specific_detail": "我最想让她看到我的作品中蕴含的努力和热情，告诉她这不仅是兴趣，也是我认真对待的一部分…希望她能明白这些对我来说真的很重要",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 53,
+    "content": "如果她有触动，我可能会告诉她我很感谢她愿意了解我的兴趣，也会提到这些作品让我学到了很多…希望这能让她看到我的成长，而不是总觉得我在浪费时间。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她有触动，我可能会告诉她我很感谢她愿意了解我的兴趣，也会提到这些作品让我学到了很多…希望这能让她看到我的成长，而不是总觉得我在浪费时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "如果她回应得不好，我可能会告诉自己她需要时间去理解，同时继续专注于自己的目标…毕竟我的努力和热爱是不会因为她的态度改变的，这也是我坚持的原因。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她回应得不好，我可能会告诉自己她需要时间去理解，同时继续专注于自己的目标…毕竟我的努力和热爱是不会因为她的态度改变的，这也是我坚持的原因",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 55,
+    "content": "我觉得朋友可能是很重要的支持，他们总是理解我的兴趣，还会鼓励我…另外老师或者一些动漫社群也能让我感受到认可，这些都让我觉得不那么孤单。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得朋友可能是很重要的支持，他们总是理解我的兴趣，还会鼓励我…另外老师或者一些动漫社群也能让我感受到认可，这些都让我觉得不那么孤单",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "我希望有一天她能成为其中的一部分，虽然现在她总是反对，但如果她能慢慢理解我的热爱，或许我们之间的关系会变得更好…我觉得这需要时间和耐心去努力。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望有一天她能成为其中的一部分，虽然现在她总是反对，但如果她能慢慢理解我的热爱，或许我们之间的关系会变得更好…我觉得这需要时间和耐心去努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "我可以试着减少直接冲突，比如在表达自己观点时更加温和，同时关注她的担忧点…比如告诉她我有认真规划学习，这可能让她觉得更安心，也让我们之间的沟通不那么紧张。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着减少直接冲突，比如在表达自己观点时更加温和，同时关注她的担忧点…比如告诉她我有认真规划学习，这可能让她觉得更安心，也让我们之间的沟通不那么紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "我希望我们能互相理解，不再总是争吵，她能看到我的努力并支持我的选择…如果关系能更平和一些，我觉得自己会更自在，也更有动力去做好每件事。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望我们能互相理解，不再总是争吵，她能看到我的努力并支持我的选择…如果关系能更平和一些，我觉得自己会更自在，也更有动力去做好每件事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "我觉得第一步是让她愿意倾听我的感受，而不是直接否定…如果她能多听听我的想法，哪怕只是理解一点点，都会让我们之间的关系有好的开始。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得第一步是让她愿意倾听我的感受，而不是直接否定…如果她能多听听我的想法，哪怕只是理解一点点，都会让我们之间的关系有好的开始",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "或许可以从她关心的事情切入，比如先聊我的学习情况，让她觉得安心，然后再慢慢提到我的兴趣和感受…这样可能会让她更愿意听我说，而不是直接打断。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从她关心的事情切入，比如先聊我的学习情况，让她觉得安心，然后再慢慢提到我的兴趣和感受…这样可能会让她更愿意听我说，而不是直接打断",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "我觉得需要保持耐心吧，不要因为她可能不理解就马上变得激动…如果我能平静地表达自己，她可能会更愿意认真听，而不是直接反对。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要保持耐心吧，不要因为她可能不理解就马上变得激动…如果我能平静地表达自己，她可能会更愿意认真听，而不是直接反对",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 62,
+    "content": "我觉得一定要让她听到，我对兴趣的认真和规划，比如我不是随意地浪费时间，而是努力在学习和爱好之间找到平衡…希望她能明白这些对我的意义。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得一定要让她听到，我对兴趣的认真和规划，比如我不是随意地浪费时间，而是努力在学习和爱好之间找到平衡…希望她能明白这些对我的意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "我最想听到她的认可吧，哪怕只是说一句“我知道你在努力”，都会让我觉得自己被看见了…这会让我有更多信心去坚持自己喜欢的事情。",
+    "has_specific_detail": true,
+    "specific_detail": "我最想听到她的认可吧，哪怕只是说一句“我知道你在努力”，都会让我觉得自己被看见了…这会让我有更多信心去坚持自己喜欢的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "我想朋友和兴趣本身都是我的力量吧，只要我坚持画稿并看到自己的进步，就会觉得一切都值得…而且我相信，总有一天她会看到我的努力。",
+    "has_specific_detail": true,
+    "specific_detail": "我想朋友和兴趣本身都是我的力量吧，只要我坚持画稿并看到自己的进步，就会觉得一切都值得…而且我相信，总有一天她会看到我的努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "我可以回顾自己以前画的作品，看看从前到现在的进步，这会让我觉得自己的努力是有意义的…而且朋友的鼓励也能让我重新找到动力继续坚持。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以回顾自己以前画的作品，看看从前到现在的进步，这会让我觉得自己的努力是有意义的…而且朋友的鼓励也能让我重新找到动力继续坚持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "或许可以多给自己一点放松的时间，比如画完稿之后看看喜欢的动漫，或者和朋友聊聊…这样能让我在压力中找到一些平衡，不会觉得太累。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以多给自己一点放松的时间，比如画完稿之后看看喜欢的动漫，或者和朋友聊聊…这样能让我在压力中找到一些平衡，不会觉得太累",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 67,
+    "content": "我觉得可以先试着和妈妈聊一次我的学习规划，让她看到我有认真安排时间…然后再慢慢提到我的兴趣，希望这次能让她愿意听我说。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先试着和妈妈聊一次我的学习规划，让她看到我有认真安排时间…然后再慢慢提到我的兴趣，希望这次能让她愿意听我说",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 68,
+    "content": "我觉得需要提醒自己保持冷静，不要因为她可能反对就马上激动…同时尽量用具体的例子，比如我的时间表和成果，让她更容易理解我的努力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要提醒自己保持冷静，不要因为她可能反对就马上激动…同时尽量用具体的例子，比如我的时间表和成果，让她更容易理解我的努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 69,
+    "content": "我觉得可以提前整理一下我的规划和成果，比如列出最近的学习进度和画稿完成情况…这样在沟通时我会更自信，也能让她看到我的认真。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以提前整理一下我的规划和成果，比如列出最近的学习进度和画稿完成情况…这样在沟通时我会更自信，也能让她看到我的认真",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 70,
+    "content": "无论结果如何，我想对自己说“你已经尽力了，这很重要”，并提醒自己继续坚持自己的兴趣和目标，因为这些是属于我的价值和热爱。",
+    "has_specific_detail": true,
+    "specific_detail": "无论结果如何，我想对自己说“你已经尽力了，这很重要”，并提醒自己继续坚持自己的兴趣和目标，因为这些是属于我的价值和热爱",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 71,
+    "content": "好的，谢谢你的倾听和建议！这些计划我会认真考虑，感觉已经有了一些方向。以后有新的进展，我会再来和你分享！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，谢谢你的倾听和建议！这些计划我会认真考虑，感觉已经有了一些方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 72,
+    "content": "谢谢你的鼓励！你的支持让我觉得很温暖，也更有信心去尝试改变。那今天就先聊到这里吧，下次再见！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励！你的支持让我觉得很温暖，也更有信心去尝试改变",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

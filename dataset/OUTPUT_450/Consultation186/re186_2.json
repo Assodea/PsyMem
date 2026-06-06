@@ -1,0 +1,239 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，我试着从一些小事情开始，比如点外卖时多问一句送餐时间。但即使是这样的小互动，我还是会担心对方是不是觉得我很啰嗦…这种感觉有点难受。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我试着从一些小事情开始，比如点外卖时多问一句送餐时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是啊，每次这种担忧冒出来，我总会想“是不是我说错了什么？”或者“对方会不会觉得我很麻烦？”。然后就会下意识地后悔刚刚的行为…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，每次这种担忧冒出来，我总会想“是不是我说错了什么？”或者“对方会不会觉得我很麻烦？”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，比如在工作上，开会时提意见总会犹豫很久。我怕自己说的不够专业，或者提了建议后被同事觉得不靠谱，这种感觉特别强烈。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，比如在工作上，开会时提意见总会犹豫很久",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "有一次开会讨论一个新项目，我想到一个优化流程的点子，但脑海里的第一个念头是“万一说出来被否定了怎么办？”结果我犹豫了很久，最终没说出口…",
+    "has_specific_detail": true,
+    "specific_detail": "有一次开会讨论一个新项目，我想到一个优化流程的点子，但脑海里的第一个念头是“万一说出来被否定了怎么办？”结果我犹豫了很久，最终没说出口…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "会有点懊悔，心里一直想“刚才为什么不试着说一下呢？”身体上就觉得有点紧张，手心微微出汗，整个人也坐得很僵硬。",
+    "has_specific_detail": true,
+    "specific_detail": "会有点懊悔，心里一直想“刚才为什么不试着说一下呢？”身体上就觉得有点紧张，手心微微出汗，整个人也坐得很僵硬",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，这种感觉好像从学生时代就有。记得高中时，有次在课堂上回答问题，结果老师觉得我的答案不够全面，当时全班人都看着我，我觉得特别难堪。从那以后，我就很少主动发言了…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这种感觉好像从学生时代就有",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是的，除了难堪，还有点委屈。我当时觉得自己已经尽力回答了，但老师的表情和语气让我觉得自己好像做得很差，心里有种无助感，像没人理解我一样。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，除了难堪，还有点委屈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "如果老师能稍微肯定我哪怕一点，比如说“你的想法有一定道理”之类的，我可能不会觉得那么难堪，甚至会更有信心继续尝试吧…感觉当时我只是需要一点认可。",
+    "has_specific_detail": true,
+    "specific_detail": "如果老师能稍微肯定我哪怕一点，比如说“你的想法有一定道理”之类的，我可能不会觉得那么难堪，甚至会更有信心继续尝试吧…感觉当时我只是需要一点认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "也许可以试着在心里提醒自己：“我的建议可能不完美，但它是有价值的。”不过我担心即使这样想，还是会被别人否定…这种担忧很难完全放下。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试着在心里提醒自己：“我的建议可能不完美，但它是有价值的",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 10,
+    "content": "如果真被否定，我或许可以试着告诉自己，这只是对方案的反馈，而不是针对我个人。但我估计情绪上还是会有点低落，可能需要时间去消化…",
+    "has_specific_detail": true,
+    "specific_detail": "如果真被否定，我或许可以试着告诉自己，这只是对方案的反馈，而不是针对我个人",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 11,
+    "content": "嗯，这个方法听起来可行，记录自己迈出的进步可能会让我感觉没那么糟。不过低落的时候，我可能会很难静下心来去写这些…不知道能不能坚持。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个方法听起来可行，记录自己迈出的进步可能会让我感觉没那么糟",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "对，用手机写一句话可能会简单些，像“至少我今天提了建议”这种。不过我觉得自己可能还需要点动力，不然有时会觉得这样也没什么用…",
+    "has_specific_detail": true,
+    "specific_detail": "对，用手机写一句话可能会简单些，像“至少我今天提了建议”这种",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，这个主意不错！如果能用喜欢的零食或者音乐当奖励，感觉会稍微轻松点，可能也会更愿意去尝试。不过，我还是怕自己坚持不了多久…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个主意不错！如果能用喜欢的零食或者音乐当奖励，感觉会稍微轻松点，可能也会更愿意去尝试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，一周的尝试听起来没那么有压力，我觉得可以试试看！不过如果中途忘了或者没做到，我怕会又开始自责…这种心态总让我很困扰。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，一周的尝试听起来没那么有压力，我觉得可以试试看！不过如果中途忘了或者没做到，我怕会又开始自责…这种心态总让我很困扰",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "听起来有点道理，提醒自己偶尔忘记也没关系，或许会让我没那么纠结。不过有时候这种自我安慰，总觉得不太自然，好像没那么容易相信…",
+    "has_specific_detail": true,
+    "specific_detail": "听起来有点道理，提醒自己偶尔忘记也没关系，或许会让我没那么纠结",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，想象朋友这么说，好像确实比自己对自己说要容易接受一些。可能是因为听到别人鼓励时，我会觉得更真实一点吧…这种方法我可以试试！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，想象朋友这么说，好像确实比自己对自己说要容易接受一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "好的，我觉得这个方法可以试试！记录进步的时候，顺便想象朋友在鼓励我，应该会让我更有动力一些。希望自己能坚持下来…",
+    "has_specific_detail": true,
+    "specific_detail": "好的，我觉得这个方法可以试试！记录进步的时候，顺便想象朋友在鼓励我，应该会让我更有动力一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "好的，谢谢你的建议！我会认真去尝试的，也希望自己能从中找到一点改变的感觉。我们下次再聊吧！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，谢谢你的建议！我会认真去尝试的，也希望自己能从中找到一点改变的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

@@ -1,0 +1,749 @@
+[
+  {
+    "turn": 1,
+    "content": "最近我总觉得自己很没用，特别是关于职业规划。就拿考研来说吧，我虽然计划了很久，但每次想到要认真备考，就感觉心里压得慌…总觉得自己可能根本做不到。",
+    "has_specific_detail": true,
+    "specific_detail": "最近我总觉得自己很没用，特别是关于职业规划",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "可能是都有吧。之前在大学的时候，我也试过拼命学习，可是成绩总是一般般。现在面对考研，我担心就算努力了，也还是会失败，觉得自己好像永远不够好…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "大学时我常常觉得自己很孤单，成绩不理想让我更难受。最糟糕的时候，我会躲在宿舍，刷手机或者画画，逃避面对自己的失落感。这样虽然暂时能缓解，但事情并没有真正改变。",
+    "has_specific_detail": true,
+    "specific_detail": "大学时我常常觉得自己很孤单，成绩不理想让我更难受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "画画对我来说是重要的兴趣，它让我觉得自己在某些方面还是有价值的。但同时，我也会想：为什么喜欢的东西不能成为我的职业？这种矛盾让我现在更迷茫和焦虑…",
+    "has_specific_detail": true,
+    "specific_detail": "画画对我来说是重要的兴趣，它让我觉得自己在某些方面还是有价值的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "大概是大学选专业后吧，那时候医学和我的兴趣差别太大，但父母希望我学医。我也想过把画画变成职业，可是担心自己没能力撑起来，特别是父母的态度也不支持，让我更犹豫…",
+    "has_specific_detail": true,
+    "specific_detail": "大概是大学选专业后吧，那时候医学和我的兴趣差别太大，但父母希望我学医",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "是啊，那时候我觉得自己没什么选择权。父母一直说学医有前途，我也怕如果坚持自己的兴趣会让他们失望。为了避免争执，我就听他们的了，但内心确实觉得压抑，常常怀疑自己这样做是不是对的…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，那时候我觉得自己没什么选择权",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "现在回想起来，我有点后悔，但更多是觉得当时确实没办法。即使坚持自己的兴趣，可能也会因为父母的不支持而压力更大吧。说到这个，前几天和家里聊考研，他们又提到学医有保障，听了就觉得很无力…",
+    "has_specific_detail": true,
+    "specific_detail": "现在回想起来，我有点后悔，但更多是觉得当时确实没办法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "我试着说自己想换个方向，比如与艺术相关的领域，但他们觉得这不现实，还说考研就该往稳定的路走。这让我觉得很压抑，好像自己的想法永远都不会被真正看见…",
+    "has_specific_detail": true,
+    "specific_detail": "我试着说自己想换个方向，比如与艺术相关的领域，但他们觉得这不现实，还说考研就该往稳定的路走",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "确实是这样，被否定后我常怀疑自己的选择是否真的有价值。为了缓解压抑，我最近会翻一些艺术展的图片，或者随手画点东西，但这些只能暂时让我感觉好一点…",
+    "has_specific_detail": true,
+    "specific_detail": "确实是这样，被否定后我常怀疑自己的选择是否真的有价值",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能两者都有吧，看艺术展让我感受到一点希望，觉得自己还是有可能找到方向。但同时我也知道，这种方式无法解决现实问题，更多是在逃避压力。说到这个，最近店里的事情也让我心烦…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧，看艺术展让我感受到一点希望，觉得自己还是有可能找到方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "主要是经营不太顺利吧，客人少，收入也不稳定。我一个人撑着，有时候觉得特别孤单，不知道还能坚持多久。这种状态让我更怀疑自己是不是做什么都不行…",
+    "has_specific_detail": true,
+    "specific_detail": "主要是经营不太顺利吧，客人少，收入也不稳定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我试着跟家人提过，但他们觉得开店本来就不靠谱，没太多支持。朋友的话，我社交圈不大，能聊的人也不多，所以大部分时候只能自己想办法，比如试着做点促销活动，但效果还是一般…",
+    "has_specific_detail": true,
+    "specific_detail": "我试着跟家人提过，但他们觉得开店本来就不靠谱，没太多支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "确实，效果不理想让我更怀疑自己，但偶尔也会有些轻松的时刻，比如看到有顾客夸我的商品质量好，那时候我会觉得自己做的事情还是有意义的。可惜这样的时刻太少了…",
+    "has_specific_detail": true,
+    "specific_detail": "确实，效果不理想让我更怀疑自己，但偶尔也会有些轻松的时刻，比如看到有顾客夸我的商品质量好，那时候我会觉得自己做的事情还是有意义的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "是啊，每次听到夸奖，我会觉得稍微有点动力。但要让这种反馈更多，可能需要更努力去提升商品和服务，可是我总觉得自己精力有限，压力也越来越大…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，每次听到夸奖，我会觉得稍微有点动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我试着调整过，比如降低价格或者换进货渠道，但效果都不太明显。至于外部支持，我想过找合伙人或咨询专业意见，但又担心自己沟通能力差，可能合作会有问题…这种担心让我更犹豫。",
+    "has_specific_detail": true,
+    "specific_detail": "我试着调整过，比如降低价格或者换进货渠道，但效果都不太明显",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "可能两者都有吧，我担心别人会否定我的想法，也害怕失去对店的掌控权。过去大学做小组作业时，有几次我提的建议被忽略，那种感觉特别不好，让我现在更不敢主动表达…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧，我担心别人会否定我的想法，也害怕失去对店的掌控权",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得可能都有吧，有时候是我表达不够清晰，有时候是他们已经有自己的想法，不太愿意听。我当时会选择沉默，不再多说，但心里会觉得特别委屈，慢慢就更不想主动参与讨论了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能都有吧，有时候是我表达不够清晰，有时候是他们已经有自己的想法，不太愿意听",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "是的，在家庭里尤其明显，像这次聊考研方向，我明明有自己的想法，但最终还是没能坚持表达清楚，怕说多了会引起争执。在工作上也是，面对顾客或供应商，我会尽量迎合对方，不太敢坚持自己的意见，总觉得这样会减少麻烦，但同时也让我越来越压抑…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，在家庭里尤其明显，像这次聊考研方向，我明明有自己的想法，但最终还是没能坚持表达清楚，怕说多了会引起争执",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我想可能是从小时候开始的吧，父母对我的要求很多，但很少真正听我说想法。如果我试图表达不同意见，就会被批评或者忽略，这让我觉得说出来也没用，久而久之就习惯了迎合他们的期待。这样的感觉好像一直跟着我到现在…",
+    "has_specific_detail": true,
+    "specific_detail": "我想可能是从小时候开始的吧，父母对我的要求很多，但很少真正听我说想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "小时候我会通过看书或者画画来安慰自己，那些时候我能暂时忘记被忽略的感觉，觉得世界至少还有我喜欢的东西。现在画画还是让我稍微好受一些，但有时候也会觉得自己只是逃避现实，没真正解决问题…",
+    "has_specific_detail": true,
+    "specific_detail": "小时候我会通过看书或者画画来安慰自己，那些时候我能暂时忘记被忽略的感觉，觉得世界至少还有我喜欢的东西",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "是啊，有时候我觉得自己的努力像是“徒劳”，不够扎实。画画倒是让我平静一些，尤其是在焦虑的时候，它能帮我暂时缓解那些“做不好”“不够好”的自我怀疑，让我找到一点点内心的空间…但这些平静只能维持很短时间。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，有时候我觉得自己的努力像是“徒劳”，不够扎实",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得两者都有吧，过去经历让我觉得自己一直不够好，而未来的不确定性又让我担心会重蹈覆辙。画画时，我喜欢画夜空或者宇宙，那种广阔和自由的感觉会让我稍微有些力量，觉得自己还能追求些什么…不过每次画完还是要回到现实，压力依旧在。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两者都有吧，过去经历让我觉得自己一直不够好，而未来的不确定性又让我担心会重蹈覆辙",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "是啊，每次画夜空，我都渴望能摆脱束缚，像星星一样自由闪耀。如果压力和希望能连接起来，也许是通过让自己的兴趣变得更有实际意义，比如找到一份与艺术相关的工作，但这又让我回到现实的担忧，觉得实现起来会很难…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，每次画夜空，我都渴望能摆脱束缚，像星星一样自由闪耀",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "可能都有吧。方向不明确是最大的难点，我不知道具体要做什么才能把艺术兴趣转化成职业。另外，我也担心资源不足，比如缺乏专业培训或人脉支持。而害怕失败更是让我犹豫不敢迈出第一步，总觉得自己可能根本不行…",
+    "has_specific_detail": true,
+    "specific_detail": "可能都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "尝试小行动可能会有帮助，但我总担心自己坚持不下来，怕做了之后又失败，反而更打击自信心。就像之前试过报名一个艺术培训班，最后因为家里的反对和自己的犹豫没去成，这让我对迈出第一步更顾虑重重…",
+    "has_specific_detail": true,
+    "specific_detail": "尝试小行动可能会有帮助，但我总担心自己坚持不下来，怕做了之后又失败，反而更打击自信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我试着跟家人沟通，但他们觉得艺术不实用，总是劝我把时间花在更“靠谱”的事情上。我的犹豫可能更多是害怕失败吧，怕证明他们的担忧是对的，同时也担心自己真的无法坚持到底…这种感觉让我很矛盾。",
+    "has_specific_detail": true,
+    "specific_detail": "我试着跟家人沟通，但他们觉得艺术不实用，总是劝我把时间花在更“靠谱”的事情上",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "是的，过去努力却没有好结果让我更害怕失败，总觉得自己可能还是会不行。一个低风险的方式可能确实会让我更愿意尝试，比如小规模接些艺术设计的活，或者先参与一些相关的线上课程，慢慢探索看看自己能不能适应…不过我也担心，哪怕是小尝试，会不会还是失败收场。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，过去努力却没有好结果让我更害怕失败，总觉得自己可能还是会不行",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "如果失败了，我可能会觉得自己更没用，好像又验证了“我不行”这种想法。不过，如果能在过程中学到新技能，或者发现自己的不足在哪，也许能让我觉得失败不全是坏事吧。但坦白说，情绪上还是很难接受失败…",
+    "has_specific_detail": true,
+    "specific_detail": "如果失败了，我可能会觉得自己更没用，好像又验证了“我不行”这种想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "或许从小目标入手会让我没那么害怕，比如先完成一幅画，或者尝试投稿到一些小平台。和信任的人分享过程也可能有帮助，但我的社交圈有限，感觉很难找到真正理解我的人。这让我还是有些犹豫…",
+    "has_specific_detail": true,
+    "specific_detail": "或许从小目标入手会让我没那么害怕，比如先完成一幅画，或者尝试投稿到一些小平台",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "主要是我不太主动吧，小时候习惯回避人际关系，后来圈子就越来越小了。现在有一个大学时的朋友，她偶尔会听我说心里话，虽然不完全理解我的情况，但至少让我觉得稍微轻松一点。不过我总担心自己会给别人带来麻烦，所以也不敢说太多…",
+    "has_specific_detail": true,
+    "specific_detail": "主要是我不太主动吧，小时候习惯回避人际关系，后来圈子就越来越小了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "可能是怕被评价为“过于依赖”吧，我总觉得自己的问题太多，别人可能会不耐烦。不过有时候试着说一点，她会安慰我或者给些建议，那种反应让我觉得好像没那么糟，但我还是会小心翼翼地控制自己说的内容，怕哪天真的说多了她就不愿意听了…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是怕被评价为“过于依赖”吧，我总觉得自己的问题太多，别人可能会不耐烦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不愿意",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "可能分享轻松的小事会更容易吧，比如我画了一幅新作品或者看到了一些有趣的东西。这种时候她通常会认真听，还会夸我的作品好看，那种真心的反应让我觉得她确实愿意倾听，但我还是不太敢深入聊自己的烦恼，怕破坏那种轻松的氛围…",
+    "has_specific_detail": true,
+    "specific_detail": "可能分享轻松的小事会更容易吧，比如我画了一幅新作品或者看到了一些有趣的东西",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "这可能是个不错的方式，比如聊画画时，我可以提到创作过程中某些情绪，比如感到放松或思考未来的迷茫。这种自然过渡可能不会让对方觉得突兀，同时也让我有机会表达一些内心的感受，慢慢试探着更深入地聊自己的烦恼。不过，还是会担心对方能不能理解这些情绪…",
+    "has_specific_detail": true,
+    "specific_detail": "这可能是个不错的方式，比如聊画画时，我可以提到创作过程中某些情绪，比如感到放松或思考未来的迷茫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "如果她愿意倾听，即使不能完全理解，我也会稍微安心一些吧，至少能感受到一点支持。可能在表达时，我可以试着更具体地描述自己的感受，比如说画画时会想到未来的不确定性，这样可能更容易让对方理解我的情绪。不过，我还是会担心说得太多会让她觉得负担重…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她愿意倾听，即使不能完全理解，我也会稍微安心一些吧，至少能感受到一点支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "可能是因为觉得自己的问题“太多”，怕对方觉得我过于消极而疏远吧。过去也有过和朋友聊得多了，后来关系变得疏远的经历，所以现在很谨慎。如果能找到一个适合的表达频率，比如偶尔分享一些感受但不完全倾诉，可能会让我安心一点，但我还需要慢慢尝试才行…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是因为觉得自己的问题“太多”，怕对方觉得我过于消极而疏远吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "也许可以从画画带来的放松感开始吧，比如聊我最近完成了一幅夜空的作品，觉得它让我暂时忘记压力，这种正面的情绪可能会更容易让对方接受。然后我可以慢慢提到创作时想到未来的迷茫，再试探着看看对方的反应。如果对方愿意继续听，我可能会更放心一点，尝试聊得深入些。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以从画画带来的放松感开始吧，比如聊我最近完成了一幅夜空的作品，觉得它让我暂时忘记压力，这种正面的情绪可能会更容易让对方接受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "如果对方反应比较简单，我可能会暂时停下来，换回轻松的话题，比如聊一些生活上的小事，避免让气氛变得尴尬。这样既可以观察对方是否愿意继续交流，也能让我自己缓和一下情绪。不过，如果觉得对方确实没有兴趣听这些，我可能会选择不再深入表达，慢慢减少类似的话题…这样虽然安全，但也让我觉得更孤单。",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方反应比较简单，我可能会暂时停下来，换回轻松的话题，比如聊一些生活上的小事，避免让气氛变得尴尬",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "这种方式可能会让我更安心，比如在聊之前问问对方最近忙不忙，或者直接说“我有些想法不知道你愿不愿意听”。这样可以避免突如其来的深入交流，让我觉得更有安全感，也能让对方有选择的空间。不过，我还是会担心自己的表达界限是不是设得太低，导致自己长期压抑真正的感受…这种平衡点真的不好掌握。",
+    "has_specific_detail": true,
+    "specific_detail": "这种方式可能会让我更安心，比如在聊之前问问对方最近忙不忙，或者直接说“我有些想法不知道你愿不愿意听”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不愿意",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "这种“逐步试探”听起来是个可行的方法，比如先简单分享我画画时想到的一个小情绪，看看对方反应。如果对方表现出愿意倾听，我可以再稍微深入一点；如果反应冷淡，我就停在轻松的话题上。这种方式可能让我觉得更有控制感，同时也不会觉得完全压抑自己。不过，有时候我还是会因为害怕失败而不敢开始尝试，这种担忧好像很难消除…",
+    "has_specific_detail": true,
+    "specific_detail": "这种“逐步试探”听起来是个可行的方法，比如先简单分享我画画时想到的一个小情绪，看看对方反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "给自己心理预期可能会让我稍微放松一点，比如提醒自己“这只是一次尝试，不代表我的全部价值”。同时，我可以试着专注于分享的过程而不是结果，比如记录下自己表达后的感受，看有没有哪怕一点点的轻松或释然，这样可能让我更多关注尝试本身的意义。不过，每次迈出第一步时，那种害怕被拒绝的感觉还是挺难摆脱的…",
+    "has_specific_detail": true,
+    "specific_detail": "给自己心理预期可能会让我稍微放松一点，比如提醒自己“这只是一次尝试，不代表我的全部价值”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "或许尝试前先画点东西或者写写想法会让我更有底气，这样能让我理清自己的思路，也让情绪稍微平静一些。至于害怕被拒绝，我觉得和小时候被父母批评时的感觉很像，那种“我的想法不重要”的印象好像一直跟着我，让我现在更容易在表达时退缩…这种联想让我更难摆脱对被拒绝的恐惧。",
+    "has_specific_detail": true,
+    "specific_detail": "或许尝试前先画点东西或者写写想法会让我更有底气，这样能让我理清自己的思路，也让情绪稍微平静一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "提醒自己“我的想法是有价值的”，或者回忆别人夸我的作品确实能让我稍微自信一点，特别是那些顾客夸商品质量好时，我会觉得自己的努力没有白费。这种认可对我的影响还是挺大的，它让我感觉自己不是完全失败的，只是这些瞬间太少，没办法彻底改变那种根深蒂固的自我怀疑…不过，试着更多关注这些正面的反馈或许能让我在表达时稍微勇敢一点吧。",
+    "has_specific_detail": true,
+    "specific_detail": "提醒自己“我的想法是有价值的”，或者回忆别人夸我的作品确实能让我稍微自信一点，特别是那些顾客夸商品质量好时，我会觉得自己的努力没有白费",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "记录认可的瞬间确实是个好方法，比如写个小日志或者画出来，这样能让我更具体地记住那些让我感觉有价值的时刻。在需要的时候翻看这些记录，可能会让我觉得自己并不是一无是处，对自我怀疑应该会有一定帮助。不过，我还是担心自己能不能坚持做下去，每次开始新习惯都会觉得动力不足，总怕没坚持多久又放弃了…",
+    "has_specific_detail": true,
+    "specific_detail": "记录认可的瞬间确实是个好方法，比如写个小日志或者画出来，这样能让我更具体地记住那些让我感觉有价值的时刻",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "一周记录一次或者只写几句话的方式听起来确实轻松很多，可能会让我更愿意开始。如果每次完成后能给自己一点小奖励，比如看一部喜欢的电影或者画自己最想画的主题，应该也会让我觉得这个习惯更有动力。不过，我还是会担心自己会不会因为情绪低落而忘记坚持，所以可能需要额外提醒自己，比如设个手机提醒之类的…",
+    "has_specific_detail": true,
+    "specific_detail": "一周记录一次或者只写几句话的方式听起来确实轻松很多，可能会让我更愿意开始",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "加上一句对自己的鼓励，比如“这次的努力很棒”，听起来确实能让记录更有意义，也可能慢慢帮我改变对自己的负面看法。虽然一开始可能会觉得有点不自然，但如果坚持做下去，或许会逐渐习惯这种方式。不过，我还是会担心自己在低落的时候难以找到“努力很棒”的瞬间，害怕记录变成一种压力…这种矛盾让我对新习惯的尝试总是犹豫不决。",
+    "has_specific_detail": true,
+    "specific_detail": "加上一句对自己的鼓励，比如“这次的努力很棒”，听起来确实能让记录更有意义，也可能慢慢帮我改变对自己的负面看法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "记录小事，比如“完成了一件小任务”或“坚持了一会儿画画”，确实能减轻压力，让我觉得记录的标准没那么高，也更容易开始。这样的宽松方式可能会让我在低落的时候仍然找到一点积极的东西，哪怕是很微小的。虽然可能一开始还是会有点不适应，但如果能慢慢形成习惯，也许真的会让我对自己看得稍微好一点。不过，我还是会担心自己能不能持续做到这一点…这种害怕半途而废的感觉总是挥之不去。",
+    "has_specific_detail": true,
+    "specific_detail": "记录小事，比如“完成了一件小任务”或“坚持了一会儿画画”，确实能减轻压力，让我觉得记录的标准没那么高，也更容易开始",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "设定两周的短期目标确实让我觉得更可控，不会有太大的压力。如果达到目标后还能有一个小庆祝，比如去看喜欢的展览或者买一本画册，可能会让我更有动力继续尝试。不过，我还是会担心自己在情绪低落时会放弃，这种对失败的恐惧好像一直在阻碍我真正开始行动…不过也许试试短期目标能缓解一些这种感觉吧。",
+    "has_specific_detail": true,
+    "specific_detail": "设定两周的短期目标确实让我觉得更可控，不会有太大的压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "允许自己在低落时暂停，而不是完全放弃，确实听起来压力会小一点。如果告诉自己“今天状态不好，可以少做一点”，也许能让我觉得尝试本身是灵活的，不一定非要逼自己做到完美。这种方式可能会让我在低谷期仍然有一点空间继续尝试，不过，我还是会担心自己会因为这种“少做”的习惯变得懒散，导致最终彻底放弃…这种担忧让我对行动总是充满纠结。",
+    "has_specific_detail": true,
+    "specific_detail": "允许自己在低落时暂停，而不是完全放弃，确实听起来压力会小一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "设定一个底线，比如“至少完成一件小事”，确实能让我觉得行动是可控的，同时不会给自己过多压力。这种方式可能会让我在低谷期仍然保持一点动力，也减少彻底放弃的风险。不过，我还是会因为内心的“做得不够好”的声音感到焦虑，害怕即使完成小事也无法真正减轻这种负面情绪…但至少尝试这样调整，或许能稍微缓解一些纠结吧。",
+    "has_specific_detail": true,
+    "specific_detail": "设定一个底线，比如“至少完成一件小事”，确实能让我觉得行动是可控的，同时不会给自己过多压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "主动认可自己，比如“虽然不完美，但我坚持了一点”，听起来确实能让我稍微改变对“够好”的标准。这种方式可能会让我觉得自己的努力有价值，哪怕只是小小的进步，也能让我感受到一点与负面情绪对抗的力量。不过，这种自我认可的方式需要时间去适应，一开始可能还是会觉得有点勉强，但如果能坚持下去，或许真的能让我对自己看得更宽容一些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "主动认可自己，比如“虽然不完美，但我坚持了一点”，听起来确实能让我稍微改变对“够好”的标准",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "每天完成小事后写一句自我鼓励的话确实是一个简单的习惯，可能会让我更自然地接受自我认可。如果能通过画画来表达，比如用颜色或图案记录当天的感受，也会让我觉得这个过程更贴近自己的兴趣，甚至能让我在创作中找到一点力量。这样的方式可能不仅是一种自我肯定，还能成为一种情绪出口，让我更愿意尝试坚持下来。不过，我还是会担心自己能不能找到足够的时间和精力去维持这些习惯…这种害怕失败的情绪好像总在阻碍我迈出真正的行动。",
+    "has_specific_detail": true,
+    "specific_detail": "每天完成小事后写一句自我鼓励的话确实是一个简单的习惯，可能会让我更自然地接受自我认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "简化过程，比如只用几分钟画一个颜色或简单图案，确实会让我觉得更轻松，时间和精力的压力也会减轻不少。如果能和日常活动结合起来，比如完成任务后记录感受，这样也会让它更自然地融入生活。不过，我还是会担心自己会因为懒惰或者低落的情绪而中断习惯，这种害怕失败的感觉总是让我对任何新尝试都充满犹豫…但至少这些方法听起来值得试试。",
+    "has_specific_detail": true,
+    "specific_detail": "简化过程，比如只用几分钟画一个颜色或简单图案，确实会让我觉得更轻松，时间和精力的压力也会减轻不少",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "给自己一个承诺，比如“哪怕只能坚持一天，也是一种进步”，确实能让我对失败的恐惧缓解一些。这种想法让我觉得尝试本身就是一种价值，而不一定要追求完美。设定备用方案，比如低落时只记录一句话，也会让我觉得行动是灵活的，不至于完全停滞。这些方法可能能帮助我逐渐适应新习惯，同时也让我对自己的期待更加宽容一些，虽然还是需要时间去适应这种心态的变化。",
+    "has_specific_detail": true,
+    "specific_detail": "给自己一个承诺，比如“哪怕只能坚持一天，也是一种进步”，确实能让我对失败的恐惧缓解一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "或许今天可以试着画一个简单的图案，比如用颜色表现我现在的心情，可能会让我更容易开始。这种方式既贴近我的兴趣，也不会有太多压力。或者写一句话，比如“今天聊了很多让我思考的问题”，也是一个很小但具体的行动。虽然开始总是有点难，但迈出这一步至少让我觉得自己在尝试，而不是一直停在原地。",
+    "has_specific_detail": true,
+    "specific_detail": "或许今天可以试着画一个简单的图案，比如用颜色表现我现在的心情，可能会让我更容易开始",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "完成后，我可能会觉得稍微轻松一些，至少证明自己能开始行动，而不是完全停滞。这种小成功或许会让我对继续尝试有更多信心，也可能让我找到一点对自己的认可。虽然感觉不会一下子改变，但哪怕是一点点积极的情绪，也会让我觉得这个过程值得继续探索。今天就先从这一步开始吧！",
+    "has_specific_detail": true,
+    "specific_detail": "完成后，我可能会觉得稍微轻松一些，至少证明自己能开始行动，而不是完全停滞",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "好的，我会试着从今天记录一个简单的图案或写一句话开始，看看这个过程能带来什么样的感觉。如果过程中有新的体会或者遇到问题，我会再和你分享。谢谢你愿意听我说这些！今天先聊到这里吧。",
+    "has_specific_detail": true,
+    "specific_detail": "好的，我会试着从今天记录一个简单的图案或写一句话开始，看看这个过程能带来什么样的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

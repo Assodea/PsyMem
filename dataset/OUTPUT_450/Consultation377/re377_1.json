@@ -1,0 +1,1349 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，主要是最近几次考试成绩都不理想。比如上周数学考试，我明明复习了很久，但结果还是比预期差很多。我当时特别失落，觉得自己是不是不够聪明…这种感觉总是挥之不去，让我很难再集中精力学习。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，主要是最近几次考试成绩都不理想",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，我记得有几道题其实是我很熟悉的类型，但考试时因为紧张错了，尤其是应用题那部分。我后来也反思过，可能是复习时太注重记忆公式，忽略了实际运用的训练。但这次失误让我觉得自己是不是总是学不好数学…这种想法一出现就很难摆脱。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我记得有几道题其实是我很熟悉的类型，但考试时因为紧张错了，尤其是应用题那部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "是的，这种想法让我觉得数学越来越难靠近。就拿昨天来说，老师布置了一些难题，我看了之后就觉得自己肯定做不好，干脆没怎么尝试。这种时候，我会很烦躁，也觉得自己越来越没动力去解决问题…说到这个，最近其他科目的学习也受到了一些影响。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种想法让我觉得数学越来越难靠近",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "嗯，烦躁的时候我会选择一个人待着，比如听听音乐或者刷视频，试图让自己暂时忘掉那些问题。不过这样做完后，情绪还是没好转多少，反而觉得更浪费了时间…还有一次，我直接把复习计划放到第二天，结果压力更大了。说到这，前几天也有类似情况。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，烦躁的时候我会选择一个人待着，比如听听音乐或者刷视频，试图让自己暂时忘掉那些问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "有时候确实会想找人聊聊，但我不太确定该跟谁说。比如爸妈，他们总是很关心我的成绩，可我又担心他们会觉得我太没用。所以，我通常还是选择自己消化问题，但这样好像也没什么效果…如果能有一个不用担心被批评的人听我说，也许会轻松些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候确实会想找人聊聊，但我不太确定该跟谁说",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "如果爸妈能先理解我的感受，而不是直接关注成绩，我可能会愿意试着和他们聊聊。但说实话，我有点不确定他们会不会真的做到这一点，因为过去他们总是习惯性地强调结果…所以，有时候我觉得跟朋友或者像你这样的人聊会更轻松些，至少不用担心会被误解。",
+    "has_specific_detail": true,
+    "specific_detail": "如果爸妈能先理解我的感受，而不是直接关注成绩，我可能会愿意试着和他们聊聊",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "其实，我跟朋友聊这些事不太多。一方面是怕他们觉得我太“烦”，另一方面也担心自己的问题会让他们觉得难以回应…之前有次，我试着跟一个关系比较好的同学提了一下，但对方只是随便安慰了几句，没深入聊。所以到现在，我还是习惯自己承受这些情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "其实，我跟朋友聊这些事不太多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，其实那次我希望他能认真听听我的感受，而不是简单地说“没事，下次就好”。如果他能多问问我的困难，或者给点具体的建议，我可能会觉得被真正理解了。但当时他只是轻描淡写地安慰，我有点失落，也觉得自己可能不该再提这些了…这种感觉让我后来更少去主动找人倾诉。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，其实那次我希望他能认真听听我的感受，而不是简单地说“没事，下次就好”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "如果真的有人愿意认真听我说，还能帮我一起找办法，我觉得会轻松很多吧。至少，我不会再觉得只有自己在对抗这些问题，可能也会更愿意尝试去解决…比如最近的学习问题，如果有人能帮我梳理一下思路，我可能就没那么迷茫了。其实，想起前几天做作业时，也有类似的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "如果真的有人愿意认真听我说，还能帮我一起找办法，我觉得会轻松很多吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，前几天做英语作文时，我卡了很久开头，越拖越烦躁。后来干脆放弃了，想着第二天再说，但到了第二天却更没动力开始…那时候特别希望有人能帮我理清思路，比如给我一些写作建议或陪我一起构思。可我又不好意思求助老师或者同学，最后只能硬着头皮写了个勉强的版本，心里还是觉得挺压抑的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，前几天做英语作文时，我卡了很久开头，越拖越烦躁",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "如果有人陪我一起构思，或者鼓励我试着写写看，我可能就不会拖那么久了吧。至少，有人帮忙理清思路，我就不会觉得这么迷茫，也许还能更有信心去完成…但每次遇到这种情况，我又总觉得不好意思麻烦别人，所以还是习惯自己硬撑着。其实，类似的情况在其他科目也发生过，尤其是数学。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人陪我一起构思，或者鼓励我试着写写看，我可能就不会拖那么久了吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，可能两方面都有吧。我担心对方会觉得我太麻烦，毕竟大家都有自己的事要忙。另外，有时候也觉得我的问题不算什么大事，自己应该能解决…但事实是，这种想法常让我陷入更大的压力里，比如数学上遇到难题时，就特别明显。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "遇到数学难题时，我通常会先反复琢磨一阵，但如果实在搞不懂，就可能选择跳过或者暂时放弃。不过放弃之后，心里会特别焦虑，总觉得自己在逃避问题。比如上次做几何题，我试了好几次都不对，后来就直接跳过了，可内心一直纠结，害怕以后还是解决不了…这种感觉让我对数学的信心越来越低。",
+    "has_specific_detail": true,
+    "specific_detail": "遇到数学难题时，我通常会先反复琢磨一阵，但如果实在搞不懂，就可能选择跳过或者暂时放弃",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，我也试过换个时间重新尝试，但往往还是难以解决，反而拖得更久，更焦虑。至于向老师或同学求助，我会犹豫很久，总觉得自己的问题太简单，怕被他们觉得我不够用心…所以每次都是纠结一阵后，还是选择自己慢慢琢磨，但这样效率真的很低。其实，昨天我又遇到了类似的情况。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我也试过换个时间重新尝试，但往往还是难以解决，反而拖得更久，更焦虑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "昨天是物理课后，我在做一道电路分析题时卡住了，反复看公式也理不清思路。当时特别着急，但又不敢问老师，怕显得我学得太差。最后，我硬着头皮做了个不确定的答案，心里还是觉得挺没底气的…这种感觉让我对接下来的物理学习也有点抗拒了。",
+    "has_specific_detail": true,
+    "specific_detail": "昨天是物理课后，我在做一道电路分析题时卡住了，反复看公式也理不清思路",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "可能吧，但我总觉得老师和同学会觉得我的问题太简单，就像“为什么连这种题都不会？”这种想法让我很犹豫去开口。也许他们会耐心解答，但我还是害怕被默默评价…其实，之前有一次，我试着问过一个同学，但他的回答让我有点意外。",
+    "has_specific_detail": true,
+    "specific_detail": "可能吧，但我总觉得老师和同学会觉得我的问题太简单，就像“为什么连这种题都不会？”这种想法让我很犹豫去开口",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "那次我问他一道数学题，他倒是很认真地讲解了，但中途随口说了一句“这题挺简单的啊”，让我一下子觉得特别尴尬。我知道他不是故意的，可那句话让我感觉自己真的太笨了…后来，我就更少主动去问别人了，担心类似的情况会再次发生。",
+    "has_specific_detail": true,
+    "specific_detail": "那次我问他一道数学题，他倒是很认真地讲解了，但中途随口说了一句“这题挺简单的啊”，让我一下子觉得特别尴尬",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，每次想开口求助时，那种“不够聪明”的念头都会冒出来，让我犹豫不决，甚至觉得问题解决不了是我自己的错。这种心态让我在学习上更容易退缩，比如遇到难题时，总想着“算了，可能我就是做不来”，然后就失去了继续尝试的动力…最近，尤其是在数学和物理上，这种感觉变得越来越频繁。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，每次想开口求助时，那种“不够聪明”的念头都会冒出来，让我犹豫不决，甚至觉得问题解决不了是我自己的错",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "偶尔会有这种反驳的念头，比如想起之前学会过一些比较难的题目，心里会稍微好受一点。但这种感觉通常持续不了多久，因为失败的经历总是更容易浮现，让我又回到自我怀疑的状态。比如，前几天做完一套数学练习时，我明明完成了几道复杂题，但因为最后错了几道简单题，还是觉得自己不够好…这种情绪循环真的挺难摆脱。",
+    "has_specific_detail": true,
+    "specific_detail": "偶尔会有这种反驳的念头，比如想起之前学会过一些比较难的题目，心里会稍微好受一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "当我陷入这种循环时，失落和懊恼是最明显的感觉，尤其是觉得自己明明努力了却还是没做好。但同时，我也会担心，如果这种状态持续下去，未来会不会越来越难追上别人…这种对未来的担忧让我压力更大，有时候甚至会想，是不是我就不适合学这些科目。比如上周一次模拟考试后，这种念头特别强烈。",
+    "has_specific_detail": true,
+    "specific_detail": "当我陷入这种循环时，失落和懊恼是最明显的感觉，尤其是觉得自己明明努力了却还是没做好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "那次模拟考试，我数学得了全班倒数，尤其是大题几乎全错。当时看到成绩的一瞬间，我觉得特别难堪，甚至想躲着同学，不想让他们知道我的分数。后来，我试着安慰自己说“这只是一次考试”，但这种念头没什么效果，心里还是充满了自我怀疑…之后几天，我连复习的动力都下降了，总觉得自己的努力好像没有意义。",
+    "has_specific_detail": true,
+    "specific_detail": "那次模拟考试，我数学得了全班倒数，尤其是大题几乎全错",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，如果能具体分析问题，也许会更清楚哪里出了问题，但每次尝试时，我都会被错题数量吓到，反而觉得自己更差劲…比如那次模拟考试，我发现很多错题是因为计算粗心或题目没读清楚，但这让我觉得自己连基本功都不扎实，这种想法还是让我的情绪很低落。其实，类似的情况在其他科目也发生过，比如英语听力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果能具体分析问题，也许会更清楚哪里出了问题，但每次尝试时，我都会被错题数量吓到，反而觉得自己更差劲…比如那次模拟考试，我发现很多错题是因为计算粗心或题目没读清楚，但这让我觉得自己连基本功都不扎实，这种想法还是让我的情绪很低落",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "英语听力上，我发现自己总是因为注意不到细节而错，比如漏听关键单词或语气转折。这让我特别懊恼，总觉得自己的反应能力不够快，也因此变得对听力练习有点抗拒。像前几天做听力训练时，我错了几题后就直接放弃了，觉得再练也没用…这种情绪影响让我对英语的信心也越来越低。",
+    "has_specific_detail": true,
+    "specific_detail": "英语听力上，我发现自己总是因为注意不到细节而错，比如漏听关键单词或语气转折",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，我试过分段听和慢速重放，确实能帮我抓住一些细节，但每次练习后发现还有错，就会觉得自己进步太慢，又忍不住懊恼。比如上次训练时，我用了慢速重放，结果还是漏了一些关键词，心里就特别失落，觉得自己的问题好像没法改善…后来，我甚至对接下来的听力练习有点排斥了。这种感觉让我不太敢再尝试其他方法。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我试过分段听和慢速重放，确实能帮我抓住一些细节，但每次练习后发现还有错，就会觉得自己进步太慢，又忍不住懊恼",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "或许吧，如果能把错误当作发现问题的机会，而不是直接觉得自己“没救了”，可能会轻松一些。但每次看到那些错的地方，我总会觉得自己的能力不够好，很难从积极的角度去看待它们…像上周的听力练习，我错了几题后尝试告诉自己“这是可以改善的”，但这种想法还是被失落感压过了。其实，这种心态在学习其他科目时也经常出现。",
+    "has_specific_detail": true,
+    "specific_detail": "或许吧，如果能把错误当作发现问题的机会，而不是直接觉得自己“没救了”，可能会轻松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "嗯，每次失落时，我总会想起之前那些重要考试没考好的经历，比如期中考试那次，数学成绩比班里平均分低了很多。我当时特别难过，总觉得自己是不是就不如别人，也怀疑自己再怎么努力也不会有很大的进步…这种自我评价会反复出现，让我对接下来的学习越来越没信心。最近，在复习物理时，这种感觉又冒出来了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，每次失落时，我总会想起之前那些重要考试没考好的经历，比如期中考试那次，数学成绩比班里平均分低了很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "最近复习物理时，特别是做电学难题时，这种感觉就冒出来了。比如有道题我试了好几次还是解不出来，就让我想到之前期中考试的失败，觉得自己好像一直都做不好复杂题。这种联想让我特别沮丧，甚至开始质疑自己是不是根本不适合学理科…后来，我尝试换了一些简单题做，但心里还是觉得没什么成就感。",
+    "has_specific_detail": true,
+    "specific_detail": "最近复习物理时，特别是做电学难题时，这种感觉就冒出来了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，有过一些时刻让我觉得自己是可以做到的。比如上次班里做实验，我成功搭建了一个电路，还帮助同学解决了一个连接问题。那时候我觉得自己其实挺有动手能力的，老师也夸我思路清晰。这样的时刻会让我短暂地有些信心，但每次遇到书本上的难题时，这种感觉就会被挫败感冲淡，让我又回到自我怀疑的状态…其实，类似的情况在数学上也发生过。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有过一些时刻让我觉得自己是可以做到的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，数学上也有让我觉得“可以做到”的时刻。比如上次解一道几何题，我尝试了不同的方法后终于找到了正确的解法，还被老师在课堂上表扬了。当时心里特别有成就感，觉得自己的努力是有回报的。但这种感觉通常维持不了多久，因为接下来的难题会让我又陷入自我怀疑。其实，我一直希望自己能多一些这样的成功时刻，让我觉得努力是值得的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，数学上也有让我觉得“可以做到”的时刻",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得两者都有吧。老师的表扬确实让我更有动力，感觉自己的努力被看到了。但同时，自己解决问题后的满足感也很重要，那种“终于做到了”的感觉会让我短暂忘记挫败感。不过，这样的时刻总是太少了，难题带来的压力还是占了大部分…像上周物理练习时，虽然有一道题我解对了，但更多的错题还是让我更难感受到成就感。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "可能会有帮助吧。如果能多关注自己做对的题，分析成功的原因，确实会让我觉得自己不是完全没有能力。但每次看到错题时，注意力就会被它们吸引过去，心情也会一下子变得很低落。这种时候，想要主动去分析成功的部分感觉挺难的。其实，昨天我又经历了类似的情况，在英语写作练习中也是这样。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会有帮助吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "昨天的写作练习，我在句子结构上出了不少问题，比如时态用错了好几次，老师还批注说有些句子不够流畅。当时特别挫败，觉得自己怎么连这些基础的东西都做不好…其实我有一些表达还是不错的，比如用了几个比较高级的词汇，但注意力完全被那些错误吸引了，根本没办法去肯定自己的优点。这种情绪让我后来复习英语时也提不起兴趣。",
+    "has_specific_detail": true,
+    "specific_detail": "昨天的写作练习，我在句子结构上出了不少问题，比如时态用错了好几次，老师还批注说有些句子不够流畅",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "如果有人能帮我指出优点，比如表扬我的词汇选择，或者耐心帮我梳理问题，我觉得会轻松很多吧。至少，我不会只看到自己的不足，可能也会更愿意去改善错误。这样的支持对我来说确实很重要，因为每次自己面对这些问题时，总是特别容易陷入负面情绪里，很难主动调整心态。其实，这种感觉在其他学习任务中也经常出现，比如数学练习的时候。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人能帮我指出优点，比如表扬我的词汇选择，或者耐心帮我梳理问题，我觉得会轻松很多吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "在数学练习中，我确实会期待一些具体的支持，比如希望老师能多给一些解题的思路，而不是只告诉我答案；或者同学能陪我一起讨论难题，这样我就不会觉得自己一个人在面对问题。至于家人，我有时希望他们能更多鼓励我，而不是只关注成绩，但又担心提出来会让他们觉得我在找借口…这种矛盾让我更倾向于自己去处理问题，但效果总是不太好。",
+    "has_specific_detail": true,
+    "specific_detail": "在数学练习中，我确实会期待一些具体的支持，比如希望老师能多给一些解题的思路，而不是只告诉我答案；或者同学能陪我一起讨论难题，这样我就不会觉得自己一个人在面对问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "或许会吧。如果我能跟他们分享自己的努力，比如具体讲讲我怎么复习或者解决了哪些题目，可能会让他们看到我的付出，而不是只关注结果。但说实话，我还是有点担心，他们会觉得这些“努力过程”不重要，最终还是会回到成绩上…不过，这种想法让我有些犹豫，但有时候又觉得试着去表达可能会好一些。其实，前几天我在跟妈妈聊学习时，就有类似的想法，但没说出口。",
+    "has_specific_detail": true,
+    "specific_detail": "或许会吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "那天我想跟妈妈说，其实我最近在复习上花了很多时间，比如每天都做额外的数学练习，但成绩还是没太大起色。我犹豫着想表达自己的努力，但又怕她会直接说“努力不够还是没用”。如果我真的说出口，她可能会先表示关心，但最后还是绕回成绩，让我觉得自己的付出没有被真正看见。这种顾虑让我最终选择了没说，只是随便聊了几句学习进度。其实，这种情况之前也发生过，尤其是跟爸爸谈话的时候。",
+    "has_specific_detail": true,
+    "specific_detail": "那天我想跟妈妈说，其实我最近在复习上花了很多时间，比如每天都做额外的数学练习，但成绩还是没太大起色",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "跟爸爸聊时，通常是他主动问我学习情况，比如最近的考试准备怎么样。我有一次试着跟他说，我每天都在做题，但还是感觉有些难题搞不懂。当时他的反应是让我再多花点时间，说只要努力就会有回报。但这种说法让我有点失落，因为我已经很努力了，却还是没看到明显的进步…这让我觉得我的感受没被理解，只是被简单地要求再努力，后来我就更少主动跟他聊学习了。",
+    "has_specific_detail": true,
+    "specific_detail": "跟爸爸聊时，通常是他主动问我学习情况，比如最近的考试准备怎么样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "如果爸爸能问问我的具体困难，比如“你觉得难在哪里”或“需不需要帮忙”，我肯定会觉得被关注和支持了很多吧。那样的话，我可能更愿意跟他说自己的学习情况，而不是担心他只关注结果。不过，我总觉得主动提这些很别扭，怕他会认为我在逃避责任…也许如果他能主动问得更细致些，我就能更自然地说出来。其实，前几次和妈妈聊时，我也希望能有类似的交流方式，但没找到合适的机会。",
+    "has_specific_detail": true,
+    "specific_detail": "如果爸爸能问问我的具体困难，比如“你觉得难在哪里”或“需不需要帮忙”，我肯定会觉得被关注和支持了很多吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "或许从具体问题切入会让我感觉更舒服，比如说“我最近遇到一道题老是搞不懂，你觉得我可以怎么学？”这样的方式可能比直接谈成绩轻松一些吧。如果用轻松的语气表达，爸妈可能也会更愿意听我说，不那么容易回到结果上…但每次想开口时，我还是会犹豫，担心他们最终还是会评价我的表现，而不是关注问题本身。其实，前几天有一次类似的机会，我试着提了一点，但没能深入聊下去。",
+    "has_specific_detail": true,
+    "specific_detail": "或许从具体问题切入会让我感觉更舒服，比如说“我最近遇到一道题老是搞不懂，你觉得我可以怎么学？”这样的方式可能比直接谈成绩轻松一些吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "前几天，我跟妈妈聊英语听力练习时，提了一句“我总是漏掉一些细节，感觉有点难抓住关键点。”她当时说了一句“那就多听几遍吧，慢慢会好的。”虽然她是好意，但这话让我觉得她没真正理解我的困惑，好像问题只是我不够努力似的。所以我没继续说下去，觉得再讲可能也不会被关注到具体困难…这种感觉让我后来更不愿意主动提自己的学习问题了。",
+    "has_specific_detail": true,
+    "specific_detail": "前几天，我跟妈妈聊英语听力练习时，提了一句“我总是漏掉一些细节，感觉有点难抓住关键点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不愿意",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "如果妈妈能问得更具体，比如“哪些细节漏掉了？”或者“问题可能出在哪里？”我肯定会愿意继续聊下去，也会觉得她真的在关心我的学习过程，而不是简单归结为努力不够。这样的话，我可能会更放松地分享自己的困难，比如那些经常漏听的单词或者语气变化的部分…不过，每次试图开口时，我总会担心她还是会回到“结果论”，让我不太敢深入聊。类似的感觉，其实在跟爸爸沟通时也出现过。",
+    "has_specific_detail": true,
+    "specific_detail": "如果妈妈能问得更具体，比如“哪些细节漏掉了？”或者“问题可能出在哪里？”我肯定会愿意继续聊下去，也会觉得她真的在关心我的学习过程，而不是简单归结为努力不够",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "如果我能明确表达自己的需求，比如说“我不是不努力，但有些地方需要具体建议”，爸爸可能会认真听吧，但我又担心他会直接给出一些笼统的建议，比如“多做练习”或者“自己想办法解决”，让我觉得还是没触碰到问题的核心。这样的尝试确实可能是一个突破点，但要真正开口，我还是有点顾虑，害怕反应不如预期会让我更失落…其实，我觉得如果他能主动问一些细节，可能会让我更愿意去试着沟通。",
+    "has_specific_detail": true,
+    "specific_detail": "如果我能明确表达自己的需求，比如说“我不是不努力，但有些地方需要具体建议”，爸爸可能会认真听吧，但我又担心他会直接给出一些笼统的建议，比如“多做练习”或者“自己想办法解决”，让我觉得还是没触碰到问题的核心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "嗯，这样的方式可能确实会自然一些。如果我能分享自己的尝试过程，比如“我在这道题上用了公式，但还是没解出来”，再问他“你觉得问题出在哪里？”他可能会更愿意帮我分析具体困难，而不是直接给笼统的建议。不过，我还是有点担心他会觉得我在过度依赖他，或者说一些让我觉得压力更大的话，比如“这题其实很简单啊”…所以每次想开口时，我都会犹豫很久，怕自己表达不好。其实，这种感觉在面对老师时也出现过。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式可能确实会自然一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "在面对老师时，我有时会尝试提问，但通常会尽量简单地表达，比如“这题我不太懂，公式怎么用？”这样的话可能更安全，不容易暴露自己的全面困惑。老师一般会耐心讲解，但有时候也会说“这个公式你应该熟悉了”，让我觉得自己好像学得不够好…这样的回应让我既感到被帮助了一些，但同时也有点失落，觉得自己的问题可能比别人更多。其实，类似的感觉在小组讨论时也出现过。",
+    "has_specific_detail": true,
+    "specific_detail": "在面对老师时，我有时会尝试提问，但通常会尽量简单地表达，比如“这题我不太懂，公式怎么用？”这样的话可能更安全，不容易暴露自己的全面困惑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "在小组讨论中，我确实会因为别人的表现产生对比。比如有同学能很快找到解题思路，而我还在琢磨公式，这让我觉得自己好像比别人差很多。再加上担心自己的问题会被评价，我通常会选择少说话，尽量让自己显得“不那么笨”。但这种表现让我感觉自己越来越孤立，有时甚至想干脆不参与讨论…这种情绪让我对小组学习的期待也降低了。",
+    "has_specific_detail": true,
+    "specific_detail": "在小组讨论中，我确实会因为别人的表现产生对比",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "如果同学能主动引导我，比如问“你的想法是什么？”或者鼓励我多表达，我肯定会觉得轻松些，可能也更愿意参与。这样的氛围让我觉得自己是被重视的，而不是被忽略或者评价。但我觉得更重要的是一种包容的环境，比如即使我的答案不完全正确，也不会被直接批评或者嘲笑。如果大家能更关注讨论过程，而不是谁对谁错，我可能会感觉更自在，也更有动力去表达自己的想法。这种期待，其实在课堂上我也有过类似的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "如果同学能主动引导我，比如问“你的想法是什么？”或者鼓励我多表达，我肯定会觉得轻松些，可能也更愿意参与",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "有过一次这样的经历，那是在一次数学课上，老师让我们分组讨论一个几何题。我试着说了自己的解题思路，虽然不完全正确，但老师没有直接指出错误，而是引导我一步步分析问题，还鼓励我说“你的思路很有潜力”。当时我觉得特别轻松，也觉得自己是有能力去解决问题的。这次经历让我对数学学习的信心提升了一些，后来在练习中也更愿意尝试去表达自己的想法。不过，这样的时刻不多，更多时候还是会回到自我怀疑的状态，尤其是在遇到难题时。",
+    "has_specific_detail": true,
+    "specific_detail": "有过一次这样的经历，那是在一次数学课上，老师让我们分组讨论一个几何题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "或许会吧。如果能回想起那些正面的经历，比如老师鼓励我的时候，确实会让我感觉自己不是完全没有能力。或者课后主动请教问题，可能也能让我更多关注解决困难，而不是只沉浸在自我怀疑里。不过，每次想主动去问时，我都会担心老师会觉得我的问题太简单，或者不够认真，这种想法还是会让我犹豫…其实，类似的矛盾在和同学沟通时也会出现。",
+    "has_specific_detail": true,
+    "specific_detail": "或许会吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "跟同学沟通时，我主要担心他们会觉得我的问题“太简单”，或者暗地里评价我不够聪明。这种想法让我在提问前总是犹豫很久，有时甚至干脆选择不问，自己去慢慢琢磨。但这样做的效果往往不好，反而让我更加焦虑，比如昨天在自习时，有一道物理题我纠结了很久，原本想问旁边的同学，但最后还是没开口，结果花了半个小时也没解出来，心里特别烦躁。",
+    "has_specific_detail": true,
+    "specific_detail": "跟同学沟通时，我主要担心他们会觉得我的问题“太简单”，或者暗地里评价我不够聪明",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "如果我能用轻松的方式提问，比如说“我卡在这一步了，你怎么看？”可能会更容易开口吧。这样表达起来不会显得自己完全不知道，而是有自己的思考过程。同学可能也会更愿意帮忙分析问题，而不是觉得我的问题“太简单”。不过，每次想试着开口时，我还是会有点犹豫，怕万一对方不耐烦或者直接说“自己查答案就行”。这种担忧让我更习惯自己琢磨，但效果真的很有限，尤其在数学上。",
+    "has_specific_detail": true,
+    "specific_detail": "如果我能用轻松的方式提问，比如说“我卡在这一步了，你怎么看？”可能会更容易开口吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "嗯，我偶尔会试着写下自己的解题过程，比如列出每一步的想法和卡住的地方，然后再尝试整理思路。但这种方法有时候效果有限，尤其当问题太复杂时，我还是会觉得自己解决不了，挫败感还是很强。像上周有道函数题，我列了好几步过程，但最后还是没找到关键点，反而更加怀疑自己的能力。其实，这种感觉不仅在数学上，在其他科目也会出现，比如英语写作的时候。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我偶尔会试着写下自己的解题过程，比如列出每一步的想法和卡住的地方，然后再尝试整理思路",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "在英语写作中，构思和表达连贯性是让我感到最难处理的环节。比如上次写一篇关于环保的文章，我卡了很久开头，不知道怎么组织语言，让内容看起来连贯又有逻辑。这种时候，我会特别焦虑，总觉得自己的思路很混乱，而且写出来的东西不够好，甚至有点害怕继续往下写…这种情绪让我对英语写作的信心越来越低，后来开始变得有点抗拒去练习。其实，这种抗拒情绪在其他科目也有出现，比如物理题目。",
+    "has_specific_detail": true,
+    "specific_detail": "在英语写作中，构思和表达连贯性是让我感到最难处理的环节",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "物理题目上的抗拒情绪，通常是因为一些复杂的电路分析题让我完全找不到头绪。比如上次复习时，有道题涉及多个电阻和电压关系，我试了几次都没理清公式。当时特别沮丧，觉得自己根本无法掌握这些知识，后来直接跳过了那部分内容，但心里压力更大，总觉得学习计划越来越难完成。这种感觉让我对物理的兴趣也逐渐下降，最近甚至有点想放弃深入复习。",
+    "has_specific_detail": true,
+    "specific_detail": "物理题目上的抗拒情绪，通常是因为一些复杂的电路分析题让我完全找不到头绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "如果有人能陪我逐步分析题目，比如拆解成更小的步骤，我肯定会轻松不少。这样我可能不会觉得问题那么复杂，也能更有动力去尝试解决。但现在每次遇到难题时，我总是一个人琢磨，压力特别大，难以建立信心。也许如果能从简单的题目开始练习，再逐步挑战难度，可能也会帮助我重新找到学习物理的节奏。不过，这样的方式我还没尝试过，因为总觉得自己应该直接攻克难题才算真正进步…这种想法让我有点矛盾。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人能陪我逐步分析题目，比如拆解成更小的步骤，我肯定会轻松不少",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "或许这样调整目标会减少一些压力吧。如果把“攻克难题”改为“逐步掌握某一部分”，我可能会觉得任务没那么沉重，也更容易看到自己一点点的进步。比如，在电路题中先专注理解电阻关系，等掌握了再逐步扩展到其他部分。这种方式可能会让我更有信心去学习物理。不过，每次面对难题时，我还是很容易被整体的复杂性吓到，难以主动去拆解问题…这种矛盾感也让我对其他科目的学习有些影响，比如数学。",
+    "has_specific_detail": true,
+    "specific_detail": "或许这样调整目标会减少一些压力吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "有试过，比如在几何题中，我会专注于练习如何正确运用定理，比如相似三角形的判断。这样的方式确实让我感觉更容易入手，也稍微有了些掌控感。但每次练习时，只要看到复杂的大题，就会觉得这些小环节好像还是不足以解决问题，进而又陷入自我怀疑。像昨天做数学练习时，我在小题上做得不错，但碰到一道综合题时，心情一下子就低落了，觉得自己好像还是无法处理难题。这种情绪循环真的很难打破。",
+    "has_specific_detail": true,
+    "specific_detail": "有试过，比如在几何题中，我会专注于练习如何正确运用定理，比如相似三角形的判断",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "如果能把综合题拆解成多个“小题”，可能确实会更容易找到突破点吧。比如先分析已知条件，逐步解决每一步的关系，这样问题可能不会显得那么复杂。我觉得这种分解方式确实能缓解一些压力，但每次尝试时，我还是会忍不住对自己的能力产生怀疑，尤其是当拆解后发现某一步还是无法解决时…这种时候，我会觉得自己好像怎么努力都不够好，这种想法让我情绪循环更难打破。其实，类似的情况在英语写作中也出现过。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能把综合题拆解成多个“小题”，可能确实会更容易找到突破点吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "是的，在英语写作中，确实会有类似的情绪循环。比如尝试先写开头，再逐步完善内容时，如果卡在某一部分，我就会觉得自己的能力不够好，甚至开始怀疑自己是不是根本不适合写作。通常这种时候，我会选择暂时搁置，但回头看时又常常觉得问题依然无法解决，心里更焦虑…至于向他人寻求建议，我偶尔会问老师，但因为害怕他们觉得我的表达太基础，我提问时总是很小心，尽量不暴露太多困惑。这种谨慎让我对寻求帮助也有些抗拒。其实，最近在物理学习时也有类似的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，在英语写作中，确实会有类似的情绪循环",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "对，物理学习中也是这样。如果卡住了，我会开始怀疑自己的能力，觉得自己是不是根本学不好这门课。通常我会选择继续尝试一阵，但如果还是解决不了，就像写作一样暂时搁置。但搁置后，问题没解决的压力还是会一直存在，让我很难真正轻松下来。至于求助，我也常感到抗拒，担心别人会觉得我的问题太简单或者认为我不够努力…这种时候，我会更倾向于一个人硬着头皮琢磨，但效果通常不太好。其实，这样的情绪循环在数学学习里也有出现过。",
+    "has_specific_detail": true,
+    "specific_detail": "对，物理学习中也是这样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "在数学学习里，我偶尔会尝试换个角度思考问题，比如从不同的公式入手，或者找类似的例题参考。这些方法有时会稍微缓解我的压力，尤其是当例题给了我一些启发时，我会觉得自己还是有可能解决问题的。但更多时候，如果参考了例题还是没办法解出来，我的情绪就会变得更低落，觉得自己怎么努力都不够好…这种反复的挫败感让我对尝试新方法也有些抗拒，最近在数学练习时就出现了这种情况。",
+    "has_specific_detail": true,
+    "specific_detail": "在数学学习里，我偶尔会尝试换个角度思考问题，比如从不同的公式入手，或者找类似的例题参考",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "最近的数学练习中，有一道函数综合题让我特别挫败。我试着用例题的解法，但发现条件稍有不同，结果完全套不上。当时我感觉特别无助，脑子里一直在想“是不是我根本没有理解函数的核心概念”。后来，我试着重新看教材，但发现越看越乱，心情更加低落，最后干脆放弃了那道题。放弃之后，我虽然继续做其他题，但心里还是觉得自己不够好，这种情绪让我对整个练习都有些抗拒。其实，这样的感觉在物理学习时也出现过。",
+    "has_specific_detail": true,
+    "specific_detail": "最近的数学练习中，有一道函数综合题让我特别挫败",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 62,
+    "content": "有过这样的情景，比如最近在学习电路分析时，有一道题涉及多个电压、电流关系，我试着用公式去解，但结果一直算不对。那时候我特别怀疑自己是不是根本没理解电路的核心概念，觉得自己可能就是“学不好物理”。后来，我试着翻教材和笔记，但还是理不清思路，心里特别烦躁，最后只能放弃那道题。放弃之后，我虽然继续看其他内容，但注意力总是回到那个没解决的问题上，让我很难集中精力学习。类似的情绪其实在英语写作中也有出现过。",
+    "has_specific_detail": true,
+    "specific_detail": "有过这样的情景，比如最近在学习电路分析时，有一道题涉及多个电压、电流关系，我试着用公式去解，但结果一直算不对",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "在英语写作中，这种情绪通常是在构思阶段出现的，比如确定主题和逻辑时，总觉得自己的想法不够好，难以展开内容。像上次写一篇关于科技发展的文章，我卡了很久主题，觉得怎么写都无法让观点显得有深度。这种感觉让我特别沮丧，甚至怀疑自己是不是“根本不适合写作”。后来我勉强写了一些，但对整体内容还是很不满意，心里也充满了挫败感。这种情绪让我对接下来的写作任务开始有些抗拒，甚至连复习词汇时都没了动力。",
+    "has_specific_detail": true,
+    "specific_detail": "在英语写作中，这种情绪通常是在构思阶段出现的，比如确定主题和逻辑时，总觉得自己的想法不够好，难以展开内容",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "如果有人能和我一起讨论构思，比如帮我梳理观点或者提供一些方向，我觉得会轻松很多，可能也更容易突破卡点。这样的支持会让我觉得自己不是一个人在面对困难，也可能重新建立一些信心。不过，我很少主动找人讨论，主要是怕自己的想法太浅显，别人会觉得我能力不够…至于工具或模板，我尝试过用一些写作框架，比如先列出开头、中间、结尾的结构，但每次写到具体内容时，又会觉得自己的表达还是不够好。这种感觉让我对写作任务始终有些抵触。其实，在数学学习中也有类似的情况。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人能和我一起讨论构思，比如帮我梳理观点或者提供一些方向，我觉得会轻松很多，可能也更容易突破卡点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "抵触"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "对，在数学里即使列出了解题步骤，到了关键计算或者逻辑推导时，我还是会觉得自己的思路有问题，比如公式用了却无法得出正确结果。这种时候我会特别焦虑，总觉得自己是不是“根本没掌握数学的核心”，甚至开始怀疑之前的努力都是徒劳。像上次做一道概率题，我列出了所有可能的条件，但在推导公式时卡住了，试了几次都不对，最后直接放弃了。放弃之后，我心情变得很低落，甚至开始对整个数学练习都提不起兴趣。这种情绪循环真的让我很难摆脱。",
+    "has_specific_detail": true,
+    "specific_detail": "对，在数学里即使列出了解题步骤，到了关键计算或者逻辑推导时，我还是会觉得自己的思路有问题，比如公式用了却无法得出正确结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "如果有人能陪我一起分析推导的关键步骤，或者帮我确认哪些地方是对的，我肯定会轻松很多吧。这样我可能不会觉得自己完全无能，也能逐步找到问题的突破口。不过，我很少主动寻求这样的帮助，总觉得自己的问题可能太基础，怕别人觉得我不够努力。至于分解任务或者记录小进步，我试过，比如列出每次做对的题目，但每当看到错误的地方时，负面情绪还是占了上风，让我很难真正去关注自己的进步。这种情况最近在物理学习中也出现过。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人能陪我一起分析推导的关键步骤，或者帮我确认哪些地方是对的，我肯定会轻松很多吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 67,
+    "content": "最近在学习电磁感应时，有一道题让我特别纠结。题目要求分析磁场变化对电流的影响，我试着用公式解，但结果一直不对。当时我特别沮丧，觉得自己是不是根本没理解这个知识点。后来，我试着翻教材和笔记，但还是找不到头绪，最后干脆放弃了那道题，但心里一直很烦躁，总觉得自己能力不够好。这种负面情绪还让我对后续的练习也提不起兴趣，甚至开始怀疑自己是不是不适合学物理。其实，类似的感觉在英语学习中也有出现过。",
+    "has_specific_detail": true,
+    "specific_detail": "最近在学习电磁感应时，有一道题让我特别纠结",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 68,
+    "content": "在英语学习中，这种感觉通常会出现在写作任务里，特别是当我觉得自己的表达不够流畅或者逻辑不清的时候。比如上次写一篇关于环保的作文，我卡了很久开头，试了几种写法都觉得不满意，心里特别烦躁。当时我甚至开始怀疑自己的英语水平是不是根本达不到要求，觉得再怎么努力也没用。后来，我硬着头皮写完了一部分，但整体效果让我很失望，心情变得更低落，对接下来的英语练习也没有了动力。这种情绪循环真的挺影响我的学习状态。其实，类似的情况在数学练习中也出现过。",
+    "has_specific_detail": true,
+    "specific_detail": "在英语学习中，这种感觉通常会出现在写作任务里，特别是当我觉得自己的表达不够流畅或者逻辑不清的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 69,
+    "content": "在数学练习中，这种情景确实经常发生。比如上次做一道关于数列的综合题，我试着用递推公式去解，但总是算不对结果。当时我特别烦躁，觉得自己可能根本没掌握数列的核心方法，甚至开始怀疑是不是自己的数学基础太差。后来，我试着翻公式表，但还是没找到突破口，最后只能放弃了那道题。放弃后，我的心情变得很低落，对后续的练习也提不起兴趣。这种感觉让我对整个数学学习都有些抗拒，其实在物理学习中也有类似的情况。",
+    "has_specific_detail": true,
+    "specific_detail": "在数学练习中，这种情景确实经常发生",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 70,
+    "content": "对，在物理里也会因为复杂的题目或者知识点让我觉得“是不是我基础太差”。比如上次做一道关于电路的综合题，涉及多个电阻和电流关系，我试了好几次都没解出来，心里特别沮丧。当时我一开始继续尝试，但每次失败后都会觉得自己越来越无能，最后还是选择放弃了那道题。放弃之后，我虽然继续翻教材试图学习相关知识，但注意力总是被那道未解决的题目占据，导致效率很低，心情也变得更焦虑。这种情绪循环真的挺折磨人的，其实在英语写作中也有类似的经历。",
+    "has_specific_detail": true,
+    "specific_detail": "对，在物理里也会因为复杂的题目或者知识点让我觉得“是不是我基础太差”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 71,
+    "content": "在英语写作中，有一次写关于科技发展的作文让我觉得特别困难。当时我卡了很久开头，试了几种句子都觉得不够好，然后就开始怀疑自己是不是根本无法写出流畅的内容。后来，我试着继续写下去，但每段都觉得逻辑不够清晰，越写越沮丧。最后，我只能放弃修改，交了一个自己都不满意的版本，心里特别失落。这种情绪让我对后续的写作任务变得有点抗拒，甚至开始质疑自己的英语学习能力。类似的感受最近在数学学习中也有出现，比如做几何题的时候。",
+    "has_specific_detail": true,
+    "specific_detail": "在英语写作中，有一次写关于科技发展的作文让我觉得特别困难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 72,
+    "content": "在数学几何题中，有一次做关于圆的切线问题时让我特别难以突破。当时题目要求证明某一点是切点，我试着用几种方法，但在计算斜率和距离时反复卡住，每次都得不到正确结果。那时候我特别烦躁，觉得自己是不是根本不适合学几何。后来我硬着头皮试了几次，但还是没能解出来，最后只能放弃了那道题。放弃之后，我的情绪变得很低落，对后续的数学练习也提不起兴趣。这种感觉让我对几何题开始有些抗拒，最近在物理学习中也有类似的情况。",
+    "has_specific_detail": true,
+    "specific_detail": "在数学几何题中，有一次做关于圆的切线问题时让我特别难以突破",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 73,
+    "content": "最近在物理学习中，有一道关于电磁感应的题让我特别难以突破。题目要求分析磁场变化对导体中的电流影响，我试着用公式去解，但一直没找到正确的关系。当时我特别沮丧，觉得自己是不是根本没理解电磁感应的原理。后来，我试着翻教材和例题，但越看越混乱，心情变得越来越低落，最后只能放弃那道题。放弃后，我虽然继续做其他练习，但心里总是被这道未解决的问题占据，觉得自己的物理学习能力可能很有限。这种情绪循环让我最近对物理复习开始有些抗拒，其实在英语学习中也有类似的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "最近在物理学习中，有一道关于电磁感应的题让我特别难以突破",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 74,
+    "content": "在英语学习中，复杂的写作构思让我感到最无助。比如上次写关于环保的作文，我卡了很久开头，不知道怎么把想法组织得有逻辑又有深度。当时我特别焦虑，试了几次都不满意，甚至开始怀疑自己的表达能力是不是不够好。后来，我试着继续写下去，但每段都觉得不够流畅，越写越沮丧。最后，我勉强完成了一份自己都不满意的作文，心情特别低落。这种挫败感让我对后续的英语学习也开始有些抗拒，最近在数学练习中也有类似的情况。",
+    "has_specific_detail": true,
+    "specific_detail": "在英语学习中，复杂的写作构思让我感到最无助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 75,
+    "content": "在数学练习中，函数综合题让我感到特别困难。比如有一次需要分析函数的变化趋势，我试着用导数去解，但总是卡在计算过程中得不到正确结果。当时我特别焦虑，觉得自己是不是根本没掌握函数的核心概念。我尝试重新翻教材和笔记，但还是没能找到突破点，最后只能放弃那道题。放弃之后，我的心情变得特别低落，对后续的数学练习也开始有些抗拒。这种挫败感让我对自己学习数学的能力产生了更多怀疑，其实类似的情绪在物理学习中也出现过。",
+    "has_specific_detail": true,
+    "specific_detail": "在数学练习中，函数综合题让我感到特别困难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 76,
+    "content": "对，物理里涉及多个公式或步骤的题目确实更容易让我感到无助。比如最近在做电路分析题时，我试着拆解步骤，从电流关系开始逐步分析，但依然没能找到正确答案。当时我也参考了一些例题，但发现条件稍有不同，完全套不上，心里特别沮丧。这些方法虽然让我短暂觉得自己在努力，但最终还是没能解决问题，挫败感一点没缓解，甚至让我觉得自己的物理学习能力越来越差。其实，这种情绪循环最近在英语写作中也出现过。",
+    "has_specific_detail": true,
+    "specific_detail": "对，物理里涉及多个公式或步骤的题目确实更容易让我感到无助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 77,
+    "content": "在最近的英语写作任务中，逻辑组织让我感到特别困难。比如上次写关于科技发展的作文，我试着列出了一些观点，但每次把它们串起来时都觉得不够连贯。当时我试着重新调整结构，甚至参考了范文，但依然感觉自己的表达还是不够好，心里特别沮丧。这种尝试虽然让我觉得自己在努力，但最终效果没达到预期，情绪反而更加低落，觉得自己可能不适合写作。类似的感觉在数学学习中也出现过，比如做几何证明题时。",
+    "has_specific_detail": true,
+    "specific_detail": "在最近的英语写作任务中，逻辑组织让我感到特别困难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 78,
+    "content": "在几何证明题中，选取辅助线确实是让我特别困难的部分。比如上次做一道关于三角形内切圆的题，我试着画了几条辅助线，但每次都发现无法连接已知条件和结论。当时我试着重新审题并参考例题，但还是没找到思路，心里特别挫败。这种尝试让我短暂觉得自己在努力，但最终问题没解决，反而让我更加怀疑自己的几何能力，觉得自己可能永远都学不好这类题。后来，我干脆跳过了那道题，但情绪一直很低落，影响了后续的数学练习。类似的情绪循环最近在英语听力练习中也出现过。",
+    "has_specific_detail": true,
+    "specific_detail": "在几何证明题中，选取辅助线确实是让我特别困难的部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 79,
+    "content": "最近的听力练习中，细节捕捉让我特别困难。比如上次听一段关于旅游的录音，我漏听了几个关键单词，导致后面的问题无法准确回答。当时我反复听了几遍，但还是抓不到那些细节，心里特别沮丧，甚至开始怀疑自己是不是反应能力太差。后来，我试着降低语速练习，但效果还是不明显，这种反复的失败让我对听力练习开始有些抗拒，甚至连复习单词时都变得没动力了。这种感觉让我对英语学习的信心越来越低，其实在数学练习中也有类似的情绪出现过。",
+    "has_specific_detail": true,
+    "specific_detail": "最近的听力练习中，细节捕捉让我特别困难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 80,
+    "content": "对，在数学练习中，复杂推导或者需要多步骤的题目确实让我感到特别困难。比如上次做一道概率题，涉及多个条件的组合，我试着列出每种可能，但在计算概率时总是弄错。当时我尝试反复检查步骤，但问题依然没有解决，心里特别沮丧，觉得自己是不是根本无法掌握概率的核心方法。这种尝试虽然让我觉得自己在努力，但最终效果不佳，情绪也变得更低落，甚至开始对后续的数学练习产生抗拒。类似的情绪循环最近在物理学习中也出现过，比如在电路分析题时。",
+    "has_specific_detail": true,
+    "specific_detail": "对，在数学练习中，复杂推导或者需要多步骤的题目确实让我感到特别困难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 81,
+    "content": "在电路分析题中，变量关系的分析让我特别卡住。比如上次有一道题需要结合电流、电压和电阻的变化，我试着用公式去解，但每次算出来的结果都不对。当时我尝试重新整理公式并画图帮助理解，但问题依然没解决，心里特别挫败。这种尝试虽然让我短暂觉得自己在努力，但最终失败让我更加怀疑自己的学习能力，觉得可能永远都学不好物理。后来，我放弃了那道题，但情绪一直很低落，甚至影响了后续的复习进度。这种感觉最近在英语写作中也出现过。",
+    "has_specific_detail": true,
+    "specific_detail": "在电路分析题中，变量关系的分析让我特别卡住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 82,
+    "content": "在英语写作中，论点的展开确实让我特别卡住。比如上次写关于科技发展的作文，我列出了几个观点，但每次试图补充细节时都觉得自己的表达不够深入或者不够逻辑清晰。当时我试着参考一些范文，希望能找到思路，但最终还是没能把论点展开得满意，心里特别沮丧。这种尝试让我一度觉得自己在努力，但效果不佳反而加深了对自己的怀疑，觉得写作可能是我无法突破的短板。后来，我勉强完成了作文，但对整个写作任务的信心下降了很多，最近甚至开始对英语练习有些抗拒。类似的情绪循环在数学学习中也出现过，比如函数综合题时。",
+    "has_specific_detail": true,
+    "specific_detail": "在英语写作中，论点的展开确实让我特别卡住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 83,
+    "content": "在函数综合题中，分析函数性质让我特别棘手。比如上次有一道题需要判断函数的单调性，我试着用导数去分析，但计算过程中总是弄错，结果无法得出正确答案。当时我试着重新检查公式应用，并翻教材寻找类似的例题，但问题依然没解决，心里特别沮丧。这种尝试虽然让我短暂觉得自己在努力，但失败后反而加重了压力，让我觉得自己可能根本无法掌握函数分析的核心方法。后来，我放弃了那道题，但这种挫败感影响了后续的学习状态，最近甚至对数学练习整体有些抗拒。这种情绪循环其实在物理学习中也出现过，比如电磁感应题时。",
+    "has_specific_detail": true,
+    "specific_detail": "在函数综合题中，分析函数性质让我特别棘手",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 84,
+    "content": "在电磁感应题里，理解磁场变化对电流的影响让我特别卡住。比如上次有一道题要求分析导体中的感应电流，我试着用公式去计算，但每次结果都不对。当时我尝试重新看教材，希望能找到突破点，但公式和理论越看越混乱，心里特别沮丧。这种尝试虽然让我觉得自己在努力，但未能解决问题反而加深了挫败感，让我觉得自己可能根本无法掌握电磁感应的知识。后来，我放弃了那道题，对后续的物理复习也变得没什么动力。这种情绪循环其实在英语听力练习中也出现过，比如细节捕捉时。",
+    "has_specific_detail": true,
+    "specific_detail": "在电磁感应题里，理解磁场变化对电流的影响让我特别卡住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 85,
+    "content": "在英语听力中，句子中的语义转折让我特别困难。比如上次听一段关于工作选择的录音，里面有些转折词，比如“however”或者“although”，我总是没注意到，导致理解错了后面内容。当时我试着反复听几遍，但还是抓不住关键点，心里特别焦虑，觉得自己是不是对细节的敏感度太差。后来，我尝试降低语速练习，但发现效果不明显，这种失败让我情绪更加低落，甚至开始怀疑自己是不是不适合学英语。这种情绪循环最近在数学学习中也出现过，比如做概率题的时候。",
+    "has_specific_detail": true,
+    "specific_detail": "在英语听力中，句子中的语义转折让我特别困难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 86,
+    "content": "在概率题中，条件的组合让我特别卡住。比如上次有一道题需要分析多个事件的独立性，我试着用公式去列出条件，但每次组合时都弄错，结果无法得出正确答案。当时我尝试重新整理条件并翻看类似例题，希望能找到突破点，但最终还是没能解决问题。这种失败让我情绪特别低落，觉得自己可能根本不适合学概率。虽然这些方法让我短暂觉得自己在努力，但未果后挫败感更强，甚至影响了对后续数学练习的兴趣。这种情绪循环最近在英语写作任务中也出现过，比如论点展开时。",
+    "has_specific_detail": true,
+    "specific_detail": "在概率题中，条件的组合让我特别卡住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 87,
+    "content": "在展开论点时，补充细节和找到有力的例子确实让我特别卡住。比如上次写关于科技发展的作文，我试着用一些数据来支持观点，但总觉得不够贴切，无法让论点显得有说服力。当时我尝试参考范文中的例子，希望能找到启发，但发现范文的内容和我的主题不完全契合，心里变得更沮丧。这种尝试虽然让我短暂觉得自己在努力，但最终未果让我对自己的写作能力产生了更多怀疑，甚至开始抗拒接下来的写作任务。类似的情绪循环最近在物理学习中也出现过，比如电路题分析时。",
+    "has_specific_detail": true,
+    "specific_detail": "在展开论点时，补充细节和找到有力的例子确实让我特别卡住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 88,
+    "content": "在电路题中，变量之间的关系梳理让我特别卡住。比如上次有一道题涉及电流和电压的变化，我试着用公式分析，但发现无法正确连接各变量，结果总是算不对。当时我尝试画图来梳理关系，希望能更直观地理解，但问题依然没解决，心里特别沮丧。这种尝试虽然让我短暂觉得自己在努力，但未果后让我压力更大，觉得自己可能永远都无法掌握电路分析的核心知识。这种挫败感甚至影响了我对整个物理复习的动力，最近类似的情绪循环在英语听力练习中也出现过，比如细节捕捉时。",
+    "has_specific_detail": true,
+    "specific_detail": "在电路题中，变量之间的关系梳理让我特别卡住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 89,
+    "content": "在听力练习中，快速的语速和复杂的句式让我特别困难。比如上次听一段关于环保政策的录音，里面的句子结构很复杂，我总是漏掉关键的转折词，导致理解错了后面的内容。当时我试着降低语速反复听，希望能抓住细节，但即使慢速下还是无法准确捕捉所有信息，心里特别焦虑。这种尝试让我短暂觉得自己在努力，但未果后反而更失落，觉得自己的听力能力可能根本达不到要求。这种挫败感甚至影响了我对后续英语学习的兴趣，最近在数学练习中也出现过类似的情绪循环，比如函数分析时。",
+    "has_specific_detail": true,
+    "specific_detail": "在听力练习中，快速的语速和复杂的句式让我特别困难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 90,
+    "content": "在函数分析中，导数的应用让我特别卡住。比如上次有一道题需要判断函数的极值，我试着用导数求解，但总是算错关键步骤，结果无法得到正确答案。当时我尝试重新检查公式和步骤，并参考例题，希望能找到突破点，但问题依然没解决，心里特别沮丧。这种尝试让我短暂觉得自己在努力，但未果后压力更大，觉得自己可能永远都掌握不了导数的应用。这种挫败感甚至影响了我对整个数学复习的兴趣，最近类似的情绪循环在物理学习中也出现过，比如电磁感应题时。",
+    "has_specific_detail": true,
+    "specific_detail": "在函数分析中，导数的应用让我特别卡住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 91,
+    "content": "在电磁感应题里，理解磁通量变化让我特别卡住。比如上次有一道题要求计算磁通量随时间的变化，我试着用公式去解，但发现总是无法正确理解变化的关系，结果每次都错。当时我尝试重新看教材，并翻例题，希望能找到突破点，但公式越看越混乱，心里变得特别沮丧。这种尝试虽然让我短暂觉得自己在努力，但未果后反而更挫败，让我觉得自己可能根本无法掌握电磁感应的核心知识。这种情绪循环甚至影响了我对整个物理学习的动力，最近在英语写作中也出现过类似的情况，比如论点展开时。",
+    "has_specific_detail": true,
+    "specific_detail": "在电磁感应题里，理解磁通量变化让我特别卡住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 92,
+    "content": "在论点展开时，找到合适的例子让我特别卡住。比如上次写一篇关于科技发展的作文，我试着用一些数据来支持论点，但总觉得不够贴切，无法让内容显得有说服力。当时我尝试参考范文，希望能找到类似的例子，但发现范文的主题和我的内容不完全契合，心里变得更沮丧。这种尝试虽然让我短暂觉得自己在努力，但最终未果让我压力更大，甚至开始怀疑自己的写作能力是否够好。这种情绪循环让我对接下来的英语学习任务也开始产生了抗拒，最近在数学练习中也出现过类似的感受，比如函数综合题时。",
+    "has_specific_detail": true,
+    "specific_detail": "在论点展开时，找到合适的例子让我特别卡住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 93,
+    "content": "在函数综合题中，多个条件的结合让我特别卡住。比如上次有一道题需要同时考虑定义域和导数关系，我试着列出所有条件，但在逻辑推导时总是弄乱，结果无法得出正确答案。当时我尝试重新整理条件，并参考类似例题，希望能找到突破点，但问题依然没解决，心里特别沮丧。这种尝试虽然让我短暂觉得自己在努力，但未果后压力更大，让我觉得自己可能永远都无法掌握综合题的逻辑。这种挫败感甚至让我对整个数学复习的动力产生了影响，最近在物理学习中也出现过类似的情绪，比如电路分析题时。",
+    "has_specific_detail": true,
+    "specific_detail": "在函数综合题中，多个条件的结合让我特别卡住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 94,
+    "content": "在电路分析题中，电流和电压的关系推导让我特别卡住。比如上次有一道题需要通过欧姆定律计算电流，我试着列出公式，但发现变量太多，关系理不清，每次都算错。当时我尝试画图来梳理电路结构，希望能更直观地理解，但问题依然没解决，心里特别沮丧。这种尝试虽然让我短暂觉得自己在努力，但未果后反而让我觉得自己可能永远都无法掌握电路分析的核心知识。这种挫败感甚至影响了我对整个物理复习的兴趣，最近在英语写作中也出现过类似的情绪，比如补充细节时。",
+    "has_specific_detail": true,
+    "specific_detail": "在电路分析题中，电流和电压的关系推导让我特别卡住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 95,
+    "content": "在英语写作中，让细节更贴合论点确实让我特别卡住。比如上次写关于环保的作文，我试着补充一些例子和数据，但总觉得和论点的关联不够紧密，无法让文章显得有逻辑。当时我尝试参考范文中的表达，希望能找到启发，但发现范文的内容和我的主题不完全匹配，心里变得更沮丧。这种尝试虽然让我觉得自己在努力，但未果后让我压力更大，甚至开始怀疑自己的写作能力。这种情绪循环让我对后续的写作任务也产生了抗拒，最近在数学练习中也有类似的感觉，比如函数图像分析时。",
+    "has_specific_detail": true,
+    "specific_detail": "在英语写作中，让细节更贴合论点确实让我特别卡住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 96,
+    "content": "在函数图像分析中，判断变化趋势让我特别感到困难。比如上次有一道题需要通过导数确定函数的增减区间，我试着计算导数，但在理解图像如何反映变化时总是弄错，结果无法画出正确的图形。当时我尝试重新看教材上的例题，希望能找到思路，但问题依然没解决，心里特别挫败。这种尝试虽然让我短暂觉得自己在努力，但未果后反而让我觉得自己可能永远都无法掌握函数图像的分析。这种情绪循环让我对数学复习的动力开始下降，最近类似的感受在物理学习中也出现过，比如磁通量变化时。",
+    "has_specific_detail": true,
+    "specific_detail": "在函数图像分析中，判断变化趋势让我特别感到困难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 97,
+    "content": "在磁通量变化时，理解磁场变化的速率让我特别困难。比如上次有一道题需要计算磁通量的时间变化，我试着套用公式，但总是搞不清变量之间的关系，结果每次都算错。当时我尝试重新翻教材和笔记，希望能找到突破点，但公式和理论越看越混乱，心里变得特别沮丧。这种尝试虽然让我短暂觉得自己在努力，但未果后让我压力更大，甚至开始怀疑自己是不是根本无法掌握电磁感应的知识。这种情绪循环让我对整个物理复习的兴趣越来越低，最近在英语写作中也出现过类似的情绪，比如构思开头时。",
+    "has_specific_detail": true,
+    "specific_detail": "在磁通量变化时，理解磁场变化的速率让我特别困难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 98,
+    "content": "在构思开头时，引入主题让我特别卡住。比如上次写关于科技发展的作文，我试着设计一个吸引读者的开场，但总觉得不够自然或者不够贴合主题。当时我尝试模仿范文的开头，试图找到灵感，但发现范文的风格和我的内容不完全匹配，心里变得更沮丧。这种尝试虽然让我短暂觉得自己在努力，但未果后反而让我压力更大，甚至开始怀疑自己是不是根本无法写好作文。这种情绪循环让我对后续的写作任务也产生了抗拒，最近在数学练习中也有类似的情况，比如综合题分析时。",
+    "has_specific_detail": true,
+    "specific_detail": "在构思开头时，引入主题让我特别卡住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 99,
+    "content": "在综合题分析时，条件的筛选让我特别卡住。比如上次做一道关于数列的题，我试着列出所有已知条件，但在推导逻辑时发现很多关系无法连接，结果算不出正确答案。当时我尝试重新整理条件并翻看类似例题，希望能找到思路，但最终还是没能解决问题，心里特别沮丧。这种尝试虽然让我短暂觉得自己在努力，但未果后反而让我压力更大，觉得自己可能永远都无法掌握综合题的分析方法。这种挫败感让我对整个数学练习产生了抗拒，最近类似的情绪循环在英语听力练习中也出现过，比如快速语速时。",
+    "has_specific_detail": true,
+    "specific_detail": "在综合题分析时，条件的筛选让我特别卡住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

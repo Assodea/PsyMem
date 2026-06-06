@@ -1,0 +1,648 @@
+[
+  {
+    "turn": 1,
+    "content": "最近还是感觉很难融入人群，尤其是在公司，同事们有时候会聊得很热闹，但我总觉得自己插不上话。我会担心他们是不是觉得我不合群…",
+    "has_specific_detail": true,
+    "specific_detail": "最近还是感觉很难融入人群，尤其是在公司，同事们有时候会聊得很热闹，但我总觉得自己插不上话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "确实会有点紧张，尤其是他们聊一些我不了解的话题时。我很少感觉轻松，大多数时候都是尽量避免参与，说到轻松…偶尔大家分工明确时我会觉得没那么压迫。",
+    "has_specific_detail": true,
+    "specific_detail": "确实会有点紧张，尤其是他们聊一些我不了解的话题时",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "是的，可能是因为有明确目标，我知道自己该做什么，也不用担心说错话或者让人觉得尴尬。这种时候，我会专注完成任务，感觉自己是有用的…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，可能是因为有明确目标，我知道自己该做什么，也不用担心说错话或者让人觉得尴尬",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "可能是因为我总觉得他们聊的话题离我很远，比如他们谈旅行经历或者一些热门活动，而我对这些不太感兴趣。我担心自己参与后反而显得格格不入…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是因为我总觉得他们聊的话题离我很远，比如他们谈旅行经历或者一些热门活动，而我对这些不太感兴趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "有过类似的感觉，尤其小时候和父母交流时，他们更多关心我的成绩，很少谈我感兴趣的事情。我记得有一次我想聊班级活动，他们却只问考试情况，这让我觉得难以接近…",
+    "has_specific_detail": true,
+    "specific_detail": "有过类似的感觉，尤其小时候和父母交流时，他们更多关心我的成绩，很少谈我感兴趣的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "可能是的吧，我总会害怕别人对我的话题不感兴趣，就像小时候那样。我宁愿不说，也不想冒着被忽略或者让人觉得无聊的风险…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是的吧，我总会害怕别人对我的话题不感兴趣，就像小时候那样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，可能会稍微好一点，但即使是亲近的人，我还是会犹豫。之前和前女朋友在一起时，有时候我试着聊自己的想法，但发现她们情绪状态比较低，沟通起来也不太顺利…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能会稍微好一点，但即使是亲近的人，我还是会犹豫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "是的，有时候我会觉得自己表达的东西可能没那么重要，甚至怕增加别人的负担。就像之前和其中一个女朋友聊我的工作压力时，她看起来更难受，我反而不知道该怎么继续了…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，有时候我会觉得自己表达的东西可能没那么重要，甚至怕增加别人的负担",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "通常我会自己默默消化，可能听听音乐或者打游戏来转移注意力。但老实说，这些方法只能暂时缓解，压力还是会积累起来，有时候会让我感觉更孤独…",
+    "has_specific_detail": true,
+    "specific_detail": "通常我会自己默默消化，可能听听音乐或者打游戏来转移注意力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得如果有人能耐心听我说，不急着给建议或评价，可能会让我感觉被看见吧。但说实话，我很难相信别人能真正理解我，所以这种期待也有点矛盾…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果有人能耐心听我说，不急着给建议或评价，可能会让我感觉被看见吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "让我想想…可能是大学时有一次，一个朋友听我聊我的家庭问题。他没有打断我，只是一直在听，还说“这一定让你很难受吧”。那时候我感觉他好像真的懂了一点，但这样的瞬间很少…",
+    "has_specific_detail": true,
+    "specific_detail": "让我想想…可能是大学时有一次，一个朋友听我聊我的家庭问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "是的，那种被理解的感觉真的很少见，但也很珍贵。如果能有更多这样的时刻，或许我会更愿意敞开心扉吧，也可能会减少对别人的猜忌和不信任…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，那种被理解的感觉真的很少见，但也很珍贵",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "可能需要对方足够耐心，表现出真诚的关心，而且不要急着评价我的想法吧。如果我感觉对方不会随意否定我，可能会更愿意尝试表达…",
+    "has_specific_detail": true,
+    "specific_detail": "可能需要对方足够耐心，表现出真诚的关心，而且不要急着评价我的想法吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯…目前可能还没有特别理想的环境，但有时候一个同事会主动问我一些具体的工作问题，不带任何批判或多余评论，那种时候我会稍微觉得轻松一点…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯…目前可能还没有特别理想的环境，但有时候一个同事会主动问我一些具体的工作问题，不带任何批判或多余评论，那种时候我会稍微觉得轻松一点…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "可能可以试试吧，不过我还是会担心说多了会暴露自己的不安或者让对方觉得我太啰嗦。要做到完全自在，感觉还需要一点时间…",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以试试吧，不过我还是会担心说多了会暴露自己的不安或者让对方觉得我太啰嗦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，小话题可能会好一点，比如聊最近的工作细节或者我正在做的任务。我觉得如果对方有兴趣回应，可能会让我慢慢感觉更自然…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，小话题可能会好一点，比如聊最近的工作细节或者我正在做的任务",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "可能会吧，如果对方回应积极，我会觉得自己说的内容有意义，这样或许能让我慢慢尝试多表达一点。不过还是需要观察对方的反应…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果对方回应积极，我会觉得自己说的内容有意义，这样或许能让我慢慢尝试多表达一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，可能是对方的眼神保持关注，或者语气带点鼓励，比如说“嗯，你继续说”这样的回应吧。这样我会觉得自己不是在自说自话，而是被认真听着…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能是对方的眼神保持关注，或者语气带点鼓励，比如说“嗯，你继续说”这样的回应吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "应该会吧，如果我感觉对方真的在听，可能会试着多说一点自己感兴趣的内容，哪怕是小事情，比如对任务的看法或者一些生活中的琐事…",
+    "has_specific_detail": true,
+    "specific_detail": "应该会吧，如果我感觉对方真的在听，可能会试着多说一点自己感兴趣的内容，哪怕是小事情，比如对任务的看法或者一些生活中的琐事…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "可能还是需要一些时间吧，毕竟聊个人感受对我来说比较难。如果对方一直表现得可靠和真诚，我觉得慢慢试着分享会更容易些，但不会很快…",
+    "has_specific_detail": true,
+    "specific_detail": "可能还是需要一些时间吧，毕竟聊个人感受对我来说比较难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "可能是对方主动提出类似问题，比如“你怎么看这件事？”或者“最近有什么让你觉得不错的事情吗？”这些开放式的问题会让我觉得他们真的关心我的想法，而不是敷衍…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是对方主动提出类似问题，比如“你怎么看这件事？”或者“最近有什么让你觉得不错的事情吗？”这些开放式的问题会让我觉得他们真的关心我的想法，而不是敷衍…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，可能可以尝试分享一些小感受，比如“今天这个任务挺有挑战的，但还好顺利完成了”。如果对方接话，我觉得可能会更容易继续聊下去…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能可以尝试分享一些小感受，比如“今天这个任务挺有挑战的，但还好顺利完成了”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "可能会吧，如果对方表现出兴趣，我会觉得自己的分享是有意义的，这样可能会慢慢改变我对社交的负面看法，也许会让我愿意更主动一些…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果对方表现出兴趣，我会觉得自己的分享是有意义的，这样可能会慢慢改变我对社交的负面看法，也许会让我愿意更主动一些…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "可能可以试着在工作中找机会，比如和那个稍微熟悉的同事聊任务感受或者一些轻松的话题。感觉工作场合会比其他地方更容易一点…",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以试着在工作中找机会，比如和那个稍微熟悉的同事聊任务感受或者一些轻松的话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "可能可以从最近的项目入手，比如问他对某个步骤的看法，或者分享我的解决方式。感觉工作相关的话题会更自然一些，不会显得刻意…",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以从最近的项目入手，比如问他对某个步骤的看法，或者分享我的解决方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "可能会吧，如果对方表现得愿意继续聊，我可以试着提到一些个人感受，比如“这个任务让我一开始有点紧张，但完成后觉得挺有成就感”。这样应该不会太突兀…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果对方表现得愿意继续聊，我可以试着提到一些个人感受，比如“这个任务让我一开始有点紧张，但完成后觉得挺有成就感”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "如果对方回应，我可能会觉得自己被关注了，至少我的感受没有被忽略。这样的互动可能会让我感觉轻松一些，也愿意继续尝试表达更多…",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方回应，我可能会觉得自己被关注了，至少我的感受没有被忽略",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "可能会有一点提升吧，如果这种互动能持续，我会觉得自己并不是完全孤立的，或许能慢慢减少对社交的抗拒感，但还是需要时间去适应…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会有一点提升吧，如果这种互动能持续，我会觉得自己并不是完全孤立的，或许能慢慢减少对社交的抗拒感，但还是需要时间去适应…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，这个方法可能有用，我可以提前想一些和工作相关或者轻松的话题，比如最近的进展或者大家的反馈。这样聊起来会感觉不那么紧张，也更自然些…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个方法可能有用，我可以提前想一些和工作相关或者轻松的话题，比如最近的进展或者大家的反馈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "可能会吧，至少我不会临时慌乱，不知道该说什么。如果有准备好的话题，我感觉自己会稍微自信一点，更愿意主动开口试试…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，至少我不会临时慌乱，不知道该说什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "可能还是那个稍微熟悉的同事吧，感觉他比较容易接近。我可以试着在讨论工作时加入一些自己的看法，比如问他对某个问题的想法，顺便分享我的解决方式…",
+    "has_specific_detail": true,
+    "specific_detail": "可能还是那个稍微熟悉的同事吧，感觉他比较容易接近",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "可能会试试吧，比如聊最近的天气或者他有没有看过什么有趣的电影。感觉这样的小事会让氛围更轻松，慢慢试着拓展话题范围…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会试试吧，比如聊最近的天气或者他有没有看过什么有趣的电影",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "如果顺利的话，可能会有一点信心吧。我会觉得自己不是完全无法融入，也许能慢慢试着和其他人聊一些类似的轻松话题，但还是需要一点时间…",
+    "has_specific_detail": true,
+    "specific_detail": "如果顺利的话，可能会有一点信心吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "如果感到压力，我可能会先退一步，比如暂停主动聊天，专注自己的工作。同时听听音乐或者写点东西来缓解情绪，等自己感觉更放松时再继续尝试…",
+    "has_specific_detail": true,
+    "specific_detail": "如果感到压力，我可能会先退一步，比如暂停主动聊天，专注自己的工作",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "可能是自己心情稍微平稳一些，或者看到对方表现出愿意交流的态度，比如主动问我问题或者在闲聊中提到我。这样我会觉得时机比较适合，再尝试主动聊…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是自己心情稍微平稳一些，或者看到对方表现出愿意交流的态度，比如主动问我问题或者在闲聊中提到我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我可能希望传递一种平和的态度，让对方感觉我是愿意交流的，但不会过于急切。这样不仅自己能更放松，也希望对方也觉得轻松自然…",
+    "has_specific_detail": true,
+    "specific_detail": "我可能希望传递一种平和的态度，让对方感觉我是愿意交流的，但不会过于急切",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "可能会吧，如果能建立一些平和的互动，我觉得自己会逐渐感觉不那么孤立，也许能慢慢找到一点舒适感，甚至开始享受这种交流…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果能建立一些平和的互动，我觉得自己会逐渐感觉不那么孤立，也许能慢慢找到一点舒适感，甚至开始享受这种交流…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "或许提醒自己，不需要一下子改变太多，只要试着迈出一点点就已经是进步了。告诉自己每一次尝试都在为未来更轻松的交流铺路，这样可能会更坚持下去…",
+    "has_specific_detail": true,
+    "specific_detail": "或许提醒自己，不需要一下子改变太多，只要试着迈出一点点就已经是进步了",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 39,
+    "content": "我希望自己能慢慢减少对社交的恐惧感，不再总是害怕被忽视或者说错话。也许最终能建立一些更自然的人际关系，感觉不那么孤单…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望自己能慢慢减少对社交的恐惧感，不再总是害怕被忽视或者说错话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "可能最需要的是耐心吧，同时也希望能有一点支持，哪怕是很小的鼓励或者回应，都会让我觉得自己正在慢慢朝目标前进…",
+    "has_specific_detail": true,
+    "specific_detail": "可能最需要的是耐心吧，同时也希望能有一点支持，哪怕是很小的鼓励或者回应，都会让我觉得自己正在慢慢朝目标前进…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "可能可以试着在下次团队讨论时主动表达一些对任务的看法，或者问同事一个具体问题。感觉这种场合比较自然，是个合适的开始…",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以试着在下次团队讨论时主动表达一些对任务的看法，或者问同事一个具体问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "可能提前想好自己要表达的内容，比如对任务的一个具体想法，或者准备好一个相关的问题。这样可以避免临时慌乱，感觉会更从容一些…",
+    "has_specific_detail": true,
+    "specific_detail": "可能提前想好自己要表达的内容，比如对任务的一个具体想法，或者准备好一个相关的问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "如果顺利的话，我可能会觉得自己是可以主动参与的，没那么难。这种小成功或许能让我稍微放松一点，也更愿意继续尝试更多交流…",
+    "has_specific_detail": true,
+    "specific_detail": "如果顺利的话，我可能会觉得自己是可以主动参与的，没那么难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "可能可以奖励自己一个喜欢的小东西，比如一杯好喝的咖啡，或者花点时间玩自己喜欢的游戏。这会让我觉得自己的努力值得被肯定…",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以奖励自己一个喜欢的小东西，比如一杯好喝的咖啡，或者花点时间玩自己喜欢的游戏",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "也许可以告诉自己，“每迈出一步都在改变，让自己变得更好。”这种话会让我觉得，哪怕是小进步也是值得的，不用急于求成…",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以告诉自己，“每迈出一步都在改变，让自己变得更好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "我希望未来的自己能变得更坦然，不再害怕表达自己的感受，也能建立一些真正的连接。那样或许会让我感觉不再孤独，生活也能更有意义吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望未来的自己能变得更坦然，不再害怕表达自己的感受，也能建立一些真正的连接",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "可能会提醒自己，改变是需要时间的，偶尔的挫折并不意味着失败。我可以回想那些已经迈出的进步，告诉自己这只是过程的一部分…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会提醒自己，改变是需要时间的，偶尔的挫折并不意味着失败",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 48,
+    "content": "或许会对现在的自己说，“谢谢你没有放弃，一点点努力让未来变得更好。”这种感谢会让我觉得所有坚持和尝试都是值得的…",
+    "has_specific_detail": true,
+    "specific_detail": "或许会对现在的自己说，“谢谢你没有放弃，一点点努力让未来变得更好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "我觉得可以从那个同事开始，试着在工作讨论中主动表达一些看法，然后观察对方的反应。如果感觉不错，再慢慢尝试更多交流。今天先聊到这里吧，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从那个同事开始，试着在工作讨论中主动表达一些看法，然后观察对方的反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

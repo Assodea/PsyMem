@@ -1,0 +1,538 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，其实我尝试写了一些短文，但写到一半总觉得没什么意义，就放下了。至于表达意见，有几次话到嘴边却又咽了回去，怕说了之后家人不接受，尤其是我爸…这让我有点挫败。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，其实我尝试写了一些短文，但写到一半总觉得没什么意义，就放下了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "可能是写的内容太贴近自己的真实感受了，反而让我有点不敢深入下去…写到和父亲的矛盾时，会不自觉停下来，觉得写了也改变不了什么。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是写的内容太贴近自己的真实感受了，反而让我有点不敢深入下去…写到和父亲的矛盾时，会不自觉停下来，觉得写了也改变不了什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "写的时候，我会想起他总是用很强硬的语气要求我做决定，比如大学专业、现在的工作都由他安排。那种被控制的感觉让我很压抑，但又不敢反驳，怕让他失望。每次想到这些就不知道该怎么继续写了。",
+    "has_specific_detail": true,
+    "specific_detail": "写的时候，我会想起他总是用很强硬的语气要求我做决定，比如大学专业、现在的工作都由他安排",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "可能两者都有吧，我知道他希望我好，但总觉得自己的想法在他面前没有分量。试过小心提过一次自己的意见，他只是摇头说“听我的没错”，让我觉得更无力。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧，我知道他希望我好，但总觉得自己的想法在他面前没有分量",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "那次之后，我更确定了在他面前表达自己的想法真的很难。其实我也理解他是为我好，但总觉得他不相信我能处理好自己的事情，这让我既无奈又委屈。",
+    "has_specific_detail": true,
+    "specific_detail": "那次之后，我更确定了在他面前表达自己的想法真的很难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我觉得更多是习惯吧，他一直是家里说了算的人，可能觉得只有按他的方式才是最稳妥的。但这种习惯让我总觉得被框住，想试试自己的路却没机会…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得更多是习惯吧，他一直是家里说了算的人，可能觉得只有按他的方式才是最稳妥的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我也有想过，比如自己默默把一些事情做好，像工作上的表现，但总觉得这些他未必会注意到。说到这个，前几天有件事让我有些感触…",
+    "has_specific_detail": true,
+    "specific_detail": "我也有想过，比如自己默默把一些事情做好，像工作上的表现，但总觉得这些他未必会注意到",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "前几天工作上有个小项目是我独立负责的，最后顺利完成了。虽然领导表扬了我，但我回家提起时，我爸只是随口说“这就是你该做的”。听到这话，我心里挺复杂的，既有点难过，又觉得也许我再努力，他也不会真的认可我的能力。",
+    "has_specific_detail": true,
+    "specific_detail": "前几天工作上有个小项目是我独立负责的，最后顺利完成了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "这种感觉让我对未来的计划更加迷茫，甚至觉得再努力也没用，还是得按照他的安排走下去。但内心又有不甘，总觉得应该还有别的可能…",
+    "has_specific_detail": true,
+    "specific_detail": "这种感觉让我对未来的计划更加迷茫，甚至觉得再努力也没用，还是得按照他的安排走下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我一直想尝试跟自己兴趣相关的工作，比如和艺术设计有关的方向，但又担心他觉得这些“不务正业”。这种矛盾让我不敢真正去尝试，但这个念头一直挥之不去。",
+    "has_specific_detail": true,
+    "specific_detail": "我一直想尝试跟自己兴趣相关的工作，比如和艺术设计有关的方向，但又担心他觉得这些“不务正业”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "都有吧，他总强调“稳定最重要”，但我觉得他更是不理解我的兴趣，觉得那些东西没实际价值。我也怕如果真去尝试，失败了就更证明他是对的…",
+    "has_specific_detail": true,
+    "specific_detail": "都有吧，他总强调“稳定最重要”，但我觉得他更是不理解我的兴趣，觉得那些东西没实际价值",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我有想过，比如先在空闲时间自学一些设计技能，或者尝试接一些小项目，但又怕父亲发现后不支持，甚至觉得我在“浪费时间”。这让我有点犹豫要不要开始。",
+    "has_specific_detail": true,
+    "specific_detail": "我有想过，比如先在空闲时间自学一些设计技能，或者尝试接一些小项目，但又怕父亲发现后不支持，甚至觉得我在“浪费时间”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，这样可能会容易一些，至少我能先试试，不用马上面对他的反应。不过我还是会忍不住担心，他发现后会觉得我不专心工作…这让我不太敢完全投入。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样可能会容易一些，至少我能先试试，不用马上面对他的反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "或许我可以尝试告诉他，这只是业余兴趣，能让我在工作之余放松一下，但又怕他觉得这是借口，说我不够专注于“正事”。想到这些，我就有点退缩了。",
+    "has_specific_detail": true,
+    "specific_detail": "或许我可以尝试告诉他，这只是业余兴趣，能让我在工作之余放松一下，但又怕他觉得这是借口，说我不够专注于“正事”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "这倒是个好主意，如果有作品能证明我的努力和成果，或许他会稍微认可一点。但我又怕他还是觉得这没意义，说“这些东西不能当饭吃”…想到这些，我又有些动摇了。",
+    "has_specific_detail": true,
+    "specific_detail": "这倒是个好主意，如果有作品能证明我的努力和成果，或许他会稍微认可一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，这样或许更轻松些。如果先把重心放在自己身上，不去纠结他的反应，我可能会更愿意开始尝试。这让我觉得，或许可以从一些简单的小目标入手，看看自己能做到什么。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样或许更轻松些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我想可以从学一个基础的设计软件开始，比如先熟悉它的操作，做一些简单的练习作品。这应该是个不错的起点，不会让我觉得太有压力，又能看到一些成果。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以从学一个基础的设计软件开始，比如先熟悉它的操作，做一些简单的练习作品",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我想可以先尝试设计一些简单的图形，比如日常用的小图标，或者为自己喜欢的东西做个海报。我觉得这些既有趣又能让我更快看到成果，应该会更有动力继续下去！",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以先尝试设计一些简单的图形，比如日常用的小图标，或者为自己喜欢的东西做个海报",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我可能会把作品记录下来，比如发到社交平台或者保存到一个小作品集里。虽然不一定马上分享给别人，但至少自己看着也会觉得很有成就感！",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会把作品记录下来，比如发到社交平台或者保存到一个小作品集里",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得当我完成第一个像样的作品时，可能会特别有成就感。那种“原来我也可以做到”的感觉，应该会给我很大的信心，让我更愿意继续努力！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得当我完成第一个像样的作品时，可能会特别有成就感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，我觉得这样会更有意义，尤其是如果得到一些正面的反馈，应该会让我更有动力去坚持下去。不过我可能会先挑选那些比较支持我的人分享，能减少一点压力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得这样会更有意义，尤其是如果得到一些正面的反馈，应该会让我更有动力去坚持下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我想可以先和几个朋友分享，他们比较了解我的兴趣，应该会给我一些鼓励。家人的话，可能暂时不会提，尤其是我爸，我觉得还是等有更成熟的作品再说吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以先和几个朋友分享，他们比较了解我的兴趣，应该会给我一些鼓励",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我想或许可以给自己设定一个时间表，比如每周学习和练习的目标，这样我会觉得有条理，也更容易坚持下去。如果能在小目标中不断看到进步，应该会让我更安心。",
+    "has_specific_detail": true,
+    "specific_detail": "我想或许可以给自己设定一个时间表，比如每周学习和练习的目标，这样我会觉得有条理，也更容易坚持下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得第一个一周的小目标可以是学会设计软件的基本操作，比如熟悉界面和工具，然后尝试画一个简单的图形作品。这样既能上手，也不会太有压力！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得第一个一周的小目标可以是学会设计软件的基本操作，比如熟悉界面和工具，然后尝试画一个简单的图形作品",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "完成后，我可能会给自己买点喜欢的零食犒劳一下，然后把作品拍下来存档，写下完成的感受。这样既放松又能让我记住这次努力的成果！",
+    "has_specific_detail": true,
+    "specific_detail": "完成后，我可能会给自己买点喜欢的零食犒劳一下，然后把作品拍下来存档，写下完成的感受",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 26,
+    "content": "我想可以从明天开始，抽出晚上的时间来学习和练习。这样能尽快进入状态，也不会拖延，感觉会更有动力去完成！",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以从明天开始，抽出晚上的时间来学习和练习",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我计划明晚抽一个小时学习，先熟悉软件界面和基本工具，比如画笔、形状工具这些。感觉这样安排比较轻松，又能有实质进展！",
+    "has_specific_detail": true,
+    "specific_detail": "我计划明晚抽一个小时学习，先熟悉软件界面和基本工具，比如画笔、形状工具这些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "如果遇到困难，我想会先暂停一下，做点别的事情放松，比如听听音乐或者喝杯茶。等情绪平复了再回来看问题，感觉这样会更容易继续下去。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到困难，我想会先暂停一下，做点别的事情放松，比如听听音乐或者喝杯茶",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "会的！我想在学习完后花几分钟写下自己学到了哪些工具，以及尝试时的感受，比如哪里觉得有趣或者哪里需要改进。这样能让我更清晰自己的进步！",
+    "has_specific_detail": true,
+    "specific_detail": "会的！我想在学习完后花几分钟写下自己学到了哪些工具，以及尝试时的感受，比如哪里觉得有趣或者哪里需要改进",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "如果顺利完成，我可能会把下一步设定为用学到的工具做一个完整的小图形，比如设计一个简单的图标。这既能巩固学习成果，也会让我更有成就感！",
+    "has_specific_detail": true,
+    "specific_detail": "如果顺利完成，我可能会把下一步设定为用学到的工具做一个完整的小图形，比如设计一个简单的图标",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 31,
+    "content": "我觉得可以设计一个跟植物相关的小图标，比如一片叶子或者一朵花。我平时就很喜欢养绿植，设计这样的图标应该会让我更有兴趣去完成！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以设计一个跟植物相关的小图标，比如一片叶子或者一朵花",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "这听起来很有趣！我可以尝试设计一整组植物主题的图标，比如不同形状的叶子或小花，这样不仅能练习更多工具，也会让我觉得作品更完整、更有成就感！",
+    "has_specific_detail": true,
+    "specific_detail": "这听起来很有趣！我可以尝试设计一整组植物主题的图标，比如不同形状的叶子或小花，这样不仅能练习更多工具，也会让我觉得作品更完整、更有成就感！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "完成后，我想可以先发给朋友看看他们的想法，听听他们的建议。如果反馈不错，我可能会尝试设计一个完整的小海报，把这些图标用进去，感觉会更有挑战性！",
+    "has_specific_detail": true,
+    "specific_detail": "完成后，我想可以先发给朋友看看他们的想法，听听他们的建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "是的，我觉得可以先找一些关于排版和配色的基础教程，多看看优秀的设计作品作为参考。这样能让我更清楚如何把图标合理地融入海报中，效果也会更好！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可以先找一些关于排版和配色的基础教程，多看看优秀的设计作品作为参考",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我想尝试一种清新自然的风格，比如用柔和的绿色和米色为主调，搭配简单的排版，看起来干净又舒服。这种风格很贴近植物主题，也会让我觉得更有趣！",
+    "has_specific_detail": true,
+    "specific_detail": "我想尝试一种清新自然的风格，比如用柔和的绿色和米色为主调，搭配简单的排版，看起来干净又舒服",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "是的，我想可以传达一种“轻松自在”的感觉，比如用海报表达一种亲近自然、放慢生活节奏的理念。这样不仅是设计，也是对自己情绪的一种安慰和表达！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我想可以传达一种“轻松自在”的感觉，比如用海报表达一种亲近自然、放慢生活节奏的理念",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我想可以加入我最喜欢的多肉植物，或者设计一个小场景，比如窗台上摆满绿植的画面。这些都是我生活中常见的细节，融入进去会让我觉得作品更贴近自己！",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以加入我最喜欢的多肉植物，或者设计一个小场景，比如窗台上摆满绿植的画面",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "完成后，我想可以给自己买一盆新的多肉植物作为奖励，把它摆在窗台上陪着我的作品。这样每次看到它都会想起这次努力，感觉会很有意义！",
+    "has_specific_detail": true,
+    "specific_detail": "完成后，我想可以给自己买一盆新的多肉植物作为奖励，把它摆在窗台上陪着我的作品",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "是的，我觉得可以把作品和新买的多肉一起拍下来，放在窗台上留作纪念。这样每次翻看照片，都会想起这段努力的过程和那种成就感！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可以把作品和新买的多肉一起拍下来，放在窗台上留作纪念",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "嗯，现在感觉目标更清晰了，也觉得这些计划是可以一步步实现的！虽然可能会有些挑战，但想到最终的成果，我就更有动力去尝试了！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，现在感觉目标更清晰了，也觉得这些计划是可以一步步实现的！虽然可能会有些挑战，但想到最终的成果，我就更有动力去尝试了！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "好的，谢谢你的鼓励！我会从明天开始认真去尝试，期待能有一些小成果和新的感受。今天聊到这里让我感觉轻松了不少，谢谢！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，谢谢你的鼓励！我会从明天开始认真去尝试，期待能有一些小成果和新的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

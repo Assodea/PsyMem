@@ -1,0 +1,400 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，说到这个，前几天我们又有一次比较深的谈话。他提到自己的孩子最近生病了，事情比较多，可能没顾上回应我。我理解他的难处，但心里还是有点失落，觉得自己的需求好像总是排在后面…这种感觉让我有些无力，不知道该不该继续坚持。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，说到这个，前几天我们又有一次比较深的谈话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "其实这种动摇之前也有过，但最近更强烈了。尤其是看到他在孩子面前那么用心，我既佩服他，又觉得自己好像没法真正融入他的生活…有时候会想，是不是我要求太多了？",
+    "has_specific_detail": true,
+    "specific_detail": "其实这种动摇之前也有过，但最近更强烈了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "有一次他带孩子去参加学校活动，我本想一起去，但他觉得不方便，说“还是我们自己去吧”。虽然我能理解他的顾虑，但那一刻真的感觉被排除在外，好像这部分生活我始终无法参与…这种时候，会特别无助又失落。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次他带孩子去参加学校活动，我本想一起去，但他觉得不方便，说“还是我们自己去吧”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "当时我没有直接说出来，只是简单回应了一句“哦，那你们去吧”，然后挂了电话。其实心里挺委屈的，但又怕他觉得我不讲道理，所以就忍住没多说。后来自己一个人越想越难过，甚至有点怀疑这段关系的意义…",
+    "has_specific_detail": true,
+    "specific_detail": "当时我没有直接说出来，只是简单回应了一句“哦，那你们去吧”，然后挂了电话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是啊，真的很累…有时候会希望他能主动问问我是不是不开心，或者多解释一下他的想法。但现实是，他往往以为我没事，或者觉得我能理解他的立场。所以我常常在两种情绪之间挣扎，一边想要他关心，一边又不敢开口去说。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，真的很累…有时候会希望他能主动问问我是不是不开心，或者多解释一下他的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我也有想过主动表达，但总觉得他已经很忙了，我再说这些会不会显得很“添乱”？而且还有点害怕如果表达了，他却没有回应或重视，那种落差会让我更难受…所以每次都在犹豫到底要不要说出口。",
+    "has_specific_detail": true,
+    "specific_detail": "我也有想过主动表达，但总觉得他已经很忙了，我再说这些会不会显得很“添乱”？而且还有点害怕如果表达了，他却没有回应或重视，那种落差会让我更难受…所以每次都在犹豫到底要不要说出口",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是的，我确实在保护自己免于受伤。如果他能更明确地回应，比如说一句“我知道你可能会不舒服，但这是目前的情况”，我会觉得自己至少被看到了。或者主动问问我的感受，而不是让我总是去猜他的想法，那样我可能会更愿意尝试去表达自己。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实在保护自己免于受伤",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，这种感觉确实和小时候很像。小时候父母工作都很忙，我做了什么、有什么想法，他们经常注意不到。我那时候特别希望有人能主动关心我的情绪，但更多时候只能自己消化。这种缺失感好像一直跟着我，现在在关系里也时不时会被触发。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这种感觉确实和小时候很像",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "嗯，自我对话确实有一定帮助。有时候我会尝试安慰自己，比如告诉自己“你已经尽力去理解他了，不需要过分苛责自己”。另外，回到工作或去健身也能让我暂时从情绪中抽离，感觉稍微轻松些。不过，这种方法有时效果有限，特别是内心的失落很强的时候，还是会觉得需要更多的支持。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，自我对话确实有一定帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我也想过和他坦诚谈谈，但总觉得有点难开口。一方面，我怕他觉得我“太敏感”，影响我们的关系；另一方面，也担心自己表达不清，反而让他误解我的意思。再加上他的生活已经很复杂了，我会忍不住想：是不是再等等，再观察一下更合适？这种犹豫让我很矛盾，但内心又真的希望他能更理解我。",
+    "has_specific_detail": true,
+    "specific_detail": "我也想过和他坦诚谈谈，但总觉得有点难开口",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "如果他能理解我的感受，并主动表示愿意一起努力，我会觉得这段关系是有希望的。最理想的结果是，他能告诉我他的真实想法，比如对我们的未来怎么看，同时也能让我知道，我的感受对他来说是重要的。那样的话，我想我会更有信心继续走下去。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他能理解我的感受，并主动表示愿意一起努力，我会觉得这段关系是有希望的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "或许可以在我们一起吃饭或散步时，气氛比较放松的时候提起。我可以从关心他的生活开始，比如问问孩子最近怎么样，然后再逐渐过渡到自己的感受。这样可能会让谈话更自然一些，也能避免一开始就显得太严肃或沉重。我觉得只要他愿意听，我就能慢慢把内心的想法说出来。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以在我们一起吃饭或散步时，气氛比较放松的时候提起",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我想先表达自己的不安，告诉他有时候会觉得被排除在他的生活之外，这让我有点失落。同时也想说，其实我很希望能更多地参与到他的世界里，因为我真的很在意这段关系。我觉得先说出这些感受，再看他的反应，可能会更容易继续聊下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我想先表达自己的不安，告诉他有时候会觉得被排除在他的生活之外，这让我有点失落",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "是的，我会特别注意用“我”的视角，比如说“我有时候会觉得有点失落”而不是“你总是让我失落”。同时语气上尽量平和一些，强调我是希望更好地理解彼此，而不是在指责或要求他改变。我想这样可能更容易让他接受，也减少他感到被压力的可能。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我会特别注意用“我”的视角，比如说“我有时候会觉得有点失落”而不是“你总是让我失落”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，我有想过这种可能性。如果他表示理解，但短期内因为现实原因无法改变，我想我还是可以接受的，毕竟我知道他的生活确实很复杂。不过，如果他能让我感觉到我的感受被重视，并愿意和我一起慢慢调整，那我的期待就不会落空太多。但如果完全没有后续行动，可能会让我开始怀疑他对这段关系的投入…所以，这种回应对我的影响还挺大的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我有想过这种可能性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "如果他的回应暂时不如预期，我可能会先给自己一些时间去消化，不急着做决定。我会试着从他的行为中观察，他是否真的在意我的感受，即使没有立刻的改变。如果感觉不到明显的变化，我可能会重新评估我们的沟通模式，或者考虑再找机会和他更深入地谈谈。但如果长期下来还是没有进展，我想我需要认真思考这段关系是否值得继续投入了。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他的回应暂时不如预期，我可能会先给自己一些时间去消化，不急着做决定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得这次谈话后，如果他能表现出一些理解和关注，我的信心会增加，因为那会让我感觉自己的感受被看到了。其实对我来说，信心的来源是他是否愿意和我一起面对问题。如果我能感受到他的态度是积极的，即使进展缓慢，我也会更愿意坚持下去。相反，如果完全没有回应或行动，可能就很难再鼓起勇气去沟通了…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这次谈话后，如果他能表现出一些理解和关注，我的信心会增加，因为那会让我感觉自己的感受被看到了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "如果他能主动回应我的感受，比如说“我没想到你会这样想，谢谢你告诉我”，或者表达一些具体的想法，比如“以后我们可以试着多沟通”，我会觉得他的态度是积极的。另外，如果他能在接下来的日子里用行动体现，比如主动安排一些我们可以一起参与的事情，那会更让我感觉到他在认真对待我们的关系。这样的行为和语言，会让我觉得自己的付出是有意义的。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他能主动回应我的感受，比如说“我没想到你会这样想，谢谢你告诉我”，或者表达一些具体的想法，比如“以后我们可以试着多沟通”，我会觉得他的态度是积极的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "是的，我觉得这可能是个好办法。如果能直接提到“我希望我们可以一起做更多的事情，比如参加孩子的活动，或者一起规划一些周末时光”，他可能会更清楚我的需求，而不是单纯觉得我在表达情绪。我想具体化这些期望，或许能帮助我们更好地找到一个实际的解决方式，也让他知道我在努力为这段关系出力。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得这可能是个好办法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，我觉得可以在表达期望时，先肯定他在生活中的努力，比如说“我知道你要照顾孩子，还有很多责任需要处理，我真的很佩服你”。然后再温和地提出我的需求，比如“不过，有时候我也希望我们能多一些属于两个人的时间，比如一起做点什么，这对我来说很重要”。这样既能传递我的关心，也能让他更容易接受我的想法吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以在表达期望时，先肯定他在生活中的努力，比如说“我知道你要照顾孩子，还有很多责任需要处理，我真的很佩服你”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "如果他愿意问我具体想做些什么，我可能会提一些比较轻松的事情作为起点，比如一起去公园散步、看场电影，或者试着一起做顿饭。这些活动不会让他感到负担，但又能创造一些属于我们两个人的时光。我觉得从简单的小事开始，不仅容易实现，也能让我们慢慢培养更多的联结感。如果这些都能顺利进行，再去尝试参与孩子的活动，可能会更自然一些。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他愿意问我具体想做些什么，我可能会提一些比较轻松的事情作为起点，比如一起去公园散步、看场电影，或者试着一起做顿饭",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得自己需要注意的，首先是保持耐心，不要急于看到明显的改变。其次，要尽量放下过多的期待和担忧，全心投入到当下的互动中，享受彼此的陪伴。另外，在这些过程中，我想也要学会更坦率地表达自己的感受，比如如果我感到开心，就直接告诉他“今天真的很愉快”，这样可以让他更明确地知道什么对我来说是重要的。总之，我觉得需要在尊重他的节奏和现实情况的同时，也适当地引导互动往更积极的方向发展。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得自己需要注意的，首先是保持耐心，不要急于看到明显的改变",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我觉得一些小的细节能让我感受到快乐，比如他主动拉近我们之间的距离，比如牵我的手，或者在散步时主动和我聊一些他的想法和计划，这会让我觉得被信任和重视。还有，如果他在做饭时会问我“这个味道怎么样”，或者在看电影时对情节发表点看法，这种互动也会让我感到轻松愉快。其实很多时候，我更在意的是他愿意主动参与和沟通，这些细节让我觉得我们的关系是有温度、有希望的。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得一些小的细节能让我感受到快乐，比如他主动拉近我们之间的距离，比如牵我的手，或者在散步时主动和我聊一些他的想法和计划，这会让我觉得被信任和重视",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "如果这些细节逐步出现，我会用积极的回应去强化这种互动，比如对他主动的行为表示感谢，像“我很喜欢你刚刚说的那句话”或者“今天真的很开心，谢谢你陪我”。我也会尽量主动参与他的兴趣，比如认真听他聊孩子的事，或者对他提到的计划表达支持。我觉得通过这样的回应和共鸣，可以让彼此都感受到被在意，从而形成一种更良性的互动循环。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这些细节逐步出现，我会用积极的回应去强化这种互动，比如对他主动的行为表示感谢，像“我很喜欢你刚刚说的那句话”或者“今天真的很开心，谢谢你陪我”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得这种互动模式在面对困难时可能会有所帮助，因为它建立在理解和沟通的基础上。但如果分歧比较大，可能还需要更深入的对话，比如试着站在他的角度多问几个“你怎么看”或者“你希望我怎么做”，来了解他真正的想法。同时，我也要提醒自己不要轻易被情绪左右，尽量理性地表达问题，而不是让争执变得情绪化。我想通过这些方式，可以帮助我们在遇到挑战时更好地找到解决方法，同时也让彼此的理解更加深刻。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这种互动模式在面对困难时可能会有所帮助，因为它建立在理解和沟通的基础上",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得在对话中，我可以用一些既清晰又温和的语言，比如“我这样做是因为我在意这段关系，不想让问题变得更复杂”，或者“我理解你的想法，但我的感受是这样的，能不能一起看看有没有更好的办法”。同时，尽量用“我们”的角度去讨论，比如“我们可以怎么做得更好”，而不是只说“你应该怎样”。另外，我会注意语气不要带指责，而是更多地表达希望合作的态度，这样可能更容易让对方感受到我的尊重和诚意，也更愿意一起面对问题。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得在对话中，我可以用一些既清晰又温和的语言，比如“我这样做是因为我在意这段关系，不想让问题变得更复杂”，或者“我理解你的想法，但我的感受是这样的，能不能一起看看有没有更好的办法”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "如果关系真的有所改善，我希望我们可以更坦诚地分享彼此的想法和感受，而不是各自揣测对方的心意。我也期待我们能有更多共同的生活体验，比如一起尝试新活动，或者为未来做一些小的计划，比如一次短途旅行。更重要的是，我希望我们能在相互支持中找到一种平衡，他能感受到我的理解，而我也能在这段关系中得到更多的安全感和归属感。如果这些能实现，我觉得我们的关系会变得更加稳固和温暖。",
+    "has_specific_detail": true,
+    "specific_detail": "如果关系真的有所改善，我希望我们可以更坦诚地分享彼此的想法和感受，而不是各自揣测对方的心意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "如果这些目标逐步实现，我觉得我最大的收获会是内心的踏实感，能真切感受到自己被看见、被接纳，同时也能更自信地表达自己的需求。另外，通过这段关系，我可能也会更懂得如何在亲密关系中找到一种平衡，既不会失去自我，也能与对方共同成长。这样的体验对我来说不仅仅是情感上的满足，更是一种个人成长的过程。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这些目标逐步实现，我觉得我最大的收获会是内心的踏实感，能真切感受到自己被看见、被接纳，同时也能更自信地表达自己的需求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得，这段关系的愿景可以总结为——“在相互理解和支持中，我们都能成为更好的自己，同时一起创造温暖而真实的联结。”这既表达了我对彼此成长的期待，也包含了对关系稳定和真诚的渴望。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得，这段关系的愿景可以总结为——“在相互理解和支持中，我们都能成为更好的自己，同时一起创造温暖而真实的联结",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得这句话会像一种提醒，告诉我为什么选择了这段关系，以及我真正想要的是什么。它让我记得，关系中的挑战并不可怕，只要彼此愿意理解和支持，我们就有机会一起成长。当我感到迷茫或疲惫时，这句话也能让我重新聚焦于内心的力量和希望，从而找到继续努力的动力，而不是轻易放弃。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这句话会像一种提醒，告诉我为什么选择了这段关系，以及我真正想要的是什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

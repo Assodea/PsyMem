@@ -1,0 +1,624 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，是一直都有的感受，但最近特别明显。比如，前几天我看到舍友和她男朋友视频聊天，两个人特别甜蜜，我心里就忍不住开始难过…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，是一直都有的感受，但最近特别明显",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是羡慕吧，也让我想到自己和男朋友的关系。我们在一起八年了，但因为他在部队，总是分开，感觉很孤单…有时候真希望他能像舍友男朋友那样陪在我身边。",
+    "has_specific_detail": true,
+    "specific_detail": "是羡慕吧，也让我想到自己和男朋友的关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "是啊，确实经历了很多。我会跟他说，但他也有自己的压力，有时候聊完后感觉好些，但孤独感还是会反复。我平时会试着忙学业或者刷剧转移注意力，但效果不太好…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，确实经历了很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "会的，尤其是看到别人恋爱中的互动，比如前几天同学在朋友圈晒和男朋友的约会照片，我就忍不住想象如果是我和他一起，应该也会很幸福吧…但想完又觉得更失落了。",
+    "has_specific_detail": true,
+    "specific_detail": "会的，尤其是看到别人恋爱中的互动，比如前几天同学在朋友圈晒和男朋友的约会照片，我就忍不住想象如果是我和他一起，应该也会很幸福吧…但想完又觉得更失落了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "主要是距离吧，感觉很想拥有那种随时能见面的亲密关系。有时候也会担心长时间这样会不会让我们变得疏远，但我又努力告诉自己不能乱想…",
+    "has_specific_detail": true,
+    "specific_detail": "主要是距离吧，感觉很想拥有那种随时能见面的亲密关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "开始会觉得平静一些，但有时候情绪还是压不住，比如看到舍友男朋友来学校陪她时，我心里就又会忍不住羡慕，觉得好像自己总是在忍耐…",
+    "has_specific_detail": true,
+    "specific_detail": "开始会觉得平静一些，但有时候情绪还是压不住，比如看到舍友男朋友来学校陪她时，我心里就又会忍不住羡慕，觉得好像自己总是在忍耐…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是有的吧，比如我会觉得自己好像不够好，才没有那种随时能被陪伴的关系。虽然我知道这是因为异地，但心里还是忍不住自我怀疑…",
+    "has_specific_detail": true,
+    "specific_detail": "是有的吧，比如我会觉得自己好像不够好，才没有那种随时能被陪伴的关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "会的，有时候这种感觉会让我对自己很不满意，连学习上也会变得没那么自信了。比如上周写论文时，总觉得自己的思路不够好，心里反复纠结，效率特别低…",
+    "has_specific_detail": true,
+    "specific_detail": "会的，有时候这种感觉会让我对自己很不满意，连学习上也会变得没那么自信了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "都有吧，感觉自己好像总是差一点，不管是学习还是感情上，都没办法达到自己期待的样子。这种想法一冒出来，我就很难专心做事…",
+    "has_specific_detail": true,
+    "specific_detail": "都有吧，感觉自己好像总是差一点，不管是学习还是感情上，都没办法达到自己期待的样子",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得可能从小时候开始吧。父母对我的要求一直很高，特别是学习上，考得不好时他们会表现得很失望。我那时候就觉得，只有做得足够好才能被认可，可能这种感觉一直延续到现在了…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能从小时候开始吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "更多是压力吧，我总觉得自己不能让他们失望。虽然现在他们不会直接说什么，但我还是会习惯性想要证明自己，尤其是在学习上，总担心自己做得不够好…",
+    "has_specific_detail": true,
+    "specific_detail": "更多是压力吧，我总觉得自己不能让他们失望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "应该是希望自己能达到他们的期待吧，感觉如果做到了，就能证明自己是值得被认可的。但同时我又会害怕，如果做不到，会让他们失望，也让我自己觉得很失败…",
+    "has_specific_detail": true,
+    "specific_detail": "应该是希望自己能达到他们的期待吧，感觉如果做到了，就能证明自己是值得被认可的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "更多是一种负担吧，虽然它让我努力，但同时也让我很累。有时候觉得自己怎么都不够好，心里特别压抑，尤其是在情绪低落的时候，这种想法会更明显…",
+    "has_specific_detail": true,
+    "specific_detail": "更多是一种负担吧，虽然它让我努力，但同时也让我很累",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我很少会倾诉，可能是不习惯吧。更多是自己调整，比如听音乐或者看电影，想转移注意力。但有时候越想转移，就越觉得难以摆脱这种情绪…",
+    "has_specific_detail": true,
+    "specific_detail": "我很少会倾诉，可能是不习惯吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我会继续压抑吧，总觉得如果面对的话，会让自己更难受。有时候甚至会刻意避开一些触发情绪的东西，比如不去看别人秀恩爱的动态…但这样也没办法完全避免。",
+    "has_specific_detail": true,
+    "specific_detail": "我会继续压抑吧，总觉得如果面对的话，会让自己更难受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "可能是觉得自己没办法处理吧，怕越想越多，最后控制不住。这种感觉让我很害怕，所以总是选择压着，但压久了又觉得特别累，像陷在一个循环里…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是觉得自己没办法处理吧，怕越想越多，最后控制不住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "应该是觉得没有足够的支持吧，总感觉这些情绪只能自己扛，没人能真正理解。尤其是原生家庭那边，父母一直都不太关注我的感受，这让我更习惯自己处理一切…",
+    "has_specific_detail": true,
+    "specific_detail": "应该是觉得没有足够的支持吧，总感觉这些情绪只能自己扛，没人能真正理解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "影响挺大的吧，比如我在跟朋友相处时，不太会主动说自己的情绪，怕他们觉得我太矫情。就算心里很难受，也习惯自己消化，总觉得没人能真正理解…这让我和别人之间有点疏远。",
+    "has_specific_detail": true,
+    "specific_detail": "影响挺大的吧，比如我在跟朋友相处时，不太会主动说自己的情绪，怕他们觉得我太矫情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "可能两方面都有吧，一方面觉得他们未必能真正理解我的孤独感，另一方面也怕显得自己很脆弱，好像一直需要别人安慰，这让我不太敢去表达…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧，一方面觉得他们未必能真正理解我的孤独感，另一方面也怕显得自己很脆弱，好像一直需要别人安慰，这让我不太敢去表达…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "应该是怕暴露自己吧，害怕别人知道我的脆弱后，会看我不一样，或者觉得我很难相处。每次想到这些，就更不敢说了，觉得自己还是藏起来比较安全…",
+    "has_specific_detail": true,
+    "specific_detail": "应该是怕暴露自己吧，害怕别人知道我的脆弱后，会看我不一样，或者觉得我很难相处",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "可能是错过了吧，有时候看到朋友们聊得很开，我会觉得羡慕，想参与但又担心自己说了会尴尬或被忽视。于是就选择保持沉默，心里却越发觉得孤单…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是错过了吧，有时候看到朋友们聊得很开，我会觉得羡慕，想参与但又担心自己说了会尴尬或被忽视",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "会觉得自己不够好吧，总觉得是自己性格的问题，才会没办法融入大家。然后就会越发自我怀疑，好像不管怎么努力，都达不到那种自然融入的状态…",
+    "has_specific_detail": true,
+    "specific_detail": "会觉得自己不够好吧，总觉得是自己性格的问题，才会没办法融入大家",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我希望自己能更自然吧，能像别人那样轻松地和朋友交流，不用每次都小心翼翼地考虑该说什么。但这种期待对我来说又显得很难实现，总觉得自己被卡住了…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望自己能更自然吧，能像别人那样轻松地和朋友交流，不用每次都小心翼翼地考虑该说什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "应该是不确定怎么迈出第一步吧，每次想主动开口时，都会担心说错或者场面尴尬，于是就退缩了。然后回头又会觉得自己很没用，陷入一种纠结的状态…",
+    "has_specific_detail": true,
+    "specific_detail": "应该是不确定怎么迈出第一步吧，每次想主动开口时，都会担心说错或者场面尴尬，于是就退缩了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "可能会吧，如果有信任的人在场，我会觉得有些支持，能稍微放松一点。但这种情况下，我还是会小心翼翼，怕自己的表达不够好或者被别人忽略…这种不安还是挥之不去。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果有信任的人在场，我会觉得有些支持，能稍微放松一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "更多是害怕别人的评价吧，总觉得如果我表现不好，别人会对我有负面的看法，这让我很紧张，甚至会刻意避免一些互动，宁可选择独处…",
+    "has_specific_detail": true,
+    "specific_detail": "更多是害怕别人的评价吧，总觉得如果我表现不好，别人会对我有负面的看法，这让我很紧张，甚至会刻意避免一些互动，宁可选择独处…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "应该是从小时候开始的吧，父母对我的表现总是很关注，考得不好时会批评，做得好时才会夸奖。久而久之，我就特别在意别人对我的评价，总害怕被否定…这种感觉好像一直没变过。",
+    "has_specific_detail": true,
+    "specific_detail": "应该是从小时候开始的吧，父母对我的表现总是很关注，考得不好时会批评，做得好时才会夸奖",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "在人际关系和自我认同上影响最大吧。我总是担心别人怎么看我，导致很难完全放开自己，也会因为这种担心而觉得自己不够好。这种感觉让我很难真正自信地面对别人…",
+    "has_specific_detail": true,
+    "specific_detail": "在人际关系和自我认同上影响最大吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "如果别人能真正接纳我，我觉得自己会轻松很多，可能也会更愿意表达自己吧。但现在总觉得不确定别人能否理解我，所以就算有机会，也不敢完全敞开自己…这种犹豫让我更难迈出那一步。",
+    "has_specific_detail": true,
+    "specific_detail": "如果别人能真正接纳我，我觉得自己会轻松很多，可能也会更愿意表达自己吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "可能会吧，如果是小范围的人，比如特别信任的朋友，我会觉得稍微安全些，愿意尝试表达。但同时又怕自己说得不好，让他们觉得我很麻烦或者情绪化…这种担心还是让我犹豫不决。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果是小范围的人，比如特别信任的朋友，我会觉得稍微安全些，愿意尝试表达",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "有联系吧，小时候父母对我的评价总是很直接，好的会夸，但不好的会批评得让我很难受。这让我从小就特别害怕负面的评价，觉得自己的表现永远需要达到某种标准才行…这种感觉好像一直延续到现在。",
+    "has_specific_detail": true,
+    "specific_detail": "有联系吧，小时候父母对我的评价总是很直接，好的会夸，但不好的会批评得让我很难受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "可能会吧，如果能多听到一些积极反馈，我觉得自己会有更多信心，也许也能慢慢放下对负面评价的过度敏感。但同时我又害怕，万一尝试表达后没得到正面的回应，会让我更加不安…这种担心还是让我犹豫。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果能多听到一些积极反馈，我觉得自己会有更多信心，也许也能慢慢放下对负面评价的过度敏感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "可能会有帮助吧，如果是分享小情绪，我会觉得风险没那么大，也不会太暴露自己真实的脆弱。但我还是会担心，就算是小情绪，别人会不会觉得我很难相处或者不够成熟…这种担忧好像总是在脑海里挥之不去。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会有帮助吧，如果是分享小情绪，我会觉得风险没那么大，也不会太暴露自己真实的脆弱",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "更多是觉得自己的情绪表达不够“合适”吧，总怕自己说的方式会让人觉得奇怪或者不舒服。这种想法让我在表达前反复纠结，最后经常选择干脆不说…但不说又让我觉得孤单。",
+    "has_specific_detail": true,
+    "specific_detail": "更多是觉得自己的情绪表达不够“合适”吧，总怕自己说的方式会让人觉得奇怪或者不舒服",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "可能是个好起点吧，如果是聊一些日常琐事，压力确实会小一些。我可以试着尝试，但同时又怕自己表达得不够有趣，让对方觉得无聊或者没话接…这种担忧还是让我不敢完全放开。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是个好起点吧，如果是聊一些日常琐事，压力确实会小一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "会的，如果对方主动回应我或者表现出兴趣，我会觉得被认可，心里也会轻松些。但有时候我又会担心，这种回应是不是只是礼貌，而不是发自内心的兴趣…这种不确定感还是让我有点紧张。",
+    "has_specific_detail": true,
+    "specific_detail": "会的，如果对方主动回应我或者表现出兴趣，我会觉得被认可，心里也会轻松些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "可能会吧，观察对方的反应能让我稍微安心一些。如果他们愿意继续聊，我会觉得自己没那么糟糕，话题是有意义的。但同时又害怕自己判断错了，心里还是会有一点不安…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，观察对方的反应能让我稍微安心一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "可能会轻松一些吧，如果能专注在对话本身，我或许就不会过于纠结对方怎么想。但要做到这点感觉不太容易，因为我总是习惯性去猜测别人对我的看法…这让我很难完全放开自己。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会轻松一些吧，如果能专注在对话本身，我或许就不会过于纠结对方怎么想",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "这个方法听起来不错，讲一件让我开心的事可能会让我放松一些，而且话题也比较轻松。但我还是会担心，如果对方表现得不太感兴趣，我会觉得自己不够好，或者话题不合适…这种担忧还是难以完全消除。",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来不错，讲一件让我开心的事可能会让我放松一些，而且话题也比较轻松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "可能会吧，如果我能专注在自己感受上，应该会减少一些压力。但要做到不关注对方的反应，感觉还是挺难的，因为我总是下意识地在意他们的态度…这种习惯真的很难改变。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果我能专注在自己感受上，应该会减少一些压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "这样可能会更容易一些吧，先说一两句真实感受压力会小一点，也不至于暴露太多。但我还是会担心，就算是一两句，对方会不会觉得我的想法没意义或者很无聊…这种担忧还是挥之不去。",
+    "has_specific_detail": true,
+    "specific_detail": "这样可能会更容易一些吧，先说一两句真实感受压力会小一点，也不至于暴露太多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "可能会减少一些吧，如果是信任的人，我会觉得他们更容易理解我。但我还是会担心，就算是他们，也可能会觉得我的表达不够好或者话题没意思…这种不安好像总是伴随着我。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会减少一些吧，如果是信任的人，我会觉得他们更容易理解我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "这听起来是个不错的方法，告诉自己只是尝试可能会让我没那么紧张。但我也怕，就算这样，万一对方的反应让我失望，我还是会忍不住觉得自己不够好…这种害怕失败的感觉还是挺强烈的。",
+    "has_specific_detail": true,
+    "specific_detail": "这听起来是个不错的方法，告诉自己只是尝试可能会让我没那么紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "设定这样的目标确实有帮助，只关注自己是否表达出来可能会让我更容易尝试。但要完全不评判对方的反应感觉还是挺难的，因为我总是习惯去观察对方的态度，这让我很难彻底放松…",
+    "has_specific_detail": true,
+    "specific_detail": "设定这样的目标确实有帮助，只关注自己是否表达出来可能会让我更容易尝试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "这个方法听起来不错，主动认可自己的勇气可能会让我更有信心。告诉自己“至少迈出了这一步”，确实能让我觉得稍微好一点，但我还是会忍不住去想对方到底怎么评价我的表现…这种担忧好像总是存在。",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来不错，主动认可自己的勇气可能会让我更有信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "这样可能会让我轻松一点吧，把对方的评价当成参考而不是绝对标准，感觉压力会小一些。但要做到这一点还是挺难的，因为我总是习惯把别人的反应看得很重要，好像直接影响了我的价值感…这种思维真的很难改变。",
+    "has_specific_detail": true,
+    "specific_detail": "这样可能会让我轻松一点吧，把对方的评价当成参考而不是绝对标准，感觉压力会小一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "这个方法听起来很好，每天写下一件让我满意的事，或许能让我更关注自己的感受，而不是总依赖别人的评价。虽然一开始可能不容易，但感觉这种方式是个不错的尝试，我可以试试…",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来很好，每天写下一件让我满意的事，或许能让我更关注自己的感受，而不是总依赖别人的评价",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

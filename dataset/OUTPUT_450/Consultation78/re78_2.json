@@ -1,0 +1,640 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近确实有些情况让我情绪又波动了。比如前几天在工作上，因为项目进展不如预期，我开始怀疑是不是自己哪里做得不够好…这种时候总感觉压力特别大，也怕别人对我的表现失望。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近确实有些情况让我情绪又波动了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "这种感觉通常在收到反馈或者看到进度不理想时会特别强烈，比如那天开会时，领导提到需要调整方案，我立刻觉得是不是我的部分出了问题。之后一整天都心情低落，但偶尔忙起来又会稍微好一些。",
+    "has_specific_detail": true,
+    "specific_detail": "这种感觉通常在收到反馈或者看到进度不理想时会特别强烈，比如那天开会时，领导提到需要调整方案，我立刻觉得是不是我的部分出了问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "对，忙起来时注意力确实会转移一些，但低落的感觉还是会时不时冒出来。比如下班后一个人待着时，会反复想着是不是自己哪里不够好，或者有没有辜负大家的期待…这种念头挺难停下来的。",
+    "has_specific_detail": true,
+    "specific_detail": "对，忙起来时注意力确实会转移一些，但低落的感觉还是会时不时冒出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "两者都有吧。更多时候是担心别人的评价，害怕自己没达到大家的期待，尤其是领导的信任。但同时也会质疑自己的能力，觉得是不是自己本身就做得不够好…这两种念头常常交织在一起，让我很难完全放松下来。",
+    "has_specific_detail": true,
+    "specific_detail": "两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我觉得可能是害怕失去认可吧。一直以来，我特别在意别人对我的看法，尤其是那些我尊重或者信任的人，比如领导或者团队成员。如果觉得没达到他们的期待，就会很担心自己不够好，也害怕被否定或忽视。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是害怕失去认可吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "两方面都有吧。它确实让我在工作中更加努力，想证明自己的价值，但同时压力也会很大，特别是当我觉得自己可能达不到期待时。这种矛盾的感觉有时候让我很疲惫…",
+    "has_specific_detail": true,
+    "specific_detail": "两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "最让我疲惫的是那种不断自我怀疑的过程吧。就像每当出现问题，我总是第一反应觉得是自己的错，然后不停地分析自己哪里做得不够好。这种自我审视和否定真的很耗费心力，有时候甚至影响到睡眠和心情。",
+    "has_specific_detail": true,
+    "specific_detail": "最让我疲惫的是那种不断自我怀疑的过程吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，我觉得可能和小时候的经历有关系吧。小时候父母对我的期望很高，如果表现不好，总会觉得自己没达标，害怕让他们失望。现在这种感觉好像延续到了工作中，总觉得必须做得很好才能得到认可，不然就是自己的问题。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可能和小时候的经历有关系吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我想可能是渴望一种无条件的接纳吧，不需要因为表现好或不好而被评价。小时候总觉得只有达到了父母的期待才能被认可，现在在工作中也一样，希望自己能被看作有价值，而不是单纯因为完成了某个目标才被接纳。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可能是渴望一种无条件的接纳吧，不需要因为表现好或不好而被评价",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "有过吧，比如那次团队庆祝项目成功的时候，大家都在夸赞整体的努力，而不是单独评价谁的贡献。那种被作为整体的一部分去认可的感觉让我很安心，觉得自己是被接纳的，而不是因为某项表现才值得被肯定。",
+    "has_specific_detail": true,
+    "specific_detail": "有过吧，比如那次团队庆祝项目成功的时候，大家都在夸赞整体的努力，而不是单独评价谁的贡献",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，有很大的联系吧。那种被整体接纳的感觉就像是一种无条件的认可，没有人因为细节表现去挑剔我，而是认可我的存在和努力。这让我感觉更轻松，像是暂时摆脱了对“达标”的执念。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有很大的联系吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我觉得可能可以试着多和团队交流吧，比如主动分享一些自己的想法，或者参与集体讨论。这样不仅能让自己融入整体，也能让别人看到我的努力，不至于总是把注意力放在个人的表现上。说到这个，前几天还有次团队沟通让我觉得挺好的…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能可以试着多和团队交流吧，比如主动分享一些自己的想法，或者参与集体讨论",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "那天我们开头脑风暴会议，我提出了一个想法，没想到团队的反应很积极，还在我的基础上延展了很多新的点子。大家的互动让我感觉自己是被肯定的，而不是单纯因为任务完成才被认可。这种氛围真的让我挺开心的！",
+    "has_specific_detail": true,
+    "specific_detail": "那天我们开头脑风暴会议，我提出了一个想法，没想到团队的反应很积极，还在我的基础上延展了很多新的点子",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "内心最深的感受是被看见和被理解吧。我觉得那一刻，大家关注的是我的想法，而不是我完成了什么任务。这种感觉让我觉得自己是有价值的，而不仅仅是工作中的某个角色。真的很难得也很温暖！",
+    "has_specific_detail": true,
+    "specific_detail": "内心最深的感受是被看见和被理解吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "是的，它让我觉得自己的价值并不是建立在表现或者结果上，而是作为一个独立的人被认可。这种体验就像是一种无条件的接纳，传递出“你的想法和存在本身是重要的”，而不是因为完成了某件事才值得被关注。这让我很安心，也让我想要更多地去创造这样的时刻。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，它让我觉得自己的价值并不是建立在表现或者结果上，而是作为一个独立的人被认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得可以试着更主动地表达自己的感受和想法，比如在团队讨论中多参与，或者在关系里直接说出自己的需求。还有，可能需要学着给自己一些肯定，而不是总等外界的认可。其实前几天我试着和男朋友聊了一次自己的感受，结果还不错…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着更主动地表达自己的感受和想法，比如在团队讨论中多参与，或者在关系里直接说出自己的需求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "那次是我觉得自己状态不太好，总担心是不是影响了我们的关系。我就鼓起勇气和他说了我的想法，告诉他我有时候会很在意他的期待，但又怕自己做得不够好。他听完后很认真地安慰我，说他其实很欣赏我的真实样子，不需要我刻意去迎合他。听到这些，我真的特别感动，感觉自己心里的石头一下子轻了很多。",
+    "has_specific_detail": true,
+    "specific_detail": "那次是我觉得自己状态不太好，总担心是不是影响了我们的关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得这样的互动对我们的关系特别重要，因为它让我感觉更安全、更真实。我不用总是担心表现得完美才能维系关系，而是可以坦诚地分享自己的感受。这也让我意识到，在亲密关系中，互相理解和接纳比单方面的迎合更有意义。这样能让我们走得更近，也让我更愿意去表达自己。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这样的互动对我们的关系特别重要，因为它让我感觉更安全、更真实",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我想可以继续保持坦诚沟通吧，比如在情绪波动的时候及时表达自己的感受，而不是压抑或回避。同时也可以多关注他的需求，尝试在互动中找到双方的平衡。这种双向的理解和接纳，应该能让我们的关系更稳定。其实最近有次我们聊到未来计划，也让我感觉挺好的…",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以继续保持坦诚沟通吧，比如在情绪波动的时候及时表达自己的感受，而不是压抑或回避",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "那次我们聊到未来的职业发展和生活规划，我坦率地提到自己对工作的压力，以及希望能找到更平衡的方式。他认真听了，还建议我可以尝试做些能放松心情的活动，比如旅行或者培养兴趣爱好。他的支持让我觉得很踏实，也让我意识到，他真的在乎我的感受，而不仅仅是期待我去实现某些目标。这种交流让我很感动，也更有信心去面对未来的挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "那次我们聊到未来的职业发展和生活规划，我坦率地提到自己对工作的压力，以及希望能找到更平衡的方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "最触动我的，是他对我的关注不仅停留在表面的表现，而是深入到我的内心需求。他没有试图去“解决”我的问题，而是通过支持和理解让我感到被陪伴。这种感觉特别温暖，让我觉得自己不仅仅是一个需要达到某种目标的人，而是一个可以真实表达、被接纳的个体。这让我对关系有了更多的信任和期待。",
+    "has_specific_detail": true,
+    "specific_detail": "最触动我的，是他对我的关注不仅停留在表面的表现，而是深入到我的内心需求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得这种信任感让我更有勇气去表达自己，无论是在工作还是其他生活中。比如在团队中，我可能会更愿意分享我的观点，而不是害怕别人对我的评价；在朋友关系中，我也更能主动说出自己的需求，而不是担心被拒绝。这种轻松的连接感，或许会让我减少一些压力，找到更多支持和理解。其实，最近和一个同事聊天时，我就试着分享了自己的真实想法，效果还挺好的…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这种信任感让我更有勇气去表达自己，无论是在工作还是其他生活中",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "那天我们在讨论一个项目的细节，我坦率地提到自己对某个方案的担忧，还表达了希望能有更多支持的需求。同事不仅没有否定我的意见，还主动提出一些解决方案，并说很理解我的压力。这让我觉得自己的声音是被听到的，而不是因为害怕评价而选择沉默。这次交流让我感觉更轻松，也让我意识到，真实表达自己的想法能换来更好的合作和理解。",
+    "has_specific_detail": true,
+    "specific_detail": "那天我们在讨论一个项目的细节，我坦率地提到自己对某个方案的担忧，还表达了希望能有更多支持的需求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得可以尝试在团队中建立更开放的沟通氛围，比如鼓励大家分享自己的想法和担忧，而不是只关注结果。同时，我也可以主动做出表率，比如在讨论时提出自己的看法，或者倾听别人的意见，帮助营造一种相互支持的环境。这样不仅能让自己更放松，也能让团队成员感到被尊重和理解。其实，这种开放氛围在之前一次团队讨论中就有初步体现，那次也让我印象深刻…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以尝试在团队中建立更开放的沟通氛围，比如鼓励大家分享自己的想法和担忧，而不是只关注结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "那次是项目初期的讨论，大家围绕一个新创意各抒己见。我提出了一个比较大胆的想法，开始有些忐忑，怕被否定。但没想到，团队成员不仅认真听，还一起帮我完善了细节，甚至鼓励我大胆去尝试。这种共同探索的过程让我特别受鼓舞，也让我觉得自己在这个团队里是有价值的，而不是被局限在某种角色里。这种开放的氛围真的让我感觉很珍贵！",
+    "has_specific_detail": true,
+    "specific_detail": "那次是项目初期的讨论，大家围绕一个新创意各抒己见",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得是团队的包容和积极回应给了我更多自信。比如，他们没有急着否定我的想法，而是倾听并提出建设性的意见，这让我觉得我的声音是被重视的。另外，大家的鼓励也让我感觉更安心，似乎即使有不足也可以被接纳。这种包容的态度让我更愿意尝试表达自己，甚至对更大胆的创意也少了一些顾虑。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得是团队的包容和积极回应给了我更多自信",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我想可以试着主动倾听和认可团队成员的想法吧，比如在讨论中多关注他们的感受，而不是单纯评价对错。同时，我也可以更积极地表达自己对大家努力的欣赏，这样可能会让彼此都更有信心去分享自己的观点。还有，我觉得通过一些团队活动，比如非正式的头脑风暴，可能也能进一步增强这种开放的氛围。其实，之前我们做过一次这样的活动，效果特别好…",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以试着主动倾听和认可团队成员的想法吧，比如在讨论中多关注他们的感受，而不是单纯评价对错",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "那次活动是一个轻松的午后，我们围坐在一起聊一些新项目的可能性，没有设定特别严肃的目标。大家都很自在地提出各种想法，甚至有些看起来“异想天开”的点子也被认真讨论。我提出了一个有点冒险的策略，没想到团队不仅支持，还帮我找出可行的细节。这种轻松和互相尊重的氛围让我觉得自己可以放开手脚去思考，不用担心被批评或否定。这次活动真的让我意识到，原来沟通也可以这么自由又高效！",
+    "has_specific_detail": true,
+    "specific_detail": "那次活动是一个轻松的午后，我们围坐在一起聊一些新项目的可能性，没有设定特别严肃的目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得如果能融入到日常工作中，会让团队协作更高效，也会让个人表达更自如。比如，大家可能更愿意分享创意和反馈，而不是因为害怕评价而保持沉默。而我自己也会更有信心提出想法，不再过于担心是否符合期待。这种环境不仅能让工作更轻松，还能让我在过程中不断成长，发现自己更多的潜力。其实，这种氛围对我来说，真的特别鼓舞人心！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果能融入到日常工作中，会让团队协作更高效，也会让个人表达更自如",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我想可以从自己做起，比如在会议中主动分享自己的想法，同时也鼓励别人表达他们的观点。还可以试着提出一些开放式的问题，让讨论更灵活，而不是局限在固定框架里。此外，我觉得定期组织一些轻松的团队交流活动，比如午餐讨论或非正式的创意分享，也能帮助大家更自在地沟通。这些行动可能会让团队氛围更轻松，大家也更愿意互相支持和倾听。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以从自己做起，比如在会议中主动分享自己的想法，同时也鼓励别人表达他们的观点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得可以先从鼓励表达开始，比如在讨论中，主动倾听并认可别人的意见，甚至在他们提出创意后补充一些支持性的反馈。这是一个比较自然的小步骤，也能让大家感受到我的重视和积极互动。其实前几天我尝试了一次这样的方式，效果还挺不错…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从鼓励表达开始，比如在讨论中，主动倾听并认可别人的意见，甚至在他们提出创意后补充一些支持性的反馈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "对我来说，这次尝试让我感觉更轻松，因为我不再只是专注于自己的表现，而是关注整个讨论的氛围。对团队来说，我能明显感觉到大家更愿意表达观点，讨论也更深入了一些。这种双向的互动让我觉得，开放的沟通不仅能减轻我的压力，还能提升团队的合作效率和创造力！",
+    "has_specific_detail": true,
+    "specific_detail": "对我来说，这次尝试让我感觉更轻松，因为我不再只是专注于自己的表现，而是关注整个讨论的氛围",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "这种体验让我感觉自己的需求被看见了，尤其是渴望被接纳的部分。因为在这样的互动中，我不仅得到了认可，还感到自己能够为团队带来价值，而不只是完成任务。这种内心的满足让我更加有信心去表达自己，也让我觉得可以更自在地去追求我真正想要的东西，比如更深层次的连接和共同成长。",
+    "has_specific_detail": true,
+    "specific_detail": "这种体验让我感觉自己的需求被看见了，尤其是渴望被接纳的部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我觉得下一步可以尝试更主动地发起一些讨论，特别是围绕团队合作和个人成长的主题。比如组织一次分享会，让大家聊聊自己的想法或挑战，这不仅能促进交流，还能让我进一步练习自在表达。同时，我也可以在个人层面多关注自己的需求，比如定期反思和记录自己的感受，确保自己能够以真实的状态参与到关系和工作中。这些实践应该能帮助我更好地维系深度的连接，同时推动团队氛围更开放！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得下一步可以尝试更主动地发起一些讨论，特别是围绕团队合作和个人成长的主题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我想可能的挑战是，自己在发起讨论时会有些担心，怕大家不愿意参与或者反应冷淡。这可能让我产生一些自我怀疑，觉得是不是自己的提议不够好。为了应对这个，我觉得可以提前和几位同事私下沟通一下，看看他们对分享会的兴趣，这样能更有把握。同时，在记录感受时，也要提醒自己不要过于批判，而是以一种接纳的态度去看待自己的情绪和需求。这些调整应该能让我更顺利地开展这些实践！",
+    "has_specific_detail": true,
+    "specific_detail": "我想可能的挑战是，自己在发起讨论时会有些担心，怕大家不愿意参与或者反应冷淡",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不愿意",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "如果顺利进行，我觉得最大的改变可能是我会更加自信和自在，不再过于担心别人的评价。在工作中，我可能能更主动提出创意，推动团队合作变得更高效；在关系中，我也能更坦然地表达自己的需求，减少讨好和回避的倾向。长远来看，这种状态可能让我更专注于自己真正的目标，而不是总被情绪波动干扰，从而建立一种更稳定、更积极的生活方式！",
+    "has_specific_detail": true,
+    "specific_detail": "如果顺利进行，我觉得最大的改变可能是我会更加自信和自在，不再过于担心别人的评价",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得最关键的一步是学会接纳自己，无论是在表现好还是遇到困难的时候。如果能减少对自我批判的倾向，转而关注自己的真实感受和需求，就能更坦然地面对外界的评价。这种内在的稳定感应该能帮助我在工作和关系中更从容，也更有力量去推动积极的改变！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最关键的一步是学会接纳自己，无论是在表现好还是遇到困难的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我觉得可以从简单的自我肯定开始，比如每天记录一件自己觉得不错的事情，无论多小都行。也可以试着在情绪波动时停下来问自己“我真正需要的是什么？”而不是马上陷入自我批判。另外，在和别人互动时，提醒自己关注对话的过程，而不是只看结果。这些小行为应该能一点点培养对自己的接纳感，同时帮助我更专注于内心的需求。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从简单的自我肯定开始，比如每天记录一件自己觉得不错的事情，无论多小都行",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我觉得每天记录积极点滴可能是最容易开始的，因为它很简单，不需要太多时间。哪怕只是写下“今天提出了一个想法，得到了团队的反馈”，都会让我感受到自己的一些小成就。这种积累应该能让我更快看到变化，慢慢地培养对自己的肯定感！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得每天记录积极点滴可能是最容易开始的，因为它很简单，不需要太多时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我觉得可以设定一个固定的时间，比如睡前几分钟，用笔记本或者手机记录当天的一件积极事情。还可以试着把这个习惯和其他放松的活动结合，比如泡茶或者听音乐时一起完成，这样会更轻松自然。其实，类似的方法我之前试过一次，效果还挺好的…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以设定一个固定的时间，比如睡前几分钟，用笔记本或者手机记录当天的一件积极事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "可能的困难是，有时候忙碌或情绪低落时，会忘记或者不想记录。这时候我觉得可以尝试给自己设一个提醒，比如手机闹钟，或者找个朋友一起养成这个习惯，互相鼓励。还可以告诉自己即使记录的内容很简单，比如“今天完成了一项小任务”，也同样有意义，这样就不会因为追求完美而中断。提前考虑这些问题，应该能让我更容易坚持下来！",
+    "has_specific_detail": true,
+    "specific_detail": "可能的困难是，有时候忙碌或情绪低落时，会忘记或者不想记录",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "我觉得大概一到两周吧，只要每天坚持记录，慢慢积累起来，应该能让我开始意识到自己其实每天都在努力做一些有意义的事情。这种持续的肯定感可能会让我对自己的评价变得更积极，也让我更愿意去尝试其他培养自信的行为！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得大概一到两周吧，只要每天坚持记录，慢慢积累起来，应该能让我开始意识到自己其实每天都在努力做一些有意义的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "我觉得这种肯定感能让我面对挑战时更有底气，不再总是怀疑自己是否足够好。比如在工作中，遇到困难时可以提醒自己“我之前也克服过类似的事情”，而不是马上陷入自责。在关系中，这种自信也能让我更坦然地表达自己的需求，不再害怕被评价或拒绝。这种积极的改变应该能让我在各种挑战中更稳定、更有力量！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这种肯定感能让我面对挑战时更有底气，不再总是怀疑自己是否足够好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "我觉得可以定期进行自我反思，比如每周抽一点时间回顾自己记录的积极点滴，看看有哪些改变或者成长。同时，可以给自己设一些小目标，比如“这周尝试主动表达一次自己的感受”，然后根据完成情况来调整策略。如果需要，还可以和信任的人交流，听听他们的反馈。这些方式应该能让我更清楚自己的进展，也帮助我及时调整方向，保持成长的动力！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以定期进行自我反思，比如每周抽一点时间回顾自己记录的积极点滴，看看有哪些改变或者成长",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "我觉得第一周可以设一个简单的小目标，比如在团队讨论中主动提出自己的一个想法，或者在关系里坦诚表达一次自己的感受。这种目标不太难，但能让我感受到迈出第一步的成就感，同时也能给自己一些积极的反馈，帮助我更快进入这种循环！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得第一周可以设一个简单的小目标，比如在团队讨论中主动提出自己的一个想法，或者在关系里坦诚表达一次自己的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "我觉得可以给自己一个小小的奖励，比如买一杯喜欢的咖啡，或者做一些放松的活动，比如看一部喜欢的电影。这样不仅能让自己更开心，还能强化这种积极行为，让动力更持久。另外，我也可以把完成目标的体验记录下来，作为一种自我鼓励，提醒自己这些努力都是值得的！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以给自己一个小小的奖励，比如买一杯喜欢的咖啡，或者做一些放松的活动，比如看一部喜欢的电影",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "我觉得就从明天开始吧！早点行动会让我更有动力，也能更快看到一些变化。比如明天团队例会的时候，我可以主动分享一个自己的想法，算是第一步的小目标。这样既能给自己一个积极的开端，也能为后续的计划奠定基础。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得就从明天开始吧！早点行动会让我更有动力，也能更快看到一些变化",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "谢谢你的鼓励！我会认真对待这个目标，也会记得完成后记录感受或奖励自己。希望能慢慢培养出更积极的状态，今天先聊到这里吧，感觉已经有了清晰的方向！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励！我会认真对待这个目标，也会记得完成后记录感受或奖励自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

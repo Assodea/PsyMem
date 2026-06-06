@@ -1,0 +1,612 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，我觉得上次说到情绪不稳定和与人难以相处，但没具体谈到工作上的问题。最近有同事因为我没按流程做事，和我争了几句…我确实觉得烦。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得上次说到情绪不稳定和与人难以相处，但没具体谈到工作上的问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，是我直接跳过了一个需要审批的步骤，觉得麻烦就自己处理了。结果同事批评我不尊重团队规则，我当时很不耐烦，也没解释什么。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，是我直接跳过了一个需要审批的步骤，觉得麻烦就自己处理了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "可能觉得解释也没用吧，反正他们一开始就不怎么喜欢我。我也不想浪费时间去争辩，心里想“随便吧”，但其实有点不爽。",
+    "has_specific_detail": true,
+    "specific_detail": "可能觉得解释也没用吧，反正他们一开始就不怎么喜欢我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "可能是我平时话不多，也不太主动和他们聊什么。他们可能觉得我冷漠吧，但我就是觉得没必要非得和人套近乎…其实也不知道该聊什么。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是我平时话不多，也不太主动和他们聊什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "可能从小时候开始吧。家里总是批评我不够好，所以我慢慢就不愿意和人多说什么了。后来长大了，感觉和人打交道挺麻烦，干脆就少说话。",
+    "has_specific_detail": true,
+    "specific_detail": "可能从小时候开始吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不愿意",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，比如有一次我把作业做错了，爸妈就直接骂我“怎么这么笨”，还罚我抄好多遍。我当时特别委屈，但也不敢说什么，只能忍着。后来就觉得和他们沟通没什么意思。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，比如有一次我把作业做错了，爸妈就直接骂我“怎么这么笨”，还罚我抄好多遍",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是啊，后来就觉得表达情绪没什么用，反而可能引来更多责备。所以我干脆不说了，省得麻烦。不过有时候忍着也挺憋屈的…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，后来就觉得表达情绪没什么用，反而可能引来更多责备",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，可能让我更抗拒和人沟通吧。工作上，我经常觉得同事批评我很烦，但又懒得解释，结果大家关系越来越僵…感觉挺无奈的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能让我更抗拒和人沟通吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "说实话，我不太确定…感觉表达了也未必有用，还可能被反驳或者忽视。不过要是对方真愿意听，也许可以试着说点什么吧。",
+    "has_specific_detail": true,
+    "specific_detail": "说实话，我不太确定…感觉表达了也未必有用，还可能被反驳或者忽视",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，其实有个同事平时还算客气，但我也不太主动找他聊。我总觉得会不会聊了之后也只是敷衍地应付我…所以还是挺犹豫的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，其实有个同事平时还算客气，但我也不太主动找他聊",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "可能会想说，我其实不是故意跳过流程，只是觉得这样处理更快一些。但说了之后，如果他还是不理解，可能我就更不想再解释了…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会想说，我其实不是故意跳过流程，只是觉得这样处理更快一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "估计还是会心里觉得烦吧，然后就尽量不去理他了，避免再多说什么。其实每次遇到这种事，我都挺想快点结束…不想纠缠太久。",
+    "has_specific_detail": true,
+    "specific_detail": "估计还是会心里觉得烦吧，然后就尽量不去理他了，避免再多说什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，确实有时候会觉得挺压抑的。尤其是当工作上的摩擦越来越多时，就觉得自己总是被针对…但又不想处理，最后只能忍着。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，确实有时候会觉得挺压抑的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "应该是怕麻烦吧。我总觉得处理这些问题需要耗费很多时间和精力，还可能适得其反。所以宁愿忍着，也不想去碰那些复杂的东西。",
+    "has_specific_detail": true,
+    "specific_detail": "应该是怕麻烦吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "也许试着少犯那些容易被批评的错误会有帮助吧，比如按流程做事。不过想到要改自己的习惯，就觉得挺麻烦的…没什么动力去试。",
+    "has_specific_detail": true,
+    "specific_detail": "也许试着少犯那些容易被批评的错误会有帮助吧，比如按流程做事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "可能会少一些吧，但我总觉得即使按流程做了，他们也会挑别的问题…好像怎么做都难以避免摩擦，所以有时候就觉得无所谓了。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会少一些吧，但我总觉得即使按流程做了，他们也会挑别的问题…好像怎么做都难以避免摩擦，所以有时候就觉得无所谓了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "老实说，也不知道能忍多久。现在工作还算稳定，但每次碰到这些事就觉得烦透了…可能就这么拖着吧，暂时没想过换个方式。",
+    "has_specific_detail": true,
+    "specific_detail": "老实说，也不知道能忍多久",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "可能会越来越不想搭理同事吧，干脆就彻底减少交流。虽然这样会让我觉得轻松一点，但也可能让工作变得更孤立…不知道会不会更糟糕。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会越来越不想搭理同事吧，干脆就彻底减少交流",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "也许可以试着在工作上更注意细节，减少被批评的机会。不过说实话，这种调整我还是觉得挺麻烦的，没什么动力去做…",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试着在工作上更注意细节，减少被批评的机会",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "可能从审批流程开始吧，这个虽然麻烦但也不算太复杂。要是能避免被批评，也许能让我少一点烦躁…不过改起来还是得提醒自己才行。",
+    "has_specific_detail": true,
+    "specific_detail": "可能从审批流程开始吧，这个虽然麻烦但也不算太复杂",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，可能在电脑上贴个便签提醒自己吧，这样每次处理事情时都能看到。不过想到要多一步操作，还是觉得有点懒得弄…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能在电脑上贴个便签提醒自己吧，这样每次处理事情时都能看到",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，在流程表里标注倒是个简单办法，不过我不太习惯用那种表…感觉对我来说，还是便签更直接吧，虽然还是需要多做一步。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，在流程表里标注倒是个简单办法，不过我不太习惯用那种表…感觉对我来说，还是便签更直接吧，虽然还是需要多做一步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "可能就在明天上班前贴吧，电脑开机的时候比较顺手。虽然还是觉得多做一步挺麻烦，但试试也无所谓吧，看看会不会有效果。",
+    "has_specific_detail": true,
+    "specific_detail": "可能就在明天上班前贴吧，电脑开机的时候比较顺手",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，如果能减少一点批评和摩擦，可能会让我觉得改习惯也没那么难吧。不过现在还不确定效果，先试试看再说吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果能减少一点批评和摩擦，可能会让我觉得改习惯也没那么难吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "可能会稍微觉得轻松一些吧，至少不用总被挑毛病了。不过改变习惯还是挺累的，估计不会一下子觉得多开心…可能需要慢慢适应。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会稍微觉得轻松一些吧，至少不用总被挑毛病了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "可能看到同事对我态度稍微好一点，会让我觉得这努力没白费吧。不过说实话，我对他们的反应还是挺怀疑的…所以动力可能还得靠自己硬撑着。",
+    "has_specific_detail": true,
+    "specific_detail": "可能看到同事对我态度稍微好一点，会让我觉得这努力没白费吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "也许可以给自己买点喜欢的零食吧，算是小奖励。虽然感觉这种方式有点随便，但应该能让我觉得稍微开心一点吧…不会那么抗拒坚持。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以给自己买点喜欢的零食吧，算是小奖励",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "可能每次按流程完成审批，就奖励自己买点零食吧。这样一来，至少能让我觉得有点动力去做事…不过不知道能坚持多久，试试再说吧。",
+    "has_specific_detail": true,
+    "specific_detail": "可能每次按流程完成审批，就奖励自己买点零食吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "可能会觉得工作上的摩擦少了，心情没那么烦躁吧。要是真能让团队关系稍微好一点，也许我会觉得没那么孤立…不过现在还不好说，得等试过才知道。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会觉得工作上的摩擦少了，心情没那么烦躁吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "可能会学到怎么处理一些细节问题吧，也许还能发现和同事相处没我想的那么糟。不过要是真能感觉轻松一点，那就挺意外的了…先看看结果吧。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会学到怎么处理一些细节问题吧，也许还能发现和同事相处没我想的那么糟",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "暂时没有特别的担心吧，先试试看流程改进的效果再说。不过如果失败了，可能还是会觉得自己白费劲了…希望不会那么糟。",
+    "has_specific_detail": true,
+    "specific_detail": "暂时没有特别的担心吧，先试试看流程改进的效果再说",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "可能告诉自己至少尝试过了吧，总比什么都不做强。虽然失望肯定还是会有，但至少不会觉得完全没努力过…这样可能会好受点。",
+    "has_specific_detail": true,
+    "specific_detail": "可能告诉自己至少尝试过了吧，总比什么都不做强",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "可能去打打游戏吧，这对我来说是最快的解压方式。虽然不一定能完全忘掉失望，但至少能让我暂时分散注意力，感觉轻松一些。",
+    "has_specific_detail": true,
+    "specific_detail": "可能去打打游戏吧，这对我来说是最快的解压方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "可能每天下班后听点喜欢的音乐吧，这也挺放松的。而且不像游戏那么耗时间，能让我稍微调整心情，保持一点积极的感觉。",
+    "has_specific_detail": true,
+    "specific_detail": "可能每天下班后听点喜欢的音乐吧，这也挺放松的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "可能是《See You Again》吧，听起来既有点怀旧，又让人觉得温暖。每次听这首歌都能稍微平静下来，感觉挺适合调整心态的时候听。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是《See You Again》吧，听起来既有点怀旧，又让人觉得温暖",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "可能是下班回家的路上吧，尤其是一天工作完觉得烦躁的时候。听着这首歌能让我稍微放松下来，不至于把工作的情绪带回家…挺适合这个时候听的。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是下班回家的路上吧，尤其是一天工作完觉得烦躁的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "可能会让我在工作和个人生活之间更好地分开吧，不至于把工作上的烦躁带到其他时间。这样应该能让整体情绪稍微稳定一些，也不会总觉得压抑。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会让我在工作和个人生活之间更好地分开吧，不至于把工作上的烦躁带到其他时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "可能尝试每天花几分钟写点东西吧，比如记下自己觉得烦的事或者偶尔的好事。虽然不确定能不能坚持，但应该能让我稍微梳理一下情绪，感觉清晰一点。",
+    "has_specific_detail": true,
+    "specific_detail": "可能尝试每天花几分钟写点东西吧，比如记下自己觉得烦的事或者偶尔的好事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "可能用手机记比较方便吧，随时都能打开记录，没那么麻烦。写在纸上虽然感觉更真实，但我估计懒得找笔和纸…还是手机适合我一点。",
+    "has_specific_detail": true,
+    "specific_detail": "可能用手机记比较方便吧，随时都能打开记录，没那么麻烦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "嗯，睡前应该是个好时间吧，那时候比较安静，也能趁着临睡前稍微整理一下心情。这样应该会更容易坚持下来，不会觉得太麻烦。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，睡前应该是个好时间吧，那时候比较安静，也能趁着临睡前稍微整理一下心情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "可能会想写烦恼多一点吧，毕竟那些事更让我心里堵得慌。不过要是有开心的小事，也可以顺便记一下，感觉能让整体情绪稍微平衡一点。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会想写烦恼多一点吧，毕竟那些事更让我心里堵得慌",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "可能五分钟左右吧，这样时间不长不会觉得累，但也够用来写清楚自己的感受。感觉这个时长应该比较适合我坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "可能五分钟左右吧，这样时间不长不会觉得累，但也够用来写清楚自己的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "可能会写今天的工作上的烦躁吧，比如同事批评我没按流程做事，还有我的不耐烦。然后如果有小的好事，比如下班听音乐感觉轻松了，也可以顺便写下来。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会写今天的工作上的烦躁吧，比如同事批评我没按流程做事，还有我的不耐烦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "嗯，今天晚上可以试试看吧，就趁睡前花几分钟写一下。希望这个习惯能让我感觉稍微好一点，也许还能帮我理清一些烦躁的情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，今天晚上可以试试看吧，就趁睡前花几分钟写一下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "好的，今晚试试记录的效果吧。如果明天有新的感受或者发现，我再过来聊聊看。谢谢你，感觉今天的对话还挺有意义的！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，今晚试试记录的效果吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "好的，那今天就先聊到这里吧。谢谢你的耐心，我会试着记录一下，看能不能找到点感觉。明天再见！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，那今天就先聊到这里吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

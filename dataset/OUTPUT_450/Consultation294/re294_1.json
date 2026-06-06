@@ -1,0 +1,392 @@
+[
+  {
+    "turn": 1,
+    "content": "最近我总觉得特别孤独，尤其是晚上工作结束后。前几天写完一篇稿子，明明完成了任务，但关掉电脑时却突然觉得空落落的，像有什么东西缺失了一样。",
+    "has_specific_detail": true,
+    "specific_detail": "最近我总觉得特别孤独，尤其是晚上工作结束后",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "对，晚上会更明显，尤其是安静的时候。可能是因为一直一个人生活吧，写作时专注工作还好，但一停下来就会觉得缺少陪伴，有点难熬…",
+    "has_specific_detail": true,
+    "specific_detail": "对，晚上会更明显，尤其是安静的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "这种感觉好像一直都有，只是最近变得更强烈。以前我会看书或者刷视频转移注意力，但这些方法现在好像没那么有效了，心里还是空空的…",
+    "has_specific_detail": true,
+    "specific_detail": "这种感觉好像一直都有，只是最近变得更强烈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "可能两者都有吧…有时候会想如果有个人能聊聊就好了，但更多时候是觉得自己的生活好像少了点什么，虽然写作是我喜欢的，但好像还不够完整。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧…有时候会想如果有个人能聊聊就好了，但更多时候是觉得自己的生活好像少了点什么，虽然写作是我喜欢的，但好像还不够完整",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我想应该是有更多的情感联结吧，比如能和朋友或者亲密的人分享一些内心的感受，哪怕是简单的日常聊聊。这种互动似乎能让我感觉自己被看见、被理解。",
+    "has_specific_detail": true,
+    "specific_detail": "我想应该是有更多的情感联结吧，比如能和朋友或者亲密的人分享一些内心的感受，哪怕是简单的日常聊聊",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "家里人关系比较疏远，平时只是聊些表面的事情，朋友也不多，偶尔会联系，但很少深入谈内心感受。所以这种支持一直比较缺乏，让我感觉有点孤立…",
+    "has_specific_detail": true,
+    "specific_detail": "家里人关系比较疏远，平时只是聊些表面的事情，朋友也不多，偶尔会联系，但很少深入谈内心感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "可能是相处方式吧，从小家里就很少谈感受，更多是关注成绩和表现。朋友方面也差不多，我平时比较内向，可能没主动去建立更深的关系，所以关系一直浅浅的…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是相处方式吧，从小家里就很少谈感受，更多是关注成绩和表现",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 8,
+    "content": "对，会觉得表达感受有点难，特别是担心说了别人不理解或者觉得我在矫情。所以很多时候我选择自己消化，但这样反而让孤独感更重…",
+    "has_specific_detail": true,
+    "specific_detail": "对，会觉得表达感受有点难，特别是担心说了别人不理解或者觉得我在矫情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "尝试过，但不多。有一次和大学的一个朋友聊起过一些内心的困扰，他听了之后虽然安慰了我，但感觉话题很快就转到别的地方了，让我有点失落…",
+    "has_specific_detail": true,
+    "specific_detail": "尝试过，但不多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能都有吧，他平时性格很外向，习惯聊轻松的话题，可能不太擅长处理这种比较沉重的内容。我也没再多说，怕他觉得尴尬或者负担。",
+    "has_specific_detail": true,
+    "specific_detail": "可能都有吧，他平时性格很外向，习惯聊轻松的话题，可能不太擅长处理这种比较沉重的内容",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "目前好像没有特别适合的人选，可能是因为我圈子本来就比较小吧。而且每次想到要主动找人聊这些，总会犹豫，怕被拒绝或者被误解…",
+    "has_specific_detail": true,
+    "specific_detail": "目前好像没有特别适合的人选，可能是因为我圈子本来就比较小吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "小时候有过吧，比如想和父母说一些自己的想法，他们总是觉得没必要，说我“别想太多”。这让我习惯了把自己的感受藏起来，觉得说了也不会被重视。",
+    "has_specific_detail": true,
+    "specific_detail": "小时候有过吧，比如想和父母说一些自己的想法，他们总是觉得没必要，说我“别想太多”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我希望他们能稍微停下来听听我在说什么，哪怕只是简单地表示理解或者安慰，也会让我觉得自己是被关注、被在乎的吧。但这种回应好像一直很少…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望他们能稍微停下来听听我在说什么，哪怕只是简单地表示理解或者安慰，也会让我觉得自己是被关注、被在乎的吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我觉得最大的影响可能是让我不太敢主动表达需求，总觉得别人不会重视或者理解我。所以在人际关系中，我更多是倾听别人，而不是说自己的感受，这也加深了孤独感。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最大的影响可能是让我不太敢主动表达需求，总觉得别人不会重视或者理解我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "可能会有帮助吧，但还是需要很大的勇气。之前试过一次，虽然有点紧张，但说出来后感觉心里轻松了一些。只是要找到合适的人和时机，还是挺难的…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会有帮助吧，但还是需要很大的勇气",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "可能是那些性格温和、比较会倾听的人吧，还有如果对方也愿意分享自己的感受，那我会觉得更安全。至于时机，可能是在闲聊时自然地带入会比较容易，不那么紧张。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是那些性格温和、比较会倾听的人吧，还有如果对方也愿意分享自己的感受，那我会觉得更安全",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "有一个大学的朋友可能符合这些标准吧，她性格比较平和，平时也喜欢聊一些生活琐事。不过我们联系不算多，我还在犹豫要不要主动找她试试聊点深入的话题…",
+    "has_specific_detail": true,
+    "specific_detail": "有一个大学的朋友可能符合这些标准吧，她性格比较平和，平时也喜欢聊一些生活琐事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，这样可能会更容易一些。如果先聊些最近的事情，比如工作或者兴趣，再慢慢提到一些自己的想法，感觉压力没那么大。我可以试着尝试看看…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样可能会更容易一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得需要提前想好怎么自然地转到自己感受的话题，避免太突然让对方不适应。另外担心的可能是她不太感兴趣或者没回应我，这会让我有点尴尬吧，但好像只能试试才知道。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要提前想好怎么自然地转到自己感受的话题，避免太突然让对方不适应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "可能可以迅速转回轻松的话题，比如聊她的兴趣或者最近的事。这样既避免了冷场，也不会让自己陷入太多负面情绪，感觉会更自然一些。",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以迅速转回轻松的话题，比如聊她的兴趣或者最近的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我可能会先发消息，感觉这样比较轻松，也给她一些回应的空间。如果聊得顺利，再看有没有机会约个见面聊聊，这样互动可能会更自然些。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先发消息，感觉这样比较轻松，也给她一些回应的空间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我可能会问她最近怎么样，或者提起某个共同话题，比如之前一起聊过的书或者电影。这样比较自然，也不会让她觉得压力大，就像普通的朋友聊天一样。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会问她最近怎么样，或者提起某个共同话题，比如之前一起聊过的书或者电影",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "如果她回应得比较积极，我可能会顺着话题分享自己的最近状况，比如工作上的心情或者对某件事的想法，再观察她的反应。如果感觉她愿意听，我会尝试说得更深一点。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她回应得比较积极，我可能会顺着话题分享自己的最近状况，比如工作上的心情或者对某件事的想法，再观察她的反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我可能会从一些工作上的感受开始，比如最近写作时有点疲惫或者遇到瓶颈。这是个比较中性的话题，既能表达自己，也不会让对方觉得太沉重，聊起来会更容易些。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会从一些工作上的感受开始，比如最近写作时有点疲惫或者遇到瓶颈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "如果她表现出理解，我可能会顺着她的回应聊自己的心情，比如提到工作后偶尔感到孤独或空虚的感觉。如果她也分享自己的经历，我会尝试回应和共鸣，让互动更自然。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她表现出理解，我可能会顺着她的回应聊自己的心情，比如提到工作后偶尔感到孤独或空虚的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我想表达的是，有时候虽然忙着写作，但一停下来就觉得缺少一种陪伴和交流，感觉生活有点单薄。希望她能理解这种内心的空虚吧，或者也许她有过类似的感受？",
+    "has_specific_detail": true,
+    "specific_detail": "我想表达的是，有时候虽然忙着写作，但一停下来就觉得缺少一种陪伴和交流，感觉生活有点单薄",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "如果她能理解或者回应，我想我会感觉心里变得更轻松，甚至有种被接纳的温暖吧。可能也会让我更有勇气去分享更多内心的东西，慢慢建立更深的联结。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她能理解或者回应，我想我会感觉心里变得更轻松，甚至有种被接纳的温暖吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "如果成功了，我想我会更愿意主动表达自己，可能也会慢慢建立更多这样的深度互动关系。感觉这会让我变得更自信，也更不害怕分享内心的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "如果成功了，我想我会更愿意主动表达自己，可能也会慢慢建立更多这样的深度互动关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得可以先写下自己想说的几个点，理清思路避免聊着聊着卡住。另外提醒自己就算她反应一般也没关系，这只是一次尝试，重要的是迈出了第一步。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先写下自己想说的几个点，理清思路避免聊着聊着卡住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "是的，我想这周末会是个不错的时机，大家都比较放松。我可以先发消息试探一下她的状态，如果她愿意聊，再慢慢展开。这样感觉会更顺畅一些。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我想这周末会是个不错的时机，大家都比较放松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

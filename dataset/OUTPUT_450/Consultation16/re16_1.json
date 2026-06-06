@@ -1,0 +1,484 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近主要是工作和家庭的事情让我有些压力。比如，工作上有个项目进度紧张，我一方面想尽力完成，另一方面又担心孩子的学习和生活。两边都让我觉得有点力不从心…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近主要是工作和家庭的事情让我有些压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "这个项目对公司很重要，领导也很关注，我怕自己做不好。孩子这边，他最近上学有点小情绪，我想多陪陪他，但总觉得时间不够用…",
+    "has_specific_detail": true,
+    "specific_detail": "这个项目对公司很重要，领导也很关注，我怕自己做不好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "最近他总说不想去学校，好像跟班上同学有点小矛盾。昨天还闹着让我陪他做作业，说这样感觉安心些，我怕他是缺乏安全感…",
+    "has_specific_detail": true,
+    "specific_detail": "最近他总说不想去学校，好像跟班上同学有点小矛盾",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "我们会聊一些，但他有时候不太愿意多说。只提过有同学开玩笑说他笨，他很不高兴。我试着安慰他，但感觉他还是有点在意…",
+    "has_specific_detail": true,
+    "specific_detail": "我们会聊一些，但他有时候不太愿意多说",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "他提到时有点低着头，情绪看着不高，我安慰他说“你很棒，不用在意别人”，但他只是点点头，没怎么说话，感觉还是有点闷闷的…",
+    "has_specific_detail": true,
+    "specific_detail": "他提到时有点低着头，情绪看着不高，我安慰他说“你很棒，不用在意别人”，但他只是点点头，没怎么说话，感觉还是有点闷闷的…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我试着问过他“你觉得他们为什么这样说？”但他只是摇摇头，没多回答。我感觉他可能不太知道怎么讲出来，也怕问多了让他更烦恼…",
+    "has_specific_detail": true,
+    "specific_detail": "我试着问过他“你觉得他们为什么这样说？”但他只是摇摇头，没多回答",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，我试过陪他玩拼图或者画画，他会比较开心，但不太主动提学校的事。我怕太刻意去问他会让他更抗拒，所以就尽量陪着他，让他感觉轻松些…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我试过陪他玩拼图或者画画，他会比较开心，但不太主动提学校的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "有时候拼图时，他会突然提到学校谁谁谁又开玩笑了，语气有点不开心，但说完就转话题了。我感觉他可能还是有点介意，但又不想多谈…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候拼图时，他会突然提到学校谁谁谁又开玩笑了，语气有点不开心，但说完就转话题了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我当时说了句“他们这样说确实不太好，你会觉得不舒服吧”，他点了点头，但没继续说下去。我想多问点又怕他不想聊，就没接着问了…",
+    "has_specific_detail": true,
+    "specific_detail": "我当时说了句“他们这样说确实不太好，你会觉得不舒服吧”，他点了点头，但没继续说下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，我想过，可能晚饭后或者睡前聊会比较自然些。说到这个，前几天晚上他主动问我小时候有没有被同学说过，我当时感觉他可能想听点类似的经历…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我想过，可能晚饭后或者睡前聊会比较自然些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我跟他说小时候也有人笑我写字慢，我觉得挺难过，但后来就慢慢不在意了。他听了好像有点惊讶，然后问“那你后来怎么办的”，感觉他挺想知道…",
+    "has_specific_detail": true,
+    "specific_detail": "我跟他说小时候也有人笑我写字慢，我觉得挺难过，但后来就慢慢不在意了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我说“后来我跟自己说做好自己的事最重要，慢慢就不管别人说什么了”。他听了点点头，感觉有点若有所思，但没有多说话…",
+    "has_specific_detail": true,
+    "specific_detail": "我说“后来我跟自己说做好自己的事最重要，慢慢就不管别人说什么了”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，我觉得他可能需要更多具体的方法，比如怎么回应同学的玩笑，或者让我多肯定他，让他觉得自己很棒。说到这个，我还想试着教他一些应对的方式…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得他可能需要更多具体的方法，比如怎么回应同学的玩笑，或者让我多肯定他，让他觉得自己很棒",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我觉得他可能更适合幽默回应，因为他平时比较害羞，直接表达可能不太敢。我可以试着和他演练一些有趣的回应，比如怎么轻松地转移话题…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得他可能更适合幽默回应，因为他平时比较害羞，直接表达可能不太敢",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，我觉得他可能会觉得有趣，我可以用他说过的“笨”的情境，比如假装同学说他笨，然后教他回一句“笨人才知道这么多有趣的事”。这样轻松点，他可能更愿意尝试…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得他可能会觉得有趣，我可以用他说过的“笨”的情境，比如假装同学说他笨，然后教他回一句“笨人才知道这么多有趣的事”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得如果他用得好，肯定会更自信。我还想多鼓励他，比如每天问问学校有没有开心的事，帮他关注好的方面，让他慢慢更积极些…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果他用得好，肯定会更自信",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "他通常不会主动说，我得先问他，比如“今天有没有发生什么有趣的事？”这样他才会慢慢聊起来。我觉得他需要点引导才能打开话匣子…",
+    "has_specific_detail": true,
+    "specific_detail": "他通常不会主动说，我得先问他，比如“今天有没有发生什么有趣的事？”这样他才会慢慢聊起来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "他很喜欢画画，有时候会主动跟我说今天画了什么。我可以从这个入手，比如问他“今天画了什么特别的东西吗？”让他觉得轻松又有兴趣聊下去…",
+    "has_specific_detail": true,
+    "specific_detail": "他很喜欢画画，有时候会主动跟我说今天画了什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我可以多夸他的想法，比如说“这个点子好有创意”或者“你怎么想到这么画的？”这样他会觉得我真的在听，很认可他，也许就更愿意聊了…",
+    "has_specific_detail": true,
+    "specific_detail": "我可以多夸他的想法，比如说“这个点子好有创意”或者“你怎么想到这么画的？”这样他会觉得我真的在听，很认可他，也许就更愿意聊了…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我可以和他一起画画，或者帮他找一些有趣的画画教程和工具。这样他不仅能感到支持，也会觉得和我一起做这些事很有趣…",
+    "has_specific_detail": true,
+    "specific_detail": "我可以和他一起画画，或者帮他找一些有趣的画画教程和工具",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "这是个好主意！我可以每周找一天固定时间，和他一起画画。比如周末下午，我们可以在阳台上铺开画纸，边聊边画，感觉会很放松…",
+    "has_specific_detail": true,
+    "specific_detail": "这是个好主意！我可以每周找一天固定时间，和他一起画画",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得他会更放松，可能会主动提到一些学校的事。我可以在画画时轻轻问他，比如“今天有没有想画点特别的？”从他的选择里引导他聊聊感受…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得他会更放松，可能会主动提到一些学校的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "如果他画出情绪化的内容，比如颜色很暗，我会问“你是不是有点不开心？要不要和妈妈说说？”让他觉得我关心他的感受，而不是强迫他开口…",
+    "has_specific_detail": true,
+    "specific_detail": "如果他画出情绪化的内容，比如颜色很暗，我会问“你是不是有点不开心？要不要和妈妈说说？”让他觉得我关心他的感受，而不是强迫他开口…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "如果他说了，我会多倾听，给他一些积极的建议；如果不说，我就继续陪他画画，或者讲些自己的小故事，让他觉得我是一直在的，慢慢建立信任…",
+    "has_specific_detail": true,
+    "specific_detail": "如果他说了，我会多倾听，给他一些积极的建议；如果不说，我就继续陪他画画，或者讲些自己的小故事，让他觉得我是一直在的，慢慢建立信任…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得他可能会变得更愿意表达，也更开朗自信。我会观察他是否更主动分享学校的事，或者在面对同学时是否能更自然应对。希望慢慢能看到他更开心一些…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得他可能会变得更愿意表达，也更开朗自信",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得自己需要学会更好地分配时间，减少对自己的高要求。比如工作上尝试放慢节奏，不再事事追求完美，同时多留些时间给自己放松…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得自己需要学会更好地分配时间，减少对自己的高要求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我可以试着把每天的任务分成轻重缓急，比如工作上先完成最重要的事，家庭上安排固定时间陪孩子，然后留点时间给自己，这样或许能更从容些…",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着把每天的任务分成轻重缓急，比如工作上先完成最重要的事，家庭上安排固定时间陪孩子，然后留点时间给自己，这样或许能更从容些…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 28,
+    "content": "可能会因为突发的事情打乱计划，比如工作加急或孩子临时需要我。我觉得可以尝试每天留出一些灵活的时间，这样能更好应对变化，同时提醒自己不必追求完美…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会因为突发的事情打乱计划，比如工作加急或孩子临时需要我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我可以在完成一项任务后，给自己几分钟深呼吸，或者喝杯热茶放松一下。同时提醒自己“已经尽力了”，这会让我感觉轻松些…",
+    "has_specific_detail": true,
+    "specific_detail": "我可以在完成一项任务后，给自己几分钟深呼吸，或者喝杯热茶放松一下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得会让我更有节奏感，减少焦虑感，同时能更专注当下的事。这样不仅心情会更轻松，也能更好地应对工作和家庭的需求…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会让我更有节奏感，减少焦虑感，同时能更专注当下的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我想先从和孩子的相处开始，尝试固定每周的“画画时间”，同时也给自己每天留一点放松的时间。这两个目标应该能让我和孩子都感觉好一些…",
+    "has_specific_detail": true,
+    "specific_detail": "我想先从和孩子的相处开始，尝试固定每周的“画画时间”，同时也给自己每天留一点放松的时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "可能会有突发事情，比如工作加班或孩子突然有别的安排。我觉得需要保持灵活性，比如可以调整时间，或者即使只有短暂的互动，也尽量专注于陪伴…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会有突发事情，比如工作加班或孩子突然有别的安排",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我可以每天写个简单的日记，记录和孩子的互动或者自己的放松时刻。这样既能反思调整，也能看到自己在慢慢进步，给自己更多信心…",
+    "has_specific_detail": true,
+    "specific_detail": "我可以每天写个简单的日记，记录和孩子的互动或者自己的放松时刻",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 34,
+    "content": "我可以用简单的三部分：今天做了什么、让我开心的事、想改进的地方。这样既轻松又能总结，还能每天找到一点积极的东西，感觉会有动力坚持下去！",
+    "has_specific_detail": true,
+    "specific_detail": "我可以用简单的三部分：今天做了什么、让我开心的事、想改进的地方",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我觉得会让我更容易发现生活中的小确幸，减少对压力的关注。长期下来，可能会让我更乐观、更有耐心，也更能接纳自己和生活中的不完美…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会让我更容易发现生活中的小确幸，减少对压力的关注",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我觉得从明天就可以开始，先试着和孩子安排一次画画时间，晚上再写第一篇日记。慢慢建立这些习惯，让它们成为我日常的一部分…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得从明天就可以开始，先试着和孩子安排一次画画时间，晚上再写第一篇日记",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "谢谢你！我感觉今天聊了很多，理清了不少想法。我会从这些小目标开始尝试，等有新的进展再和你分享！今天先聊到这里吧，真的很感谢你的倾听和建议！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你！我感觉今天聊了很多，理清了不少想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

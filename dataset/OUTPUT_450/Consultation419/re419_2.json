@@ -1,0 +1,680 @@
+[
+  {
+    "turn": 1,
+    "content": "最近我和网恋对象聊了一次关于未来的规划，发现他对具体的计划很模糊，这让我有点不安。我总觉得，虽然我们聊得还算愉快，但缺乏一些实质性的东西，比如面对面的沟通或者更明确的承诺…",
+    "has_specific_detail": true,
+    "specific_detail": "最近我和网恋对象聊了一次关于未来的规划，发现他对具体的计划很模糊，这让我有点不安",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "我想两者都有吧。对未来的不确定让我担心，我是不是在投入一段可能没有结果的关系；同时，他不明确的态度让我怀疑，我们之间的情感到底有多真实…这种感觉让我有点焦虑，总忍不住去猜测他心里在想什么。",
+    "has_specific_detail": true,
+    "specific_detail": "我想两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我其实更倾向于观察他的行为，可能是因为我害怕直接表达会让他觉得我太敏感或控制欲太强…不过，有时候他的言语和行动不太一致，比如他答应过周末打电话，但有一次却临时说忙而取消了，这让我更加不确定。",
+    "has_specific_detail": true,
+    "specific_detail": "我其实更倾向于观察他的行为，可能是因为我害怕直接表达会让他觉得我太敏感或控制欲太强…不过，有时候他的言语和行动不太一致，比如他答应过周末打电话，但有一次却临时说忙而取消了，这让我更加不确定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "我一开始会告诉自己他可能真的忙，但后来又忍不住想，他是不是没那么重视我或者这段关系…这种反复的猜测让我很累，感觉自己陷入了一个没有答案的循环。",
+    "has_specific_detail": true,
+    "specific_detail": "我一开始会告诉自己他可能真的忙，但后来又忍不住想，他是不是没那么重视我或者这段关系…这种反复的猜测让我很累，感觉自己陷入了一个没有答案的循环",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我觉得清晰的态度表达更重要吧，至少让我知道他的真实想法是什么…但又怕主动问会显得我太着急或者不够自信，所以一直在犹豫要不要开口。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得清晰的态度表达更重要吧，至少让我知道他的真实想法是什么…但又怕主动问会显得我太着急或者不够自信，所以一直在犹豫要不要开口",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "如果开口的话，我可能会试着用比较轻松的方式，比如问他对我们未来的看法，而不是直接表达我的焦虑…这样可能会让我觉得没那么直接，也不容易让他觉得有压力。",
+    "has_specific_detail": true,
+    "specific_detail": "如果开口的话，我可能会试着用比较轻松的方式，比如问他对我们未来的看法，而不是直接表达我的焦虑…这样可能会让我觉得没那么直接，也不容易让他觉得有压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "如果他的回答还是模糊，我可能会选择暂时退一步观察吧，毕竟我不太想把他逼得太紧…但内心又会有点失望，觉得自己是不是该再多做点什么来确认他的态度。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他的回答还是模糊，我可能会选择暂时退一步观察吧，毕竟我不太想把他逼得太紧…但内心又会有点失望，觉得自己是不是该再多做点什么来确认他的态度",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "我一般会自己慢慢消化，可能会找些事情转移注意力，比如工作或者看电影…不过有时候失望感还是会在心里反复出现，让我觉得自己好像没真正解决问题。",
+    "has_specific_detail": true,
+    "specific_detail": "我一般会自己慢慢消化，可能会找些事情转移注意力，比如工作或者看电影…不过有时候失望感还是会在心里反复出现，让我觉得自己好像没真正解决问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我觉得两者都有吧，既希望他能给我明确回应，也希望通过他的态度确认自己在这段关系中是不是被重视…这种双重期待让我总是在意他的每一个细节，但也容易陷入胡思乱想。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两者都有吧，既希望他能给我明确回应，也希望通过他的态度确认自己在这段关系中是不是被重视…这种双重期待让我总是在意他的每一个细节，但也容易陷入胡思乱想",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能是更多主动的行动吧，比如他愿意安排时间和我聊聊或者分享他的生活细节…这些会让我觉得他是真的在乎我，而不是敷衍或者应付。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是更多主动的行动吧，比如他愿意安排时间和我聊聊或者分享他的生活细节…这些会让我觉得他是真的在乎我，而不是敷衍或者应付",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "他有时会主动发消息或者分享一些日常，像是他工作上的事情，这让我觉得还不错。但不足的是，他很少提到我们关系的未来，或者主动安排一些可以更深入了解对方的方式，比如视频聊天之类的。",
+    "has_specific_detail": true,
+    "specific_detail": "他有时会主动发消息或者分享一些日常，像是他工作上的事情，这让我觉得还不错",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我倾向于觉得他可能没意识到重要性吧，毕竟我们还没见过面，可能他对这段关系的投入度和我的期待不完全一致…但这种不一致让我有些担心，我们会不会在关键问题上难以达成共识。",
+    "has_specific_detail": true,
+    "specific_detail": "我倾向于觉得他可能没意识到重要性吧，毕竟我们还没见过面，可能他对这段关系的投入度和我的期待不完全一致…但这种不一致让我有些担心，我们会不会在关键问题上难以达成共识",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "如果他的态度一直模糊，我可能会试着降低对这段关系的期待，慢慢把重心转移到自己身上，比如专注于工作和兴趣爱好…但内心又会觉得这样是不是意味着我要放弃这段关系？这让我有点矛盾。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他的态度一直模糊，我可能会试着降低对这段关系的期待，慢慢把重心转移到自己身上，比如专注于工作和兴趣爱好…但内心又会觉得这样是不是意味着我要放弃这段关系？这让我有点矛盾",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我觉得可能两者都有吧，一方面是想保护自己，避免陷得太深；另一方面还是有点希望他能意识到我的期待，然后主动做出一些改变…但这种希望让我害怕失望，也让我更加焦虑。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能两者都有吧，一方面是想保护自己，避免陷得太深；另一方面还是有点希望他能意识到我的期待，然后主动做出一些改变…但这种希望让我害怕失望，也让我更加焦虑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我可能会先选择继续等待吧，觉得给他多一点时间可能会好些…但如果一直没有变化，我可能会尝试主动引导，比如提出一些具体建议，看他是否愿意配合。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先选择继续等待吧，觉得给他多一点时间可能会好些…但如果一直没有变化，我可能会尝试主动引导，比如提出一些具体建议，看他是否愿意配合",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "比如我可能会建议我们固定一个时间每周视频聊天，这样既能更了解彼此，又不会让他觉得太有压力…我希望通过这种方式，慢慢拉近我们的距离，同时观察他的反应。",
+    "has_specific_detail": true,
+    "specific_detail": "比如我可能会建议我们固定一个时间每周视频聊天，这样既能更了解彼此，又不会让他觉得太有压力…我希望通过这种方式，慢慢拉近我们的距离，同时观察他的反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "如果他愿意配合，我会觉得有一些进步，但可能还需要观察他是否持续主动关心我，或者愿意分享更多关于他的真实想法…这些才会让我真正觉得这段关系有希望。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他愿意配合，我会觉得有一些进步，但可能还需要观察他是否持续主动关心我，或者愿意分享更多关于他的真实想法…这些才会让我真正觉得这段关系有希望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "如果他表现得慢热，我可能会选择给他更多时间，同时调整自己的期待，比如不急着要明确承诺，而是专注于享受当下的互动…但内心还是会时不时感到不安，怕自己是不是在自欺欺人。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他表现得慢热，我可能会选择给他更多时间，同时调整自己的期待，比如不急着要明确承诺，而是专注于享受当下的互动…但内心还是会时不时感到不安，怕自己是不是在自欺欺人",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 19,
+    "content": "我觉得需要他主动表达对我们关系的重视，比如提到未来见面的具体计划，或者分享一些对我们的长期期望…这种实质性的行动和态度能让我觉得我们是有目标的，而不是停留在模糊阶段。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要他主动表达对我们关系的重视，比如提到未来见面的具体计划，或者分享一些对我们的长期期望…这种实质性的行动和态度能让我觉得我们是有目标的，而不是停留在模糊阶段",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "如果他迟迟没有提到，我可能会试着在聊天中自然地提起，比如问他对见面的想法…这样既能表达我的期待，也不会让他觉得压力太大。但如果他还是回避，我可能就会开始重新思考这段关系的可能性了。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他迟迟没有提到，我可能会试着在聊天中自然地提起，比如问他对见面的想法…这样既能表达我的期待，也不会让他觉得压力太大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "如果他回避，我可能会觉得他还没准备好，但同时也会怀疑他是不是对这段关系的投入有限…这种矛盾的想法会让我更加不安，甚至开始重新审视自己的期待是否太高了。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他回避，我可能会觉得他还没准备好，但同时也会怀疑他是不是对这段关系的投入有限…这种矛盾的想法会让我更加不安，甚至开始重新审视自己的期待是否太高了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "更多是因为期待得不到回应而感到失落吧…害怕自己投入了情感，却没有得到相应的回报，这让我觉得自己的价值好像被忽视了，内心会有一种被动的无力感。",
+    "has_specific_detail": true,
+    "specific_detail": "更多是因为期待得不到回应而感到失落吧…害怕自己投入了情感，却没有得到相应的回报，这让我觉得自己的价值好像被忽视了，内心会有一种被动的无力感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "可能两者都有吧。他目前的态度让我觉得不够确定，但这也让我想起之前那段失败的恋爱关系，对方也是缺乏真诚和投入…感觉自己好像总是害怕重蹈覆辙，所以对亲密关系特别敏感。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "更多是对亲密关系的不安全感吧，觉得自己好像很难真正被看重或者信任…这种感觉一直让我对关系中的细节特别敏感，总是担心自己是不是又陷入了一段缺乏真诚的关系。",
+    "has_specific_detail": true,
+    "specific_detail": "更多是对亲密关系的不安全感吧，觉得自己好像很难真正被看重或者信任…这种感觉一直让我对关系中的细节特别敏感，总是担心自己是不是又陷入了一段缺乏真诚的关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "是的，这种敏感确实让我觉得自己在掌控一些东西，好像能更早察觉潜在的问题…但同时也让我很累，因为总是在关注细节，忽略了享受关系中的轻松和自然。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种敏感确实让我觉得自己在掌控一些东西，好像能更早察觉潜在的问题…但同时也让我很累，因为总是在关注细节，忽略了享受关系中的轻松和自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得这可能是个不错的方向，比如我可以把重点放在他的行动是否一致上，而不是纠结每一次的聊天内容…这样既能关注关系的实质发展，又能减少自己的情绪消耗。不过，要做到这一点好像需要一些练习吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这可能是个不错的方向，比如我可以把重点放在他的行动是否一致上，而不是纠结每一次的聊天内容…这样既能关注关系的实质发展，又能减少自己的情绪消耗",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "或许可以在每次感觉情绪被细节牵动时，先停下来问自己：这件事对我们关系的整体意义是什么？如果只是小事，就试着不去放大它…这种方式或许能帮助我更理性地看待问题。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以在每次感觉情绪被细节牵动时，先停下来问自己：这件事对我们关系的整体意义是什么？如果只是小事，就试着不去放大它…这种方式或许能帮助我更理性地看待问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我觉得记录感受可能是个不错的方式，可以帮助我理清思路，避免陷入反复的情绪循环…如果还是觉得不够，我可能会尝试和弟弟聊聊，他总是比较懂得安慰我，也能让我感觉轻松些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得记录感受可能是个不错的方式，可以帮助我理清思路，避免陷入反复的情绪循环…如果还是觉得不够，我可能会尝试和弟弟聊聊，他总是比较懂得安慰我，也能让我感觉轻松些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "他通常会用比较轻松的方式，比如开玩笑或者分享一些有趣的事情，让我分散注意力…这种互动让我感觉自己被关心，也能暂时从情绪中跳脱出来，重新看问题时会更冷静些。",
+    "has_specific_detail": true,
+    "specific_detail": "他通常会用比较轻松的方式，比如开玩笑或者分享一些有趣的事情，让我分散注意力…这种互动让我感觉自己被关心，也能暂时从情绪中跳脱出来，重新看问题时会更冷静些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "是的，冷静后我会更容易看到问题的本质，比如关系中是否真的存在进展，或者我的期待是否合理…这种重新思考让我觉得自己有了更多主动权，而不是完全被情绪牵着走。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，冷静后我会更容易看到问题的本质，比如关系中是否真的存在进展，或者我的期待是否合理…这种重新思考让我觉得自己有了更多主动权，而不是完全被情绪牵着走",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得可以在他模糊回应时试着停下来思考，比如问自己这是否是关系的关键问题；还有在情绪波动时，记录下来感受并提醒自己关注整体，而不是陷入细节…这些可能会让我更平衡一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以在他模糊回应时试着停下来思考，比如问自己这是否是关系的关键问题；还有在情绪波动时，记录下来感受并提醒自己关注整体，而不是陷入细节…这些可能会让我更平衡一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "如果发现难以平衡，我可能会试着放慢节奏，比如先专注于一种方法，比如记录感受，而不是同时尝试太多…这样能让我逐步适应，同时也避免自己感到压力过大。",
+    "has_specific_detail": true,
+    "specific_detail": "如果发现难以平衡，我可能会试着放慢节奏，比如先专注于一种方法，比如记录感受，而不是同时尝试太多…这样能让我逐步适应，同时也避免自己感到压力过大",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 33,
+    "content": "我觉得情绪波动最强烈的时候记录可能更有帮助，这样可以捕捉到真实的感受和想法…但回顾的时候也可以补充一些冷静后的思考，这样能让我看到问题的不同层面。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得情绪波动最强烈的时候记录可能更有帮助，这样可以捕捉到真实的感受和想法…但回顾的时候也可以补充一些冷静后的思考，这样能让我看到问题的不同层面",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我觉得定期回看记录是个好主意，可以让我看到情绪的变化趋势和关系的发展情况…或许每周花点时间回顾一下，看看自己是不是更清楚了期待和问题所在，这样可能会更有方向感。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得定期回看记录是个好主意，可以让我看到情绪的变化趋势和关系的发展情况…或许每周花点时间回顾一下，看看自己是不是更清楚了期待和问题所在，这样可能会更有方向感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我可能会更关注情绪的模式，比如哪些事情让我反复焦虑，或者哪些时候感觉比较平静…同时也会观察关系的变化，比如他的态度有没有更明确或者更主动，这些对我来说都很重要。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会更关注情绪的模式，比如哪些事情让我反复焦虑，或者哪些时候感觉比较平静…同时也会观察关系的变化，比如他的态度有没有更明确或者更主动，这些对我来说都很重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我觉得可以试试用颜色或符号来标记，比如绿色代表积极的情绪，红色代表焦虑或不安…还可以用关键词标记事件，比如“模糊回应”或者“主动关心”，这样回顾时会更直观，也更容易找到规律。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试试用颜色或符号来标记，比如绿色代表积极的情绪，红色代表焦虑或不安…还可以用关键词标记事件，比如“模糊回应”或者“主动关心”，这样回顾时会更直观，也更容易找到规律",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得“期待落空”和“模糊回应”可能是目前最关键的关键词，因为它们直接反映了我的困扰…另外像“主动表达”或者“情感确认”可以标记那些让我感觉更安心的时刻，这样能平衡记录的视角。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得“期待落空”和“模糊回应”可能是目前最关键的关键词，因为它们直接反映了我的困扰…另外像“主动表达”或者“情感确认”可以标记那些让我感觉更安心的时刻，这样能平衡记录的视角",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "如果发现“模糊回应”频繁出现，我可能会提醒自己，这是不是我的期待太高了，或者他真的需要更多时间…同时也会试着调整心态，减少对细节的过度关注，重新回到观察整体关系的发展上。",
+    "has_specific_detail": true,
+    "specific_detail": "如果发现“模糊回应”频繁出现，我可能会提醒自己，这是不是我的期待太高了，或者他真的需要更多时间…同时也会试着调整心态，减少对细节的过度关注，重新回到观察整体关系的发展上",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 39,
+    "content": "如果还是无法摆脱困扰，我可能会选择更直接地和他沟通，比如告诉他我的一些感受和期待，看他的反应如何…不过我会尽量用比较温和的方式表达，避免让他觉得有压力。",
+    "has_specific_detail": true,
+    "specific_detail": "如果还是无法摆脱困扰，我可能会选择更直接地和他沟通，比如告诉他我的一些感受和期待，看他的反应如何…不过我会尽量用比较温和的方式表达，避免让他觉得有压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我觉得他的态度和反应更重要吧，比如他是否愿意认真倾听我的感受，而不是敷衍或者回避…这会让我觉得自己被重视，即使他的回答暂时不完全符合我的期待，我也能接受。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得他的态度和反应更重要吧，比如他是否愿意认真倾听我的感受，而不是敷衍或者回避…这会让我觉得自己被重视，即使他的回答暂时不完全符合我的期待，我也能接受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我觉得如果他愿意认真倾听，我可以接受一段时间的等待，比如几个月吧…但期间我可能需要一些持续的行动支持，比如他主动分享更多关于他的生活，或者主动安排一些互动，这样能让我感到关系在逐步推进。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果他愿意认真倾听，我可以接受一段时间的等待，比如几个月吧…但期间我可能需要一些持续的行动支持，比如他主动分享更多关于他的生活，或者主动安排一些互动，这样能让我感到关系在逐步推进",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "如果几个月后他的表现还是停留在模糊阶段，我可能会重新评估这段关系，问自己是否还愿意继续投入…但如果他有一点点改变，比如更主动表达，我可能会再给一次机会，想看看是否能慢慢有所突破。",
+    "has_specific_detail": true,
+    "specific_detail": "如果几个月后他的表现还是停留在模糊阶段，我可能会重新评估这段关系，问自己是否还愿意继续投入…但如果他有一点点改变，比如更主动表达，我可能会再给一次机会，想看看是否能慢慢有所突破",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 43,
+    "content": "我可能会以他的行动是否一致和态度是否真诚为标准，比如他是否愿意主动沟通和计划未来，以及是否真正关心我的感受…这些是我觉得一段关系能持续发展的关键所在。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会以他的行动是否一致和态度是否真诚为标准，比如他是否愿意主动沟通和计划未来，以及是否真正关心我的感受…这些是我觉得一段关系能持续发展的关键所在",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "如果决定调整或结束，我可能会通过专注于自己的工作和兴趣来平衡失落感，比如尝试学习新技能或者参加一些活动…同时也会花时间和弟弟聊聊，这总能让我感觉轻松一些。",
+    "has_specific_detail": true,
+    "specific_detail": "如果决定调整或结束，我可能会通过专注于自己的工作和兴趣来平衡失落感，比如尝试学习新技能或者参加一些活动…同时也会花时间和弟弟聊聊，这总能让我感觉轻松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "如果反复想起，我可能会试着减少和他相关的接触，比如暂时不看我们的聊天记录…同时专注于给自己设定一些新的目标，比如完成一项工作挑战或者计划一次旅行，这样能让我逐渐把注意力转移到自己的生活上。",
+    "has_specific_detail": true,
+    "specific_detail": "如果反复想起，我可能会试着减少和他相关的接触，比如暂时不看我们的聊天记录…同时专注于给自己设定一些新的目标，比如完成一项工作挑战或者计划一次旅行，这样能让我逐渐把注意力转移到自己的生活上",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 46,
+    "content": "如果动力不足，我可能会给自己设定一些小奖励，比如完成一项工作后买自己喜欢的东西，或者在旅行中安排一些特别期待的活动…这些能让我觉得每一步都值得，也更愿意坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "如果动力不足，我可能会给自己设定一些小奖励，比如完成一项工作后买自己喜欢的东西，或者在旅行中安排一些特别期待的活动…这些能让我觉得每一步都值得，也更愿意坚持下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "我觉得自己可能会更看重对方的行动和真诚，而不是过度关注细节…同时也希望自己能学会更主动表达需求，而不是总担心会给对方压力，这样可能会让关系更平衡、更轻松些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得自己可能会更看重对方的行动和真诚，而不是过度关注细节…同时也希望自己能学会更主动表达需求，而不是总担心会给对方压力，这样可能会让关系更平衡、更轻松些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "具体的信号可能是对方愿意主动分享他的生活细节，或者开始更频繁地表达对未来的规划…还有就是双方的互动变得更自然、更坦诚，比如我表达需求后，他能认真回应并尝试满足，这会让我觉得关系更加稳定和可靠。",
+    "has_specific_detail": true,
+    "specific_detail": "具体的信号可能是对方愿意主动分享他的生活细节，或者开始更频繁地表达对未来的规划…还有就是双方的互动变得更自然、更坦诚，比如我表达需求后，他能认真回应并尝试满足，这会让我觉得关系更加稳定和可靠",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "如果这些信号逐渐出现，我会选择更加信任和投入，比如主动分享自己的感受和生活细节，或者提出一些共同的计划…我觉得这样不仅能让关系更稳固，也能让彼此都感觉更贴近和真实。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这些信号逐渐出现，我会选择更加信任和投入，比如主动分享自己的感受和生活细节，或者提出一些共同的计划…我觉得这样不仅能让关系更稳固，也能让彼此都感觉更贴近和真实",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "我希望我们能长期坚持定期沟通，比如每周都有深入的交流时间…还有就是彼此主动表达关心，比如小惊喜或者问候，这些能让关系保持新鲜感和温暖，也让我觉得自己是被持续在乎的。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望我们能长期坚持定期沟通，比如每周都有深入的交流时间…还有就是彼此主动表达关心，比如小惊喜或者问候，这些能让关系保持新鲜感和温暖，也让我觉得自己是被持续在乎的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "我觉得会更有安全感吧，感觉自己在关系中是被看见和重视的…同时也会对未来的亲密关系有更多信任，因为这种积极的互动能让我相信，真诚和努力确实能带来美好的结果。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会更有安全感吧，感觉自己在关系中是被看见和重视的…同时也会对未来的亲密关系有更多信任，因为这种积极的互动能让我相信，真诚和努力确实能带来美好的结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "我觉得自己更清楚了对关系中安全感的需求，以及过度关注细节对情绪的影响…同时也意识到，主动表达和观察整体是可以让我更平衡和轻松的，这让我对未来的互动方式有了新的方向。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得自己更清楚了对关系中安全感的需求，以及过度关注细节对情绪的影响…同时也意识到，主动表达和观察整体是可以让我更平衡和轻松的，这让我对未来的互动方式有了新的方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

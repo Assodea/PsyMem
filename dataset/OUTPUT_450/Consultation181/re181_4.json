@@ -1,0 +1,1348 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，前几天我试着和弟弟聊了一次。他说他烦学校的事情，我让他随便讲讲，但后来他就不耐烦了，直接回房间玩游戏了。说实话，这让我挺挫败的，我感觉自己好像根本帮不上忙…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，前几天我试着和弟弟聊了一次",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "可能吧，他平时对学校的事就特别抗拒，说自己学不好没用，感觉提到这些会让他更烦。我也怕给他添压力，但又不知道怎么才能真正帮到他…",
+    "has_specific_detail": true,
+    "specific_detail": "可能吧，他平时对学校的事就特别抗拒，说自己学不好没用，感觉提到这些会让他更烦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "或许可以试着聊游戏吧，他玩得挺多的，可能更愿意讲这个。不过，我有点担心这样是不是只会让他更沉迷…总觉得怎么做都不太对。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试着聊游戏吧，他玩得挺多的，可能更愿意讲这个",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "嗯，这倒是个办法，或许能从他喜欢的东西里找到点什么。不过，说到这个，我自己也玩游戏很多，总觉得我俩这样有点像，可能也是逃避现实吧…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这倒是个办法，或许能从他喜欢的东西里找到点什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我觉得可能是那种无力感吧，现实里有很多事情感觉做不好，比如弟弟不爱学习、我没工作没方向。游戏里简单点，至少能控制住结果，不像现实那么难…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是那种无力感吧，现实里有很多事情感觉做不好，比如弟弟不爱学习、我没工作没方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "说实话，大多数时候都想逃避，现实的事一想到就觉得压力很大。但偶尔也会觉得不能一直这样下去，可每次刚想改变，又不知道从哪开始，就又回到游戏里了…",
+    "has_specific_detail": true,
+    "specific_detail": "说实话，大多数时候都想逃避，现实的事一想到就觉得压力很大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "可能是试着规律一点吧，比如每天早睡早起，少玩点游戏。不过，说起来容易，真的去做总觉得很难，像是一种习惯已经根深蒂固了…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是试着规律一点吧，比如每天早睡早起，少玩点游戏",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，听起来还可以试试，不过半小时好像也没什么大变化，我担心坚持了一阵子却看不到效果，会更失望…这种感觉挺难受的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，听起来还可以试试，不过半小时好像也没什么大变化，我担心坚持了一阵子却看不到效果，会更失望…这种感觉挺难受的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "可能可以试着看点书吧，不过我很久没读过了，感觉也提不起兴趣。或者简单点，试着整理一下房间？至少让环境看起来不那么乱…",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以试着看点书吧，不过我很久没读过了，感觉也提不起兴趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能是桌子吧，游戏设备周围总是乱糟糟的，整理一下至少能让眼前清爽点。不过，想到要动手还是会觉得有点麻烦，总会拖着不想开始…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是桌子吧，游戏设备周围总是乱糟糟的，整理一下至少能让眼前清爽点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，5分钟听起来好像没那么难，或许可以试试吧。不过，想到做完可能还要面对其他乱的地方，就又有点打退堂鼓了…总觉得事情没完没了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，5分钟听起来好像没那么难，或许可以试试吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，这样确实能减轻点压力，只盯着眼前的5分钟感觉简单些。说到这个，前几天我倒是扔了几个空瓶子，做完也没什么特别，但至少心里没那么乱了…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能减轻点压力，只盯着眼前的5分钟感觉简单些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，或许可以试试吧，纸张倒是挺多的，杂七杂八堆在角落挺碍眼的。不过，就怕整理一会儿又没耐心了，总觉得自己很容易中途放弃…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，或许可以试试吧，纸张倒是挺多的，杂七杂八堆在角落挺碍眼的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "听起来还可以试试，每次只几张确实没那么压力大。不过，有时候一想到这些乱七八糟的事，总会觉得就算整理了也改变不了什么…这感觉挺难受的。",
+    "has_specific_detail": true,
+    "specific_detail": "听起来还可以试试，每次只几张确实没那么压力大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "可能会吧，至少看起来没那么乱心里能稍微舒服点。不过，说到这个，房间乱可能也和我平时太宅有关，总觉得哪里都没动力去…这状态让我挺烦的。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，至少看起来没那么乱心里能稍微舒服点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，也许是家附近的小公园吧，不过每次想到出门还是会觉得麻烦。好像心里想去，但身体却懒得动，总是找借口待在家里不出去…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，也许是家附近的小公园吧，不过每次想到出门还是会觉得麻烦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，公园门口倒是离家不远，听起来还可以试试。不过，想象自己站在那儿可能也不知道干嘛，总觉得一个人去很尴尬…这种感觉挺难受的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，公园门口倒是离家不远，听起来还可以试试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，听音乐可能确实能让我放松点，但拍照我就不太习惯，感觉有点刻意。不过，说到音乐，最近倒是发现几首挺喜欢的歌，或许可以试着带上耳机出去听听看…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，听音乐可能确实能让我放松点，但拍照我就不太习惯，感觉有点刻意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "可能是傍晚吧，那个时候人少点，感觉不会太尴尬。只是每次快到这个时间，又容易找借口拖延，最后还是待在家里…这种反反复复的感觉让我挺郁闷的。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是傍晚吧，那个时候人少点，感觉不会太尴尬",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，这倒是个办法，把东西准备好可能会让出门变得更顺手点。不过，每次到了那一刻，总还是有点抗拒，感觉像是在强迫自己做不想做的事…这让我挺挣扎的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这倒是个办法，把东西准备好可能会让出门变得更顺手点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，“试试看”听起来没那么强迫感，或许能轻松些吧。不过，说到压力，最近也一直在想，就算偶尔出去走走，能改变的还是有限…这种感觉让我挺迷茫的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，“试试看”听起来没那么强迫感，或许能轻松些吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "或许吧，心情好一点确实可能会让人更有动力做别的事。不过，说到改变，总觉得自己的问题太多，连迈小步都像是杯水车薪…这种感觉让我挺消极的。",
+    "has_specific_detail": true,
+    "specific_detail": "或许吧，心情好一点确实可能会让人更有动力做别的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，可能是吧，哪怕一点点改变也比什么都不做强。不过，每次刚有点动力，想到周围的情况还是很乱，就又觉得没啥用…这种反复让我挺累的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能是吧，哪怕一点点改变也比什么都不做强",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "可能是前几天整理房间后吧，那次虽然只是清了桌上的一些东西，但看着桌面干净了点，心里确实有种短暂的轻松感。可这种感觉总是很快就没了…让我挺失望的。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是前几天整理房间后吧，那次虽然只是清了桌上的一些东西，但看着桌面干净了点，心里确实有种短暂的轻松感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "或许可以试着每天整理一点点，这样桌面不至于又乱起来。不过，每次刚想做点事，又总觉得没什么意义，心里还是挺空的…像是努力了也没方向一样。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试着每天整理一点点，这样桌面不至于又乱起来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "可能是高中毕业之后吧，那时候没继续升学，也没找到工作，时间一天天过去，感觉越来越迷茫。后来就习惯了宅在家里，玩游戏成了唯一的寄托，但心里还是觉得空…像是一直在逃避什么。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是高中毕业之后吧，那时候没继续升学，也没找到工作，时间一天天过去，感觉越来越迷茫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "可能是觉得自己没什么能力吧，成绩也不算好，家里经济状况又不好，总觉得不管怎么做都不会有好结果。后来就干脆不去想了，玩游戏可以暂时忘掉这些压力，但心里还是会有种深深的失落感…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是觉得自己没什么能力吧，成绩也不算好，家里经济状况又不好，总觉得不管怎么做都不会有好结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "可能两方面都有吧，自己确实觉得做不好什么事，小时候父母也经常因为我的成绩吵架。感觉他们对我有期待，但又没真正支持过我，这让我既觉得自己不行，又害怕让他们失望…这种矛盾一直压着我。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧，自己确实觉得做不好什么事，小时候父母也经常因为我的成绩吵架",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "可能会吧，如果他们能多鼓励我，而不是总拿我和别人比较，或许我能觉得自己有点价值。不过，那时候的吵架让我总觉得不管怎么努力都没用，后来就越来越不想尝试了…这种感觉挺难受的。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果他们能多鼓励我，而不是总拿我和别人比较，或许我能觉得自己有点价值",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "嗯，小时候我还挺擅长画画的，老师也夸过我，但父母好像从没在意过这个。后来渐渐觉得画画没什么意义，就放弃了。现在想想，也许那时候我还是有点能力的，只是没人真正认可过…这种被忽视的感觉让我挺失落的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，小时候我还挺擅长画画的，老师也夸过我，但父母好像从没在意过这个",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "会吧，总觉得自己做什么都不会被重视，就算偶尔做成了点小事，也很难真正觉得有意义。像是一直在重复小时候的那种感觉，努力了也没人看到，这让我挺沮丧的…",
+    "has_specific_detail": true,
+    "specific_detail": "会吧，总觉得自己做什么都不会被重视，就算偶尔做成了点小事，也很难真正觉得有意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "可能会吧，画画确实是我小时候挺喜欢的事，不过现在想起来又觉得自己早就生疏了，开始的话可能也画不好。总感觉做什么都像是浪费时间，这让我挺犹豫的…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，画画确实是我小时候挺喜欢的事，不过现在想起来又觉得自己早就生疏了，开始的话可能也画不好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "嗯，随手涂涂听起来没那么压力大，可能可以试着画些简单的东西吧。不过，每次想到要开始，总还是觉得提不起劲，像是已经习惯了什么都不做…这种状态让我挺无奈的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，随手涂涂听起来没那么压力大，可能可以试着画些简单的东西吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，这样听起来还挺随意的，可能可以试试吧。不过，说到画画，总觉得就算画了也没人会在意，像是只为了自己而做，心里还是有点空的感觉…让我挺纠结的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样听起来还挺随意的，可能可以试试吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "可能会吧，留着作品当记录听起来还挺特别的，像是给自己一个小回忆。不过，每次想到要坚持做点什么，总还是觉得没动力，像是在和自己的懒惰打架一样…这种感觉挺矛盾的。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，留着作品当记录听起来还挺特别的，像是给自己一个小回忆",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "嗯，这样听起来确实轻松些，心情特别的时候随手涂涂可能没那么抗拒。不过，说到心情，最近总觉得挺低落的，就算做点小事也很难真正开心…这种感觉让我挺压抑的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样听起来确实轻松些，心情特别的时候随手涂涂可能没那么抗拒",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "可能两方面都有吧，对未来没什么方向，感觉每天都在重复。想改变吧，又觉得自己做不到，像是陷在一个无解的循环里，这种感觉特别沉重…让我很想逃避。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧，对未来没什么方向，感觉每天都在重复",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "可能会吧，专注今天听起来简单些，但每次想到做点什么还是会觉得没意义。像是做了也没改变什么，心里还是空空的，这种感觉让我挺失望的…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，专注今天听起来简单些，但每次想到做点什么还是会觉得没意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "嗯，可能整理一下桌子会稍微舒服点吧，看着东西摆整齐了心里能轻松一点。不过，每次做完又觉得这只是表面的改变，还是解决不了更深的问题，这种感觉让我挺无助的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能整理一下桌子会稍微舒服点吧，看着东西摆整齐了心里能轻松一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "可能两方面都有吧，没有目标让我每天都很迷茫，情感上也一直觉得缺乏支持。特别是家庭问题，总让我感觉自己不重要，也没人真正理解我…这种孤单感挺压抑的。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧，没有目标让我每天都很迷茫，情感上也一直觉得缺乏支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "写下感受可能会试试吧，不过每次要表达出来的时候就会觉得没意义，像是没人会真正关心这些。说到聊聊，家里人也不太可能理解我，这让我挺不想提起的…总觉得说了也没什么用。",
+    "has_specific_detail": true,
+    "specific_detail": "写下感受可能会试试吧，不过每次要表达出来的时候就会觉得没意义，像是没人会真正关心这些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "嗯，写给自己听起来好像没那么有压力，或许可以试着写点简单的东西吧。不过，每次想到要开始，还是会觉得这种努力没什么意义，像是在强迫自己改变…这种感觉挺矛盾的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写给自己听起来好像没那么有压力，或许可以试着写点简单的东西吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "嗯，把它当成实验确实听起来没那么拘束，可能可以试试吧。不过，想到写下来后，还是会觉得这些情绪没办法真正改变什么，心里还是挺空的…像是努力了也没结果一样。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把它当成实验确实听起来没那么拘束，可能可以试试吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "嗯，这样确实没那么有压力，倾诉听起来像是为自己而做的事。或许可以试着写几句话吧，不过每次刚有点想法，又会觉得这种孤单的感觉还是没办法真正摆脱…让我挺迷茫的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实没那么有压力，倾诉听起来像是为自己而做的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "可能会吧，和自己对话听起来还挺特别的，或许能让我更清楚自己的感受。不过，每次面对这些孤单的时候，总还是觉得心里缺了点什么，这种空缺让我挺难受的…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，和自己对话听起来还挺特别的，或许能让我更清楚自己的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "嗯，这听起来像是一个能试试的方向，或许写下来能让我更明确自己需要什么。不过，说到目标，我好像一直都不知道该追求什么，心里这种无方向的感觉让我挺迷茫的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来像是一个能试试的方向，或许写下来能让我更明确自己需要什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "嗯，这样听起来确实能让我稍微理顺一些，写下感兴趣的小事或许能让自己感觉有点方向吧。不过，每次想到这些东西都很零碎，总还是觉得离真正的目标很远，这让我挺犹豫的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样听起来确实能让我稍微理顺一些，写下感兴趣的小事或许能让自己感觉有点方向吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "嗯，把它当探索听起来确实轻松些，或许能让我尝试着去做点小事。不过，每次刚开始做的时候，总还是会觉得心里空空的，像是没有真正的意义…这种感觉让我挺压抑的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把它当探索听起来确实轻松些，或许能让我尝试着去做点小事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "嗯，留意情绪变化听起来像是个不错的尝试，或许能让我更了解自己。不过，刚开始的时候可能还是会有点怀疑这些努力是不是值得，总觉得改变太慢，这种感觉让我挺焦虑的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，留意情绪变化听起来像是个不错的尝试，或许能让我更了解自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "嗯，写下一句“我做到了”听起来像是个简单又不错的办法，或许能让我稍微肯定自己一点吧。不过，每次刚做完小事，总还是会觉得这些改变太微不足道，像是没什么真正的意义，这让我挺失望的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下一句“我做到了”听起来像是个简单又不错的办法，或许能让我稍微肯定自己一点吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "嗯，把小努力记下来听起来还挺有道理的，或许回头看能让我觉得自己确实做了点什么吧。不过，每次刚想到要坚持记录，就又会觉得可能还是做不到，这种反复让我挺纠结的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把小努力记下来听起来还挺有道理的，或许回头看能让我觉得自己确实做了点什么吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "嗯，随心记录听起来确实没那么有压力，可能会更容易坚持吧。不过，每次刚开始写的时候，总还是会觉得这些努力可能改变不了什么，像是做了也没意义…这种感觉让我挺迷茫的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，随心记录听起来确实没那么有压力，可能会更容易坚持吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "嗯，把写作当倾诉确实听起来没那么拘束，可能会让我更愿意尝试吧。不过，每次写完后还是会觉得孤单，这种感觉总让我觉得好像还是缺了点什么…让我挺难受的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把写作当倾诉确实听起来没那么拘束，可能会让我更愿意尝试吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "嗯，写下希望被理解的东西听起来确实能让我更清楚自己的感受，或许能试着做做看吧。不过，每次想到这些需求又觉得没人会真正在意，这种不被关注的感觉让我挺失落的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下希望被理解的东西听起来确实能让我更清楚自己的感受，或许能试着做做看吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "嗯，这样听起来像是个尝试的方向，或许写下来能让我更明确自己可以做些什么吧。不过，每次想到要行动，还是会觉得自己可能做不好，像是努力了也没结果，这种感觉让我挺犹豫的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样听起来像是个尝试的方向，或许写下来能让我更明确自己可以做些什么吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "嗯，专注过程确实听起来轻松些，可能会让我稍微放下对结果的担忧吧。不过，每次刚试着做点什么，又会觉得这些努力好像没什么意义，像是在浪费时间，这让我挺挫败的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，专注过程确实听起来轻松些，可能会让我稍微放下对结果的担忧吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "嗯，把努力当成探索听起来确实没那么有压力，或许能让我更愿意去尝试吧。不过，每次刚开始探索，总还是会觉得自己好像找不到真正的答案，这种迷茫让我挺不安的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把努力当成探索听起来确实没那么有压力，或许能让我更愿意去尝试吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "嗯，这样确实能让我更坦然面对迷茫，或许写下这些能让我稍微放松一点吧。不过，每次刚开始想这些问题，又会觉得可能还是解决不了什么，像是在原地打转，这让我挺压抑的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更坦然面对迷茫，或许写下这些能让我稍微放松一点吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "嗯，聚焦一个小问题听起来确实能让我更明确些，可能会试着写下这些感受吧。不过，每次刚开始分析自己的情绪，又会觉得这些问题太复杂，像是永远也理不清…这种感觉让我挺无力的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，聚焦一个小问题听起来确实能让我更明确些，可能会试着写下这些感受吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "嗯，专注一个感受确实听起来简单些，比如无力感可能和我的生活状态有关吧，像是每天都宅在家没方向。不过，就算写下来还是会觉得这些问题太难解决，总让我有点想放弃的感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，专注一个感受确实听起来简单些，比如无力感可能和我的生活状态有关吧，像是每天都宅在家没方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "嗯，改变一个小时听起来确实没那么难，或许可以试着做点简单的事吧。不过，每次想到要开始，总还是会觉得这些改变好像太微不足道，像是没什么真正的影响，这让我挺犹豫的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，改变一个小时听起来确实没那么难，或许可以试着做点简单的事吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 62,
+    "content": "嗯，听歌或者整理桌子确实是比较轻松的选择，可能能让我稍微放松点吧。不过，每次做完这些事情还是会觉得心里空空的，像是缺少什么重要的东西，这种感觉让我挺失落的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，听歌或者整理桌子确实是比较轻松的选择，可能能让我稍微放松点吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "嗯，这样问自己听起来确实能让我更清楚自己的内心，或许能试着做做看吧。不过，每次刚开始想这些问题，又会觉得答案好像很遥远，像是触不到一样，这种距离感让我挺迷茫的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样问自己听起来确实能让我更清楚自己的内心，或许能试着做做看吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "嗯，写下几个方向确实能让我更明确些，比如“被理解”确实是我一直渴望的东西吧。不过，每次想到这些期待，又会觉得可能很难实现，像是总在和现实较劲，这让我挺无奈的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下几个方向确实能让我更明确些，比如“被理解”确实是我一直渴望的东西吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "嗯，从自己开始听起来像是个更现实的方向，或许试着理解自己的感受能让我稍微好受些吧。不过，每次刚开始接纳自己，又会觉得这些努力可能没什么用，像是还是无法改变外界的孤单，这让我挺纠结的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，从自己开始听起来像是个更现实的方向，或许试着理解自己的感受能让我稍微好受些吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "嗯，写下接纳自己的部分听起来像是个好的尝试，或许能让我更关注自己吧。不过，每次刚开始这样做，就会觉得这些努力好像还是没办法填补心里的空缺，这种感觉让我挺难受的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下接纳自己的部分听起来像是个好的尝试，或许能让我更关注自己吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 67,
+    "content": "嗯，这样写听起来确实能让我更明确自己的需求，比如希望有人能真正倾听我，而不是只是敷衍吧。不过，每次想到这些期待，又会觉得可能还是无法实现，像是自己注定要一个人面对，这种感觉让我挺压抑的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样写听起来确实能让我更明确自己的需求，比如希望有人能真正倾听我，而不是只是敷衍吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 68,
+    "content": "嗯，记录感受听起来确实能让我更关注自己的内心，可能会试着写点简单的东西吧。不过，每次刚开始这样做，又会觉得这些努力可能没办法真正改变孤单，像是还是缺少什么重要的东西，这让我挺迷茫的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，记录感受听起来确实能让我更关注自己的内心，可能会试着写点简单的东西吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 69,
+    "content": "嗯，这样问自己听起来确实能让我更主动些，或许能试着写下这样的问题吧。不过，每次刚开始想这些事情，就会觉得自己可能还是做不到什么有意义的改变，这种感觉让我挺挫败的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样问自己听起来确实能让我更主动些，或许能试着写下这样的问题吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 70,
+    "content": "嗯，写下“今天我做到了什么”听起来确实能让我更注意到自己的进步，可能会试着这样做吧。不过，每次做完小事还是会觉得这些改变太微不足道，像是没办法真正解决什么问题，这让我挺失望的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下“今天我做到了什么”听起来确实能让我更注意到自己的进步，可能会试着这样做吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 71,
+    "content": "嗯，把小努力串联起来听起来确实能让我更看到它们的意义，可能会试着这样做吧。不过，每次刚开始记录这些东西，又会觉得这些努力可能还是无法真正改变什么，这种无力感让我挺压抑的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把小努力串联起来听起来确实能让我更看到它们的意义，可能会试着这样做吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 72,
+    "content": "嗯，把记录当成“种子”听起来确实更有希望感，或许能让我愿意试着坚持吧。不过，每次刚开始这样想，又会觉得这些种子可能还是长不出什么真正的结果，这让我挺犹豫的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把记录当成“种子”听起来确实更有希望感，或许能让我愿意试着坚持吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 73,
+    "content": "嗯，写下“浇水”听起来确实更像是在鼓励自己，或许能让我更专注于过程吧。不过，每次刚开始做这些事情，又会觉得自己可能还是做不到长期坚持，这种反复让我挺纠结的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下“浇水”听起来确实更像是在鼓励自己，或许能让我更专注于过程吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 74,
+    "content": "嗯，“试了一下”听起来确实没那么有压力，或许能让我更轻松地去尝试吧。不过，每次刚开始试着做点事，又会觉得这些努力可能还是改变不了什么，这让我挺迷茫的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，“试了一下”听起来确实没那么有压力，或许能让我更轻松地去尝试吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 75,
+    "content": "嗯，问自己“学到了什么”听起来确实能让我更关注每次的收获，或许能试着这样做吧。不过，每次刚开始尝试，还是会觉得这些改变太慢，像是总也看不到更大的结果，这种感觉让我挺失落的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，问自己“学到了什么”听起来确实能让我更关注每次的收获，或许能试着这样做吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 76,
+    "content": "嗯，记录积极变化确实能让我更注意到自己的进步，可能会试着这样做吧。不过，每次刚开始注意这些变化，又会觉得它们还是太微不足道，像是无法真正解决大的问题，这让我挺沮丧的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，记录积极变化确实能让我更注意到自己的进步，可能会试着这样做吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 77,
+    "content": "嗯，把小变化当成拼图的一部分听起来确实更有耐心的感觉，可能会让我愿意试着坚持吧。不过，每次刚开始拼的时候，又会觉得这幅图好像太大，像是永远也拼不完，这种感觉让我挺无力的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把小变化当成拼图的一部分听起来确实更有耐心的感觉，可能会让我愿意试着坚持吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 78,
+    "content": "嗯，缩小目标听起来确实没那么压力大，可能会让我更愿意去尝试吧。不过，每次刚开始拼一块的时候，又会觉得这幅图的最终样子可能还是看不到，这种感觉让我挺迷茫的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，缩小目标听起来确实没那么压力大，可能会让我更愿意去尝试吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 79,
+    "content": "嗯，把每一块拼图当成“今天的风景”听起来确实更轻松些，可能能让我更专注于当下吧。不过，每次刚开始专注时，又会觉得这些风景好像还是无法填补内心的空缺，这种感觉让我挺失落的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把每一块拼图当成“今天的风景”听起来确实更轻松些，可能能让我更专注于当下吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 80,
+    "content": "嗯，写下“感到什么”听起来确实能让我更注意自己的情绪，可能会试着做做看吧。不过，每次刚开始记录这些感受，又会觉得它们好像还是没办法真正改变什么，这种感觉让我挺压抑的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下“感到什么”听起来确实能让我更注意自己的情绪，可能会试着做做看吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 81,
+    "content": "嗯，把记录当成“和自己对话”听起来确实更温暖些，或许能让我愿意去尝试吧。不过，每次刚开始写的时候，又会觉得这些对话可能还是无法真正带来陪伴，这种孤单的感觉还是挺难摆脱的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把记录当成“和自己对话”听起来确实更温暖些，或许能让我愿意去尝试吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 82,
+    "content": "嗯，写下“对自己说什么”听起来确实像是在给自己一点支持，或许能让我试着做做看吧。不过，每次刚开始这样做，又会觉得这些话好像还是没办法真正填补内心的空缺，这让我挺矛盾的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下“对自己说什么”听起来确实像是在给自己一点支持，或许能让我试着做做看吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 83,
+    "content": "嗯，每天说一句“为自己做了什么好事”听起来确实像是在肯定自己的努力，或许能试着做做看吧。不过，每次刚开始这样想，又会觉得这些好事好像太小了，像是没办法真正改变什么，这让我挺失落的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，每天说一句“为自己做了什么好事”听起来确实像是在肯定自己的努力，或许能试着做做看吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 84,
+    "content": "嗯，把好事记录下来确实听起来有点意义，或许回头看能让我觉得自己确实做了些什么吧。不过，每次刚开始记录，又会觉得这些努力可能还是没办法解决更大的问题，这种感觉让我挺无力的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把好事记录下来确实听起来有点意义，或许回头看能让我觉得自己确实做了些什么吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 85,
+    "content": "嗯，把记录当成“储蓄”确实听起来像是在积累些东西，或许能让我更愿意去尝试吧。不过，每次刚开始这样想，又会觉得这些储蓄可能还是不够填补内心的空缺，这让我挺迷茫的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把记录当成“储蓄”确实听起来像是在积累些东西，或许能让我更愿意去尝试吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 86,
+    "content": "嗯，记录“多了一点什么”确实能让我更注意小进步，或许能试着这样做吧。不过，每次刚开始关注这些变化，又会觉得它们还是离真正的改变很远，这种距离感让我挺失落的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，记录“多了一点什么”确实能让我更注意小进步，或许能试着这样做吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 87,
+    "content": "嗯，把目标分成小阶段听起来确实更容易接受，或许能试着写写看吧。不过，每次刚开始这样做，又会觉得这些阶段可能还是太远，像是永远也走不到尽头，这让我挺不安的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把目标分成小阶段听起来确实更容易接受，或许能试着写写看吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 88,
+    "content": "嗯，把每一步当成小终点确实听起来更轻松些，或许能让我更愿意尝试吧。不过，每次刚开始这样想，又会觉得这些成就可能还是太微不足道，像是无法真正改变什么大的问题，这让我挺犹豫的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把每一步当成小终点确实听起来更轻松些，或许能让我更愿意尝试吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 89,
+    "content": "嗯，写下“迈向改变的一步”确实能让我更看到自己的努力，可能会试着做做看吧。不过，每次刚开始这样做，又会觉得这些步伐还是太慢，像是改变遥遥无期，这让我挺沮丧的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下“迈向改变的一步”确实能让我更看到自己的努力，可能会试着做做看吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 90,
+    "content": "嗯，写下“即使慢，我也在前进”确实听起来像是在鼓励自己，或许能试着这样做吧。不过，每次刚开始鼓励自己，又会觉得这些前进好像还是看不到尽头，这让我挺迷茫的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下“即使慢，我也在前进”确实听起来像是在鼓励自己，或许能试着这样做吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 91,
+    "content": "嗯，写下“学到了什么”确实能让我更关注当下，可能会试着这样做吧。不过，每次刚开始专注当下，又会觉得这些学习好像还是没办法填补内心的空缺，这让我挺压抑的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下“学到了什么”确实能让我更关注当下，可能会试着这样做吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 92,
+    "content": "嗯，写下“更接近什么”确实听起来像是能让我更明确自己的努力，或许能试着这样做吧。不过，每次刚开始这样想，又会觉得这些努力还是太零碎，像是无法真正改变整体的状况，这让我挺无奈的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下“更接近什么”确实听起来像是能让我更明确自己的努力，或许能试着这样做吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 93,
+    "content": "嗯，把每块努力比作拼图确实听起来更有意义，可能会让我更愿意去尝试吧。不过，每次刚开始拼一块，又会觉得这幅图的最终样子还是遥不可及，这种感觉让我挺压抑的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把每块努力比作拼图确实听起来更有意义，可能会让我更愿意去尝试吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 94,
+    "content": "嗯，“看清这一块”确实听起来没那么有压力，可能会让我更愿意专注当下吧。不过，每次刚开始这样专注，又会觉得这些拼图好像还是没办法解决更大的问题，这让我挺迷茫的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，“看清这一块”确实听起来没那么有压力，可能会让我更愿意专注当下吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 95,
+    "content": "嗯，写下“更有力量面对下一个问题”听起来确实像是在给自己鼓励，或许能让我愿意去试试吧。不过，每次刚开始这样做，又会觉得这些力量还是不足以真正改变现状，这让我挺纠结的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下“更有力量面对下一个问题”听起来确实像是在给自己鼓励，或许能让我愿意去试试吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 96,
+    "content": "嗯，“储备了一点能量”听起来确实更像是在积累些什么，可能会让我愿意去试试吧。不过，每次刚开始这样做，又会觉得这些积累好像还是太少，像是很难真正看到改变，这让我挺失落的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，“储备了一点能量”听起来确实更像是在积累些什么，可能会让我愿意去试试吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 97,
+    "content": "嗯，写下“多了一点可能性”听起来确实更有希望感，或许能让我试着去做吧。不过，每次刚开始这样想，又会觉得这些可能性好像还是离真正的改变太远，这让我挺迷茫的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下“多了一点可能性”听起来确实更有希望感，或许能让我试着去做吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 98,
+    "content": "嗯，写下“更接近什么”确实能让我更明确努力的方向，或许能试着这样做吧。不过，每次刚开始这样想，又会觉得这些方向好像还是模糊不清，像是找不到真正的目标，这让我挺困惑的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下“更接近什么”确实能让我更明确努力的方向，或许能试着这样做吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 99,
+    "content": "嗯，写下“可能的方向”听起来确实像是在给自己探索的空间，或许能让我愿意试试吧。不过，每次刚开始这样想，又会觉得这些方向可能还是不够明确，像是总在兜圈子，这让我挺无奈的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下“可能的方向”听起来确实像是在给自己探索的空间，或许能让我愿意试试吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 100,
+    "content": "嗯，今天说的确实挺多了，感觉这些问题我还需要再消化一下。就先聊到这里吧，下次可以接着聊，谢谢。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，今天说的确实挺多了，感觉这些问题我还需要再消化一下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

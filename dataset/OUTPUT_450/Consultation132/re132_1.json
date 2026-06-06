@@ -1,0 +1,571 @@
+[
+  {
+    "turn": 1,
+    "content": "最近我总觉得很孤单，尤其是看到别人有亲密关系的时候，会特别羡慕…但我又不知道自己该怎么去接近别人。",
+    "has_specific_detail": true,
+    "specific_detail": "最近我总觉得很孤单，尤其是看到别人有亲密关系的时候，会特别羡慕…但我又不知道自己该怎么去接近别人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "我其实没有什么朋友，也没在工作。偶尔见到熟人，聊几句就不知道该怎么继续，总感觉自己很尴尬，让人不想和我多说…",
+    "has_specific_detail": true,
+    "specific_detail": "我其实没有什么朋友，也没在工作",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，是的，我总觉得自己不够好，好像别人随时会发现我的缺点，然后不喜欢我…有时候话到嘴边又怕说错，就干脆不说了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，是的，我总觉得自己不够好，好像别人随时会发现我的缺点，然后不喜欢我…有时候话到嘴边又怕说错，就干脆不说了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "可能是小时候吧，我记得有次在家里说错了话，爸妈就很生气，还责备了我好久。从那以后，我总觉得自己不能犯错，不然别人就会不喜欢我…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是小时候吧，我记得有次在家里说错了话，爸妈就很生气，还责备了我好久",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "嗯，从那以后我感觉他们好像对我更挑剔了，总是盯着我的问题，但又不怎么夸我做得好的地方…我常常觉得他们对我不满意，甚至有点忽视我的想法。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，从那以后我感觉他们好像对我更挑剔了，总是盯着我的问题，但又不怎么夸我做得好的地方…我常常觉得他们对我不满意，甚至有点忽视我的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "那时候我试过努力表现好，比如考试得了不错的成绩，但他们好像觉得那是理所当然的，没什么特别的反应…后来我也不怎么表达了，总觉得说了也没用。",
+    "has_specific_detail": true,
+    "specific_detail": "那时候我试过努力表现好，比如考试得了不错的成绩，但他们好像觉得那是理所当然的，没什么特别的反应…后来我也不怎么表达了，总觉得说了也没用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是挺孤单的，那时候家里也没人能真正听我说心里话，感觉自己的情绪只能自己消化…偶尔和同学聊聊天，但也不敢说太多。",
+    "has_specific_detail": true,
+    "specific_detail": "是挺孤单的，那时候家里也没人能真正听我说心里话，感觉自己的情绪只能自己消化…偶尔和同学聊聊天，但也不敢说太多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "是的，现在也是这样，我遇到不舒服的事就尽量自己忍着，或者转移注意力，比如玩游戏…但有时候，压得久了会突然觉得特别烦躁，也不知道该怎么办。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，现在也是这样，我遇到不舒服的事就尽量自己忍着，或者转移注意力，比如玩游戏…但有时候，压得久了会突然觉得特别烦躁，也不知道该怎么办",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "一般不会主动找人聊，反而会更想一个人待着，有时候会莫名其妙发脾气，比如摔东西或者把手机扔一边…事后又觉得自己很糟糕，很后悔。",
+    "has_specific_detail": true,
+    "specific_detail": "一般不会主动找人聊，反而会更想一个人待着，有时候会莫名其妙发脾气，比如摔东西或者把手机扔一边…事后又觉得自己很糟糕，很后悔",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，会有一些预兆，比如开始觉得什么都不顺心，做什么都提不起劲，心里特别堵…但每次都忍着，觉得自己应该能熬过去，结果最后还是控制不住。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，会有一些预兆，比如开始觉得什么都不顺心，做什么都提不起劲，心里特别堵…但每次都忍着，觉得自己应该能熬过去，结果最后还是控制不住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "或许吧，但每次心里堵的时候，总觉得什么都没用，甚至连做点小事都提不起动力…可能还是因为觉得自己不值得被好好对待吧，所以连照顾自己的想法都很少。",
+    "has_specific_detail": true,
+    "specific_detail": "或许吧，但每次心里堵的时候，总觉得什么都没用，甚至连做点小事都提不起动力…可能还是因为觉得自己不值得被好好对待吧，所以连照顾自己的想法都很少",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "可能和小时候有关吧，总觉得无论我怎么做，他们都不会真正满意我…后来和别人交往时也有类似的感觉，好像自己永远不够好，别人只是勉强接受我。",
+    "has_specific_detail": true,
+    "specific_detail": "可能和小时候有关吧，总觉得无论我怎么做，他们都不会真正满意我…后来和别人交往时也有类似的感觉，好像自己永远不够好，别人只是勉强接受我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "有时候聊天时，对方会表现得很敷衍，比如只是嗯嗯啊啊地应付，或者快速转移话题…让我觉得好像我的话不重要，他们也不是真的想听我说。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候聊天时，对方会表现得很敷衍，比如只是嗯嗯啊啊地应付，或者快速转移话题…让我觉得好像我的话不重要，他们也不是真的想听我说",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "通常我会沉默吧，觉得再说下去也没意义…但心里又会很不舒服，总是怀疑是不是自己哪里做错了，才让别人不想理我。",
+    "has_specific_detail": true,
+    "specific_detail": "通常我会沉默吧，觉得再说下去也没意义…但心里又会很不舒服，总是怀疑是不是自己哪里做错了，才让别人不想理我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "这种感觉有时会持续很久，尤其是没人安慰或解释的时候…虽然过一阵子可能会淡一些，但每次想到类似的场景，又会重新冒出来，让我更难放下。",
+    "has_specific_detail": true,
+    "specific_detail": "这种感觉有时会持续很久，尤其是没人安慰或解释的时候…虽然过一阵子可能会淡一些，但每次想到类似的场景，又会重新冒出来，让我更难放下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "是的，那些时刻我会觉得自己特别失败，好像永远都做不好人际关系…有时候甚至想干脆别再试了，反正没人会真正喜欢我，越想就越失望。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，那些时刻我会觉得自己特别失败，好像永远都做不好人际关系…有时候甚至想干脆别再试了，反正没人会真正喜欢我，越想就越失望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "害怕被拒绝应该是主要原因吧，每次试着接近别人，结果不是被敷衍就是感觉自己没被重视…久而久之，就觉得尝试只会带来更多失望，还不如不试了。",
+    "has_specific_detail": true,
+    "specific_detail": "害怕被拒绝应该是主要原因吧，每次试着接近别人，结果不是被敷衍就是感觉自己没被重视…久而久之，就觉得尝试只会带来更多失望，还不如不试了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "有一次我试着跟一个关系还算不错的同学分享自己的烦恼，结果他说“你想太多了，没什么大不了的”…当时我觉得自己的情绪被完全否定了，心里特别失望。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次我试着跟一个关系还算不错的同学分享自己的烦恼，结果他说“你想太多了，没什么大不了的”…当时我觉得自己的情绪被完全否定了，心里特别失望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我当时没再说什么，只是笑了笑，就转移话题了…后来也很少主动找他聊天，感觉再说也只是白费力气，不如自己消化。",
+    "has_specific_detail": true,
+    "specific_detail": "我当时没再说什么，只是笑了笑，就转移话题了…后来也很少主动找他聊天，感觉再说也只是白费力气，不如自己消化",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "是啊，如果他能认真听我说，哪怕只是简单地回应几句，也许我会感觉好一些…但现在想想，好像这种期待总是落空，越来越觉得没希望了。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，如果他能认真听我说，哪怕只是简单地回应几句，也许我会感觉好一些…但现在想想，好像这种期待总是落空，越来越觉得没希望了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "是的，我现在连未来要做什么都没什么想法，觉得自己可能也做不好什么事情…总有种迷茫和无力感，越想就越没动力去规划。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我现在连未来要做什么都没什么想法，觉得自己可能也做不好什么事情…总有种迷茫和无力感，越想就越没动力去规划",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，偶尔打打游戏或者听音乐会让我觉得轻松一点吧，那种不用和别人互动的时刻感觉更舒服…但这种满足很短暂，结束后又会回到原来的状态。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，偶尔打打游戏或者听音乐会让我觉得轻松一点吧，那种不用和别人互动的时刻感觉更舒服…但这种满足很短暂，结束后又会回到原来的状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "可能会吧，如果有人能真的听我说，不敷衍我，或者让我觉得自己是重要的，应该会感觉好一些…但现在想想，这种人好像很难遇到。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果有人能真的听我说，不敷衍我，或者让我觉得自己是重要的，应该会感觉好一些…但现在想想，这种人好像很难遇到",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "是的，从小到大好像都没有谁真正听过我的想法，连家人也不例外…这种感觉一直让我觉得自己是不重要的，谁都会忽视我。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，从小到大好像都没有谁真正听过我的想法，连家人也不例外…这种感觉一直让我觉得自己是不重要的，谁都会忽视我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "有一次我试着跟家里人分享自己的兴趣，结果他们没怎么回应，还转头去聊别的事…当时特别难受，感觉自己就像空气一样，根本没人在意我的话。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次我试着跟家里人分享自己的兴趣，结果他们没怎么回应，还转头去聊别的事…当时特别难受，感觉自己就像空气一样，根本没人在意我的话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "是的，从那以后我就很少跟家里人说自己的想法了，觉得说了也没用…现在我们基本只聊些表面的事，像吃饭或者家里的琐事，很少深入交流。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，从那以后我就很少跟家里人说自己的想法了，觉得说了也没用…现在我们基本只聊些表面的事，像吃饭或者家里的琐事，很少深入交流",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得应该还是挺难的吧，每次想试着深入聊聊，心里都会有种害怕被忽视的感觉…就像之前那样，怕再受伤，最后又选择不说了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得应该还是挺难的吧，每次想试着深入聊聊，心里都会有种害怕被忽视的感觉…就像之前那样，怕再受伤，最后又选择不说了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "是的，我总觉得自己在关系里没什么位置，像个可有可无的人…这种不确定感让我不敢主动，也不敢期待别人会真正重视我。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我总觉得自己在关系里没什么位置，像个可有可无的人…这种不确定感让我不敢主动，也不敢期待别人会真正重视我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "可能会有帮助吧，但每次想到主动表达需求，我就会觉得特别难，好像在冒险一样…害怕别人不接受我的想法，甚至觉得我很麻烦。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会有帮助吧，但每次想到主动表达需求，我就会觉得特别难，好像在冒险一样…害怕别人不接受我的想法，甚至觉得我很麻烦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "是的，有时候表达自己的想法，结果却被批评说不懂事或者想得太多…那种感觉特别打击，好像我的需求根本不重要，从那以后就更不敢说了。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，有时候表达自己的想法，结果却被批评说不懂事或者想得太多…那种感觉特别打击，好像我的需求根本不重要，从那以后就更不敢说了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "可能会吧，如果有人真的愿意听我说，并让我感觉自己被重视，应该会让我慢慢敢去表达…但现在好像很少遇到这样的人，感觉挺无力的。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果有人真的愿意听我说，并让我感觉自己被重视，应该会让我慢慢敢去表达…但现在好像很少遇到这样的人，感觉挺无力的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "这听起来是个不错的方向，但我还是有点不确定自己能不能做到…总觉得自己的感受没那么重要，连去关注自己都觉得有些困难。",
+    "has_specific_detail": true,
+    "specific_detail": "这听起来是个不错的方向，但我还是有点不确定自己能不能做到…总觉得自己的感受没那么重要，连去关注自己都觉得有些困难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "或许可以试试吧，记录情绪听起来不会太难，但对自己说肯定的话感觉有点别扭…可能还需要一些时间才能习惯。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试试吧，记录情绪听起来不会太难，但对自己说肯定的话感觉有点别扭…可能还需要一些时间才能习惯",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，写下每天让我开心或者不开心的事听起来是个好办法…比如记下今天玩游戏时放松的感觉，还有和家人聊天时感到有点被忽视的情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下每天让我开心或者不开心的事听起来是个好办法…比如记下今天玩游戏时放松的感觉，还有和家人聊天时感到有点被忽视的情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "可能会吧，回头看记录应该能让我发现一些规律，比如哪些事情容易让我觉得开心或者不舒服…不过还是担心自己坚持不了多久，怕半途放弃。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，回头看记录应该能让我发现一些规律，比如哪些事情容易让我觉得开心或者不舒服…不过还是担心自己坚持不了多久，怕半途放弃",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "嗯，设定一个小目标听起来不会太有压力，一周应该可以试试…每天几句话也挺简单，不会让我觉得负担太大。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，设定一个小目标听起来不会太有压力，一周应该可以试试…每天几句话也挺简单，不会让我觉得负担太大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "嗯，睡前回顾一天挺适合的，那时候心里比较安静，也能集中注意力…这样安排感觉挺好，我可以试着从今晚开始。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，睡前回顾一天挺适合的，那时候心里比较安静，也能集中注意力…这样安排感觉挺好，我可以试着从今晚开始",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "听起来不错，加一句鼓励的话应该会让我觉得稍微好一点吧…虽然可能一开始有点不习惯，但我愿意试试，看看能不能慢慢接受自己。",
+    "has_specific_detail": true,
+    "specific_detail": "听起来不错，加一句鼓励的话应该会让我觉得稍微好一点吧…虽然可能一开始有点不习惯，但我愿意试试，看看能不能慢慢接受自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "嗯，这倒是个好主意，记录完后听首喜欢的歌应该会让我感觉更放松一点…这样做也许能让我更愿意坚持下去，觉得这个过程不那么枯燥。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这倒是个好主意，记录完后听首喜欢的歌应该会让我感觉更放松一点…这样做也许能让我更愿意坚持下去，觉得这个过程不那么枯燥",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "设个完成后的小目标听起来挺不错，比如坚持一周后给自己买点喜欢的零食当奖励…这样会让我更有动力去完成，也觉得这个努力是值得的！",
+    "has_specific_detail": true,
+    "specific_detail": "设个完成后的小目标听起来挺不错，比如坚持一周后给自己买点喜欢的零食当奖励…这样会让我更有动力去完成，也觉得这个努力是值得的！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "嗯，写个鼓励的话贴在桌子上应该挺有用，比如“试着坚持一下，你可以做到！”这样每天看到都会提醒自己别放弃…感觉会更有动力一点。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写个鼓励的话贴在桌子上应该挺有用，比如“试着坚持一下，你可以做到！”这样每天看到都会提醒自己别放弃…感觉会更有动力一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "好，那我就从今晚开始试试！记录感受、写鼓励的话，再放松听听音乐…感觉这个计划挺不错，希望自己能坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "好，那我就从今晚开始试试！记录感受、写鼓励的话，再放松听听音乐…感觉这个计划挺不错，希望自己能坚持下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "谢谢！听你这么说让我感觉踏实了不少，我会试着坚持的。如果有问题或者新的感受，下次再和你聊。今天先到这里吧，晚安！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢！听你这么说让我感觉踏实了不少，我会试着坚持的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

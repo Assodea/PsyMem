@@ -1,0 +1,531 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，上次我们聊到我总觉得生活压得喘不过气来，内心常常自责和无助。这几天我试着用番茄APP控制手机时间，但还是忍不住破戒了，反而更自责了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，上次我们聊到我总觉得生活压得喘不过气来，内心常常自责和无助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，当时其实是写作业的时候，觉得特别烦躁和无力，就随手拿起手机刷了会短视频。后来越刷越久，等意识到时间过去了，突然就很懊悔…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，当时其实是写作业的时候，觉得特别烦躁和无力，就随手拿起手机刷了会短视频",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "这种感觉好像不仅是写作业的时候才有，但写作业时会特别强烈。比如考试快临近时，我一想到要复习就觉得头很重，整个人都很烦躁…",
+    "has_specific_detail": true,
+    "specific_detail": "这种感觉好像不仅是写作业的时候才有，但写作业时会特别强烈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "可能两方面都有吧。一方面总觉得时间不够，复习又多又难，另一方面任务本身确实让我很抗拒，比如有些科目我怎么学都觉得没用…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "更多是觉得对未来没帮助吧，比如历史或者政治，我总觉得这些内容和我以后想做的事情完全没关系，学了也浪费时间…",
+    "has_specific_detail": true,
+    "specific_detail": "更多是觉得对未来没帮助吧，比如历史或者政治，我总觉得这些内容和我以后想做的事情完全没关系，学了也浪费时间…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "其实说不上清晰，只是隐约觉得自己可能更喜欢和技术相关的东西，比如计算机或者编程，但又觉得自己目前的状态可能做不好…",
+    "has_specific_detail": true,
+    "specific_detail": "其实说不上清晰，只是隐约觉得自己可能更喜欢和技术相关的东西，比如计算机或者编程，但又觉得自己目前的状态可能做不好…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是啊，总觉得自己学东西三分钟热度，像之前尝试学编程，没多久就放弃了。每次都是刚开始挺兴奋，但遇到难题或者坚持不下去，就会觉得自己不行…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，总觉得自己学东西三分钟热度，像之前尝试学编程，没多久就放弃了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "应该是都有吧，难题确实很难，但更多是过程让我疲惫。每次花很久时间去琢磨，结果还是弄不懂，就觉得特别挫败，好像再努力也没用…",
+    "has_specific_detail": true,
+    "specific_detail": "应该是都有吧，难题确实很难，但更多是过程让我疲惫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "大多数时候会直接放下不做了，转去玩游戏或者刷手机，让自己别再想那些事。虽然短暂轻松，但过后会觉得更内疚…",
+    "has_specific_detail": true,
+    "specific_detail": "大多数时候会直接放下不做了，转去玩游戏或者刷手机，让自己别再想那些事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能更多是回避吧，每次感到挫败时，内心就会有种“反正做了也没用”的念头，所以干脆放弃了，想着至少玩游戏还能让我感觉好一点…",
+    "has_specific_detail": true,
+    "specific_detail": "可能更多是回避吧，每次感到挫败时，内心就会有种“反正做了也没用”的念头，所以干脆放弃了，想着至少玩游戏还能让我感觉好一点…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "应该是高一的时候吧，那时候几次考试明明努力了，却还是考得很差。父母的失望让我觉得自己再怎么努力，也得不到想要的结果…",
+    "has_specific_detail": true,
+    "specific_detail": "应该是高一的时候吧，那时候几次考试明明努力了，却还是考得很差",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "他们一般会说“你怎么总是这样”“别人都能考好，为什么你不行”，语气很重。有时甚至会直接叹气不说话，那种感觉让我觉得自己特别差劲…",
+    "has_specific_detail": true,
+    "specific_detail": "他们一般会说“你怎么总是这样”“别人都能考好，为什么你不行”，语气很重",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "当时我更多是沉默不语吧，觉得说什么都没用。他们总是只关注我的成绩，根本不会在意我的感受，所以我也懒得沟通了…",
+    "has_specific_detail": true,
+    "specific_detail": "当时我更多是沉默不语吧，觉得说什么都没用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "可能更多是无奈的妥协吧，我知道自己改变不了他们的想法，只能尽量避免冲突，但心里还是会觉得很委屈和压抑…",
+    "has_specific_detail": true,
+    "specific_detail": "可能更多是无奈的妥协吧，我知道自己改变不了他们的想法，只能尽量避免冲突，但心里还是会觉得很委屈和压抑…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "有的，这种压抑感让我对学习越来越抗拒，总觉得自己再怎么努力也不会被认可。后来就开始逃避，玩游戏、看视频，把时间耗在这些事情上…",
+    "has_specific_detail": true,
+    "specific_detail": "有的，这种压抑感让我对学习越来越抗拒，总觉得自己再怎么努力也不会被认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "是啊，现在这种无力感还是很常有。特别是当我试图改变，比如控制手机时间或者专注学习，但又失败时，这种感觉就会更强烈，像掉进了一个出不来的坑…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，现在这种无力感还是很常有",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "偶尔会看看网上一些鼓励的话，比如那些分享改变经验的帖子，有时候会觉得“或许我也能试试”。不过这种动力通常持续不久，很快又会被挫败感压下去…",
+    "has_specific_detail": true,
+    "specific_detail": "偶尔会看看网上一些鼓励的话，比如那些分享改变经验的帖子，有时候会觉得“或许我也能试试”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "可能更多是内心的声音吧，总会想“他们能做到是因为他们足够优秀，而我不行”。这种念头会让我觉得希望只是一种自欺欺人…",
+    "has_specific_detail": true,
+    "specific_detail": "可能更多是内心的声音吧，总会想“他们能做到是因为他们足够优秀，而我不行”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "应该还是从高一那几次考试后开始的吧。努力却没好结果，父母的失望和批评让我开始怀疑自己，觉得自己或许真的不够好，怎么努力都改变不了…",
+    "has_specific_detail": true,
+    "specific_detail": "应该还是从高一那几次考试后开始的吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "有时候在网络课程上学到新知识，比如理解了一个程序代码，能让我短暂觉得自己是有能力的。但这种感觉很快又会被其他难题或者拖延冲淡，像是抓不住一样…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候在网络课程上学到新知识，比如理解了一个程序代码，能让我短暂觉得自己是有能力的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "可能是个起点吧，但每次这种成就感都太短暂了，很难靠它坚持下去。总觉得，哪怕有一点进步，后面还是会被挫败感打回原形…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是个起点吧，但每次这种成就感都太短暂了，很难靠它坚持下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "也许可以吧，但每次记录那些小进步的时候，我可能还是会忍不住想，“这点进步有什么用呢”，总觉得这些小台阶离目标太远了，看不到希望…",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以吧，但每次记录那些小进步的时候，我可能还是会忍不住想，“这点进步有什么用呢”，总觉得这些小台阶离目标太远了，看不到希望…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "听起来是个好办法，但我还是担心自己坚持不下来。之前也试过分步骤去完成一些任务，但一旦某一步失败，就会觉得整件事没意义了，干脆放弃…",
+    "has_specific_detail": true,
+    "specific_detail": "听起来是个好办法，但我还是担心自己坚持不下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "也许会吧，放慢节奏听起来没那么压迫感。但我又担心调整目标会让我觉得自己是在降低要求，像是在承认自己不够好，这种感觉还是挺难接受的…",
+    "has_specific_detail": true,
+    "specific_detail": "也许会吧，放慢节奏听起来没那么压迫感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我没想过调整目标可能是种自我关怀，总觉得承认不足就是一种失败。如果换个角度看，或许是对自己更宽容一点吧，但要真的接受好像还是挺难的…",
+    "has_specific_detail": true,
+    "specific_detail": "我没想过调整目标可能是种自我关怀，总觉得承认不足就是一种失败",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "听起来可以试试，但我可能还是会忍不住想“这真的有用吗”。这种怀疑总让我对改变的尝试很犹豫，好像不敢去相信会有不一样的结果…",
+    "has_specific_detail": true,
+    "specific_detail": "听起来可以试试，但我可能还是会忍不住想“这真的有用吗”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "可能会吧，如果目标只是观察自己，那失败的压力或许会少一些。但我还是担心，哪怕只是观察，最后如果感觉没什么改变，也会让我更失望…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果目标只是观察自己，那失败的压力或许会少一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "可能可以试着关注这些细节，毕竟它们是更容易看到的东西。如果能发现一些积极的变化，或许会让我觉得自己并不是完全没有进步吧…",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以试着关注这些细节，毕竟它们是更容易看到的东西",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "也许可以从控制手机时间重新开始，比如每天减少一点点时间，记录下自己能坚持多久。但我还是怕自己又破戒，会觉得前功尽弃…",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以从控制手机时间重新开始，比如每天减少一点点时间，记录下自己能坚持多久",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "听起来有点道理，如果破戒后还能从中学到点什么，或许不会觉得全是失败吧。但这需要提醒自己去这么想，不然还是容易陷入自责里…",
+    "has_specific_detail": true,
+    "specific_detail": "听起来有点道理，如果破戒后还能从中学到点什么，或许不会觉得全是失败吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "写下感受或者自我鼓励听起来不错，但我可能会觉得“给自己鼓励”有点尴尬，不太习惯这么做。或许可以试着简单记录一下破戒的原因，看看能不能找到一些规律吧…",
+    "has_specific_detail": true,
+    "specific_detail": "写下感受或者自我鼓励听起来不错，但我可能会觉得“给自己鼓励”有点尴尬，不太习惯这么做",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "可能情绪和场景都挺重要的吧，比如当时是因为烦躁还是疲惫，或者周围有没有什么干扰。我觉得这些细节可能会让我更清楚自己为什么会破戒…",
+    "has_specific_detail": true,
+    "specific_detail": "可能情绪和场景都挺重要的吧，比如当时是因为烦躁还是疲惫，或者周围有没有什么干扰",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "用手机备忘录可能会更方便吧，随时随地都能记录。虽然用纸笔感觉更有仪式感，但我怕自己坚持不了，还是用简单一点的方式比较实际…",
+    "has_specific_detail": true,
+    "specific_detail": "用手机备忘录可能会更方便吧，随时随地都能记录",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我觉得随时有感觉就记下来可能更适合我，因为每天回顾的话，可能会拖着拖着就忘了。即时记录也能更真实地反映当下的感受吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得随时有感觉就记下来可能更适合我，因为每天回顾的话，可能会拖着拖着就忘了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "设个提示挺好的，可能每天晚上定个闹钟提醒自己回顾一下有没有遗漏的记录，这样即使白天忘了，也还有机会补上。感觉这样会更安心一点…",
+    "has_specific_detail": true,
+    "specific_detail": "设个提示挺好的，可能每天晚上定个闹钟提醒自己回顾一下有没有遗漏的记录，这样即使白天忘了，也还有机会补上",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "设个一周的观察周期听起来不错，这样时间不会太长，也能让我看到一些初步的规律。到时候如果发现了点什么，或许会觉得自己有在慢慢进步吧…",
+    "has_specific_detail": true,
+    "specific_detail": "设个一周的观察周期听起来不错，这样时间不会太长，也能让我看到一些初步的规律",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "可能就是自己容易忘记或者偷懒吧，有时候明明提醒响了，还是会拖着不去记。所以我觉得需要给自己设个明确的目标，比如至少坚持7天再评估效果，这样可能更有动力一点…",
+    "has_specific_detail": true,
+    "specific_detail": "可能就是自己容易忘记或者偷懒吧，有时候明明提醒响了，还是会拖着不去记",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "如果发现了规律，我可能会试着针对原因调整，比如如果是因为疲惫破戒，就提前安排休息时间；如果是烦躁，就换个更轻松的学习方式。感觉这样会更有针对性一点…",
+    "has_specific_detail": true,
+    "specific_detail": "如果发现了规律，我可能会试着针对原因调整，比如如果是因为疲惫破戒，就提前安排休息时间；如果是烦躁，就换个更轻松的学习方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我觉得就从明天开始吧，趁现在还有点动力，等太久可能又拖下去了。希望这次能坚持下来，看到一些不一样的变化…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得就从明天开始吧，趁现在还有点动力，等太久可能又拖下去了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "好的，谢谢你的鼓励！我会认真去试试这个计划，有什么新的感受或者问题，我再来找你聊。今天先到这里吧，感觉轻松了一些，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，谢谢你的鼓励！我会认真去试试这个计划，有什么新的感受或者问题，我再来找你聊",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "turn": 1,
+    "content": "是的，最近经历了一段很痛苦的事。对方删了我的联系方式，感觉像被彻底否定了…让我特别孤单和无助。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，最近经历了一段很痛苦的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "他对我来说是很重要的人，我们曾经很亲近。我一直以为关系是稳固的，但现在突然被切断…让我觉得自己好像不值得被信任。",
+    "has_specific_detail": true,
+    "specific_detail": "他对我来说是很重要的人，我们曾经很亲近",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "有时候我会觉得是不是我做得不够好，或者哪里没让他满意…但也有一部分觉得可能是他的问题，或许他害怕面对什么。很难判断。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候我会觉得是不是我做得不够好，或者哪里没让他满意…但也有一部分觉得可能是他的问题，或许他害怕面对什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "确实，这种矛盾让我脑子停不下来。其实在关系破裂前，他开始变得冷淡，回复我的信息越来越敷衍，有时甚至不回…我感觉到不对劲，但没敢多问。",
+    "has_specific_detail": true,
+    "specific_detail": "确实，这种矛盾让我脑子停不下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我担心问了会让他觉得我粘人，或者逼得他更远。我希望能让他主动告诉我原因，但他没说，我也不敢去碰这个话题，就只能忍着。",
+    "has_specific_detail": true,
+    "specific_detail": "我担心问了会让他觉得我粘人，或者逼得他更远",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我告诉自己可能是他工作忙或者心情不好，试着给他空间…但其实我内心很焦虑，总担心会失去他，越安慰自己越觉得不安。",
+    "has_specific_detail": true,
+    "specific_detail": "我告诉自己可能是他工作忙或者心情不好，试着给他空间…但其实我内心很焦虑，总担心会失去他，越安慰自己越觉得不安",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "有的，那段时间工作效率也下降了，注意力总是分散，甚至连下班后朋友的聚会都不太想参加…感觉生活里少了支撑点，变得特别空虚。",
+    "has_specific_detail": true,
+    "specific_detail": "有的，那段时间工作效率也下降了，注意力总是分散，甚至连下班后朋友的聚会都不太想参加…感觉生活里少了支撑点，变得特别空虚",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "没有，我一直觉得这事很难开口，害怕别人觉得我太脆弱或者不够独立…连家人都没说，只能自己默默承受。",
+    "has_specific_detail": true,
+    "specific_detail": "没有，我一直觉得这事很难开口，害怕别人觉得我太脆弱或者不够独立…连家人都没说，只能自己默默承受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "有时候会想，如果跟朋友或者家人说，他们可能会安慰我，但也可能觉得我在钻牛角尖…这种不确定性让我犹豫，不敢轻易开口。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候会想，如果跟朋友或者家人说，他们可能会安慰我，但也可能觉得我在钻牛角尖…这种不确定性让我犹豫，不敢轻易开口",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能是一个关系比较好的朋友吧，她平时比较温柔，也会耐心听别人倾诉。但我还是担心，说出来后她会觉得我过于依赖感情，不够理性…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是一个关系比较好的朋友吧，她平时比较温柔，也会耐心听别人倾诉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "或许可以试试，只说一些轻松的部分，比如最近心情不太好，或者提到对方冷淡时的感受…这样可能不会显得太沉重，但我还是有点犹豫。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试试，只说一些轻松的部分，比如最近心情不太好，或者提到对方冷淡时的感受…这样可能不会显得太沉重，但我还是有点犹豫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "都有吧，一方面怕她觉得我情绪化，另一方面也担心聊着聊着会忍不住说太多，最后让自己更难过…所以总是拖着不去说。",
+    "has_specific_detail": true,
+    "specific_detail": "都有吧，一方面怕她觉得我情绪化，另一方面也担心聊着聊着会忍不住说太多，最后让自己更难过…所以总是拖着不去说",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "这个办法听起来不错，写下来或许能让我理清思绪，也能避免说太多…但有时候一提笔就觉得难以下手，不知道从哪里开始写。",
+    "has_specific_detail": true,
+    "specific_detail": "这个办法听起来不错，写下来或许能让我理清思绪，也能避免说太多…但有时候一提笔就觉得难以下手，不知道从哪里开始写",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "这样确实简单一些，感觉不需要一下子写得很深，可以慢慢展开…或许能让我更清楚自己究竟在意什么。我可以试试这个方法！",
+    "has_specific_detail": true,
+    "specific_detail": "这样确实简单一些，感觉不需要一下子写得很深，可以慢慢展开…或许能让我更清楚自己究竟在意什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "好的，我会试着写下来，看能不能梳理清楚一些感受。今天先聊到这里吧，谢谢你的倾听！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，我会试着写下来，看能不能梳理清楚一些感受",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  }
+]

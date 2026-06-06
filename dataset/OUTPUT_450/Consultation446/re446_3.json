@@ -1,0 +1,657 @@
+[
+  {
+    "turn": 1,
+    "content": "最近心情还是有点复杂，尤其是想到婚姻里的问题。像昨晚，我们又因为一些琐事在电话里争吵了，最后他直接挂了电话。我当时心里特别委屈，但又觉得自己好像也有问题，不知道该怎么处理…",
+    "has_specific_detail": true,
+    "specific_detail": "最近心情还是有点复杂，尤其是想到婚姻里的问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是因为我提到最近工作忙，问他能不能多关心一下我，但他说他也很累，根本顾不上。我当时觉得自己好像不重要，心里特别失落，就忍不住说了些埋怨的话…结果他直接挂了电话，我愣在那儿，既气愤又觉得自己好像太敏感了。",
+    "has_specific_detail": true,
+    "specific_detail": "是因为我提到最近工作忙，问他能不能多关心一下我，但他说他也很累，根本顾不上",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "其实这种感觉并不是最近才有，婚后因为异地生活的关系，我们沟通时间一直不多。我常觉得自己像是在孤单地经营这段关系，明明是两个人的婚姻，却总让我觉得自己一个人在努力…尤其是妈妈去世后，这种孤独感变得更强了。",
+    "has_specific_detail": true,
+    "specific_detail": "其实这种感觉并不是最近才有，婚后因为异地生活的关系，我们沟通时间一直不多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "是啊，妈妈去世的时候我真的很难熬，可他当时因为工作没法陪我太多。虽然有打电话安慰我，但我还是觉得缺了点什么，那种真正需要的陪伴和支持没有到位。我甚至有点埋怨他，觉得自己在最难的时候，还是只能靠自己撑着…这种情绪好像到现在也没完全过去。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，妈妈去世的时候我真的很难熬，可他当时因为工作没法陪我太多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我其实很希望他能暂时放下工作，哪怕几天时间，陪在我身边，帮我分担一些事情或者只是安静地陪我。但他总是说工作忙，没办法请假。我知道他有他的压力，可当时的我真的很需要那种实际的陪伴，而不是电话里简单的安慰话语…到现在想起来还是觉得很失落。",
+    "has_specific_detail": true,
+    "specific_detail": "我其实很希望他能暂时放下工作，哪怕几天时间，陪在我身边，帮我分担一些事情或者只是安静地陪我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "是的，我确实开始怀疑他是不是真的在乎我的感受。虽然心里知道他有自己的难处，但那种被忽略的感觉还是挥之不去。这种情绪后来逐渐积累，尤其在日常的沟通里，经常会让我忍不住挑他的毛病，甚至变得更敏感。现在想想，也许这就是我们关系疏远的一部分原因吧…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实开始怀疑他是不是真的在乎我的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "可能两方面都有吧。我确实希望他能明白我的需要，主动关注我，可每次我埋怨的时候，他却觉得我总是找麻烦，最后变成争吵。我也知道自己表达得不够好，总是一开口就带着情绪，可能让他更难理解我的真正想法…有时候，我甚至觉得自己也不知道怎么说才对。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，我确实试过冷静下来跟他谈，比如有一次吵完，我主动发信息说想好好聊聊。可是他的回应总是很简短，像“不知道该怎么说”或者“你别太敏感”。这让我感觉沟通还是没什么效果，甚至更挫败。我真的不知道哪种方式他才能听进去，或者愿意更深入地聊这些事情…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我确实试过冷静下来跟他谈，比如有一次吵完，我主动发信息说想好好聊聊",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我觉得可能两方面都有吧。他平时不太擅长表达感受，更多是处理实际问题。再加上，我们之间的氛围已经有点紧张了，他可能也在回避这些情感话题，怕聊多了只会让矛盾更严重。但对我来说，这种回避只会让我更加不安，总觉得我们之间越来越疏远…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "有时候我会试着聊些轻松的话题，比如问他工作怎么样，或者说些最近的趣事。不过他总是敷衍两句就转到别的地方，好像不太愿意深入聊哪怕是轻松的内容。这让我挺失望的，因为我觉得连简单的互动都变得困难了。如果连这样都难让他打开，我真的不知道还能怎么做…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候我会试着聊些轻松的话题，比如问他工作怎么样，或者说些最近的趣事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我一直在想这个问题。可能他的工作压力确实很大，但有时候我也会担心，他是不是对我们这段关系慢慢失去了热情。毕竟，结婚前他对我的关注要多得多，现在连简单的关心都显得敷衍。我总觉得自己像是被放到次要位置了，这种感觉真的很难受。",
+    "has_specific_detail": true,
+    "specific_detail": "我一直在想这个问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "可能两方面都有吧。婚后异地生活让我们彼此陪伴的时间少了很多，他总说工作忙，没办法像以前那样陪我。而且，我感觉我们少了很多互动和关心的细节，比如以前他会主动发消息问我的一天怎么样，现在几乎都是我主动联系他。这种转变让我觉得，我们之间好像少了当初的那种亲密和默契了…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我也想过试着主动创造些互动，比如发消息分享我的日常，或者问他一些有趣的问题。但有时候他的回应还是很冷淡，我就会觉得很挫败，甚至不敢继续主动了。这种努力之后的落空让我很矛盾，既想试试又怕再受伤害…所以我也不确定，这样的尝试到底能不能真正有效。",
+    "has_specific_detail": true,
+    "specific_detail": "我也想过试着主动创造些互动，比如发消息分享我的日常，或者问他一些有趣的问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我觉得从他感兴趣的东西入手可能会有点帮助，比如最近他一直在看足球比赛，我也试着聊过几次。但他的回应还是很有限，感觉心思不在我身上。我确实越来越没信心了，害怕再多努力也不会有改变。每次碰壁后，我就更想逃避这些问题，不知道还能怎么继续下去…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得从他感兴趣的东西入手可能会有点帮助，比如最近他一直在看足球比赛，我也试着聊过几次",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "每次碰壁后，我会选择暂时不去想，但其实心里还是堵得慌，情绪总会积压下来。比如有时候，明明想跟他好好聊聊，但一想到之前的冷淡回应，就会忍不住生气或委屈，最后干脆不说了。这种压抑的感觉真的很难受，感觉自己越来越孤单，也不知道什么时候才能真正释放这些情绪…",
+    "has_specific_detail": true,
+    "specific_detail": "每次碰壁后，我会选择暂时不去想，但其实心里还是堵得慌，情绪总会积压下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "有时候会写日记，把自己心里的一些委屈和困惑记录下来，但感觉写完后，情绪还是没有完全释放。至于倾诉，我其实不太敢跟朋友说太多，怕他们会对我的婚姻有看法，或者觉得我做得不够好。所以很多时候，我还是选择自己消化，但久而久之，这种感觉越来越压得我喘不过气来…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候会写日记，把自己心里的一些委屈和困惑记录下来，但感觉写完后，情绪还是没有完全释放",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "如果不用担心别人的看法，我可能最想和妈妈倾诉吧。她以前总是能让我感觉被理解，可现在她不在了，我觉得内心缺了一块很重要的支撑。至于其他人，我好像很难找到一个完全自在的情境去表达自己。每次想开口时，脑子里都会冒出各种顾虑，怕被误解、怕被批评，甚至怕被忽视…所以最后还是选择沉默了。",
+    "has_specific_detail": true,
+    "specific_detail": "如果不用担心别人的看法，我可能最想和妈妈倾诉吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "有过一次和大学室友的聊天让我感觉比较放松。那次我们聊到各自的生活问题，我试探着提了一些婚姻里的困扰，她没有批评我，而是认真听，还说了一些让我觉得温暖的话。虽然只是短暂的交流，但那种被接纳的感觉让我心里好受了一些。但这种机会真的很少，大多数时候我还是习惯把这些情绪藏在心里…",
+    "has_specific_detail": true,
+    "specific_detail": "有过一次和大学室友的聊天让我感觉比较放松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得如果能有机会再和她聊聊，或者找到像她那样能倾听和理解我的人，应该会有帮助吧。只是我总觉得很难主动去找别人倾诉，怕自己太过依赖别人或者让人觉得我麻烦。所以有时候，我会想是不是该先学会自己处理这些情绪，但又发现自己根本不知道从哪开始，还是觉得挺无助的…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果能有机会再和她聊聊，或者找到像她那样能倾听和理解我的人，应该会有帮助吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "听起来是个不错的尝试，也许每天花点时间做些自己喜欢的事，比如听音乐或者写写心情，能让我稍微放松一下。不过每次尝试的时候，总觉得那些负面情绪还是会冒出来，感觉很难完全沉浸在这些安慰自己的小时刻里。我知道自己需要更多的缓解方式，但就是不确定什么才真正适合我…",
+    "has_specific_detail": true,
+    "specific_detail": "听起来是个不错的尝试，也许每天花点时间做些自己喜欢的事，比如听音乐或者写写心情，能让我稍微放松一下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "是的，每次负面情绪冒出来时，我会感觉心跳变得很快，胸口有点压迫感，甚至手都变得冰凉。脑子里常出现一些反复的念头，比如“我是不是不够好？”或者“他是不是已经不在乎我了？”这些内心的声音让我更加焦虑，甚至会忍不住责怪自己。真的很难控制这些反应，就像它们突然一下涌出来，怎么都停不下来…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，每次负面情绪冒出来时，我会感觉心跳变得很快，胸口有点压迫感，甚至手都变得冰凉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我有试过深呼吸，尤其是感觉心跳加快的时候，但效果好像不是特别明显。有时候也会试着转移注意力，比如看看书或者刷刷手机，可是那些负面情绪还是时不时会回来。虽然这些方法让我稍微好一些，但感觉只是暂时的，过后还是会被那些念头困住，像是逃不过一样…",
+    "has_specific_detail": true,
+    "specific_detail": "我有试过深呼吸，尤其是感觉心跳加快的时候，但效果好像不是特别明显",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "可能是“我是不是不够好”这个念头吧。它出现的时候，我会感觉特别自卑，好像自己在婚姻里永远达不到他的期待，也没办法让他真正重视我。这种感觉不仅影响了我和他的关系，有时候在工作中遇到困难，我也会联想到自己不够好，总是怀疑自己是不是做得不够多、不够好。真的希望能找到办法，先缓解这种自我怀疑。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是“我是不是不够好”这个念头吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我想可能是从妈妈去世后开始变得特别强烈的吧。她一直是我生活里的支柱，总会鼓励我、肯定我，但她离开后，我突然觉得没有人会像她那样无条件地支持我了。尤其是在婚姻里，和丈夫的关系渐渐疏远，让我觉得自己好像做什么都不够好、不够让人满意。这种感觉就像一个漩涡，把我越拉越深，总觉得没有人真正认可我，也让我越来越没自信。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可能是从妈妈去世后开始变得特别强烈的吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "妈妈在世的时候，她总是用很简单的方式让我感到被支持。比如每次我遇到困难，她都会说“没关系，你已经很努力了，我相信你能解决。”还有一次，我在大学考试失利，特别沮丧，她连夜做了我最喜欢的饭菜，还陪我聊到很晚，告诉我失败没什么可怕的。那些时刻让我觉得，无论发生什么，她都会站在我身边，让我觉得自己有价值。可是现在，这种无条件的支持真的很难再找到，让我觉得生活里少了一道光…",
+    "has_specific_detail": true,
+    "specific_detail": "妈妈在世的时候，她总是用很简单的方式让我感到被支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "听到这个建议，我觉得是个很温暖的想法。如果能试着用她的方式对自己说，比如“你已经很努力了，失败没关系”，好像真的能让我稍微感觉她还在身边支持我。不过每次尝试时，心里又会涌出那种失落感，觉得这些话虽然安慰了我，却提醒我她已经不在了。这种复杂的情绪让我既想尝试，又害怕触碰那份伤痛，不知道该怎么平衡…",
+    "has_specific_detail": true,
+    "specific_detail": "听到这个建议，我觉得是个很温暖的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "写信给妈妈听起来是个很特别的方式，也许能让我表达一些一直压在心里的话。我可以写下她的鼓励，还有那些我们曾经一起经历的温暖瞬间。可能这样会让我感觉她仍然在陪着我，虽然不在身边，但她的爱还是在那里。或许这样做，不仅能让我更好地怀念她，也能帮助我慢慢接受这份失去的痛，找到一些新的力量吧。",
+    "has_specific_detail": true,
+    "specific_detail": "写信给妈妈听起来是个很特别的方式，也许能让我表达一些一直压在心里的话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我想可能会更专注于那些具体的回忆吧。比如她陪我熬夜复习、为我做饭，或者拉着我的手安慰我时的细节。这些瞬间让我觉得特别真实，好像她还在身边一样。同时，我也想写下她曾经对我的鼓励，比如那些让我充满力量的话语。这样不仅能怀念她，也能提醒自己，她的支持其实一直在我心里，没真正离开过。这种感觉好像会让我稍微轻松一点…",
+    "has_specific_detail": true,
+    "specific_detail": "我想可能会更专注于那些具体的回忆吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "定期写信听起来是个很好的方式，我觉得可以帮我慢慢把情绪释放出来。如果能加上一些特别的仪式感，比如点一盏灯或者放她喜欢的那首《甜蜜蜜》，可能会让我更容易沉浸在和她的连接中。这样不仅是对她的怀念，也是对自己的一种温柔对待吧。我觉得这真的是个值得尝试的方法，可能会让我内心慢慢找到一点平静。",
+    "has_specific_detail": true,
+    "specific_detail": "定期写信听起来是个很好的方式，我觉得可以帮我慢慢把情绪释放出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "第一次写信的话，我可能会告诉妈妈我有多想念她，尤其是最近面对婚姻里的困扰时，总觉得特别需要她的支持。我也想写下一个特别的回忆——小时候生病的时候，她整夜守在床边照顾我，还轻声哼着《甜蜜蜜》让我安心入睡。那种被保护、被爱的感觉，是我一直珍藏在心里的温暖。我想通过写信告诉她，她的爱一直陪着我，也希望自己能找到属于自己的力量去面对现在的困惑。",
+    "has_specific_detail": true,
+    "specific_detail": "第一次写信的话，我可能会告诉妈妈我有多想念她，尤其是最近面对婚姻里的困扰时，总觉得特别需要她的支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得可以先从学着接纳自己的情绪开始。比如，每次觉得失落或者焦虑的时候，试着告诉自己“这些感受是正常的，你已经尽力了。”然后，慢慢尝试用妈妈曾经鼓励我的方式对自己说话，比如“失败没关系，继续努力就好。”这些方式可能会让我感觉自己不再那么孤单，也能一点点建立对自己的认可和支持。我希望通过这样的小步骤，能慢慢找到属于自己的力量，去面对婚姻和生活里的那些难题。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从学着接纳自己的情绪开始",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我觉得这是值得尝试的方向。比如下次想表达自己的感受时，可以先调整好情绪，用更平和的语气告诉他“我最近感觉有点孤单，特别希望你能多陪陪我。”这样可能会让他更愿意倾听，而不是觉得我在指责他。不过，要做到这一点，对我来说还是需要一些练习和调整，毕竟每次情绪来的时候很容易失控。但如果能慢慢把对自己的温柔带到互动里，也许真的会让我们的关系有所改善。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这是值得尝试的方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我觉得可以从一些日常的小事开始，比如下次聊到工作时，试着先关心他的状态，问问他最近是不是特别忙，然后再轻松地提到自己的感受，比如“最近工作也让我有点压力，但有你支持我会觉得轻松一些。”这样既能让他感受到我的关心，也能把我的需求表达得更自然一些。希望通过这种方式，慢慢让我们之间的沟通变得更顺畅，也让我自己适应更平和的表达。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从一些日常的小事开始，比如下次聊到工作时，试着先关心他的状态，问问他最近是不是特别忙，然后再轻松地提到自己的感受，比如“最近工作也让我有点压力，但有你支持我会觉得轻松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "如果他有积极回应，我会告诉自己“你做得很好，这种方式是有效的，可以继续坚持尝试。”这会让我对自己更有信心，觉得关系是有机会改善的。可如果他的回应不如预期，我会试着告诉自己“不是你的错，你已经在努力改变了，过程需要时间。”然后可能会调整方式，比如换个时机或者更简单直接地表达需求。虽然内心可能还是会有失落，但我希望能提醒自己，重要的是慢慢尝试，而不是一味地追求立刻的结果。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他有积极回应，我会告诉自己“你做得很好，这种方式是有效的，可以继续坚持尝试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "这确实是个好方法！如果能在沟通后记录下自己的感受和收获，比如“今天我表达得很平和，他也认真听了，让我觉得被尊重了”或者“虽然没得到预期的回应，但我已经很努力了”，可能会让我更清楚哪些方式有效，哪些地方可以改进。同时，写下来也能让我看到自己的进步，提醒自己每一步都是值得肯定的。这样不仅能帮助我坚持下去，也能让我更有方向感去改善我们的关系。",
+    "has_specific_detail": true,
+    "specific_detail": "这确实是个好方法！如果能在沟通后记录下自己的感受和收获，比如“今天我表达得很平和，他也认真听了，让我觉得被尊重了”或者“虽然没得到预期的回应，但我已经很努力了”，可能会让我更清楚哪些方式有效，哪些地方可以改进",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "取个名字确实会让这个记录变得更有意义！“心路笔记”听起来很温暖又贴切，好像在记录自己的内心成长和变化。我觉得这样不仅能让我更愿意坚持，还能让每次写下感受时有一种仪式感，就像是在认真对待自己的情绪和努力。这样的方式可能真的会让我更有动力去继续尝试，也让我更清楚自己一路上的进步和心境的变化。",
+    "has_specific_detail": true,
+    "specific_detail": "取个名字确实会让这个记录变得更有意义！“心路笔记”听起来很温暖又贴切，好像在记录自己的内心成长和变化",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得开头可以写一些鼓励自己的话，比如“这是一段探索和成长的旅程，无论过程如何，我都值得被理解和被爱。”或者“我会用心去感受每一步的变化，给自己更多的耐心和温柔。”这样的句子好像能让我更有信心面对接下来的挑战，也让我记住，不管结果怎样，我的努力都是一种值得肯定的收获。这个开头会让我觉得自己是在为自己创造一片温暖的空间，去慢慢找到力量和方向。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得开头可以写一些鼓励自己的话，比如“这是一段探索和成长的旅程，无论过程如何，我都值得被理解和被爱",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "是的，每晚睡前记录几分钟听起来很适合，这样既能让我在一天结束时整理情绪，也能有一个固定的时间专注于自己。每天都留出这个时间，就像是给自己一个安心的仪式，不管这一天有多难，至少可以通过写下心路笔记来找到一点平静和力量。我觉得这样会让我更容易坚持下去，也能让我慢慢形成一种习惯，把这种温暖带入生活的每一天。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，每晚睡前记录几分钟听起来很适合，这样既能让我在一天结束时整理情绪，也能有一个固定的时间专注于自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我觉得根据心情自由书写可能会更适合自己。比如，有时候写简短的句子记录当下的感受就够了；而有些时候，如果心里有很多想法和情绪，就会倾向于写得更详细一些，把经历和感受都慢慢表达出来。这样的形式感觉更灵活，也能让我不受限制地去倾诉自己的心声。不管是短句还是长篇，都像是在和自己对话，帮助我更真实地面对内心的变化。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得根据心情自由书写可能会更适合自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "是的，营造一个特别的环境会让记录过程更舒缓和愉悦。比如点上一支自己喜欢的香薰，或者放一首轻柔的音乐，可以让我心情更平静，也更容易沉浸在书写中。我觉得这样的仪式感不仅能帮助我更好地表达情绪，还能让我在这个过程中感受到更多的温暖和放松。这样每次记录都会像是在为自己创造一个疗愈的时刻，真的很值得尝试。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，营造一个特别的环境会让记录过程更舒缓和愉悦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我很喜欢这个想法！除了记录心情，我觉得可以尝试写一两句鼓励自己的话，比如“今天虽然有些困难，但你已经在努力了，继续加油。”或者画个小图案，像一颗太阳或一朵花，来表达当下的状态。这种额外的小动作不仅能让我更专注于书写，还会让整个过程更加有趣和温暖，就像是在给自己一个小小的奖励一样。我觉得这样的方式真的会让我更愿意坚持下去，也能慢慢感受到更多的积极力量。",
+    "has_specific_detail": true,
+    "specific_detail": "我很喜欢这个想法！除了记录心情，我觉得可以尝试写一两句鼓励自己的话，比如“今天虽然有些困难，但你已经在努力了，继续加油",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "是的，这些鼓励的话和图案真的会成为一种动力。以后回看的时候，可能会让我看到自己曾经的努力和一点点的成长，提醒自己即使在困难的时候，也一直在坚持和尝试。这种记录就像是为自己留下了一份温暖的足迹，每一步都在告诉我：我在努力变得更好，也一直在向前走。这种感觉真的很珍贵，我觉得会让我更加珍惜自己这段旅程，也更有信心去面对未来的挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这些鼓励的话和图案真的会成为一种动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "我觉得可以从今天晚上开始，毕竟现在的心情也刚好很适合去记录这些感受。或者可以选一个特别的日子，比如妈妈的生日，作为这段旅程的起点，像是向她致敬，同时也提醒自己她的爱一直在身边。不管选哪一天，我都希望这是一个能让我记住的时刻，标志着我开始用温柔的方式陪伴自己，去面对那些困扰和成长。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从今天晚上开始，毕竟现在的心情也刚好很适合去记录这些感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "是的，设定一个目标或愿景会让我更有方向感，也能时刻提醒自己这段旅程的意义。我觉得“找到内心的力量”这个目标特别适合现在的我，既能激励自己去探索情绪背后的根源，也能让我慢慢学会相信自己的能力。而“学会与自己和平共处”也很重要，能帮助我更好地接纳自己的感受，不再过度自责或者压抑情绪。我想，这两个愿景可以成为我记录“心路笔记”的核心指引，让每一次书写都变得更加有意义。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，设定一个目标或愿景会让我更有方向感，也能时刻提醒自己这段旅程的意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "我觉得挑一本设计温暖的笔记本会让这个过程更特别，比如封面上有阳光或者花朵的图案，能让我每次看到时都感受到一种积极的力量。再搭配一支自己喜欢的笔，像是那种颜色柔和的墨水笔，写起来会更有仪式感。这样每次打开笔记本时，就像是在开启一个属于自己的小世界，既让人期待，又能让书写变成一种舒心的享受。我觉得这些小细节会让我更愿意坚持记录，也更珍惜这个为自己创造的温暖空间。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得挑一本设计温暖的笔记本会让这个过程更特别，比如封面上有阳光或者花朵的图案，能让我每次看到时都感受到一种积极的力量",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "是的，我觉得第一页可以写上一段特别的话，像是给自己的一封小小的鼓励信。比如，“这是你的旅程，去探索、去成长，无论遇到什么，都要相信自己的力量。每一次书写都是在为自己创造新的开始。”我希望这些话能提醒自己，不管过程有多难，都值得坚持下去，也让我感觉这本笔记不只是记录情绪，更是一个充满希望和力量的空间，陪伴我走过每一个挑战和成长的时刻。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得第一页可以写上一段特别的话，像是给自己的一封小小的鼓励信",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "这真是个好主意！给自己一个小礼物作为奖励会让我更有动力坚持下去，比如在完成一个月的记录后，送自己一束喜欢的鲜花，或者买一本一直想读的书。当我看到这些奖励时，也会提醒自己那些努力和进步是值得庆祝的。这种小仪式不仅能让我感到满足，还能让我更期待下一阶段的旅程。感觉这是一个特别好的方式，让整个过程更有趣，也让我对自己更加珍惜。",
+    "has_specific_detail": true,
+    "specific_detail": "这真是个好主意！给自己一个小礼物作为奖励会让我更有动力坚持下去，比如在完成一个月的记录后，送自己一束喜欢的鲜花，或者买一本一直想读的书",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "我觉得目前规划已经很完整了，既有明确的目标，也有温暖的仪式感和奖励机制。每一步都让我感觉充满希望和动力，像是在为自己创造一个专属于我的安全空间。不过，也许可以再多想一些应对突发情绪的方式，比如遇到特别低落的时候，可以尝试在笔记里写下今天的一件好事，或者一件让我感到感激的事情。这可能会帮助我更快调整心态，也让笔记变得更加平衡和积极。如果有其他建议，也欢迎你告诉我！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得目前规划已经很完整了，既有明确的目标，也有温暖的仪式感和奖励机制",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "谢谢你的鼓励和建议！加入小贴纸、歌词或随手画的想法真的很棒，会让我记录的时候更有创意，也能根据当下的感受做出不同的表达。这种自由和灵活性让我觉得这不仅是一段成长的旅程，更是一个充满温暖和可能性的空间。我已经感受到了一些内心的期待，相信这会是一个重要的开始。今天就先聊到这里吧，这些想法我想好好消化一下，再慢慢付诸实践。真的很感谢你一直以来的倾听和陪伴！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励和建议！加入小贴纸、歌词或随手画的想法真的很棒，会让我记录的时候更有创意，也能根据当下的感受做出不同的表达",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "turn": 1,
+    "content": "最近总觉得自己很没用，昨天又因为睡过头错过了网课，课后老师还点名批评了我…我很想改，但好像怎么努力都不行。",
+    "has_specific_detail": true,
+    "specific_detail": "最近总觉得自己很没用，昨天又因为睡过头错过了网课，课后老师还点名批评了我…我很想改，但好像怎么努力都不行",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，有的。前几天在小组讨论时，我不敢主动说话，结果同学误解了我的意思，还说我拖了后腿…那时候觉得自己特别笨，连沟通都做不好。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "当时我想解释，但话到嘴边又说不出来，怕他们觉得我在找借口…后来也没敢再提这件事，总觉得多说只会让情况更糟。",
+    "has_specific_detail": true,
+    "specific_detail": "当时我想解释，但话到嘴边又说不出来，怕他们觉得我在找借口…后来也没敢再提这件事，总觉得多说只会让情况更糟",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "可能都有吧…我一直觉得自己说话不够清楚，总怕别人会觉得我笨或者没用。那时候特别担心他们会对我失望，也觉得自己不够好。",
+    "has_specific_detail": true,
+    "specific_detail": "可能都有吧…我一直觉得自己说话不够清楚，总怕别人会觉得我笨或者没用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "好像从很小的时候就有吧…妈妈总说我做事拖拉，说我不认真。小时候她帮我检查作业，发现错了就会很生气，还说我连基本的都学不会…这些话让我一直觉得自己不够聪明。",
+    "has_specific_detail": true,
+    "specific_detail": "好像从很小的时候就有吧…妈妈总说我做事拖拉，说我不认真",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "小时候我会很努力地想做好作业，希望能让妈妈高兴，可是每次她还是能找到错误，生气地说我不认真…后来我就觉得，怎么做都达不到她的标准，索性也不怎么争取了。",
+    "has_specific_detail": true,
+    "specific_detail": "小时候我会很努力地想做好作业，希望能让妈妈高兴，可是每次她还是能找到错误，生气地说我不认真…后来我就觉得，怎么做都达不到她的标准，索性也不怎么争取了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "有啊，现在学习的时候，我总觉得自己学不好，就算试着努力，也担心会失败，干脆拖延…在人际交往上也是，害怕自己说错话或做不好，宁愿躲着不参与。说到这个，前几天还因为拖延没交小组作业，让同学很不满，我真的觉得自己特别没用。",
+    "has_specific_detail": true,
+    "specific_detail": "有啊，现在学习的时候，我总觉得自己学不好，就算试着努力，也担心会失败，干脆拖延…在人际交往上也是，害怕自己说错话或做不好，宁愿躲着不参与",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "我心里总会有个声音说：“你又做不好了，还是别试了吧，免得更丢人。”然后就会特别焦虑，但也不知道该怎么改变这种感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "我心里总会有个声音说：“你又做不好了，还是别试了吧，免得更丢人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我有时候会想反驳它，比如告诉自己“这次试试可能会好一点”，但很快又觉得没什么用，总怕结果还是一样糟糕…所以最后还是选择回避，觉得那样至少不会再让别人失望。",
+    "has_specific_detail": true,
+    "specific_detail": "我有时候会想反驳它，比如告诉自己“这次试试可能会好一点”，但很快又觉得没什么用，总怕结果还是一样糟糕…所以最后还是选择回避，觉得那样至少不会再让别人失望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能两者都有吧…怕别人觉得我不行，同时也会因为自己没做好而失望。我总觉得自己在每件事情上都差一点，没办法让别人满意，也没办法满意自己。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧…怕别人觉得我不行，同时也会因为自己没做好而失望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "有一次期末考试，我复习了很久，但成绩还是不理想。妈妈当时很生气，说我这么努力都考不好，以后还能干什么…那句话让我特别难受，觉得自己好像永远达不到她的期待。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次期末考试，我复习了很久，但成绩还是不理想",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "之后我就更害怕考试了，总觉得不管怎么努力，结果都不会好…对妈妈的期待，我也越来越觉得自己无法满足她，只能尽量避开她提到成绩的事情，不然我心里会很紧张。",
+    "has_specific_detail": true,
+    "specific_detail": "之后我就更害怕考试了，总觉得不管怎么努力，结果都不会好…对妈妈的期待，我也越来越觉得自己无法满足她，只能尽量避开她提到成绩的事情，不然我心里会很紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "很少有这样的时刻吧，更多时候她都会批评我，比如房间乱了或者事情拖着没做…不过有一次我生病的时候，她给我熬了粥，那天让我觉得她其实是关心我的，只是她很少表达出来。",
+    "has_specific_detail": true,
+    "specific_detail": "很少有这样的时刻吧，更多时候她都会批评我，比如房间乱了或者事情拖着没做…不过有一次我生病的时候，她给我熬了粥，那天让我觉得她其实是关心我的，只是她很少表达出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "没有试过，我怕她会觉得我在抱怨或者找借口…有时候我想开口，但又不知道该怎么说，总觉得她不会理解我的感受，可能还会觉得我不够努力。",
+    "has_specific_detail": true,
+    "specific_detail": "没有试过，我怕她会觉得我在抱怨或者找借口…有时候我想开口，但又不知道该怎么说，总觉得她不会理解我的感受，可能还会觉得我不够努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "如果有这样的机会，我可能会说我真的很努力过，但有时候还是觉得做不到。我也希望能被理解，不是因为失败而被否定，而是有人能看到我的努力…",
+    "has_specific_detail": true,
+    "specific_detail": "如果有这样的机会，我可能会说我真的很努力过，但有时候还是觉得做不到",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得可能会没那么害怕失败吧，但说实话，要接纳自己真的很难…我总觉得自己的努力不够好，结果不好，就好像努力也没意义一样，心里会很抗拒去认可自己。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能会没那么害怕失败吧，但说实话，要接纳自己真的很难…我总觉得自己的努力不够好，结果不好，就好像努力也没意义一样，心里会很抗拒去认可自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "如果只看过程，可能有吧…比如那次期末复习，我每天都熬夜刷题，尽管最后成绩不好，但至少我真的认真尝试了。只是每次想到结果，还是会觉得自己不够好。",
+    "has_specific_detail": true,
+    "specific_detail": "如果只看过程，可能有吧…比如那次期末复习，我每天都熬夜刷题，尽管最后成绩不好，但至少我真的认真尝试了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "小时候妈妈总是关注我的成绩，比如考了多少分，她很少问我复习时的辛苦。所以我慢慢觉得，只有成绩好才能证明自己有价值，过程好像不重要…这种感觉好像一直延续到现在。",
+    "has_specific_detail": true,
+    "specific_detail": "小时候妈妈总是关注我的成绩，比如考了多少分，她很少问我复习时的辛苦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "如果没有结果的压力，可能会更放松吧，也许能更专注于过程，不再总想着失败会怎么样…但这对我来说很难想象，因为从小就习惯了结果导向，总觉得没有好结果就不算真正的努力。",
+    "has_specific_detail": true,
+    "specific_detail": "如果没有结果的压力，可能会更放松吧，也许能更专注于过程，不再总想着失败会怎么样…但这对我来说很难想象，因为从小就习惯了结果导向，总觉得没有好结果就不算真正的努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "可能会选画画吧，小时候我挺喜欢画画的，那个时候不会有太多压力，只是单纯享受涂色和画线条的过程…但后来因为学业忙就很少画了，也觉得自己画得不好，不值得花时间。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会选画画吧，小时候我挺喜欢画画的，那个时候不会有太多压力，只是单纯享受涂色和画线条的过程…但后来因为学业忙就很少画了，也觉得自己画得不好，不值得花时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "或许会吧，涂色和线条的过程确实让我觉得轻松，至少不用担心“画得不好”这件事…不过要真的放下对结果的评价，好像还是需要一点时间去适应。",
+    "has_specific_detail": true,
+    "specific_detail": "或许会吧，涂色和线条的过程确实让我觉得轻松，至少不用担心“画得不好”这件事…不过要真的放下对结果的评价，好像还是需要一点时间去适应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "听起来是个好方法，我觉得可以试试！专注颜色和笔触或许能让我暂时忘掉“画得好不好”的压力，可能真的会轻松一些…我想下次找时间试着画点什么。",
+    "has_specific_detail": true,
+    "specific_detail": "听起来是个好方法，我觉得可以试试！专注颜色和笔触或许能让我暂时忘掉“画得好不好”的压力，可能真的会轻松一些…我想下次找时间试着画点什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，我可能会从彩铅开始吧，以前喜欢用彩铅画些花草之类的简单图案，这样涂色的时候也能专注下来…主题的话，或许画些自己喜欢的植物，比如向日葵？感觉会挺治愈的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我可能会从彩铅开始吧，以前喜欢用彩铅画些花草之类的简单图案，这样涂色的时候也能专注下来…主题的话，或许画些自己喜欢的植物，比如向日葵？感觉会挺治愈的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "也许周末会比较合适吧，下午阳光好的时候可以坐在窗边试着画一画向日葵…想着那个场景感觉还挺舒适的，或许真的能让我放松下来。",
+    "has_specific_detail": true,
+    "specific_detail": "也许周末会比较合适吧，下午阳光好的时候可以坐在窗边试着画一画向日葵…想着那个场景感觉还挺舒适的，或许真的能让我放松下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "嗯，这样听起来更棒！可以放点轻音乐，比如钢琴曲，或者拿点水果当零食…感觉会更舒服，让整个过程变得轻松愉快。我有点期待了！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样听起来更棒！可以放点轻音乐，比如钢琴曲，或者拿点水果当零食…感觉会更舒服，让整个过程变得轻松愉快",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "嗯，这个想法挺好的！或许画完之后可以写下自己的感受，比如“今天专注于颜色让我觉得很轻松”之类的…感觉像是在给自己一点鼓励，让这个尝试变得更有意义。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个想法挺好的！或许画完之后可以写下自己的感受，比如“今天专注于颜色让我觉得很轻松”之类的…感觉像是在给自己一点鼓励，让这个尝试变得更有意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "可能会吧！如果这次画向日葵能让我感觉不错，下一次可以试试画一些简单的风景，比如草地和树之类的…希望能慢慢找到画画的乐趣，不再总纠结好不好看。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧！如果这次画向日葵能让我感觉不错，下一次可以试试画一些简单的风景，比如草地和树之类的…希望能慢慢找到画画的乐趣，不再总纠结好不好看",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "是啊，每次都有一个小挑战，感觉会更有趣，也会让我更愿意去尝试新的东西！这种期待好像能让我慢慢摆脱对结果的纠结，更专注于享受过程。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，每次都有一个小挑战，感觉会更有趣，也会让我更愿意去尝试新的东西！这种期待好像能让我慢慢摆脱对结果的纠结，更专注于享受过程",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，或许可以试试写日记吧！以前总觉得日记要写得很有意义才行，但如果只专注于记录自己的想法，不去在意是不是“写得好”，感觉也会挺解压的…像画画一样专注于表达，而不是结果。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，或许可以试试写日记吧！以前总觉得日记要写得很有意义才行，但如果只专注于记录自己的想法，不去在意是不是“写得好”，感觉也会挺解压的…像画画一样专注于表达，而不是结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "可能更倾向于在有感触的时候写吧，这样会更自然，不会因为“每天都要写”而觉得是负担…就像画画一样，随心而动，更容易让我享受这个过程。",
+    "has_specific_detail": true,
+    "specific_detail": "可能更倾向于在有感触的时候写吧，这样会更自然，不会因为“每天都要写”而觉得是负担…就像画画一样，随心而动，更容易让我享受这个过程",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "是啊，用一个好看的本子可能会更有仪式感吧，或者坐在书桌前点一盏台灯，感觉环境舒服了，写起来也会更放松…这样会更容易沉浸在记录里。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，用一个好看的本子可能会更有仪式感吧，或者坐在书桌前点一盏台灯，感觉环境舒服了，写起来也会更放松…这样会更容易沉浸在记录里",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "是的，这样做感觉会很有意义！比如可以写“今天虽然有点累，但我尽力了，很棒”之类的鼓励话语…或许通过这种方式，我能慢慢学着去认可自己。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这样做感觉会很有意义！比如可以写“今天虽然有点累，但我尽力了，很棒”之类的鼓励话语…或许通过这种方式，我能慢慢学着去认可自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "可能会记录画画的感受吧，毕竟这是我最近计划尝试的新开始…写下过程中的轻松和专注，或者一些让我觉得治愈的小细节，感觉会是一个很好的开头！",
+    "has_specific_detail": true,
+    "specific_detail": "可能会记录画画的感受吧，毕竟这是我最近计划尝试的新开始…写下过程中的轻松和专注，或者一些让我觉得治愈的小细节，感觉会是一个很好的开头！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，这个想法很好！或许可以在日记里画些小向日葵或者用彩笔涂点颜色，感觉会让记录变得更生动，也能让我更享受这个过程…有点期待试试！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个想法很好！或许可以在日记里画些小向日葵或者用彩笔涂点颜色，感觉会让记录变得更生动，也能让我更享受这个过程…有点期待试试！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "或许可以和画向日葵一起开始吧，画完之后就直接写下感受，把画的体验和心情都记录下来…感觉这样会让整个过程更完整，也更有意义！",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以和画向日葵一起开始吧，画完之后就直接写下感受，把画的体验和心情都记录下来…感觉这样会让整个过程更完整，也更有意义！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "是啊，我觉得可以试着把它变成一个小习惯，比如每周留一次这样的时间，既画画又写日记…定期这样做或许能让我慢慢找到放松的感觉，也培养对自己的接纳。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我觉得可以试着把它变成一个小习惯，比如每周留一次这样的时间，既画画又写日记…定期这样做或许能让我慢慢找到放松的感觉，也培养对自己的接纳",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "嗯，或许可以叫它“向日时光”吧，既代表画向日葵的温暖，也象征一种积极向上的感觉…感觉这个名字会让我更期待这段属于自己的时间。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，或许可以叫它“向日时光”吧，既代表画向日葵的温暖，也象征一种积极向上的感觉…感觉这个名字会让我更期待这段属于自己的时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "是啊，准备一些特别的道具感觉会更有仪式感！比如买一套新的彩铅，或者选一支喜欢的钢笔专门用来写日记…这样每次开始“向日时光”都会有种仪式感和期待感。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，准备一些特别的道具感觉会更有仪式感！比如买一套新的彩铅，或者选一支喜欢的钢笔专门用来写日记…这样每次开始“向日时光”都会有种仪式感和期待感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "或许可以在开始前泡一杯喜欢的热饮，比如热可可，边画边喝感觉会特别舒适…然后给自己一个小鼓励，比如“今天是新的尝试，很棒！”这样能让我更有动力去享受这段时光。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以在开始前泡一杯喜欢的热饮，比如热可可，边画边喝感觉会特别舒适…然后给自己一个小鼓励，比如“今天是新的尝试，很棒！”这样能让我更有动力去享受这段时光",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "如果觉得画得不好，我可能会提醒自己，这次的重点是享受过程，而不是结果…或者告诉自己“没关系，下次可以试着改进”，这样心里会轻松一点，也更愿意继续尝试。",
+    "has_specific_detail": true,
+    "specific_detail": "如果觉得画得不好，我可能会提醒自己，这次的重点是享受过程，而不是结果…或者告诉自己“没关系，下次可以试着改进”，这样心里会轻松一点，也更愿意继续尝试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "是啊，我觉得可以给自己一些小奖励，比如吃块巧克力或者看一集喜欢的剧…这样的庆祝能让我更珍惜自己的努力，也会更期待下一次尝试！",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我觉得可以给自己一些小奖励，比如吃块巧克力或者看一集喜欢的剧…这样的庆祝能让我更珍惜自己的努力，也会更期待下一次尝试！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "嗯，回顾会是个很好的方式！翻看之前的画和日记，或许能让我看到自己慢慢的变化，感觉更有成就感…这样能让我更相信自己的努力是有意义的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，回顾会是个很好的方式！翻看之前的画和日记，或许能让我看到自己慢慢的变化，感觉更有成就感…这样能让我更相信自己的努力是有意义的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "或许可以画一幅特别的作品来纪念吧，比如画一个大的向日葵，代表自己慢慢找到阳光和力量…或者写一篇特别的日记，记录这个成长过程的点滴，感觉会很有意义！",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以画一幅特别的作品来纪念吧，比如画一个大的向日葵，代表自己慢慢找到阳光和力量…或者写一篇特别的日记，记录这个成长过程的点滴，感觉会很有意义！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "或许可以等到坚持“向日时光”一个月的时候，作为一个小里程碑来纪念…那时候回顾过去的画和日记，看到自己一点点进步，感觉会特别有意义！",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以等到坚持“向日时光”一个月的时候，作为一个小里程碑来纪念…那时候回顾过去的画和日记，看到自己一点点进步，感觉会特别有意义！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "是啊，感觉可以写一句话给未来的自己，比如“希望你能继续享受每一个过程，找到更多属于自己的阳光！”这样既是鼓励，也是一种期待，感觉会很温暖。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，感觉可以写一句话给未来的自己，比如“希望你能继续享受每一个过程，找到更多属于自己的阳光！”这样既是鼓励，也是一种期待，感觉会很温暖",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "嗯，我可能会写在一张好看的卡片上，贴在日记本的第一页，这样每次翻开都能看到它，提醒自己要珍惜过程和努力…感觉会特别有意义！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我可能会写在一张好看的卡片上，贴在日记本的第一页，这样每次翻开都能看到它，提醒自己要珍惜过程和努力…感觉会特别有意义！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "是啊，想到这些计划心里真的多了些期待！感觉“向日时光”会成为一个让我放松和重新认识自己的机会，也让我更愿意尝试新的事情…很期待开始这段旅程！",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，想到这些计划心里真的多了些期待！感觉“向日时光”会成为一个让我放松和重新认识自己的机会，也让我更愿意尝试新的事情…很期待开始这段旅程！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

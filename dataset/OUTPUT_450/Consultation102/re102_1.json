@@ -1,0 +1,671 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，其实我一直有种很强烈的孤独感。比如说，昨天我回妈妈家吃饭，虽然大家都在，但我感觉自己就像个局外人一样…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，其实我一直有种很强烈的孤独感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，吃饭的时候，大家聊得很热闹，但话题总围绕我妈的丈夫和他的孩子们。我插不上话，也没人主动问我什么，就感觉自己被忽略了…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，吃饭的时候，大家聊得很热闹，但话题总围绕我妈的丈夫和他的孩子们",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "是啊，我总觉得他们更关心那个家庭的事，可能我不是他们的“核心成员”吧。这种情况经常发生，比如节假日聚会时，我总像个旁观者…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我总觉得他们更关心那个家庭的事，可能我不是他们的“核心成员”吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "一般我会沉默，或者假装玩手机，好像在忙什么。偶尔试着说点什么，但感觉他们不太在意我的话，就不想再努力了…",
+    "has_specific_detail": true,
+    "specific_detail": "一般我会沉默，或者假装玩手机，好像在忙什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我觉得可能都有吧，他们可能没意识到我需要被关注，但我也总期待能像以前那样，和妈妈有更多交流，可现在她好像把重心都放在新家庭上了…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能都有吧，他们可能没意识到我需要被关注，但我也总期待能像以前那样，和妈妈有更多交流，可现在她好像把重心都放在新家庭上了…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，主要是感觉被取代吧。以前妈妈总会关注我的想法，但现在好像她更关心她丈夫和他的孩子们。我心里有点嫉妒，也觉得自己没那么重要了…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，主要是感觉被取代吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我有想过说，但又怕她觉得我小题大做或者不懂事。她最近忙着照顾那个家庭，我担心要是提这些，会让她更烦我…。",
+    "has_specific_detail": true,
+    "specific_detail": "我有想过说，但又怕她觉得我小题大做或者不懂事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "有一次我提到她最近很少关心我，她解释说太忙了，还让我理解她的难处。我没继续说，但感觉我的情绪没被重视，就更不敢提类似的问题了…。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次我提到她最近很少关心我，她解释说太忙了，还让我理解她的难处",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我觉得她可能没意识到吧，但她当时有点敷衍的感觉，像在赶快结束话题。我心里挺委屈的，觉得她对我的感受并不那么在乎…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得她可能没意识到吧，但她当时有点敷衍的感觉，像在赶快结束话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "还有啊，比如她生日那天，我准备了礼物和祝福，但她只简单谢谢我，更多时间都在陪她丈夫和他的孩子。我觉得这种变化可能是她再婚后慢慢开始的吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "还有啊，比如她生日那天，我准备了礼物和祝福，但她只简单谢谢我，更多时间都在陪她丈夫和他的孩子",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得是对家庭归属感的动摇吧。原本妈妈是我最亲近的人，但现在她更像是“别人的妈妈”，我好像在哪个家庭里都没真正的位置…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得是对家庭归属感的动摇吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "应该是两者都有吧。妈妈的关注减少让我觉得被忽视，而在新家庭里，我也没什么存在感，觉得自己像个“过客”一样…。",
+    "has_specific_detail": true,
+    "specific_detail": "应该是两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我试过跟妈妈的丈夫聊聊，但感觉他对我兴趣不大，话题很快就冷了。他的孩子们也有自己的圈子，我插不上去，感觉越来越难融入…。",
+    "has_specific_detail": true,
+    "specific_detail": "我试过跟妈妈的丈夫聊聊，但感觉他对我兴趣不大，话题很快就冷了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "可能是他们不主动接纳吧，他们有自己的习惯和话题，而我总觉得自己像个“外人”。还有，我也确实不太愿意努力去融入，怕再被冷落…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是他们不主动接纳吧，他们有自己的习惯和话题，而我总觉得自己像个“外人”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，我也担心这种感觉会持续，但现在还没找到别的办法。或许大学生活能让我感受到新的归属感吧，我挺期待能有些改变的…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我也担心这种感觉会持续，但现在还没找到别的办法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我希望能结交一些真心的朋友，和室友能相处融洽吧。也想尝试一些自己感兴趣的社团活动，可能是画画或者摄影，感觉那样会有点归属感…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能结交一些真心的朋友，和室友能相处融洽吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得自己对人挺友好的，也愿意尝试新事物，比如和不同背景的人交流。不过，我可能需要一点时间适应新的社交环境，还是会有些紧张…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得自己对人挺友好的，也愿意尝试新事物，比如和不同背景的人交流",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，高一刚进新班的时候也挺紧张的。我会先观察同学们的互动，然后慢慢加入一些轻松的话题，感觉这样能让自己不那么害怕。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，高一刚进新班的时候也挺紧张的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得应该还是有帮助吧，但大学可能更复杂，环境比高中大很多。我可能需要更主动一些，比如多参加活动或主动和室友聊聊，这样能更快找到共同点…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得应该还是有帮助吧，但大学可能更复杂，环境比高中大很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，我特别期待参加社团活动，比如艺术类的社团，那样能和志同道合的人一起做喜欢的事。我觉得这样既能融入，也能找到一些属于自己的快乐…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我特别期待参加社团活动，比如艺术类的社团，那样能和志同道合的人一起做喜欢的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我想试试绘画或者摄影社团，可能从普通成员开始吧，先了解社团的氛围。如果能慢慢熟悉，我希望能参与策划一些活动，感觉那样会更有成就感…。",
+    "has_specific_detail": true,
+    "specific_detail": "我想试试绘画或者摄影社团，可能从普通成员开始吧，先了解社团的氛围",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得轻松和包容的氛围很重要，大家能主动交流，不会让新人觉得拘束。活动形式的话，最好是小组合作的那种，能更自然地建立联系。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得轻松和包容的氛围很重要，大家能主动交流，不会让新人觉得拘束",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我可能一开始会偏向于默默支持团队吧，先观察大家的方式。但如果熟悉了环境，我挺愿意尝试做创意提供者，感觉那样能展现自己的想法…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能一开始会偏向于默默支持团队吧，先观察大家的方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得自己对细节挺敏感，比如能发现一些特别的角度或风格，这可能在创意方面有优势。至于让大家了解，我想通过具体作品或者参与讨论，让他们看到我的思考吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得自己对细节挺敏感，比如能发现一些特别的角度或风格，这可能在创意方面有优势",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我挺喜欢捕捉自然中的细腻变化，比如光影或颜色的层次感。如果是绘画的话，我想尝试用水彩表现那种柔和的情绪，感觉很能表达自己的内心…。",
+    "has_specific_detail": true,
+    "specific_detail": "我挺喜欢捕捉自然中的细腻变化，比如光影或颜色的层次感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我可能会想表达孤独中的宁静吧，比如一个人坐在阳光下的树荫里，周围都是柔和的光影。感觉那种场景能把我的内心感受画出来…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会想表达孤独中的宁静吧，比如一个人坐在阳光下的树荫里，周围都是柔和的光影",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得柔和的暖色光影，比如金黄色或橙色，可以传递一种温暖的孤独感。人物可能是静静地低头或者翻着书，环境的话，我会选择安静的公园角落，那种能让人沉思的地方…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得柔和的暖色光影，比如金黄色或橙色，可以传递一种温暖的孤独感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，我可能会担心情绪传递得不够准确，比如光影的层次或者人物的姿态没能表现出我想要的感觉。还有就是如何让观众从画面里感受到那种温暖的孤独，而不是单纯的冷清…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我可能会担心情绪传递得不够准确，比如光影的层次或者人物的姿态没能表现出我想要的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得参考一些关于光影和情绪表达的作品会有帮助，比如画家的作品或者摄影集。同时，我可能会先记录自己的感受，像写下孤独时的内心细节，再尝试把它们融入画面里…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得参考一些关于光影和情绪表达的作品会有帮助，比如画家的作品或者摄影集",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得像阳光透过树叶洒在地上的那种斑驳光影，或者微风吹动书页的轻微动作，都很能触动我。这些安静的瞬间里，我常会感到一种微妙的平静和自我对话的感觉，很想融入创作…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得像阳光透过树叶洒在地上的那种斑驳光影，或者微风吹动书页的轻微动作，都很能触动我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "嗯，我觉得光影的动态变化很关键，比如让明暗交替显得自然柔和。情感上，可以通过人物的姿态，比如低头时的放松感，或者手指轻触书页的动作，让观众感到一种内心的静谧和专注…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得光影的动态变化很关键，比如让明暗交替显得自然柔和",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "是啊，像有一次我一个人坐在公园长椅上，阳光透过树叶洒在身上，那种暖暖的光让我觉得孤独但平静。这种记忆让我很有共鸣，也会激发我去捕捉类似的画面…。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，像有一次我一个人坐在公园长椅上，阳光透过树叶洒在身上，那种暖暖的光让我觉得孤独但平静",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我可能会用柔和的绿色和金黄色来表现阳光和树荫的温暖，还会加一些细节，比如散落的树叶或者随风轻动的草丛，感觉这些能更深刻地传递那种静谧和自我的对话…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会用柔和的绿色和金黄色来表现阳光和树荫的温暖，还会加一些细节，比如散落的树叶或者随风轻动的草丛，感觉这些能更深刻地传递那种静谧和自我的对话…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，我觉得轻柔的钢琴曲或者自然音效，比如风声和鸟鸣，会很能让我进入状态。这些声音能让我沉浸在那种安静的氛围里，也更容易捕捉到孤独中的温暖感…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得轻柔的钢琴曲或者自然音效，比如风声和鸟鸣，会很能让我进入状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "是的，我觉得音乐会让我更容易专注于内心的细微感受，比如孤独中的一丝舒适感。而且听着那些音效，可能会让我想到更多画面的细节，比如风吹树叶的轻微晃动或者远处鸟影掠过的瞬间…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得音乐会让我更容易专注于内心的细微感受，比如孤独中的一丝舒适感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我觉得这些灵感像是在帮我找到孤独中的美好，它们让我意识到孤独并不总是消极的，反而是一种自我陪伴和静下心来的机会。创作过程中，我可能会更接受这种感受，并试着去拥抱它…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这些灵感像是在帮我找到孤独中的美好，它们让我意识到孤独并不总是消极的，反而是一种自我陪伴和静下心来的机会",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得会有改变吧，比如让我更坦然地看待家庭里的疏离感，或许不再那么执着于被关注。同时，我可能会更珍惜独处时光，把它当成一种自我充实的机会，而不是孤单的负担…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会有改变吧，比如让我更坦然地看待家庭里的疏离感，或许不再那么执着于被关注",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我觉得可以试着调整对妈妈的期待吧，比如不再过分要求她像以前那样关注我，而是尝试和她聊些轻松的话题，建立更自然的互动。同时，我也可以更多专注于自己的成长，找到属于自己的平衡感…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着调整对妈妈的期待吧，比如不再过分要求她像以前那样关注我，而是尝试和她聊些轻松的话题，建立更自然的互动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "是的，我觉得不能过度压抑自己的需求，还是要适当表达真实感受，但用更温和的方式。同时，也要保持主动性，不要因为害怕冷落就完全退缩，这样才能让关系有改善的可能…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得不能过度压抑自己的需求，还是要适当表达真实感受，但用更温和的方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我觉得可以从分享我的大学生活开始，比如提到我参加了社团活动或者认识了新朋友。也可以问她最近的兴趣爱好，比如她喜欢做的菜或者看的节目，感觉这样能让对话更轻松自然…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从分享我的大学生活开始，比如提到我参加了社团活动或者认识了新朋友",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我觉得吃饭时会比较适合，因为大家都放松下来，氛围也更随意。或者散步的时候，聊起一些轻松的话题，感觉那种环境下更容易自然地表达自己的想法…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得吃饭时会比较适合，因为大家都放松下来，氛围也更随意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "我希望能让她知道，我还是很在乎我们的关系，也希望她能更了解我的想法和感受。同时，我也想表达对她的关心，让她知道，我并不是对她的新家庭有抵触，而只是希望自己也能被看见…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能让她知道，我还是很在乎我们的关系，也希望她能更了解我的想法和感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "抵触"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "我觉得可以通过具体行动，比如帮她做些家务或者送她喜欢的小礼物，表达我的关心。聊的时候用温和的语气，不带指责，更多是分享我的感受和希望，这样应该更容易让她接受吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以通过具体行动，比如帮她做些家务或者送她喜欢的小礼物，表达我的关心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "我觉得会吧，如果她主动关心我的生活，我可能会感觉自己还是被在乎的，疏离感也会减轻。或许能找到一些新的连接点，比如分享我们共同喜欢的事情，慢慢恢复以前的亲密关系…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会吧，如果她主动关心我的生活，我可能会感觉自己还是被在乎的，疏离感也会减轻",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "是的，我觉得她可能需要时间适应我的表达，毕竟她现在的重心不完全在我身上。我也需要耐心，逐步调整自己的期待，不要求立刻改变，但希望通过一点一滴的互动让关系慢慢改善…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得她可能需要时间适应我的表达，毕竟她现在的重心不完全在我身上",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "我觉得大学生活的新体验会给我力量，比如结交朋友和参与社团让我感到自己有价值。同时，对关系改善的信念也很重要，虽然可能需要时间，但只要看到一点进步，就会让我更有坚持的动力…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得大学生活的新体验会给我力量，比如结交朋友和参与社团让我感到自己有价值",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "我觉得记录小进步会很有帮助，比如写下每次互动中让我感到温暖的细节。同时，也可以给自己一些独处的时间，做些喜欢的事情，比如画画或者听音乐，让自己重新找回平静和力量…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得记录小进步会很有帮助，比如写下每次互动中让我感到温暖的细节",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "嗯，我觉得独处时会让我重新审视孤独，或许它并不是一种缺失，而是自我探索的机会。也能让我发现新的成长契机，比如如何更独立地面对生活，或者怎样更从容地处理关系中的复杂情绪…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得独处时会让我重新审视孤独，或许它并不是一种缺失，而是自我探索的机会",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "是的，我觉得内在成长会让我更平衡地看待家庭关系，既珍惜与妈妈的联系，也能接受她的生活中有其他的重心。或许这种距离感并不是失去，而是一种新的方式去寻找自己的安稳点和独立的归属感…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得内在成长会让我更平衡地看待家庭关系，既珍惜与妈妈的联系，也能接受她的生活中有其他的重心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "我觉得可以建立一些自我支持的习惯，比如定期写日记记录自己的成长和感受，或者通过画画表达内心情绪。同时，更主动地表达情感也很重要，比如偶尔给妈妈发消息分享我的生活，让她知道我在乎这段关系，但又不过分依赖…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以建立一些自我支持的习惯，比如定期写日记记录自己的成长和感受，或者通过画画表达内心情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "我觉得珍视自我成长是最重要的信念，因为它让我知道，无论家庭关系如何变化，我都可以通过内在力量找到平静。同时，用平和的心态去接受关系中的变化，也能让我更从容地面对生活的挑战和复杂情绪…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得珍视自我成长是最重要的信念，因为它让我知道，无论家庭关系如何变化，我都可以通过内在力量找到平静",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

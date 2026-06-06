@@ -1,0 +1,356 @@
+[
+  {
+    "turn": 1,
+    "content": "最近我在和同事沟通时发现一些问题，比如当他们提议加班或分配额外任务，我总是马上答应，哪怕心里其实有点不情愿。我觉得自己好像很难拒绝别人，总害怕自己表现得不够好，会让人失望…",
+    "has_specific_detail": true,
+    "specific_detail": "最近我在和同事沟通时发现一些问题，比如当他们提议加班或分配额外任务，我总是马上答应，哪怕心里其实有点不情愿",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是的，每次答应后，我都会觉得压力很大，甚至有点懊悔为什么没说“我不行”。但又会担心如果拒绝，会让人觉得我不够尽责或不合群…这种矛盾让我很不安。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，每次答应后，我都会觉得压力很大，甚至有点懊悔为什么没说“我不行”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，我觉得可能和小时候的家庭环境有关。我记得小时候，每次尝试表达自己的需求，都会被母亲打击或否定，她总说我太任性或者要求太多。所以后来我就习惯了不说自己想要什么，怕被批评，也怕让人失望…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可能和小时候的家庭环境有关",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "有过委屈的时候，比如我小时候很想参加学校组织的兴趣班，但妈妈直接拒绝，说浪费时间。我心里很难过，甚至想争辩，但又害怕她生气，只能默默接受…这种感觉到现在都让我很压抑。",
+    "has_specific_detail": true,
+    "specific_detail": "有过委屈的时候，比如我小时候很想参加学校组织的兴趣班，但妈妈直接拒绝，说浪费时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "后来偶尔试过，比如大学时我很想选一门自己喜欢的课程，但家里坚持让我选更“实用”的专业。我试着提了自己的想法，但妈妈立刻说“这有什么用，你要现实点”。结果我还是妥协了，心里很失落，但又觉得自己没资格坚持…",
+    "has_specific_detail": true,
+    "specific_detail": "后来偶尔试过，比如大学时我很想选一门自己喜欢的课程，但家里坚持让我选更“实用”的专业",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "是的，这种感觉一直存在，比如在之前的恋爱中，我总是尽量迎合对方的需求，哪怕有些事情让我不太舒服。我总觉得自己“不够好”，要多付出才能维持关系，但结果反而让我觉得自己越来越渺小…这种感觉真的很难摆脱。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种感觉一直存在，比如在之前的恋爱中，我总是尽量迎合对方的需求，哪怕有些事情让我不太舒服",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是的，我经常觉得不被重视，尤其是在两段恋情里。比如有一次，对方忘记了我提到的重要日子，而我却不敢表达自己的失望，只能假装没事。久而久之，这种心累的感觉越来越明显…让我怀疑自己是不是根本不值得被好好对待。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我经常觉得不被重视，尤其是在两段恋情里",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "可能两者都有吧，我害怕引发争吵，因为我不擅长处理冲突，也担心对方会觉得我太敏感或者难相处。如果对方表现冷漠或不理解，我会更加怀疑自己的价值…所以就选择了沉默。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧，我害怕引发争吵，因为我不擅长处理冲突，也担心对方会觉得我太敏感或者难相处",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "是的，我在亲密关系中一直很小心翼翼，比如总是主动付出，却不敢要求对方回馈什么，怕被拒绝或觉得自己不值得。尤其是当对方表现冷淡时，我会特别害怕自己会被彻底忽视…这种害怕让我不敢真正放开自己。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我在亲密关系中一直很小心翼翼，比如总是主动付出，却不敢要求对方回馈什么，怕被拒绝或觉得自己不值得",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得是因为小时候母亲对我的关注很少，她总偏爱弟弟，让我感觉自己不重要。我很想得到她的肯定，但无论怎么努力，都觉得自己做得不够好…这种缺乏被认可的感觉好像一直跟着我，影响了后来所有的关系。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得是因为小时候母亲对我的关注很少，她总偏爱弟弟，让我感觉自己不重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "成年后偶尔有过，比如有一次在工作中，我完成了一项复杂的任务，同事当面夸我说“做得很好”。那一刻我觉得很意外也很开心，但这种被肯定的感觉总是短暂的，我很快又开始怀疑自己是不是真的值得…这种自我怀疑总让我回到之前的状态。",
+    "has_specific_detail": true,
+    "specific_detail": "成年后偶尔有过，比如有一次在工作中，我完成了一项复杂的任务，同事当面夸我说“做得很好”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "可能是小时候母亲对我的否定让我习惯了怀疑自己。即使别人夸奖我，我也会下意识觉得那只是客套话，或者是运气好而已。我总觉得自己没有真正的价值，这种感觉很难彻底改变…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是小时候母亲对我的否定让我习惯了怀疑自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，如果说擅长的话，我觉得自己在工作中很细心、负责，能把复杂的任务处理得井井有条。有时完成项目后，同事会夸我有条理，那一刻我确实会有一点自豪。但这种感觉很短暂，之后又会回到“只是运气好”或“别人其实没那么认可我”的怀疑里…很难真正摆脱。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果说擅长的话，我觉得自己在工作中很细心、负责，能把复杂的任务处理得井井有条",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "可能是因为害怕期待过高吧，我总担心如果相信自己的优点，万一做不好就会让人失望，甚至让自己更难过。而且有时候也觉得自己还不够好，必须再努力才能真正配得上认可…这种感觉让我一直很矛盾。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是因为害怕期待过高吧，我总担心如果相信自己的优点，万一做不好就会让人失望，甚至让自己更难过",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "是的，我总觉得自己不能放松，无论是在工作还是生活中，都要尽力表现好。比如即使完成任务了，我还是会担心有没有遗漏什么，会不会让人不满意。这种持续的压力让我很疲惫，但又不敢停下来…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我总觉得自己不能放松，无论是在工作还是生活中，都要尽力表现好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得两者都有吧，害怕被否定让我觉得必须一直努力，才能避免别人对我的不满。而停下来会让我觉得不安，好像如果不做点什么，就会失去对生活的掌控…这种感觉让我很难放松。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两者都有吧，害怕被否定让我觉得必须一直努力，才能避免别人对我的不满",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，偶尔试过，比如周末一个人待着时，我试着不做任何事，想放松一下。但很快就开始觉得空虚和不安，总忍不住去找点事情做，好像只有忙碌才能让我稍微安心…这种感觉让我觉得自己很矛盾。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，偶尔试过，比如周末一个人待着时，我试着不做任何事，想放松一下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，我觉得可能是渴望被认可的需求吧。从小到大，我一直希望能得到母亲的肯定，但总觉得自己不够好、不够重要。这种未被满足的感觉，好像让我很害怕停下来，因为停下来的时候，这种空虚就会变得更加明显…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可能是渴望被认可的需求吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "如果小时候能得到母亲的肯定，我觉得我可能会更自信一些，也不会总觉得自己不值得被认可。或许我能学会真正放松，而不是总靠忙碌来证明自己的价值…但现在，这种缺失感还是让我很难完全相信自己。",
+    "has_specific_detail": true,
+    "specific_detail": "如果小时候能得到母亲的肯定，我觉得我可能会更自信一些，也不会总觉得自己不值得被认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "有时候同事会夸我工作做得好，那一瞬间我确实觉得被肯定了，心里会有点温暖。这些时刻对我来说特别珍贵，因为让我暂时摆脱了那种“我不够好”的感觉，虽然短暂，但让我感觉自己或许是有价值的…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候同事会夸我工作做得好，那一瞬间我确实觉得被肯定了，心里会有点温暖",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我有想过试着记录下这些时刻，比如写日记，把别人对我的肯定和自己完成的事情都记下来，也许能让我反复看到自己的价值。虽然不确定效果，但感觉可能是个开始…你觉得这样会有帮助吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我有想过试着记录下这些时刻，比如写日记，把别人对我的肯定和自己完成的事情都记下来，也许能让我反复看到自己的价值",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，这样感觉会更全面。我可以写下自己在任务中的努力，比如加班时如何解决问题，然后再写别人夸奖我的话和我的感受。或许这样能让我慢慢学会认可自己的付出，而不是只依赖外界的肯定…我觉得值得尝试！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样感觉会更全面",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，这个角度很好！如果换成别人，我可能会觉得自己做得挺不错，值得被认可。这种方式好像能让我跳脱出自我怀疑，去更客观地看待自己的努力。我会试着这样做，谢谢你的建议！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个角度很好！如果换成别人，我可能会觉得自己做得挺不错，值得被认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我想先从工作中的一些任务开始，比如最近完成的一个数据分析项目。我可以写下我是怎么一步步解决问题的，还有同事对我的肯定。我觉得从这种实际的事情开始记录会比较容易上手，也能让我看到自己的努力和价值！",
+    "has_specific_detail": true,
+    "specific_detail": "我想先从工作中的一些任务开始，比如最近完成的一个数据分析项目",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我想从今天晚上开始记录，趁着刚完成项目还记得细节。之后可以每周回顾一次，看哪些努力让我感觉更有价值。我希望慢慢能从这些记录中找到更多肯定自己的理由！",
+    "has_specific_detail": true,
+    "specific_detail": "我想从今天晚上开始记录，趁着刚完成项目还记得细节",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "嗯，这样的回顾能让我更有方向感，我觉得挺有意义！通过记录和反思，我或许能慢慢发现自己真正擅长什么，也能学着认可自己的努力。感觉这会是一个不错的尝试，谢谢你的提醒！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的回顾能让我更有方向感，我觉得挺有意义！通过记录和反思，我或许能慢慢发现自己真正擅长什么，也能学着认可自己的努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

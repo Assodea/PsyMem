@@ -1,0 +1,409 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯…其实最近我一直觉得自己挺孤单的，特别是下班后回家，一个人呆着的时候，总觉得胸口闷闷的，有点压抑。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯…其实最近我一直觉得自己挺孤单的，特别是下班后回家，一个人呆着的时候，总觉得胸口闷闷的，有点压抑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是啊，一个人安静下来就会忍不住乱想，比如家里的事、工作上的事，越想越觉得心里发沉。平时也就是刷刷手机，没什么特别的事情做。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，一个人安静下来就会忍不住乱想，比如家里的事、工作上的事，越想越觉得心里发沉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "刷手机的时候感觉能暂时转移注意力，但停下来后那些感觉还是会回来。家里的事让我最难受，特别是想起小时候父母总对妹妹更关心，而我像是被忽略了一样…",
+    "has_specific_detail": true,
+    "specific_detail": "刷手机的时候感觉能暂时转移注意力，但停下来后那些感觉还是会回来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "嗯，有一次过年，家里给妹妹买了新衣服，但我只收到了一件普通的校服。当时虽然没说什么，但心里很失落，觉得自己好像不重要…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有一次过年，家里给妹妹买了新衣服，但我只收到了一件普通的校服",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是的，后来也有类似的事。比如生病的时候，我希望父母多陪陪我，可他们总觉得我可以自己照顾自己，反而更关心妹妹的情况…那种感觉真的很难受。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，后来也有类似的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "小时候，我基本不会说出来，总觉得说了也没用，只会让自己更难堪。所以那种难受就憋在心里，有时会偷偷躲起来哭。",
+    "has_specific_detail": true,
+    "specific_detail": "小时候，我基本不会说出来，总觉得说了也没用，只会让自己更难堪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，好像是延续下来了。现在难受的时候，我还是倾向于自己扛着，或者尽量不去想，但其实并没真正缓解，反而觉得更累…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，好像是延续下来了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "说实话，我很少跟别人聊这些，总觉得他们未必能理解我。放松的话，有时会听点音乐，或者去附近公园走走，但好像只能暂时缓解一下情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "说实话，我很少跟别人聊这些，总觉得他们未必能理解我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "嗯，有时候听音乐会让我觉得心里轻松一点，特别是那些旋律温暖的歌；去公园散步时，看到绿树或者小孩子玩耍，会感觉压抑少了些，但回家后那种孤独感还是会慢慢回来。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有时候听音乐会让我觉得心里轻松一点，特别是那些旋律温暖的歌；去公园散步时，看到绿树或者小孩子玩耍，会感觉压抑少了些，但回家后那种孤独感还是会慢慢回来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得都有吧，既希望有人能陪我说说话，也渴望那种被理解、被关心的感觉。可能是小时候没得到太多情感支持，所以现在会特别想要这种安全感。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得都有吧，既希望有人能陪我说说话，也渴望那种被理解、被关心的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我也想过试着和别人建立一些更深的关系，但总觉得很难。比如在朋友面前，我常担心自己说多了会被嫌烦，或者对方未必真的关心我的感受，这让我不太敢主动去靠近别人…",
+    "has_specific_detail": true,
+    "specific_detail": "我也想过试着和别人建立一些更深的关系，但总觉得很难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "有一次朋友主动问我是不是心情不好，那时候真的有种被看见的感觉。我简单说了几句，他认真听着，还安慰了我几句，那种被理解的感觉让我觉得很暖心，但这样的情况不多。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次朋友主动问我是不是心情不好，那时候真的有种被看见的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "也许可以试着多和那位朋友聊聊，但我总担心会打扰到他，怕自己显得太依赖。至于其他人，好像很少有让我觉得能完全信任的，更多时候我还是不敢去靠近别人。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试着多和那位朋友聊聊，但我总担心会打扰到他，怕自己显得太依赖",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我猜他可能不会介意吧，毕竟之前他主动关心过我。但我还是会担心说太多会让人觉得麻烦，或者让关系变得尴尬，所以总是有点拿不准。",
+    "has_specific_detail": true,
+    "specific_detail": "我猜他可能不会介意吧，毕竟之前他主动关心过我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，这样可能会好一些吧，先聊些轻松的话题试探一下气氛，再看他是否愿意听我说更多。不过说到这，前几天我确实跟他聊过最近的工作压力，他给了我一些建议，那时候感觉还挺不错的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样可能会好一些吧，先聊些轻松的话题试探一下气氛，再看他是否愿意听我说更多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "可能会吧，他确实是个挺温和的人，之前的交流让我觉得他愿意倾听。不过我还是有点顾虑，怕太频繁会让他觉得我依赖性太强，或者让关系变得不平等。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，他确实是个挺温和的人，之前的交流让我觉得他愿意倾听",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，这样想确实挺有道理的。如果我在分享自己的感受时，也主动去了解他的近况，可能会让他觉得被尊重和关心，这样关系也许会更自然一些。我可以试试看！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想确实挺有道理的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得可以从工作上聊起，比如问问他最近有没有什么新任务，或者聊一些他感兴趣的事情。等话题自然展开了，再慢慢说说我的感受，可能会更顺畅一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从工作上聊起，比如问问他最近有没有什么新任务，或者聊一些他感兴趣的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "可能用一些轻描淡写的方式会让我更自在，比如说“最近总觉得有点累，不知道是不是太压抑了”，这样既表达了感受，又不会显得太沉重。你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "可能用一些轻描淡写的方式会让我更自在，比如说“最近总觉得有点累，不知道是不是太压抑了”，这样既表达了感受，又不会显得太沉重",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "如果他表示关心，我觉得我会愿意尝试多说一些，比如聊聊最近下班回家后一个人待着的孤独感，或者对未来的一些迷茫。但可能还是会控制分量，不想让气氛太沉重。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他表示关心，我觉得我会愿意尝试多说一些，比如聊聊最近下班回家后一个人待着的孤独感，或者对未来的一些迷茫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，如果对方的反应是积极的，我想这会让我感到被理解，也会更有勇气在以后表达感受。可能慢慢地，我会觉得依赖和分享其实并不可怕。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果对方的反应是积极的，我想这会让我感到被理解，也会更有勇气在以后表达感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得会的，如果这次尝试让我感受到安全感和支持，可能会让我对人与人之间的互动有更多信心。也许我会慢慢愿意试着靠近其他人，尝试建立更多真实的联系。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会的，如果这次尝试让我感受到安全感和支持，可能会让我对人与人之间的互动有更多信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我想先从那个朋友开始，毕竟之前的交流让我觉得他是可以信任的。然后可能也会试着在工作中多主动和同事交流，比如一起讨论项目或者约个饭，慢慢拓展自己的圈子。",
+    "has_specific_detail": true,
+    "specific_detail": "我想先从那个朋友开始，毕竟之前的交流让我觉得他是可以信任的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，我觉得可以从工作相关的话题开始，比如讨论一些项目的进展，或者请教他们的意见。再慢慢聊些轻松的事情，比如最近的电影或者周末计划，这样可能会更容易拉近距离。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以从工作相关的话题开始，比如讨论一些项目的进展，或者请教他们的意见",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "如果同事开始主动问我的近况，或者愿意分享一些他们的私人想法和感受，我觉得这可能就是一个信号，说明他们愿意和我拉近距离了。",
+    "has_specific_detail": true,
+    "specific_detail": "如果同事开始主动问我的近况，或者愿意分享一些他们的私人想法和感受，我觉得这可能就是一个信号，说明他们愿意和我拉近距离了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "如果他们主动关心我，我会真诚地回答，并适当分享一些自己的感受。如果他们谈私人想法，我会认真倾听，适时表达我的认同或建议，让他们感到被重视。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们主动关心我，我会真诚地回答，并适当分享一些自己的感受",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 27,
+    "content": "我觉得会的，如果能感受到对方的真诚和重视，我应该会更放松，也会觉得交流是一件很自然、甚至让人愉快的事情。慢慢地可能会开始期待这样的互动吧！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会的，如果能感受到对方的真诚和重视，我应该会更放松，也会觉得交流是一件很自然、甚至让人愉快的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，我想会的。如果能在白天和同事有好的互动，下班后可能心里会觉得更充实一些，不再那么空虚。也许还会对未来的人际关系和生活多一些期待，感觉自己在慢慢找到方向。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我想会的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "谢谢你的鼓励！我觉得可以先定个小目标，比如这周主动找同事聊一次轻松的话题，或者和朋友再分享一次我的感受，看看会有什么样的变化。一步步来吧！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励！我觉得可以先定个小目标，比如这周主动找同事聊一次轻松的话题，或者和朋友再分享一次我的感受，看看会有什么样的变化",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "好的，谢谢你的支持！我会试着去做这些事情，看看能不能有一些新的体验。今天聊了很多，感觉心里轻松了一些，真的很感谢你。那我们下次再聊吧！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，谢谢你的支持！我会试着去做这些事情，看看能不能有一些新的体验",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "谢谢你的鼓励和理解！今天的聊天真的让我感觉好多了，我会记住这些建议，慢慢尝试改变。那就先这样吧，下次再聊！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励和理解！今天的聊天真的让我感觉好多了，我会记住这些建议，慢慢尝试改变",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

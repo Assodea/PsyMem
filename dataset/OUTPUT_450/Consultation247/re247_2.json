@@ -1,0 +1,603 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，有试过一次。那天正好听到同事们在聊周末去哪儿玩，我鼓起勇气提了一句我喜欢拍风景照片…但他们聊了一会儿就换话题了，感觉有点尴尬，好像我插不进去。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有试过一次",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "当时心里挺不是滋味的，觉得可能是我说得不够有趣吧，或者他们对这个话题本身没兴趣…总感觉自己很难引起别人的关注。",
+    "has_specific_detail": true,
+    "specific_detail": "当时心里挺不是滋味的，觉得可能是我说得不够有趣吧，或者他们对这个话题本身没兴趣…总感觉自己很难引起别人的关注",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，好像有些同事说话时大家会很专注地听，还会接着聊下去。我就觉得他们好像很自然，随便一提就能让人感兴趣…而我就像硬塞进去的一样。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，好像有些同事说话时大家会很专注地听，还会接着聊下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "可能他们说话更轻松自信吧，而且好像大家本来就挺熟的，聊得很顺畅。而我插进去时，总觉得自己声音小、话题也没那么贴合…有点格格不入。",
+    "has_specific_detail": true,
+    "specific_detail": "可能他们说话更轻松自信吧，而且好像大家本来就挺熟的，聊得很顺畅",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "嗯，当时我提到拍风景照片时，有个同事随口“哦”了一下就转到别的话题了。我特别在意那个“哦”，感觉像是敷衍，又或者是没兴趣吧…让我一下子没了继续说的勇气。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，当时我提到拍风景照片时，有个同事随口“哦”了一下就转到别的话题了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "对，就是觉得他们已经不感兴趣了，如果再继续说可能会更冷场吧…我当时真的特别害怕那种更尴尬的场面，就赶紧闭嘴了。",
+    "has_specific_detail": true,
+    "specific_detail": "对，就是觉得他们已经不感兴趣了，如果再继续说可能会更冷场吧…我当时真的特别害怕那种更尴尬的场面，就赶紧闭嘴了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我有想过，但当时一紧张就完全不知道该说什么了，更别提找谁单独对话了…感觉自己脑子一下子空白了，根本没法反应过来。",
+    "has_specific_detail": true,
+    "specific_detail": "我有想过，但当时一紧张就完全不知道该说什么了，更别提找谁单独对话了…感觉自己脑子一下子空白了，根本没法反应过来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "事后想了很久，觉得如果当时直接说“我最近拍了几张照片，下次给大家看看”可能会好一点吧…但又怕这样说会显得太刻意，还是有些犹豫。",
+    "has_specific_detail": true,
+    "specific_detail": "事后想了很久，觉得如果当时直接说“我最近拍了几张照片，下次给大家看看”可能会好一点吧…但又怕这样说会显得太刻意，还是有些犹豫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "嗯，这样问确实会自然些，好像能引起别人的兴趣，但我怕他们要是没回应，我还是会有点不知所措…感觉自己总是在预想最糟的结果。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样问确实会自然些，好像能引起别人的兴趣，但我怕他们要是没回应，我还是会有点不知所措…感觉自己总是在预想最糟的结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，这种方式听起来挺有趣的，感觉比尴尬地沉默好很多，但我怕自己当时紧张得说不出口…毕竟要开玩笑也需要一点自信，我现在还差点。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这种方式听起来挺有趣的，感觉比尴尬地沉默好很多，但我怕自己当时紧张得说不出口…毕竟要开玩笑也需要一点自信，我现在还差点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "是啊，熟悉的话题确实让我更有话可说，也不会那么容易慌张。我觉得可以试试从那些我最感兴趣的内容入手，或许会好一点…比如风景摄影这类的。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，熟悉的话题确实让我更有话可说，也不会那么容易慌张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，我可以提前挑几张我觉得拍得不错的照片放在手机里，万一聊到摄影就可以拿出来给他们看看，这样也许更容易接上话题…不过我还是有点担心大家会觉得没意思。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我可以提前挑几张我觉得拍得不错的照片放在手机里，万一聊到摄影就可以拿出来给他们看看，这样也许更容易接上话题…不过我还是有点担心大家会觉得没意思",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "对啊，要是有人表现出一点兴趣，我可能就会觉得轻松点，也敢多说一些。只是我不确定自己能不能及时注意到这些反应，总觉得容易忽略细节…",
+    "has_specific_detail": true,
+    "specific_detail": "对啊，要是有人表现出一点兴趣，我可能就会觉得轻松点，也敢多说一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，这个方法听起来挺有道理的，多观察他们的眼神或表情可能会让我更清楚他们的反应。不过我怕自己一紧张就又顾不上这些了…总感觉控制不了自己的注意力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个方法听起来挺有道理的，多观察他们的眼神或表情可能会让我更清楚他们的反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "深呼吸听起来是个好办法，应该能让我稍微冷静一点。但我怕当时太慌乱又忘了这样做…感觉自己总是事后才想起来该怎么调整。",
+    "has_specific_detail": true,
+    "specific_detail": "深呼吸听起来是个好办法，应该能让我稍微冷静一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，这个方法挺实用的，默念“先深呼吸”可能确实能让我提前准备好一点。我觉得下次可以试试，给自己一个小心理暗示…希望能派上用场吧！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个方法挺实用的，默念“先深呼吸”可能确实能让我提前准备好一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "也许可以试着在开始交流前，回想一些让我感到轻松的画面，比如在公园拍风景时的感觉…这样可能会让我不那么紧绷。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试着在开始交流前，回想一些让我感到轻松的画面，比如在公园拍风景时的感觉…这样可能会让我不那么紧绷",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，应该是早晨在湖边拍照的时候，阳光刚刚洒下来，湖面特别平静…每次想到那种安静的感觉，我都会觉得内心很平和，好像整个世界都慢了下来。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，应该是早晨在湖边拍照的时候，阳光刚刚洒下来，湖面特别平静…每次想到那种安静的感觉，我都会觉得内心很平和，好像整个世界都慢了下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "嗯，这个方法听起来很不错！闭上眼睛想几秒湖边的画面，应该会让我感觉自己回到了那个安静的状态…我觉得值得一试，下次可以这样准备一下。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个方法听起来很不错！闭上眼睛想几秒湖边的画面，应该会让我感觉自己回到了那个安静的状态…我觉得值得一试，下次可以这样准备一下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，我觉得有了这些准备，应该会稍微放松一些，也更有勇气去主动提起话题了。摄影是我熟悉的领域，可能会让我感觉不那么害怕出错吧…希望能试试看！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得有了这些准备，应该会稍微放松一些，也更有勇气去主动提起话题了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "或许可以在事后写下当时的情景和我的表现，比如我说了什么、他们的反应如何，还有我的情绪变化…这样能更清楚地看到哪里做得好、哪里需要改进。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以在事后写下当时的情景和我的表现，比如我说了什么、他们的反应如何，还有我的情绪变化…这样能更清楚地看到哪里做得好、哪里需要改进",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 22,
+    "content": "如果表现比预想好，我可能会奖励自己一顿喜欢的饭，或者买一本摄影书！这也算是一种鼓励吧，能让我觉得自己的努力是有意义的。",
+    "has_specific_detail": true,
+    "specific_detail": "如果表现比预想好，我可能会奖励自己一顿喜欢的饭，或者买一本摄影书！这也算是一种鼓励吧，能让我觉得自己的努力是有意义的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，我觉得可以提前想几个关于摄影的小故事或者有趣的拍摄经历，比如我之前为了拍到好光线等了一个小时…这样如果有人感兴趣，我就能接着聊下去，不至于冷场。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以提前想几个关于摄影的小故事或者有趣的拍摄经历，比如我之前为了拍到好光线等了一个小时…这样如果有人感兴趣，我就能接着聊下去，不至于冷场",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "是啊，如果有人主动提问或者表现出好奇，我应该会放松很多，也会更愿意多说一些…那种被关注和认可的感觉，应该会让我挺开心的吧。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，如果有人主动提问或者表现出好奇，我应该会放松很多，也会更愿意多说一些…那种被关注和认可的感觉，应该会让我挺开心的吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "可能可以反过来问问他们，比如“你们有没有也遇到过类似的有趣经历？”这样可能会让对话变得更双向，也不会让我觉得只是自己在说。",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以反过来问问他们，比如“你们有没有也遇到过类似的有趣经历？”这样可能会让对话变得更双向，也不会让我觉得只是自己在说",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "如果对方没太多回应，我可能会笑着说“看来我讲得还不够吸引人，下次得再努力点”，然后自然地把话题转到其他方向，或者干脆安静一会儿，给自己缓一下。",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方没太多回应，我可能会笑着说“看来我讲得还不够吸引人，下次得再努力点”，然后自然地把话题转到其他方向，或者干脆安静一会儿，给自己缓一下",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 27,
+    "content": "这周我们公司好像有个部门聚餐，大家会一起吃饭聊天，我觉得这是个不错的机会，可以试着在那种轻松的氛围里用这些方法试试！",
+    "has_specific_detail": true,
+    "specific_detail": "这周我们公司好像有个部门聚餐，大家会一起吃饭聊天，我觉得这是个不错的机会，可以试着在那种轻松的氛围里用这些方法试试！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我觉得餐后随意聊天的时候会更适合吧，那时候大家都比较放松，不会太关注细节，我可能更容易鼓起勇气去试着开个话题。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得餐后随意聊天的时候会更适合吧，那时候大家都比较放松，不会太关注细节，我可能更容易鼓起勇气去试着开个话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "可能会用我之前拍日出时差点滑到湖边的故事吧，这个挺有趣的，还能聊到早起和拍照的趣味，感觉比较容易让人感兴趣。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会用我之前拍日出时差点滑到湖边的故事吧，这个挺有趣的，还能聊到早起和拍照的趣味，感觉比较容易让人感兴趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我可以描述当时湖边的寒冷、天慢慢亮起来的光线，还有我为了找角度不小心踩到湿滑石头时的惊险…希望这些细节能让大家感觉更真实、有画面感吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以描述当时湖边的寒冷、天慢慢亮起来的光线，还有我为了找角度不小心踩到湿滑石头时的惊险…希望这些细节能让大家感觉更真实、有画面感吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我想可以用稍微夸张一点的语气，比如讲到差点滑倒时配合惊讶的表情，再带点自嘲的笑容，这样可能会更有感染力，也能让大家觉得轻松好玩。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以用稍微夸张一点的语气，比如讲到差点滑倒时配合惊讶的表情，再带点自嘲的笑容，这样可能会更有感染力，也能让大家觉得轻松好玩",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "如果有人笑了或者接着聊，我一定会觉得特别开心，可能会更有信心继续分享其他的趣事吧！那种被认可的感觉，应该会让我觉得没那么孤单了。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人笑了或者接着聊，我一定会觉得特别开心，可能会更有信心继续分享其他的趣事吧！那种被认可的感觉，应该会让我觉得没那么孤单了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "是啊，如果这次尝试顺利，我可能会觉得社交其实没那么可怕，也许以后可以多主动问问别人感兴趣的东西，这样话题会更多，也不至于总是尴尬冷场。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，如果这次尝试顺利，我可能会觉得社交其实没那么可怕，也许以后可以多主动问问别人感兴趣的东西，这样话题会更多，也不至于总是尴尬冷场",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "可能可以从一些轻松的问题开始，比如“你周末喜欢做什么？”或者“最近有看什么好电影吗？”这样的问题感觉不会太突兀，也容易引出更多的话题。",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以从一些轻松的问题开始，比如“你周末喜欢做什么？”或者“最近有看什么好电影吗？”这样的问题感觉不会太突兀，也容易引出更多的话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我觉得可以告诉自己，这只是一次普通的聊天，不需要刻意表现什么，只要专注于对方说的话，把它当成一种了解新事物的机会，可能会轻松很多。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以告诉自己，这只是一次普通的聊天，不需要刻意表现什么，只要专注于对方说的话，把它当成一种了解新事物的机会，可能会轻松很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "如果冷场了，我可能会随口说点轻松的，比如“好像突然安静了啊”，或者问问大家的意见，比如“你们觉得呢？”这样或许能重新带动话题。",
+    "has_specific_detail": true,
+    "specific_detail": "如果冷场了，我可能会随口说点轻松的，比如“好像突然安静了啊”，或者问问大家的意见，比如“你们觉得呢？”这样或许能重新带动话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我可以回想一下有哪些地方让我感觉轻松，还有哪些时刻让我紧张，然后写下来对比看看。这样能更清楚哪些方法有效，哪些还需要改进。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以回想一下有哪些地方让我感觉轻松，还有哪些时刻让我紧张，然后写下来对比看看",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "聚餐后，我可以试着回忆别人在聊天时提到的兴趣或习惯，下次再碰到他们时，就能从这些细节入手开启话题，感觉会更容易建立联系。",
+    "has_specific_detail": true,
+    "specific_detail": "聚餐后，我可以试着回忆别人在聊天时提到的兴趣或习惯，下次再碰到他们时，就能从这些细节入手开启话题，感觉会更容易建立联系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "如果真的能通过这样的方式和同事聊得更好，应该会让我觉得不再那么孤立吧，甚至可能会开始相信，自己是有机会融入这个圈子的，这种感觉应该会很暖心。",
+    "has_specific_detail": true,
+    "specific_detail": "如果真的能通过这样的方式和同事聊得更好，应该会让我觉得不再那么孤立吧，甚至可能会开始相信，自己是有机会融入这个圈子的，这种感觉应该会很暖心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "如果能慢慢融入圈子，我可能会希望能和一两个同事建立更深的友谊吧。那种可以一起分享生活点滴、互相支持的关系，是我一直向往但却觉得很遥远的。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能慢慢融入圈子，我可能会希望能和一两个同事建立更深的友谊吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "如果有这样的机会，我会试着多关心对方，比如记住他们提到的重要事情，偶尔主动问候，或者在他们需要帮助时尽力支持，这些小细节应该能让关系更稳固吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有这样的机会，我会试着多关心对方，比如记住他们提到的重要事情，偶尔主动问候，或者在他们需要帮助时尽力支持，这些小细节应该能让关系更稳固吧",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 42,
+    "content": "可能可以告诉自己，这并不一定是针对我的，或许他们只是忙或者有自己的情绪问题。我会试着转移注意力，做些让自己开心的事，不去过度解读吧。",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以告诉自己，这并不一定是针对我的，或许他们只是忙或者有自己的情绪问题",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 43,
+    "content": "拍照或者散步可能会对我有帮助，尤其是去一些安静的地方，比如公园或者湖边，能让我重新找到那种平和的感觉，把注意力放回到当下。",
+    "has_specific_detail": true,
+    "specific_detail": "拍照或者散步可能会对我有帮助，尤其是去一些安静的地方，比如公园或者湖边，能让我重新找到那种平和的感觉，把注意力放回到当下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "会的，我觉得每次情绪平复后，再回头看看自己的反应和处理方式，能让我更了解自己，慢慢积累经验，或许下次就能更从容一些了。",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我觉得每次情绪平复后，再回头看看自己的反应和处理方式，能让我更了解自己，慢慢积累经验，或许下次就能更从容一些了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "今天聊得很有收获，我觉得最想带到尝试中的，是在紧张时先深呼吸，再回想湖边的画面让自己放松；还有提前准备小故事和轻松的问题，帮助自己更自然地加入对话。",
+    "has_specific_detail": true,
+    "specific_detail": "今天聊得很有收获，我觉得最想带到尝试中的，是在紧张时先深呼吸，再回想湖边的画面让自己放松；还有提前准备小故事和轻松的问题，帮助自己更自然地加入对话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "好的，谢谢你今天的倾听和建议！这些方法让我感觉对接下来的尝试更有信心了。聚餐后我会再来和你聊聊感受的，期待下次见！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，谢谢你今天的倾听和建议！这些方法让我感觉对接下来的尝试更有信心了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

@@ -1,0 +1,537 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，上次提到我的情绪波动和焦虑，尤其是最近对未来的规划总是摇摆不定。比如，上周我接到一个长篇稿件的邀约，本来挺感兴趣，但想到需要花大量时间研究，结果又开始犹豫是不是接得了…这种感觉很折磨。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，上次提到我的情绪波动和焦虑，尤其是最近对未来的规划总是摇摆不定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "应该是时间安排吧，我总觉得自己会拖延，计划总是理想化，但执行起来就卡住了。说到这个，上个月还有个类似的事，我本来准备写一篇专题文章，前期查资料花了太久，结果后面就赶得很紧张，那种焦虑真的让我很崩溃…",
+    "has_specific_detail": true,
+    "specific_detail": "应该是时间安排吧，我总觉得自己会拖延，计划总是理想化，但执行起来就卡住了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "应该是我自己希望做到完美吧，总觉得资料不够全面就无法下笔，结果越查越多，反而拖得更久。后来交稿前只能熬夜赶完，压力真的很大…",
+    "has_specific_detail": true,
+    "specific_detail": "应该是我自己希望做到完美吧，总觉得资料不够全面就无法下笔，结果越查越多，反而拖得更久",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "有啊，我发现自己其实能在高压下完成任务，但整个过程很疲惫，也让我质疑自己是不是非得这样逼自己才能有产出…这种感觉挺矛盾的。",
+    "has_specific_detail": true,
+    "specific_detail": "有啊，我发现自己其实能在高压下完成任务，但整个过程很疲惫，也让我质疑自己是不是非得这样逼自己才能有产出…这种感觉挺矛盾的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "可能是从小习惯了吧，父母总希望我表现得很好，我也害怕让他们失望。那种被期待的压力让我觉得，只有努力到极致才能证明自己…但现在回想起来，真的很累。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是从小习惯了吧，父母总希望我表现得很好，我也害怕让他们失望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "小时候他们对我的学习成绩特别看重，经常鼓励我考第一，但情感上又很少交流。比如有一次我得了满分，他们只是说“继续保持”，却没有表现出太多开心，我当时有点失落…后来我就觉得，必须一直努力才能被认可。",
+    "has_specific_detail": true,
+    "specific_detail": "小时候他们对我的学习成绩特别看重，经常鼓励我考第一，但情感上又很少交流",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我当时其实很希望他们能真心夸奖我，或者抱抱我，说些让我感觉被肯定和重视的话。可他们只是说“继续保持”，我觉得自己好像做得再好也不够…那种空落落的感觉一直记得。",
+    "has_specific_detail": true,
+    "specific_detail": "我当时其实很希望他们能真心夸奖我，或者抱抱我，说些让我感觉被肯定和重视的话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "有的，比如工作上，当客户给出反馈时，即使是表扬，我也总觉得“还可以更好”。甚至有时朋友夸我文章写得好，我会怀疑他们是不是只是在安慰我…这种不满足感好像一直在跟着我。",
+    "has_specific_detail": true,
+    "specific_detail": "有的，比如工作上，当客户给出反馈时，即使是表扬，我也总觉得“还可以更好”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "是的，总会有个声音在说：“他们可能只是客气，不是真的觉得好。”或者是“这次还行，但下次未必能保持。”这种想法让我很难放松，总是绷着一根弦。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，总会有个声音在说：“他们可能只是客气，不是真的觉得好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得它可能一开始是为了保护我不被批评吧，但现在更多是在给我压力。就像总有个影子跟着我，提醒我不能出错，结果反而让我更焦虑。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得它可能一开始是为了保护我不被批评吧，但现在更多是在给我压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我有试过，比如自我安慰说“尽力就好”，但效果不大，那种“不够好”的感觉还是会回来。有时候我会转移注意力，比如看书或写点随笔，但也只是暂时忘掉…",
+    "has_specific_detail": true,
+    "specific_detail": "我有试过，比如自我安慰说“尽力就好”，但效果不大，那种“不够好”的感觉还是会回来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我想可能是有人能真正理解我的感受吧，不只是鼓励我努力，而是让我感觉到被接纳，不管结果如何。那种无条件的支持好像从来没真正体验过…",
+    "has_specific_detail": true,
+    "specific_detail": "我想可能是有人能真正理解我的感受吧，不只是鼓励我努力，而是让我感觉到被接纳，不管结果如何",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "如果有人真的这样接纳我，我想我会感到一种久违的放松吧，像终于能卸下肩上的重担一样。可能也会让我对自己没那么苛刻，觉得自己可以被喜欢，而不只是因为“做得好”才值得被认可。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人真的这样接纳我，我想我会感到一种久违的放松吧，像终于能卸下肩上的重担一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "也许可以试着告诉自己，“即使有些地方没做到最好，我还是值得被认可。”虽然刚开始可能有点别扭，但也许慢慢会好一点…你觉得这样可以吗？",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试着告诉自己，“即使有些地方没做到最好，我还是值得被认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "可能是在完成一件事情后吧，比如写完一篇文章，哪怕还有些小遗憾，我可以试着说“已经尽力了，很不错了。”或者当朋友夸我时，我可以试着回应“谢谢，我也觉得这次不错。”这样会不会更自然一点？",
+    "has_specific_detail": true,
+    "specific_detail": "可能是在完成一件事情后吧，比如写完一篇文章，哪怕还有些小遗憾，我可以试着说“已经尽力了，很不错了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得可能会有一点吧，至少让我多关注自己做得好的地方，而不是一直盯着不足。虽然焦虑可能不会立刻消失，但也许能慢慢减轻一些…要试试看！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能会有一点吧，至少让我多关注自己做得好的地方，而不是一直盯着不足",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "也许可以写个小纸条，放在桌上或电脑旁，写着“尽力了就值得肯定”之类的话。这样当我开始怀疑自己时，就能看到它，给自己一点提醒和支持。你觉得这个方法可行吗？",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以写个小纸条，放在桌上或电脑旁，写着“尽力了就值得肯定”之类的话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "这个主意不错！我可以用一些明亮的颜色，比如黄色或橙色，让纸条看起来更有活力。还可以画个小笑脸或者贴个喜欢的贴纸，这样每次看到都会觉得轻松一点。",
+    "has_specific_detail": true,
+    "specific_detail": "这个主意不错！我可以用一些明亮的颜色，比如黄色或橙色，让纸条看起来更有活力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我想可以是前几天刚完成的一篇影评吧，虽然写的时候有点纠结，但后来还是按时交了出去，客户反馈也挺好。可以写“影评完成得很好，你真的尽力了！”这样感觉很贴切，也能让我更有信心继续下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以是前几天刚完成的一篇影评吧，虽然写的时候有点纠结，但后来还是按时交了出去，客户反馈也挺好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我希望它能让我感到一丝安心，觉得自己是有能力完成事情的。同时也能提醒自己，做得好不一定要完美，我已经足够努力了，这就值得被认可。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望它能让我感到一丝安心，觉得自己是有能力完成事情的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "或许可以记录下每次完成的事情，不管大小，只要让我觉得尽力了，就写进一个“努力清单”。这样回头看时，可以提醒自己其实已经做了很多，有助于持续建立信心！",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以记录下每次完成的事情，不管大小，只要让我觉得尽力了，就写进一个“努力清单”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "对，可以加上一些小标记，比如画颗星星或写一句“干得好”！这样每次回头翻看时，不仅能看到进步，还会觉得更有成就感，应该会更鼓励自己继续努力。",
+    "has_specific_detail": true,
+    "specific_detail": "对，可以加上一些小标记，比如画颗星星或写一句“干得好”！这样每次回头翻看时，不仅能看到进步，还会觉得更有成就感，应该会更鼓励自己继续努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "是的，我觉得它可以让我更关注每一步的努力，而不是只看最终结果。记录下来的每个小进步，都会提醒我过程本身也有意义，这样应该能让我更享受整个创作的过程！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得它可以让我更关注每一步的努力，而不是只看最终结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我想就从那篇影评开始吧，毕竟它让我意识到自己可以按时完成任务，还得到了积极的反馈。可以写上“影评完成，按时交稿，客户满意，自己也很努力！”这样开头感觉会很有动力！",
+    "has_specific_detail": true,
+    "specific_detail": "我想就从那篇影评开始吧，毕竟它让我意识到自己可以按时完成任务，还得到了积极的反馈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得可以每周回顾一次吧，这样既不会太频繁，也能有足够的内容来总结。每周翻看时，还可以选一件最让我满意的事情，再给自己一个特别的奖励，比如做点喜欢的甜点什么的！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以每周回顾一次吧，这样既不会太频繁，也能有足够的内容来总结",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "嗯，第一次回顾时我想做个草莓奶油蛋糕吧！它是我最喜欢的甜点，做起来也不复杂，而且看到红白相间的颜色就觉得心情特别好，感觉会是个很棒的奖励！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，第一次回顾时我想做个草莓奶油蛋糕吧！它是我最喜欢的甜点，做起来也不复杂，而且看到红白相间的颜色就觉得心情特别好，感觉会是个很棒的奖励！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "会的！我想边吃蛋糕边翻看“努力清单”，一件件回忆完成时的感觉。然后告诉自己，“这一周的你真的很棒，继续这样加油吧！”这样应该会特别满足吧！",
+    "has_specific_detail": true,
+    "specific_detail": "会的！我想边吃蛋糕边翻看“努力清单”，一件件回忆完成时的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "是啊，我觉得它会成为一种小小的动力源，让我更愿意去完成每周的目标。想着到周末可以好好享受这份仪式，感觉新的一周也会充满期待和希望！",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我觉得它会成为一种小小的动力源，让我更愿意去完成每周的目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "或许可以提前列个清单，写上每周最重要的目标和几件小任务。这样每天完成一点，既不容易累积压力，也能让我更清晰地看到自己的进展。每次完成时，还可以画个勾，感觉会更有成就感！",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以提前列个清单，写上每周最重要的目标和几件小任务",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我想第一个清单上的“最重要目标”应该是完成一篇新的专题文章吧，这也是我最近接到的任务。可以分成几个小步骤，比如查资料、列提纲、写初稿，每完成一步就画个勾，这样会觉得更有节奏感！",
+    "has_specific_detail": true,
+    "specific_detail": "我想第一个清单上的“最重要目标”应该是完成一篇新的专题文章吧，这也是我最近接到的任务",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "也许可以设个时间限制，比如查资料限定两小时，这样就不会过于纠结细节。写作时先专注把想法写出来，而不是一开始就想着修改，这样流程会更顺畅，也能减少完美主义的干扰。你觉得这样可行吗？",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以设个时间限制，比如查资料限定两小时，这样就不会过于纠结细节",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "会的！比如完成初稿后，可以休息一会儿，泡杯热可可或者听几首喜欢的歌。这样既能放松一下，也算是给自己一个“小庆祝”，感觉继续下去也会更有动力！",
+    "has_specific_detail": true,
+    "specific_detail": "会的！比如完成初稿后，可以休息一会儿，泡杯热可可或者听几首喜欢的歌",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我想会是Norah Jones的《Don't Know Why》，她的声音特别柔和，旋律也很舒缓。每次听都会让我觉得安静又放松，特别适合在写作后稍微放空一下！",
+    "has_specific_detail": true,
+    "specific_detail": "我想会是Norah Jones的《Don't Know Why》，她的声音特别柔和，旋律也很舒缓",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "会的，我想在放松时也可以回顾一下写作的过程，想想哪些部分让我感到流畅和满足，哪些地方可能卡住了。这样既是对自己努力的认可，也能为后续修改做些准备，感觉会更有方向感！",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我想在放松时也可以回顾一下写作的过程，想想哪些部分让我感到流畅和满足，哪些地方可能卡住了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "是的，我想可以把修改分成几个阶段，比如先调整结构，再细化语言，最后检查错漏。每完成一个阶段，就给自己打个勾或者做点喜欢的事作为奖励，这样整个过程会显得更有条理，也不会觉得太累！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我想可以把修改分成几个阶段，比如先调整结构，再细化语言，最后检查错漏",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "如果文章顺利完成，我想给自己一个特别的奖励，比如出去吃顿喜欢的日料餐。点上一份刺身拼盘和温热的清酒，那种仪式感会让我觉得，这次的努力真的值得被好好庆祝！",
+    "has_specific_detail": true,
+    "specific_detail": "如果文章顺利完成，我想给自己一个特别的奖励，比如出去吃顿喜欢的日料餐",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "会的！我想在那一刻，我会告诉自己：“谢谢你一直坚持，虽然有焦虑和挣扎，但你还是完成了。这份努力和成果，都是值得的。”说出来应该会觉得很踏实吧！",
+    "has_specific_detail": true,
+    "specific_detail": "会的！我想在那一刻，我会告诉自己：“谢谢你一直坚持，虽然有焦虑和挣扎，但你还是完成了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "是的，我会试着把这种方式延续下去，用分阶段的小目标和适时的奖励来调节节奏。这样既不会因为追求完美而拖延，也能在每一步中找到成就感和动力，感觉会更轻松更有方向感！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我会试着把这种方式延续下去，用分阶段的小目标和适时的奖励来调节节奏",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我想就从这篇专题文章开始吧！按照分步骤的方式去完成，给自己设置合理的时间和奖励，同时记得提醒自己“尽力就好”。希望能慢慢找到更平衡的状态！",
+    "has_specific_detail": true,
+    "specific_detail": "我想就从这篇专题文章开始吧！按照分步骤的方式去完成，给自己设置合理的时间和奖励，同时记得提醒自己“尽力就好”",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 40,
+    "content": "我想对自己说：“这一次，不用追求完美，只要一步步完成就已经很棒了。相信自己的能力，也记得享受过程，你可以做到！”",
+    "has_specific_detail": true,
+    "specific_detail": "我想对自己说：“这一次，不用追求完美，只要一步步完成就已经很棒了",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 41,
+    "content": "谢谢你的支持和陪伴！有你在，我觉得自己更有底气去尝试新的节奏了。如果有新的感受或挑战，我一定会再来和你聊。今天先聊到这里吧，这些计划我想好好开始实践了！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的支持和陪伴！有你在，我觉得自己更有底气去尝试新的节奏了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

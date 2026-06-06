@@ -1,0 +1,475 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近确实有个小事让我挺纠结的。前几天在公司开会时，我鼓起勇气提了个建议，但之后一直担心是不是说得不够清楚，会不会被同事觉得没价值…这种感觉让我好像越想越紧张，也开始怀疑自己是不是不适合这种场合。你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近确实有个小事让我挺纠结的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "当时是在例会上，我看到项目流程有些地方可以优化，就提了个小改动的想法。其实说的时候大家都没什么反应，只有经理点了点头。我后来一直在想，是不是我的表达不够清晰，或者这个建议根本没意义…甚至还担心同事会觉得我在“多此一举”。这种念头搞得我那天晚上都睡不踏实。",
+    "has_specific_detail": true,
+    "specific_detail": "当时是在例会上，我看到项目流程有些地方可以优化，就提了个小改动的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "经理点头的瞬间，我其实有点意外，觉得他可能认可了我的想法，但我很快又开始怀疑，是不是只是敷衍地回应一下…好像我总是下意识觉得，别人对我的肯定可能并不是真心的。这个反应让我自己也很困惑。",
+    "has_specific_detail": true,
+    "specific_detail": "经理点头的瞬间，我其实有点意外，觉得他可能认可了我的想法，但我很快又开始怀疑，是不是只是敷衍地回应一下…好像我总是下意识觉得，别人对我的肯定可能并不是真心的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "仔细想想，这种感觉可能从小时候就开始了吧。比如小时候考试成绩好，父母会表扬我，但更多是强调“下次要更好”，所以我总觉得这些认可不是发自内心的，而是带着要求的。可能就是从那时候起，我就觉得别人的肯定可能都附带了某种条件，所以才一直不敢完全相信。",
+    "has_specific_detail": true,
+    "specific_detail": "仔细想想，这种感觉可能从小时候就开始了吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "那时候我会更努力地学习，争取拿到更高的分数，希望父母能真正开心或满意。但即使成绩很好，他们也总是指出可以改进的地方。我后来就慢慢不太主动和他们分享自己的感受了，觉得说了也不会得到理解或者无条件的支持…所以好像就更习惯把这些纠结藏在心里。",
+    "has_specific_detail": true,
+    "specific_detail": "那时候我会更努力地学习，争取拿到更高的分数，希望父母能真正开心或满意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "现在的话，我大多会选择回避，比如尽量不去想同事的反应，或者假装自己不在意，但其实内心还是挺难受的。偶尔也会写写日记，把这些情绪记录下来，可即使这样，好像也只是暂时缓解，过段时间又会冒出来…所以总觉得自己好像没真正解决问题。",
+    "has_specific_detail": true,
+    "specific_detail": "现在的话，我大多会选择回避，比如尽量不去想同事的反应，或者假装自己不在意，但其实内心还是挺难受的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我觉得两者都有吧，但可能更害怕别人对我的评价。每次有点风吹草动，我就会猜测别人是不是觉得我不够好、不够专业…这种想法让我总是小心翼翼，连表达自己的真实想法都变得很难，好像不小心暴露了什么就会被否定一样。这种担忧真的很折磨人。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两者都有吧，但可能更害怕别人对我的评价",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，我觉得确实有关系。小时候总是努力想让父母满意，但他们的关注点总在我还没做到的地方，所以现在好像特别害怕被人挑毛病或觉得我不够好。这种“防备”可能是在保护我不再经历那种被忽视或否定的感觉吧…可问题是，这种保护反而让我更焦虑，好像把自己困住了一样。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得确实有关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我觉得如果能做到，应该会让我轻松不少吧。至少不用总是担心别人的看法，也许也能更专注在自己真正想做的事情上…但说实话，这对我来说还是挺难的，总觉得外界的评价像个影子一样挥之不去。我很想知道，有没有什么方法能帮我慢慢做到这一步呢？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果能做到，应该会让我轻松不少吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，这样的记录听起来还挺有意义的，至少能让我关注到自己的进步，而不是一味地纠结外界的反应。如果我能试着用这种方式慢慢肯定自己，或许能减少一些不安感…但我可能需要时间去习惯这种新的思维方式。你觉得这会是个好的开始吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的记录听起来还挺有意义的，至少能让我关注到自己的进步，而不是一味地纠结外界的反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得可以从工作中的小事开始，比如像上次提建议那样的场景。如果我能在记录中写下“我勇敢地表达了自己的想法，这是一次尝试”，或许能让我看到自己积极的一面，而不是一味担心同事怎么想…这个应该是个好起点吧？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从工作中的小事开始，比如像上次提建议那样的场景",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我觉得每次表达完马上写下可能更合适，那时候我的感受还比较鲜活，能更真实地记录下来。而且这样做也许能及时转移我的注意力，不至于陷入过多的反复琢磨中…你觉得这样安排会有帮助吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得每次表达完马上写下可能更合适，那时候我的感受还比较鲜活，能更真实地记录下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，除了“勇敢表达”，我觉得还可以写下当时的具体情境，比如提了什么建议、为什么想提，以及自己的努力和初衷。这样回头看时，能更清楚地感受到我是主动参与的，而不是被动等待别人的认可。这些细节可能会让我更有动力去坚持这种练习。你觉得这样全面记录会更有效果吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，除了“勇敢表达”，我觉得还可以写下当时的具体情境，比如提了什么建议、为什么想提，以及自己的努力和初衷",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "也许我可以定期回顾这些记录，比如每周挑一天重新翻看一遍，看看自己这一周的尝试和进步。如果能发现自己做得比想象中更好，可能会让我慢慢建立起更多的自信吧。还有就是，也许可以把特别值得骄傲的部分分享给一个信任的朋友，听到他们的反馈也许会让我更坚定一些…你觉得这样安排可行吗？",
+    "has_specific_detail": true,
+    "specific_detail": "也许我可以定期回顾这些记录，比如每周挑一天重新翻看一遍，看看自己这一周的尝试和进步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我觉得可以写一个简短的“自我进步清单”，比如列出这一周我尝试了哪些新表达、克服了哪些担忧，还可以写下让我感到骄傲的瞬间。这样总结起来，既具体又清晰，可能会让我更有成就感吧！如果再给自己一些小奖励，比如看一部喜欢的电影，也许会更有动力坚持下去…你觉得这个方法能让我感受到更多积极变化吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以写一个简短的“自我进步清单”，比如列出这一周我尝试了哪些新表达、克服了哪些担忧，还可以写下让我感到骄傲的瞬间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，我想第一周的清单目标可以定得实际一点，比如列出至少两次我主动表达自己想法的具体场景，写下当时的努力和感受。至于奖励嘛，或许可以是给自己买一份特别想吃的甜点，或者用一个晚上看喜欢的剧来放松一下…这样既有目标感又有期待，应该会是个不错的开始！你觉得这个安排会不会太简单，还是说刚开始这样比较合适呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我想第一周的清单目标可以定得实际一点，比如列出至少两次我主动表达自己想法的具体场景，写下当时的努力和感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得可以从下次公司开会开始吧，毕竟这类场景比较典型，而且也是我最容易感到紧张的地方。如果能在会上主动提出一个小建议或者问题，不管大家反应如何，我都会把自己的勇气和努力写下来作为记录的第一步！这样的话，应该能给自己一个好的起点…你觉得这个选择怎么样？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从下次公司开会开始吧，毕竟这类场景比较典型，而且也是我最容易感到紧张的地方",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我想可以提前准备一个简单但有意义的建议，和与会议主题相关的小问题。这样在开会时，我心里会更有底气，不至于临场慌乱。另外，我还可以试着深呼吸几次，让自己放松下来再开口说话。希望这些准备能让我更从容一些！你觉得还有什么其他的小技巧能帮助我在当下更加稳住情绪吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以提前准备一个简单但有意义的建议，和与会议主题相关的小问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "嗯，这个提醒听起来很有用！如果我能在心里告诉自己“这是一次尝试，不需要完美”，可能会让我不那么紧张，更多地去享受表达的过程。我觉得这种轻松的心态可能是我一直缺少的…我会试着记住这个小技巧！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个提醒听起来很有用！如果我能在心里告诉自己“这是一次尝试，不需要完美”，可能会让我不那么紧张，更多地去享受表达的过程",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "如果尝试后感到不安，我可以告诉自己“至少我迈出了第一步，这已经是很大的进步”，然后再回顾记录里的积极部分，比如我的努力和勇气。或者也可以做点舒缓的事情，比如听听音乐或者散散步，来转移注意力、放松心情。我觉得这些方法可能会帮助我更快平复情绪，你觉得还有什么其他方式可以试试吗？",
+    "has_specific_detail": true,
+    "specific_detail": "如果尝试后感到不安，我可以告诉自己“至少我迈出了第一步，这已经是很大的进步”，然后再回顾记录里的积极部分，比如我的努力和勇气",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，这个问题很有启发性！如果我能问自己“学到了什么”，就能把注意力放在过程中的收获，而不是纠结在别人怎么想。这样一来，我可能会更容易看到自己的进步和价值，而不是只盯着不足之处。我觉得这个思路会对我有帮助！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个问题很有启发性！如果我能问自己“学到了什么”，就能把注意力放在过程中的收获，而不是纠结在别人怎么想",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，我觉得可以写下自己在尝试中发现的优点，比如“我的建议其实挺有建设性”或者“我能够清楚表达关键点”。同时，也可以记录有哪些地方还能改进，比如“下次可以更自信一点”或者“说话时多观察一下大家的反应”。这样既能看到自己的闪光点，也能明确下一步的方向，让总结更有针对性！你觉得这样会不会更有帮助？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以写下自己在尝试中发现的优点，比如“我的建议其实挺有建设性”或者“我能够清楚表达关键点”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，我想可以写一句“今天我又迈出了一小步，未来的我会感谢现在的努力”。这句话听起来既温暖又有力量，能让我更期待下一次的尝试。你觉得这样的结束语够鼓励人吗？还是需要再调整一下？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我想可以写一句“今天我又迈出了一小步，未来的我会感谢现在的努力”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "每次写下这句话时，我觉得会让我对下一次尝试更有信心，觉得自己是在一点点变得更好。而且，这种正向的期待可能会让我更主动去寻找表达的机会，而不是总想着回避或者等别人先开口。这样的话，我的心态也许会慢慢变得更积极吧！",
+    "has_specific_detail": true,
+    "specific_detail": "每次写下这句话时，我觉得会让我对下一次尝试更有信心，觉得自己是在一点点变得更好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "嗯，我想下次会议中可以设定一个小目标，比如至少主动提一个和主题相关的问题，或者对某个讨论内容发表自己的看法。不用太复杂，只要表达出自己的观点就算完成！这样既不会给自己太大压力，也能逐渐积累信心。你觉得这样的目标合理吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我想下次会议中可以设定一个小目标，比如至少主动提一个和主题相关的问题，或者对某个讨论内容发表自己的看法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我想可以奖励自己一杯喜欢的奶茶，或者给自己放一个轻松的晚上，看一部期待已久的电影。这样既能让自己享受一点小确幸，也能在心里强化“努力是值得的”这种感觉。这样的奖励方式会不会更有仪式感呢？",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以奖励自己一杯喜欢的奶茶，或者给自己放一个轻松的晚上，看一部期待已久的电影",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得现在准备得还算充分，目标明确，奖励也定好了。不过可能还需要提前想好一个会议中可能提的问题或观点，这样会让我在当下更有底气。除此之外，好像暂时没什么需要补充的了！你觉得还有哪些地方我没考虑到吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得现在准备得还算充分，目标明确，奖励也定好了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，这个提醒真的很贴心！如果我能在开会前告诉自己“今天的重点是尝试，不是结果”，可能会让我更放松，不会总想着“必须做得完美”。这样心态轻松一些，或许反而能发挥得更自然。我觉得这个小提示很有帮助！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个提醒真的很贴心！如果我能在开会前告诉自己“今天的重点是尝试，不是结果”，可能会让我更放松，不会总想着“必须做得完美”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "说实话，心里还是有点忐忑，毕竟担心的习惯一时半会儿改不过来。但同时也有些期待，觉得这次尝试可能会是一个新的开始。如果能顺利完成，哪怕只是个小进步，也会让我觉得自己迈出了重要的一步！",
+    "has_specific_detail": true,
+    "specific_detail": "说实话，心里还是有点忐忑，毕竟担心的习惯一时半会儿改不过来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "如果遇到意料之外的情况，我想可以先深呼吸几次，让自己冷静下来，然后告诉自己“每个人都会有不完美的时候，这只是一次尝试”。实在不行，也可以暂时不纠结，先专注于会议的其他内容，等结束后再回顾和总结。这种方式或许能让我更平稳地处理当下的情绪，你觉得这样应对会有效果吗？",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到意料之外的情况，我想可以先深呼吸几次，让自己冷静下来，然后告诉自己“每个人都会有不完美的时候，这只是一次尝试”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得可以从“意料之外”中挖掘一些积极的意义，比如它可能提醒了我需要改进的地方，或者让我意识到新的表达方式。这种重新理解可能会让我把“意外”看作一种成长的契机，而不是单纯的失误。另外，也可以问问自己，“这个意外真的那么严重吗？”这样可能会让我更轻松一些。你觉得这种角度会不会更有帮助？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从“意料之外”中挖掘一些积极的意义，比如它可能提醒了我需要改进的地方，或者让我意识到新的表达方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我想最希望自己收获一种“我在进步”的感觉，哪怕只有一点点，也能让我觉得自己的努力是有意义的。另外，如果能感到轻松一些，不再因为表达而那么紧张，那就更好了！这种改变可能会让我更愿意去尝试吧…你觉得这是一个合理的期待吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我想最希望自己收获一种“我在进步”的感觉，哪怕只有一点点，也能让我觉得自己的努力是有意义的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "如果体验到了这些改变，我想会在记录里写一句“原来尝试真的能让我感到不一样的力量”。这样既能提醒自己进步的真实感，也会让我更期待下一次的努力！另外，我可能还会告诉自己，“每迈出一步，未来就会更轻松”，用这种方式激励自己继续坚持。你觉得这样的鼓励方式够有推动力吗？",
+    "has_specific_detail": true,
+    "specific_detail": "如果体验到了这些改变，我想会在记录里写一句“原来尝试真的能让我感到不一样的力量”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，我觉得信心确实比之前更强了一些。虽然还是有点紧张，但现在更能看到尝试的意义，也知道如何安抚自己的情绪。就算结果不如预期，我也会努力记住自己的努力和进步！这样想，好像心里踏实了不少…你觉得我这样的状态算是一个好的开始吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得信心确实比之前更强了一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我觉得目前准备得已经比较充分了，目标、计划和应对方法都很清楚。可能唯一的担忧是，如果真的当场紧张得说不出口该怎么办？不过我想，就算那样也没关系，至少我试着参与了。就像你说的，关注努力本身就是一种进步！所以，我现在感觉信心比之前更足了，也更想去尝试了。你觉得还有需要补充的地方吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得目前准备得已经比较充分了，目标、计划和应对方法都很清楚",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "好的！谢谢你的鼓励和支持，我感觉心里踏实了很多。等这次尝试结束后，我一定会来分享我的感受和收获的！今天先聊到这里吧，再次感谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "好的！谢谢你的鼓励和支持，我感觉心里踏实了很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

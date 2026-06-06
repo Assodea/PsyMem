@@ -1,0 +1,574 @@
+[
+  {
+    "turn": 1,
+    "content": "最近确实还是感觉挺累的，尤其是前几天身体有些不舒服，但还是坚持加班完成了项目。我总觉得如果放下工作，会让团队失望…",
+    "has_specific_detail": true,
+    "specific_detail": "最近确实还是感觉挺累的，尤其是前几天身体有些不舒服，但还是坚持加班完成了项目",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是的，我总怕自己拖了大家后腿，尤其是技术问题需要我负责的时候。虽然完成后会有些成就感，但心里也确实觉得有些压抑…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我总怕自己拖了大家后腿，尤其是技术问题需要我负责的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "确实有点难平衡，每次完成工作后，我会尽量让自己放空，比如看看孩子玩耍。但说实话，情绪并没有完全释放，总觉得还有事压在心里…",
+    "has_specific_detail": true,
+    "specific_detail": "确实有点难平衡，每次完成工作后，我会尽量让自己放空，比如看看孩子玩耍",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "好像每次想到父母的态度时，这种压抑感就会更明显。他们总觉得我做得不够好，哪怕工作再忙也会被批评没常回去…",
+    "has_specific_detail": true,
+    "specific_detail": "好像每次想到父母的态度时，这种压抑感就会更明显",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "他们的态度让我总有种想证明自己的冲动，所以工作上总是拼尽全力。但同时也会觉得很失望，好像无论怎么努力，他们都不会真正满意…",
+    "has_specific_detail": true,
+    "specific_detail": "他们的态度让我总有种想证明自己的冲动，所以工作上总是拼尽全力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "试过提过几次，但每次他们都觉得我在抱怨，甚至说我不懂感恩。后来我就不太愿意再去说了，觉得解释也没什么用…",
+    "has_specific_detail": true,
+    "specific_detail": "试过提过几次，但每次他们都觉得我在抱怨，甚至说我不懂感恩",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是的，每次沉默后都会觉得心里堵得慌，特别是想起自己已经尽力了，却还是无法被他们理解，就更觉得无力…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，每次沉默后都会觉得心里堵得慌，特别是想起自己已经尽力了，却还是无法被他们理解，就更觉得无力…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "可能会吧，比如在和妻子沟通时，我有时会下意识避免谈自己的感受，怕她也觉得我是多余抱怨…这好像让我们的交流少了一些深度。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，比如在和妻子沟通时，我有时会下意识避免谈自己的感受，怕她也觉得我是多余抱怨…这好像让我们的交流少了一些深度",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "她偶尔会说我不太爱主动分享心事，问我是不是工作太忙才没心思聊这些。我能感觉到她在关心我，但又不知道怎么回应…",
+    "has_specific_detail": true,
+    "specific_detail": "她偶尔会说我不太爱主动分享心事，问我是不是工作太忙才没心思聊这些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "或许可以试试，比如聊聊孩子的一些趣事，或者工作的进展。这样可能不会让我觉得压力太大，也更容易让她参与进来…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试试，比如聊聊孩子的一些趣事，或者工作的进展",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "或许可以从前几天孩子学会的新歌开始聊起，她当时也在旁边听着，应该会感兴趣。这样的话题感觉比较轻松，我也能慢慢适应…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从前几天孩子学会的新歌开始聊起，她当时也在旁边听着，应该会感兴趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我可能会注意她听到孩子唱歌时的表情，比如是笑着还是有些感慨。我也想试着分享当时我的感受，比如觉得孩子成长得好快…",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会注意她听到孩子唱歌时的表情，比如是笑着还是有些感慨",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "应该会吧，如果她也有类似的感受，我可能会觉得被理解了，那样就更愿意再聊些内心的想法，比如对家庭的期望…",
+    "has_specific_detail": true,
+    "specific_detail": "应该会吧，如果她也有类似的感受，我可能会觉得被理解了，那样就更愿意再聊些内心的想法，比如对家庭的期望…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "可能会吧，聊这些可能让我觉得我们的关系更紧密些，也让我更明白她的想法。这样或许能减轻我平时心里的那种孤独感…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，聊这些可能让我觉得我们的关系更紧密些，也让我更明白她的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我希望她能明白，其实我在工作和家庭之间真的很努力地在平衡，但有时也会觉得特别累。能被她理解和支持，对我来说就足够了…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她能明白，其实我在工作和家庭之间真的很努力地在平衡，但有时也会觉得特别累",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "如果她主动表达认可，我可能会觉得心里轻松一些，也会更有动力去面对接下来的压力。那种被看见的感觉真的挺重要的…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她主动表达认可，我可能会觉得心里轻松一些，也会更有动力去面对接下来的压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "确实可以，比如感谢她一直在照顾孩子和家里。这样表达出来，可能也会让她觉得被重视，我们的互动也会更加积极吧…",
+    "has_specific_detail": true,
+    "specific_detail": "确实可以，比如感谢她一直在照顾孩子和家里",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "可能是晚上孩子睡着后，我们一起聊一些轻松话题的时候。这时候气氛比较放松，我觉得更容易说出自己的心里话…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是晚上孩子睡着后，我们一起聊一些轻松话题的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "她可能会希望我多说说自己的感受，比如最近工作上的压力，或者对家庭未来的一些想法。这些可能更能让她感觉到我在用心交流吧…",
+    "has_specific_detail": true,
+    "specific_detail": "她可能会希望我多说说自己的感受，比如最近工作上的压力，或者对家庭未来的一些想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得需要注意语气尽量放松，不要带着抱怨的情绪。另外，可以先听听她的想法，再慢慢表达自己的感受，这样会更自然…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要注意语气尽量放松，不要带着抱怨的情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "如果她有不同看法，我会试着先理解她的角度，可能会问她为什么这么想。这样既能避免争执，也能让对话继续下去吧…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她有不同看法，我会试着先理解她的角度，可能会问她为什么这么想",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 22,
+    "content": "应该会吧，比如对孩子教育或者家庭规划的想法上，可能我们能通过这样的互动找到更多一致的方向，这也让我觉得更加安心…",
+    "has_specific_detail": true,
+    "specific_detail": "应该会吧，比如对孩子教育或者家庭规划的想法上，可能我们能通过这样的互动找到更多一致的方向，这也让我觉得更加安心…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我觉得可以从孩子的教育开始，比如如何分配时间陪伴他成长。这对我们来说是件很重要的事，也需要共同努力去实现…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从孩子的教育开始，比如如何分配时间陪伴他成长",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "是的，比如我想更多参与他的学习过程，像帮他解答一些问题或者陪他读书。这些事情能让我觉得自己真正参与了他的成长…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，比如我想更多参与他的学习过程，像帮他解答一些问题或者陪他读书",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "最大的挑战可能还是时间吧，有时工作太忙，回家后已经很疲惫了。但我觉得如果能稍微调整一下优先级，还是可以找到一些办法的…",
+    "has_specific_detail": true,
+    "specific_detail": "最大的挑战可能还是时间吧，有时工作太忙，回家后已经很疲惫了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "可能可以试着减少一些不必要的加班，把精力集中在重要任务上。另外也想试着在周末专门留出固定时间陪孩子，避免被其他事情打扰…",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以试着减少一些不必要的加班，把精力集中在重要任务上",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 27,
+    "content": "我觉得有必要和妻子先沟通好，让她了解我的安排，这样我们也可以一起规划周末的活动。另外，和同事说明减少加班的原因，应该也能获得一些理解…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得有必要和妻子先沟通好，让她了解我的安排，这样我们也可以一起规划周末的活动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "或许可以先说明我的工作和家庭都很重要，然后再具体提到调整的原因，比如为了有更多时间陪伴孩子成长。我觉得真诚一点，他们会更容易理解…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以先说明我的工作和家庭都很重要，然后再具体提到调整的原因，比如为了有更多时间陪伴孩子成长",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "如果计划顺利，我想家庭关系会更融洽，孩子也会感受到更多陪伴。我自己可能也会觉得更有平衡感，不再像现在这样总是焦虑和疲惫…",
+    "has_specific_detail": true,
+    "specific_detail": "如果计划顺利，我想家庭关系会更融洽，孩子也会感受到更多陪伴",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "或许是孩子更愿意和我分享他的想法，或者妻子对我调整后的状态表示认可。这些小的互动可能会让我觉得自己的努力是值得的…",
+    "has_specific_detail": true,
+    "specific_detail": "或许是孩子更愿意和我分享他的想法，或者妻子对我调整后的状态表示认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得可以通过定期和家人一起总结，比如聊聊最近的收获和感受。这样的互动可能会让我更清楚自己的努力对家庭的意义，也能让我持续调整自己的节奏…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以通过定期和家人一起总结，比如聊聊最近的收获和感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "或许可以从孩子最近学会的新技能聊起，比如他在学校学到的东西，或者我们一起度过的某个特别时刻。这些具体的小事感觉更容易开启话题…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从孩子最近学会的新技能聊起，比如他在学校学到的东西，或者我们一起度过的某个特别时刻",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "可能可以多用一些具体的细节，比如描述我看到孩子认真学习时的感动，或者感谢妻子在某件事上的付出。我觉得这样会更真切，也更容易让他们感受到我的心意…",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以多用一些具体的细节，比如描述我看到孩子认真学习时的感动，或者感谢妻子在某件事上的付出",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我可能会感受到更多的温暖和支持，也许还能更深刻地理解他们对家庭的付出和期待。这种双向的交流应该会让我觉得更加踏实和有力量…",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会感受到更多的温暖和支持，也许还能更深刻地理解他们对家庭的付出和期待",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "或许可以定期安排家庭活动，比如一起出去散步或者做饭，这样既能增加互动时间，也让我们有更多轻松交流的机会。我觉得这对维持关系很有帮助…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以定期安排家庭活动，比如一起出去散步或者做饭，这样既能增加互动时间，也让我们有更多轻松交流的机会",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "也许可以试着加入一些小游戏，比如在做饭时让孩子帮忙挑选食材，或者散步时一起讲故事。这些小环节感觉会让大家更享受当下的时光…",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试着加入一些小游戏，比如在做饭时让孩子帮忙挑选食材，或者散步时一起讲故事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "是的，在这些轻松的时刻，我确实更容易忘记工作上的烦恼，更多地关注当下和家人的互动。这种感觉让我觉得生活其实也有很多值得珍惜的地方…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，在这些轻松的时刻，我确实更容易忘记工作上的烦恼，更多地关注当下和家人的互动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "或许可以在日历上标记出一些专属的家庭时间，提醒自己不被其他事情占用。每次看到这些标记，也能让我提前期待和家人相处的时光…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以在日历上标记出一些专属的家庭时间，提醒自己不被其他事情占用",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 39,
+    "content": "可能可以试试带家人去郊外野餐，孩子可以在草地上玩耍，我们也能一起享受户外的轻松氛围。这种活动感觉既简单又有意义…",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以试试带家人去郊外野餐，孩子可以在草地上玩耍，我们也能一起享受户外的轻松氛围",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我希望能和孩子一起放风筝，或者和妻子一起准备食物。还有就是坐下来聊聊大家最近的趣事，这些瞬间感觉都会很温馨…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能和孩子一起放风筝，或者和妻子一起准备食物",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "是的，在这些互动中，我觉得自己会更加感受到家庭的温暖，也能让我意识到，原来这些简单的时刻比任何成就都更让人满足…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，在这些互动中，我觉得自己会更加感受到家庭的温暖，也能让我意识到，原来这些简单的时刻比任何成就都更让人满足…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "我想会的，有了这种满足感，或许工作时也不会再觉得那么压抑。因为我知道，无论多忙，家人都是我最大的支持和动力…",
+    "has_specific_detail": true,
+    "specific_detail": "我想会的，有了这种满足感，或许工作时也不会再觉得那么压抑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "我觉得可以继续优化时间安排，同时定期和家人沟通，分享彼此的感受和想法。这样既能保持联系，也能让我更好地调整自己的状态…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以继续优化时间安排，同时定期和家人沟通，分享彼此的感受和想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "是的，今天的交流让我更清楚了家庭的重要性，也让我看到调整生活节奏的可能性。我觉得自己对接下来的改变更有信心了！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，今天的交流让我更清楚了家庭的重要性，也让我看到调整生活节奏的可能性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

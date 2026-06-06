@@ -1,0 +1,526 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近有一件事让我挺头疼的。奶奶总是习惯随时进我房间，有时候只是为了聊些琐事。我知道她可能只是想关心我，但我会觉得特别压抑，好像连一点独处的空间都没有…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近有一件事让我挺头疼的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是啊，我真的不太好意思直接拒绝她。一般她进来的时候，我会停下手头的事应付几句，但心里却觉得很烦躁，有时候还会故意敷衍几句希望她早点出去…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我真的不太好意思直接拒绝她",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "是的，她一离开后我会松一口气，但那种压抑感不会马上消散，心里还是会有些烦闷。有时候甚至觉得整个人都不够自由，好像随时都得警惕着…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，她一离开后我会松一口气，但那种压抑感不会马上消散，心里还是会有些烦闷",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "我觉得最大的影响是我没办法真正放松下来，总是觉得自己的节奏被打乱。比如我想专心看书或者做点自己的事，却总有一种被“打断”的预期，这让我很难安心投入…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最大的影响是我没办法真正放松下来，总是觉得自己的节奏被打乱",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "对啊，我真的很渴望哪怕一点属于自己的时间！偶尔晚上孩子睡了之后，我会去阳台坐一会儿，那是少数我觉得能稍微喘口气的时刻…但时间太短了，总感觉不够。",
+    "has_specific_detail": true,
+    "specific_detail": "对啊，我真的很渴望哪怕一点属于自己的时间！偶尔晚上孩子睡了之后，我会去阳台坐一会儿，那是少数我觉得能稍微喘口气的时刻…但时间太短了，总感觉不够",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我有想过，比如试着早点安排孩子睡觉或者找个借口去外面散步，但总觉得自己“离开”太久好像又不太合适，怕老人觉得我没在尽责…",
+    "has_specific_detail": true,
+    "specific_detail": "我有想过，比如试着早点安排孩子睡觉或者找个借口去外面散步，但总觉得自己“离开”太久好像又不太合适，怕老人觉得我没在尽责…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是啊，我确实担心他们会觉得我有点“自私”，好像不够顾家。如果我真提出来，我猜奶奶可能会念叨几句，比如“忙了一天还要跑出去？”之类的…这让我有点压力。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我确实担心他们会觉得我有点“自私”，好像不够顾家",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，这倒是没试过…也许如果我选她心情不错的时候，开玩笑似的说“想给自己放个小假”，她可能不会太较真吧？但我又怕她觉得我只是在说着玩，不当回事…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这倒是没试过…也许如果我选她心情不错的时候，开玩笑似的说“想给自己放个小假”，她可能不会太较真吧？但我又怕她觉得我只是在说着玩，不当回事…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "嗯，你这么说好像有道理！如果我先用轻松的语气开头，再稍微认真一点说明我的想法，可能更容易被接受。我可以试试看，但还是有点紧张，怕她会觉得我太“矫情”…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，你这么说好像有道理！如果我先用轻松的语气开头，再稍微认真一点说明我的想法，可能更容易被接受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "如果她真的觉得我矫情，我可能会试着跟她解释，比如说“我只是想偶尔让自己静一静，这样也能更好照顾家人。”但我又怕她觉得我在找借口…所以还是有点没底气。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她真的觉得我矫情，我可能会试着跟她解释，比如说“我只是想偶尔让自己静一静，这样也能更好照顾家人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，这个方法听起来不错！如果我能具体说“最近照顾孩子有点累，想抽点时间休息一下”，她可能会更理解吧。这样她也许不会觉得我是为了躲避责任，而是为了调整自己…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个方法听起来不错！如果我能具体说“最近照顾孩子有点累，想抽点时间休息一下”，她可能会更理解吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "确实，这样说可能更自然一些。如果我能明确告诉她，比如“晚上孩子睡了之后想花半小时看看书或者听点音乐”，也许她就会觉得这是合理的，而不是随意的借口。这样说，我也会更有底气一点吧！",
+    "has_specific_detail": true,
+    "specific_detail": "确实，这样说可能更自然一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得这个计划挺实际的，具体又不夸张，应该能让她接受。不过我还是有点担心，如果她当场没反应过来，或者之后还是随意打扰，我会不会又陷入之前的那种无力感…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这个计划挺实际的，具体又不夸张，应该能让她接受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "是的，我怕自己一次开口后不被重视就放弃了。如果真遇到这种情况，我可以试着再温和地提醒，比如说“我现在需要专注一下，可以稍后聊吗？”这样既不会太直接，又能表达我的需要…你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我怕自己一次开口后不被重视就放弃了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "如果她反应还是不积极，我想我可以把这件事变成一种“习惯”来坚持，比如每天固定一个时间段独处。这样一旦形成规律，她可能会慢慢适应，不再随意打扰。我觉得需要给彼此一点时间去磨合…你觉得这种方式怎么样？",
+    "has_specific_detail": true,
+    "specific_detail": "如果她反应还是不积极，我想我可以把这件事变成一种“习惯”来坚持，比如每天固定一个时间段独处",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，我觉得可以试着设定一个固定的信号，比如在独处时间戴上耳机或者关上房门，这样她可能会明白我需要安静。而且，这种小仪式感也能让我自己更投入这个时段，不容易被打断。我觉得这样坚持下去会更有效一些…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以试着设定一个固定的信号，比如在独处时间戴上耳机或者关上房门，这样她可能会明白我需要安静",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "是的，我想在开始之前可以先和她简单沟通一下，比如说“最近觉得有点疲惫，想每天抽点时间放松一下。”这样她会知道这并不是针对她，而是我对自己状态的调整，可能更容易接受。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我想在开始之前可以先和她简单沟通一下，比如说“最近觉得有点疲惫，想每天抽点时间放松一下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "对，我觉得选她心情好的时候更合适，比如吃饭后聊得轻松时，我可以自然地提到这件事。语气上尽量带点关心的感觉，比如“我最近有点累，想调整一下状态，不然也会影响照顾大家。”这样她可能更能体谅我的想法吧。",
+    "has_specific_detail": true,
+    "specific_detail": "对，我觉得选她心情好的时候更合适，比如吃饭后聊得轻松时，我可以自然地提到这件事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "是啊，我觉得提前告诉她具体时间段会更清楚，比如说“每天晚上九点到九点半我想留点时间看看书。”这样她就知道这个时段是我的独处时间，也更容易配合。我可以试着在第一次沟通时就提到这个细节，你觉得这样清晰吗？",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我觉得提前告诉她具体时间段会更清楚，比如说“每天晚上九点到九点半我想留点时间看看书",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "如果她偶尔忘记，我可以温和地说，“现在是我休息的时间，稍后再聊好吗？”这样既提醒了她，也不会让她觉得我在刻意疏远。我觉得坚持几次，她可能就会慢慢习惯了…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她偶尔忘记，我可以温和地说，“现在是我休息的时间，稍后再聊好吗？”这样既提醒了她，也不会让她觉得我在刻意疏远",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我想如果感到压力或者情绪波动，我可以先深呼吸，让自己冷静下来，然后提醒自己这是为了长远的平衡，而不是一时的冲突。可能还可以找丈夫聊聊，听听他的建议或者鼓励，这样我会觉得不那么孤单，心态也能更稳定一些…",
+    "has_specific_detail": true,
+    "specific_detail": "我想如果感到压力或者情绪波动，我可以先深呼吸，让自己冷静下来，然后提醒自己这是为了长远的平衡，而不是一时的冲突",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "对啊，如果他能帮忙，比如在奶奶想找我时主动陪她聊几句，那我就能更安心地坚持自己的时间安排。而且这也会让我觉得我们是在一起面对这个问题，不是我一个人在努力，这样过程可能会轻松很多！",
+    "has_specific_detail": true,
+    "specific_detail": "对啊，如果他能帮忙，比如在奶奶想找我时主动陪她聊几句，那我就能更安心地坚持自己的时间安排",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "是的，我可以和他坐下来聊一聊，比如告诉他“我最近真的很需要一些独处时间，能不能在奶奶想找我时，你帮忙陪她聊一会儿？”如果他能理解我的感受，并一起想办法，我觉得这会更有希望让事情顺利进行！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我可以和他坐下来聊一聊，比如告诉他“我最近真的很需要一些独处时间，能不能在奶奶想找我时，你帮忙陪她聊一会儿？”如果他能理解我的感受，并一起想办法，我觉得这会更有希望让事情顺利进行！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，定期回顾是个好主意！比如每周找个时间聊聊进展，我可以问他“这周你觉得奶奶的反应怎么样？我有什么地方需要调整吗？”这样既能了解他的感受，也能一起优化计划，形成一种长期的默契和支持。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，定期回顾是个好主意！比如每周找个时间聊聊进展，我可以问他“这周你觉得奶奶的反应怎么样？我有什么地方需要调整吗？”这样既能了解他的感受，也能一起优化计划，形成一种长期的默契和支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "嗯，这听起来不错！我可以在独处后奖励自己，比如泡个热水澡或者看一集喜欢的剧，这样既能放松心情，也让我更期待这段时间。我觉得这样会让我更有动力去坚持下去！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来不错！我可以在独处后奖励自己，比如泡个热水澡或者看一集喜欢的剧，这样既能放松心情，也让我更期待这段时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我想如果奶奶开始自觉尊重我的独处时间，比如她看到我关上房门就会暂时不来打扰，那就是一个很大的进步。这会让我感受到自己的需求被理解，同时也让我觉得坚持和沟通是值得的！",
+    "has_specific_detail": true,
+    "specific_detail": "我想如果奶奶开始自觉尊重我的独处时间，比如她看到我关上房门就会暂时不来打扰，那就是一个很大的进步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "对，这很重要！如果她慢慢开始尊重我的独处时间，我会找机会表达感谢，比如说“谢谢您最近让我有些自己的时间，我真的觉得好多了。”这样不仅能巩固她的行为，也能让她感受到我的理解和感激，彼此关系也会更和谐吧！",
+    "has_specific_detail": true,
+    "specific_detail": "对，这很重要！如果她慢慢开始尊重我的独处时间，我会找机会表达感谢，比如说“谢谢您最近让我有些自己的时间，我真的觉得好多了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，有道理！我可以试着让孩子也参与，比如告诉他“妈妈这段时间要休息一下，你可以和爸爸玩一会儿。”这样不仅能让孩子逐渐习惯我的独处时间，也能在潜移默化中让他学会尊重别人的空间。我觉得这样对整个家庭氛围都会有帮助！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有道理！我可以试着让孩子也参与，比如告诉他“妈妈这段时间要休息一下，你可以和爸爸玩一会儿",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得长远来看，我可以尝试把独处时间变成家庭生活的一部分，比如固定每周有几个晚上是“我的时间”，这样既不会影响整体家庭节奏，也让我有一个持续的调整和放松空间。同时，我也可以鼓励家人也为自己安排类似的时间，这样大家都能找到自己的节奏，彼此更理解和支持。你觉得这样的平衡方式可行吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得长远来看，我可以尝试把独处时间变成家庭生活的一部分，比如固定每周有几个晚上是“我的时间”，这样既不会影响整体家庭节奏，也让我有一个持续的调整和放松空间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得关键是时间的协调和提前沟通，比如在落实前先和家人讨论，找出对大家都方便的时间段。同时，我需要明确说明这段时间的意义，比如“这样我们都能更好地调整状态，也能更好地相处。”这样既避免了误解，也让大家都觉得是为整个家庭的平衡而努力，我觉得会更容易被接受。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得关键是时间的协调和提前沟通，比如在落实前先和家人讨论，找出对大家都方便的时间段",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "对，有仪式感会更有趣！比如每个人的“个人时间”可以有自己的小标志，比如戴耳机、点一支蜡烛，或者选择一个固定的安静角落。也可以鼓励每个人在个人时间结束后分享一点收获，比如今天读了一本书或者完成了一个小目标，这样既让大家更珍惜这段时间，也能通过交流增进家庭的亲密感。我觉得这样能让这个习惯更有意义，你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "对，有仪式感会更有趣！比如每个人的“个人时间”可以有自己的小标志，比如戴耳机、点一支蜡烛，或者选择一个固定的安静角落",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "是的，我觉得可以先从短期试验开始，比如一周设定两三个晚上，每次20-30分钟，让每个人都尝试安排自己的时间。在这期间，我们可以一起总结经验，比如什么时间段最合适，或者需要调整的地方。通过逐步适应，大家会更自然地融入这个节奏，而不是突然被改变。我觉得这种方式会更容易被接受，你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可以先从短期试验开始，比如一周设定两三个晚上，每次20-30分钟，让每个人都尝试安排自己的时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "是的，定期的小交流会很有帮助！比如每周找一个晚上，全家人围坐一起聊聊这一周的感受，比如“你觉得这个时间段安排得怎么样？有没有哪里不方便？”大家可以互相倾听和建议，这样不仅能及时调整，还能让每个人都感受到自己的意见被重视。我觉得这种方式能让计划更顺利推进，同时增进家庭的沟通和理解。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，定期的小交流会很有帮助！比如每周找一个晚上，全家人围坐一起聊聊这一周的感受，比如“你觉得这个时间段安排得怎么样？有没有哪里不方便？”大家可以互相倾听和建议，这样不仅能及时调整，还能让每个人都感受到自己的意见被重视",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我觉得可以通过一些互动方式让大家更主动参与，比如在交流时每个人轮流分享自己这段时间独处时的感受或者新发现，比如“我今天学到了什么”“这段时间让我最放松的是什么。”同时，还可以鼓励大家提出创意，比如用独处时间做点新的尝试，像画画、种植物之类的。这样既能增加趣味性，也能让每个人都觉得这是属于自己的特别时光，参与感会更强！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以通过一些互动方式让大家更主动参与，比如在交流时每个人轮流分享自己这段时间独处时的感受或者新发现，比如“我今天学到了什么”“这段时间让我最放松的是什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "如果有人遇到阻力，我觉得可以先和他们单独聊聊，了解具体的困难，比如“是不是觉得时间太短，或者不知道怎么安排这段时间？”然后根据他们的兴趣给一些建议，比如如果他们喜欢音乐，可以试着在个人时间听一首喜欢的歌。也可以告诉他们，这段时间是完全为自己而设的，无需任何压力或目标，慢慢探索自己的节奏就好。我觉得这样可能会让他们更放松、更愿意尝试。你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人遇到阻力，我觉得可以先和他们单独聊聊，了解具体的困难，比如“是不是觉得时间太短，或者不知道怎么安排这段时间？”然后根据他们的兴趣给一些建议，比如如果他们喜欢音乐，可以试着在个人时间听一首喜欢的歌",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我觉得一个标志性的变化可能是，大家逐渐形成了彼此尊重个人时间的默契，比如在独处时间不会随意打扰，反而会主动支持和配合。同时，家庭氛围可能也会更轻松，每个人都能有自己的时间充电，也更愿意在其他时间投入家庭互动。如果我能感受到自己既有独立空间，又不影响家庭和谐，那应该就是一种很大的平衡和提升了！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得一个标志性的变化可能是，大家逐渐形成了彼此尊重个人时间的默契，比如在独处时间不会随意打扰，反而会主动支持和配合",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得可以长期坚持一些小习惯，比如每个月安排一次家庭分享时间，大家聊聊各自独处时间的收获或者新尝试。同时，可以保持“个人时间信号”的习惯，比如关门、戴耳机等，持续巩固彼此的尊重默契。另外，还可以定期在家庭会议上调整时间安排，确保这种节奏始终适应家庭的实际情况。我觉得这些小习惯既能让平衡更稳定，也能让家庭互动更有活力！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以长期坚持一些小习惯，比如每个月安排一次家庭分享时间，大家聊聊各自独处时间的收获或者新尝试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "是的，记录变化和阶段性回顾是个好方法！我可以试着每个月写下自己的感受，比如这段时间有没有更放松、更有动力，或者家庭互动是不是更顺畅了。还可以和家人一起回顾，比如聊聊“我们现在比之前有什么进步？”这样不仅能让我更清晰地看到成长，也会让大家对这个过程更有信心和满足感。我觉得这种方式会让我更有动力坚持下去！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，记录变化和阶段性回顾是个好方法！我可以试着每个月写下自己的感受，比如这段时间有没有更放松、更有动力，或者家庭互动是不是更顺畅了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "是的，现在感觉自己对这个计划更有信心了！通过这些方法，我不仅能争取到自己的独处时间，也能更好地兼顾家庭关系，这让我觉得问题是可以被解决的。虽然可能还需要一些磨合，但我觉得这已经是个很好的开始！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，现在感觉自己对这个计划更有信心了！通过这些方法，我不仅能争取到自己的独处时间，也能更好地兼顾家庭关系，这让我觉得问题是可以被解决的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "谢谢你这么细致地陪我梳理这些想法！我觉得已经整理出很多清晰的思路了，如果之后有新的困惑，我一定会再来聊。今天先聊到这里吧，非常感谢！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你这么细致地陪我梳理这些想法！我觉得已经整理出很多清晰的思路了，如果之后有新的困惑，我一定会再来聊",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

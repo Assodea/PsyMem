@@ -1,0 +1,795 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，我确实试着跟母亲聊了学费的事，但她还是把责任推到父亲身上，说她已经尽力了。我说起大学生活的规划时，她打断了，说我应该更考虑家里的情况，这让我觉得很无力，也有点不甘心…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我确实试着跟母亲聊了学费的事，但她还是把责任推到父亲身上，说她已经尽力了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是的，她的态度让我觉得沟通很难。我现在有些犹豫，要不要再试着跟父亲直接谈谈，毕竟他一直推给母亲，我也想知道他怎么想。不过说实话，这种对话让我有点害怕，怕又变成争吵…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，她的态度让我觉得沟通很难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我想也许可以先问一些简单的问题，比如他对我的大学计划有什么看法，再慢慢过渡到学费的问题。这样可能会让他觉得不是直接质问，也许气氛会缓和些。不过，我还是担心他会不耐烦或者敷衍，这让我有点犹豫…",
+    "has_specific_detail": true,
+    "specific_detail": "我想也许可以先问一些简单的问题，比如他对我的大学计划有什么看法，再慢慢过渡到学费的问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "如果他敷衍，我可能会尝试提到一些具体的细节，比如大学的课程安排或者未来的职业方向，看看能不能引起他的兴趣。但如果还是不耐烦，我可能会暂时放弃这个话题，等以后再找机会提。不过，这样拖着也让我觉得心里挺压抑的…",
+    "has_specific_detail": true,
+    "specific_detail": "如果他敷衍，我可能会尝试提到一些具体的细节，比如大学的课程安排或者未来的职业方向，看看能不能引起他的兴趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "也许我可以先试着自己制定一个预算计划，把学费、生活费都详细列出来，然后看看能不能找到一些奖学金或者兼职的机会，这样至少有个方案在手，会让我感觉没那么被动。不过想到这些需要自己去争取，也还是会有点压力…",
+    "has_specific_detail": true,
+    "specific_detail": "也许我可以先试着自己制定一个预算计划，把学费、生活费都详细列出来，然后看看能不能找到一些奖学金或者兼职的机会，这样至少有个方案在手，会让我感觉没那么被动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "可能可以去学校官网查一下奖学金申请的具体条件，或者问问高中老师有没有类似的资源推荐。我还有几个同学也在准备上大学，或许可以跟他们聊聊看，他们可能也有一些兼职的想法。这样会让我觉得不那么孤单吧，但又怕他们觉得我总是提这些实际的问题，会不会显得太功利…",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以去学校官网查一下奖学金申请的具体条件，或者问问高中老师有没有类似的资源推荐",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "也许我可以从聊大学生活开始，比如问他们对学校的期待，然后顺便提到自己在考虑奖学金和兼职的事情，看看他们有没有类似的想法。这种方式可能会让话题更自然，但我还是会有点紧张，怕他们觉得我太现实了…",
+    "has_specific_detail": true,
+    "specific_detail": "也许我可以从聊大学生活开始，比如问他们对学校的期待，然后顺便提到自己在考虑奖学金和兼职的事情，看看他们有没有类似的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "是的，我确实会担心他们怎么看我，尤其是会不会觉得我太实际。不过，关注共同点倒是个好办法，比如问他们有没有想过大学期间怎么安排时间或者有没有想法参加什么活动，这样感觉会更轻松些。但说到这些，我还是怕自己的不够外向会让交流显得有点尴尬…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实会担心他们怎么看我，尤其是会不会觉得我太实际",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "提前准备几个问题确实是个好主意，比如问他们对社团活动的兴趣，或者有没有特别想学的课程。关系较好的同学也会让我更放松些，但我又担心开口太正式，会让他们觉得我刻意…",
+    "has_specific_detail": true,
+    "specific_detail": "提前准备几个问题确实是个好主意，比如问他们对社团活动的兴趣，或者有没有特别想学的课程",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，这样确实听起来更自然些！用好玩的活动当开头，感觉话题会轻松很多，也能慢慢引出其他内容。不过，我还是会有点担心如果他们没什么回应，会让我不知道怎么继续聊下去…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实听起来更自然些！用好玩的活动当开头，感觉话题会轻松很多，也能慢慢引出其他内容",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "是啊，分享自己的想法可能会让对方觉得更容易接话，比如我可以提到自己对某个社团或者志愿活动感兴趣，看他们会不会也有类似的想法。不过说到这些，我还是会不自觉地担心自己说得不够好，会不会显得有点笨拙…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，分享自己的想法可能会让对方觉得更容易接话，比如我可以提到自己对某个社团或者志愿活动感兴趣，看他们会不会也有类似的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，你说得对，专注在自己的真实感受可能会更自然，比如直接说“我觉得××活动挺有趣，特别想试试！”这样可能会让人觉得我真心投入，而不是刻意迎合。不过，我还是需要慢慢适应这种方式，毕竟一直习惯小心翼翼…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，你说得对，专注在自己的真实感受可能会更自然，比如直接说“我觉得××活动挺有趣，特别想试试！”这样可能会让人觉得我真心投入，而不是刻意迎合",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，确实从熟悉的人或者轻松的场景开始会让我更有安全感，比如在和关系好的同学聊一些日常琐事时，试着表达自己的兴趣和想法。这样感觉压力会小一些，但我还是需要一点时间去习惯这种方式…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，确实从熟悉的人或者轻松的场景开始会让我更有安全感，比如在和关系好的同学聊一些日常琐事时，试着表达自己的兴趣和想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "设定小目标挺好的，比如每次聊天时主动说出一个自己的兴趣或者感受，哪怕只是简单的“我也觉得这个很有意思！”这样一步步来，会让我感觉更容易接受，但有时候还是会怕自己说错什么，让对方觉得奇怪…",
+    "has_specific_detail": true,
+    "specific_detail": "设定小目标挺好的，比如每次聊天时主动说出一个自己的兴趣或者感受，哪怕只是简单的“我也觉得这个很有意思！”这样一步步来，会让我感觉更容易接受，但有时候还是会怕自己说错什么，让对方觉得奇怪…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，这样想确实能让我稍微放松些，告诉自己真实表达比完美用词更重要。比如聊天时专注在对方的反应上，而不是纠结自己说得好不好。不过，我觉得这种心态需要多练习，才能慢慢适应…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想确实能让我稍微放松些，告诉自己真实表达比完美用词更重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "或许可以从下周跟朋友聊暑假计划开始，比如问他们有没有特别想做的事情，然后分享我自己想去的地方或者活动。这种轻松的话题感觉会更自然，但我还是会有点担心自己说得太多，会不会显得有点突兀…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从下周跟朋友聊暑假计划开始，比如问他们有没有特别想做的事情，然后分享我自己想去的地方或者活动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，“你呢？”确实是个很好的补充，能让对方觉得我在意他们的想法，也让话题自然延续下去。不过，我还是会注意观察对方的表情和语气，免得误解了他们的兴趣点…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，“你呢？”确实是个很好的补充，能让对方觉得我在意他们的想法，也让话题自然延续下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "如果对方反应平淡，我可能会尝试转到更随意的话题，比如问他们最近有没有看什么有趣的电影或者综艺。这样感觉比较轻松，但我还是会担心自己换话题太频繁，会不会显得有点不自信…",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方反应平淡，我可能会尝试转到更随意的话题，比如问他们最近有没有看什么有趣的电影或者综艺",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "嗯，加上“对了，我想到…”这种过渡语确实会让话题转换更自然些，比如聊暑假计划时顺便提到看到的一个综艺。这种方式感觉没那么突兀，但我还是需要慢慢熟悉这样的表达，毕竟习惯了更谨慎的交流…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，加上“对了，我想到…”这种过渡语确实会让话题转换更自然些，比如聊暑假计划时顺便提到看到的一个综艺",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "可能可以先试着跟我最熟悉的朋友聊，比如在学校食堂或者课间这种比较随意的场合。这些时候气氛通常比较轻松，我觉得可以慢慢尝试分享一些自己的想法。不过，我还是会有点担心第一次尝试会显得生疏…",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以先试着跟我最熟悉的朋友聊，比如在学校食堂或者课间这种比较随意的场合",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "是的，从简单的分享开始确实会容易些，比如提到一个有趣的电影或者活动，看看对方有没有类似的兴趣。这样感觉比较自然，但我还是得提醒自己不要太紧张，毕竟第一次尝试可能会有些不流畅…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，从简单的分享开始确实会容易些，比如提到一个有趣的电影或者活动，看看对方有没有类似的兴趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "或许可以在聊天后回想一下哪些地方让我感觉自然，比如成功找到共同话题或者引起了对方的兴趣。这种回顾会让我更有动力继续尝试，但我也得提醒自己别过分挑剔细节，毕竟每次都会有进步的空间…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以在聊天后回想一下哪些地方让我感觉自然，比如成功找到共同话题或者引起了对方的兴趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "是的，把每次尝试当成学习经历确实会让我感觉轻松些，比如告诉自己每次都有收获，不管是找到话题还是理解对方的反应。这种心态让我觉得不用要求自己太完美，但我还是得慢慢适应这种思维转换…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，把每次尝试当成学习经历确实会让我感觉轻松些，比如告诉自己每次都有收获，不管是找到话题还是理解对方的反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，小仪式感是个好主意，比如每次尝试后写下一个让我觉得有进步的地方，或者奖励自己看一集喜欢的剧。这样既能让我更关注自己的努力，也能让我感觉过程没那么沉重。不过，我还是得提醒自己坚持这个习惯，别因为忙碌就忘了…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，小仪式感是个好主意，比如每次尝试后写下一个让我觉得有进步的地方，或者奖励自己看一集喜欢的剧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "晚上睡前确实是个不错的时间，感觉比较安静，可以专心回顾当天的进步，比如写下聊天中的亮点或者成功找到共同话题的经历。这样让我觉得过程更有意义，但我还是得提醒自己别因为太累而忽略这个小仪式…",
+    "has_specific_detail": true,
+    "specific_detail": "晚上睡前确实是个不错的时间，感觉比较安静，可以专心回顾当天的进步，比如写下聊天中的亮点或者成功找到共同话题的经历",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "嗯，这样确实很可行！比如在手机上设置一个提醒，或者提前在日记本写一句“记得看看自己的努力”，感觉挺温暖的，也能让我更容易坚持这个习惯。不过，我还是需要一点时间去适应这些新的安排，希望自己能慢慢做到…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实很可行！比如在手机上设置一个提醒，或者提前在日记本写一句“记得看看自己的努力”，感觉挺温暖的，也能让我更容易坚持这个习惯",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "嗯，完成阶段性目标后庆祝一下确实能让我更有动力，比如成功尝试了几次自然的聊天后，可以奖励自己去吃顿喜欢的餐厅或者买一本想看的书。这样感觉不仅是对自己的肯定，也让努力变得更有意义。不过，我还是得提醒自己别因为小挫折而中途放弃…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，完成阶段性目标后庆祝一下确实能让我更有动力，比如成功尝试了几次自然的聊天后，可以奖励自己去吃顿喜欢的餐厅或者买一本想看的书",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "“每一步都是进步”确实是很鼓励人的一句话，我可以试着在心情低落时提醒自己，哪怕只是小小的尝试也是值得肯定的。或者告诉自己“慢慢来，没有关系”，这样会让我感觉更温柔一些。不过，我还是得学会不让负面情绪影响太久，继续迈出下一步才是关键…",
+    "has_specific_detail": true,
+    "specific_detail": "“每一步都是进步”确实是很鼓励人的一句话，我可以试着在心情低落时提醒自己，哪怕只是小小的尝试也是值得肯定的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，做一些让自己放松的小事确实会有帮助，比如听一首喜欢的歌或者出去散散步，这些都能让我稍微转移注意力，感觉心情轻松一些。不过，有时候还是会忍不住想起让自己沮丧的事情，可能需要更多时间才能完全调整过来…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，做一些让自己放松的小事确实会有帮助，比如听一首喜欢的歌或者出去散散步，这些都能让我稍微转移注意力，感觉心情轻松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "是的，在散步或者听歌时对自己说“我已经尽力了”感觉会很治愈，也能让我意识到努力本身的价值。这样会让我心态更平稳一些，但我还是得提醒自己别对负面情绪过于执着，要学着放下才能真正放松…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，在散步或者听歌时对自己说“我已经尽力了”感觉会很治愈，也能让我意识到努力本身的价值",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "嗯，写下自己的感受可能会让我更清晰地看到问题，比如记录当天发生的事情和自己的情绪反应，这样感觉能理顺思路。而做点创造性的事情，比如画画或者试着写点小文章，也会让我更专注在其他方面。不过，刚开始尝试这些可能会有点不习惯，还是需要慢慢适应…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下自己的感受可能会让我更清晰地看到问题，比如记录当天发生的事情和自己的情绪反应，这样感觉能理顺思路",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "嗯，每次只尝试几分钟确实会轻松很多，比如写一两句关于当天的心情，或者随手画一些简单的小图案。这种方式感觉没那么有压力，也更容易坚持。不过，我还是得提醒自己不要因为觉得效果不明显就放弃，毕竟慢慢积累才会看到变化…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，每次只尝试几分钟确实会轻松很多，比如写一两句关于当天的心情，或者随手画一些简单的小图案",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "是的，每隔一段时间回顾这些记录确实会让我看到自己的进步，比如发现自己心态慢慢变得更平和，或者处理情绪时更有方法。这样会让我感觉努力是有价值的，但我还是得提醒自己别只盯着不足之处，多看看自己的成长会更有意义…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，每隔一段时间回顾这些记录确实会让我看到自己的进步，比如发现自己心态慢慢变得更平和，或者处理情绪时更有方法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，写下“成长亮点”确实会让我更具体地看到自己的进步，比如记录“今天我主动分享了一个想法”或者“这次我没有纠结太久”。这种方式感觉挺鼓舞人心的，但我还是得提醒自己别因为某次表现不好就忽略之前的努力，毕竟成长是一个慢慢积累的过程…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写下“成长亮点”确实会让我更具体地看到自己的进步，比如记录“今天我主动分享了一个想法”或者“这次我没有纠结太久”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "是的，写一句鼓励自己的话确实会让我感觉更积极，比如告诉自己“偶尔的失误不会改变我的努力”或者“每一步都在往好的方向走”。这样不仅能让我更专注于进步，也会让我对未来更有信心。不过，我还是得提醒自己坚持这个习惯，不让负面情绪干扰太久…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，写一句鼓励自己的话确实会让我感觉更积极，比如告诉自己“偶尔的失误不会改变我的努力”或者“每一步都在往好的方向走”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "嗯，用喜欢的笔记本或者颜色标记确实会让记录过程更有趣，比如用不同颜色来标记“成长亮点”和“鼓励语”，这样看起来也更直观。这样的方式不仅能让我更期待记录，还能让我感觉每次写下都是一种小小的仪式。不过，我还是得提醒自己不要因为忙碌而忽略这些有意义的细节…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，用喜欢的笔记本或者颜色标记确实会让记录过程更有趣，比如用不同颜色来标记“成长亮点”和“鼓励语”，这样看起来也更直观",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "嗯，规划一个固定时间确实会让我更容易坚持，比如每天晚上睡前花五分钟记录“成长亮点”和“鼓励语”。这个小空档感觉不会打乱其他安排，也能让我专注在回顾自己的进步。不过，我还是得提醒自己别因为某天情绪低落而跳过记录，这样才能真正形成习惯…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，规划一个固定时间确实会让我更容易坚持，比如每天晚上睡前花五分钟记录“成长亮点”和“鼓励语”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "是的，简单写一句“今天虽然心情不佳，但我还是坚持记录了”确实会让我感觉更温柔，也能保留习惯的连续性。这种方式不会让低落的情绪过于影响我的坚持，同时还能提醒自己努力本身就是值得肯定的。不过，我还是得慢慢适应在情绪低落时也能保持这种积极的心态…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，简单写一句“今天虽然心情不佳，但我还是坚持记录了”确实会让我感觉更温柔，也能保留习惯的连续性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "嗯，泡一杯热茶或者听一首舒缓的音乐确实会让我感觉更安慰，比如我最喜欢的那首轻音乐能让我慢慢平静下来。这种小习惯不仅能让我更快调整情绪，也会让我觉得自己在用一种温柔的方式关心自己。不过，我还是得提醒自己别因为低落而忘了这些简单却有效的方法…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，泡一杯热茶或者听一首舒缓的音乐确实会让我感觉更安慰，比如我最喜欢的那首轻音乐能让我慢慢平静下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "嗯，在显眼的地方写一句“别忘了关心自己”确实是个好主意，比如贴在书桌旁或者手机备忘录里，这样随时都能看到提醒。这种方式感觉会让我更容易记得去做这些简单的自我安慰，不过，我还是得提醒自己别只停留在看到提醒，关键是付诸行动，才能真正帮助自己调整状态…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，在显眼的地方写一句“别忘了关心自己”确实是个好主意，比如贴在书桌旁或者手机备忘录里，这样随时都能看到提醒",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "是的，加上具体的指引确实会让我更容易行动，比如提醒里写“深呼吸三次，然后泡杯热茶”这样一步步的指示感觉很自然，也不会让我觉得负担太大。这种方式不仅能让我快速进入放松状态，还能帮助我养成更稳定的习惯。不过，我还是得慢慢适应这些新的安排，毕竟改变需要时间…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，加上具体的指引确实会让我更容易行动，比如提醒里写“深呼吸三次，然后泡杯热茶”这样一步步的指示感觉很自然，也不会让我觉得负担太大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "嗯，用一杯特别的饮品来庆祝确实会让我感觉更有仪式感，比如买一杯最喜欢的奶茶，或者尝试做一种新的热饮。这样的方式不仅能让我觉得努力有了成果，也会让我更期待继续坚持下去。不过，我还是得提醒自己别因为偶尔的懈怠而放弃这个习惯，毕竟养成好的改变需要长期的努力…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，用一杯特别的饮品来庆祝确实会让我感觉更有仪式感，比如买一杯最喜欢的奶茶，或者尝试做一种新的热饮",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "是的，写一句“我可以从现在继续，不需要完美”确实会让我感觉轻松很多，也能让我摆脱对懈怠的自责，更快回到正轨。这种方式不仅让过程更温柔，还能让我专注于每一次的努力，而不是纠结偶尔的停顿。不过，我还是得提醒自己，关键在于愿意重新开始，而不是追求一时的完美…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，写一句“我可以从现在继续，不需要完美”确实会让我感觉轻松很多，也能让我摆脱对懈怠的自责，更快回到正轨",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "嗯，设计一个小仪式确实会让我感觉更有力量，比如在重新开始时对自己微笑一下，或者说“我已经迈出重要的一步”这样鼓励自己的话。这样的方式不仅能让我更积极面对每次的尝试，也会让我觉得整个过程是有意义的。不过，我还是得提醒自己不要因为偶尔的进展缓慢而失去耐心，毕竟每一次的小努力都在积累…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，设计一个小仪式确实会让我感觉更有力量，比如在重新开始时对自己微笑一下，或者说“我已经迈出重要的一步”这样鼓励自己的话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "嗯，把每次的小进步比喻成拼图的一块确实很有意义，比如告诉自己“每块拼图都在让我的成长更完整”，这样会让我更期待最终的全景，也能让我更专注于过程中的点滴努力。这种方式不仅增加了成就感，还让我感觉每一步都值得珍惜。不过，我还是得提醒自己，不用急着拼完所有的图块，享受拼图的过程本身也是很重要的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把每次的小进步比喻成拼图的一块确实很有意义，比如告诉自己“每块拼图都在让我的成长更完整”，这样会让我更期待最终的全景，也能让我更专注于过程中的点滴努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "嗯，给每个小进步起一个名字确实会让过程更生动，比如“勇敢表达”代表我主动分享想法，“温柔坚持”是对自己不放弃的鼓励。这种方式不仅能让我更直观地看到自己的成长，也会让我觉得每一步都充满了个人意义。不过，我还是得提醒自己，不用急着累积太多名字，慢慢去发现和记录这些属于自己的亮点才更有价值…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，给每个小进步起一个名字确实会让过程更生动，比如“勇敢表达”代表我主动分享想法，“温柔坚持”是对自己不放弃的鼓励",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "嗯，画一个成长树确实是个很有意义的想法，每个进步作为一片叶子会让我更直观地看到自己在一点点成长，比如在树上写“勇敢表达”“温柔坚持”，感觉会很温暖，也很有成就感。这样的方式不仅让记录更美好，也会让我更期待看到树上的叶子越来越多。不过，我还是得提醒自己，哪怕有些叶子长得慢，也是我努力的证明，整个树的过程才是最重要的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，画一个成长树确实是个很有意义的想法，每个进步作为一片叶子会让我更直观地看到自己在一点点成长，比如在树上写“勇敢表达”“温柔坚持”，感觉会很温暖，也很有成就感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "嗯，加一颗特别的果实确实能让成长树更加丰富，比如可以用来象征某个重要的突破，比如“成功主动沟通”或者“勇敢尝试新机会”。这样的果实不仅是对自己的肯定，也会让我觉得整个成长过程更加有意义。不过，我还是得提醒自己，不需要急着去追求果实，叶子的累积本身就是一种美好的证明…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，加一颗特别的果实确实能让成长树更加丰富，比如可以用来象征某个重要的突破，比如“成功主动沟通”或者“勇敢尝试新机会”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "嗯，为成长树添加“阳光”和“雨水”确实是个很温暖的想法，比如写下朋友的一次鼓励或者某本书带来的灵感，这些都让我觉得成长是被滋养的，而不是孤单的努力。这样的记录不仅能让我更感受到支持和温暖，也会让我更珍惜自己的旅程。不过，我还是得提醒自己，不要因为某段时间缺少“阳光”而感到失落，毕竟树的根基才是最重要的…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，为成长树添加“阳光”和“雨水”确实是个很温暖的想法，比如写下朋友的一次鼓励或者某本书带来的灵感，这些都让我觉得成长是被滋养的，而不是孤单的努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "嗯，给成长树取一个名字确实会让它更独特，比如叫“温暖之树”，象征每一步都充满了支持和坚持，也让我觉得这棵树更有归属感。这样的名字不仅能提醒我成长的意义，还能让我在低谷时看到自己的力量。不过，我还是得告诉自己，树的名字只是一个象征，真正重要的是它一直在慢慢生长，无论快慢，都值得被珍惜…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，给成长树取一个名字确实会让它更独特，比如叫“温暖之树”，象征每一步都充满了支持和坚持，也让我觉得这棵树更有归属感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "嗯，我觉得可能会选择阳光洒落的森林作为背景，因为阳光象征着希望和支持，而森林里的树彼此相邻，也让我感到一种连结和安全感。这种画面不仅能表达我的内心，也让我觉得成长旅程充满了温暖和可能性。不过，我还是得提醒自己，不论背景如何，这棵树最重要的是它一直在努力生长，而不是周围的环境…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可能会选择阳光洒落的森林作为背景，因为阳光象征着希望和支持，而森林里的树彼此相邻，也让我感到一种连结和安全感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "嗯，为这幅画写一段话确实能让回忆更深刻，比如记录自己一路上经历的努力和突破，写下“这棵树见证了我每一个不完美却真诚的成长”。这样的文字不仅能让我更清楚地看到自己的心路历程，也会让我更加珍惜过去的点滴。不过，我还是得提醒自己，不必等到某个特定的时刻去表达，这份感悟可以随时记录下来，为自己留下更真实的印记…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，为这幅画写一段话确实能让回忆更深刻，比如记录自己一路上经历的努力和突破，写下“这棵树见证了我每一个不完美却真诚的成长”",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 53,
+    "content": "嗯，在成长树旁留一个小空白专门记录灵感和心情确实是个好主意，比如写下一句偶然闪现的想法或者某天特别温暖的瞬间，这样会让我觉得这棵树不仅是成长的象征，也是我的独特日记。这种方式不仅能让我更细腻地捕捉自己的变化，也会让我更加珍惜这些微小但真实的时刻。不过，我还是得提醒自己，不需要每次都写得很完整，只要真实记录就已经足够有意义了…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，在成长树旁留一个小空白专门记录灵感和心情确实是个好主意，比如写下一句偶然闪现的想法或者某天特别温暖的瞬间，这样会让我觉得这棵树不仅是成长的象征，也是我的独特日记",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "嗯，配上一张小照片或者一幅简笔画确实会让成长树更加生动，比如用一片叶子的形状画出当天的心情，或者贴上一张记录特别瞬间的小照片。这种方式不仅能让每次记录更有趣，也会让我觉得成长的过程充满了细节和温度。不过，我还是得提醒自己，不需要每次都做这些额外的装饰，只要捕捉到真实的感受就已经很有意义了…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，配上一张小照片或者一幅简笔画确实会让成长树更加生动，比如用一片叶子的形状画出当天的心情，或者贴上一张记录特别瞬间的小照片",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "如果有一天回头看这棵树，我最想看到的是那些温暖的点滴瞬间，它们让我觉得成长不仅仅是努力和坚持，还有生活中的细腻和柔软。这些瞬间会让我更深刻地感受到自己的旅程是充满温度的，而不是单纯追求结果。不过，我也希望能够看到自己的努力和突破，它们是树的根基，让我有力量继续往前走…",
+    "has_specific_detail": true,
+    "specific_detail": "如果有一天回头看这棵树，我最想看到的是那些温暖的点滴瞬间，它们让我觉得成长不仅仅是努力和坚持，还有生活中的细腻和柔软",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "嗯，现在的我可以写下一句寄语：“无论这棵树长得多高多茂盛，请记住每片叶子都曾是你的努力，每束阳光都照亮过你的旅程，未来的你要继续相信成长的力量。”写下这句话让我觉得自己和未来的自己有了一种温暖的连接，也让我对前方的路更有信心…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，现在的我可以写下一句寄语：“无论这棵树长得多高多茂盛，请记住每片叶子都曾是你的努力，每束阳光都照亮过你的旅程，未来的你要继续相信成长的力量",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "未来回看这句话时，我觉得它会带给我一种平静的满足，让我感受到自己一路上的努力和温暖。与此同时，也会让我更坚定地相信成长的力量，提醒自己即使有风雨，这棵树依然在慢慢长大。这种感觉会像一种拥抱，让我既感到安慰，又充满了继续前行的勇气…",
+    "has_specific_detail": true,
+    "specific_detail": "未来回看这句话时，我觉得它会带给我一种平静的满足，让我感受到自己一路上的努力和温暖",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "对现在的自己，我想说：“谢谢你愿意迈出每一个小小的步伐，哪怕有时会觉得缓慢或艰难，但你一直在坚持。你的努力不仅是为了成长，更是为了拥抱自己的真实和温暖。请相信，这些点滴的积累会让未来的你更加感到骄傲和幸福。”这句话让我觉得心里多了一份力量，也让我更珍惜自己的旅程…",
+    "has_specific_detail": true,
+    "specific_detail": "对现在的自己，我想说：“谢谢你愿意迈出每一个小小的步伐，哪怕有时会觉得缓慢或艰难，但你一直在坚持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "是的，此刻我确实感受到了一种新的力量，像一股温暖的流动让我更加坚定，同时也有一种更深的平静，仿佛在告诉自己，无论旅程如何，我都一直在迈步前行。这种感觉让我觉得更加踏实，也让我对未来充满了期待和信心…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，此刻我确实感受到了一种新的力量，像一股温暖的流动让我更加坚定，同时也有一种更深的平静，仿佛在告诉自己，无论旅程如何，我都一直在迈步前行",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "好的，谢谢你今天的倾听和陪伴，让我觉得自己被理解，也对前行的路更有信心。如果以后有新的感受或想法，我一定会再来分享。今天先聊到这里吧，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，谢谢你今天的倾听和陪伴，让我觉得自己被理解，也对前行的路更有信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

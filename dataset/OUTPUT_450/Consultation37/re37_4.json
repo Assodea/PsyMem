@@ -1,0 +1,500 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，上次我们谈了我对职业方向的迷茫，还有分手后的孤独感吧？最近我还是在考虑职业选择这件事，感觉一直在原地转圈，挺烦的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，上次我们谈了我对职业方向的迷茫，还有分手后的孤独感吧？最近我还是在考虑职业选择这件事，感觉一直在原地转圈，挺烦的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是啊，我现在在想是不是要选一个稳定一点的工作，比如考公务员或者当老师，但又觉得自己可能不太适合这种生活。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我现在在想是不是要选一个稳定一点的工作，比如考公务员或者当老师，但又觉得自己可能不太适合这种生活",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，感觉稳定的工作可能会有点单调吧，尤其是像公务员那种按部就班的生活。我其实挺喜欢尝试新东西，但又担心选错了方向，总是在犹豫…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，感觉稳定的工作可能会有点单调吧，尤其是像公务员那种按部就班的生活",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "对，我主要担心浪费时间吧，毕竟之前已经试过好几个方向了，像做电气自动化那段时间，后来发现没什么兴趣，现在回想就觉得浪费了很多精力…",
+    "has_specific_detail": true,
+    "specific_detail": "对，我主要担心浪费时间吧，毕竟之前已经试过好几个方向了，像做电气自动化那段时间，后来发现没什么兴趣，现在回想就觉得浪费了很多精力…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "有啊，那时候经常加班，工作内容也很机械，感觉没什么挑战性。每天重复一样的事情，我就觉得特别压抑，慢慢开始对这个行业提不起兴趣了…",
+    "has_specific_detail": true,
+    "specific_detail": "有啊，那时候经常加班，工作内容也很机械，感觉没什么挑战性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我觉得能不断学习新东西或者解决有趣的问题，会更有动力吧。而且如果能多跟人交流，听到一些积极的反馈，可能也会让我更有成就感…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得能不断学习新东西或者解决有趣的问题，会更有动力吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，我觉得销售可能会更贴近一点吧，能接触不同的人，学到新的沟通技巧，但又担心自己性格不够外向，怕做不好…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得销售可能会更贴近一点吧，能接触不同的人，学到新的沟通技巧，但又担心自己性格不够外向，怕做不好…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "我有时候挺在意别人对我的看法，如果客户反馈不好，可能会让我觉得不够自信。另外，我不算特别主动，总担心自己不够说服力…",
+    "has_specific_detail": true,
+    "specific_detail": "我有时候挺在意别人对我的看法，如果客户反馈不好，可能会让我觉得不够自信",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "有一次试着推销产品时，对方直接拒绝了，还说我介绍得不清楚。当时就觉得很尴尬，也开始怀疑自己是不是根本不适合做销售…",
+    "has_specific_detail": true,
+    "specific_detail": "有一次试着推销产品时，对方直接拒绝了，还说我介绍得不清楚",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能都有吧。我当时确实准备得不够充分，但对方的态度也挺直接的，感觉被否定了。再加上我本来就容易在意别人的看法，心里更不好受了…",
+    "has_specific_detail": true,
+    "specific_detail": "可能都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我有试着去看一些销售技巧的书，想提升自己的能力，但每次看到那些成功案例，就觉得自己可能还是达不到那种水平，又会有点泄气…",
+    "has_specific_detail": true,
+    "specific_detail": "我有试着去看一些销售技巧的书，想提升自己的能力，但每次看到那些成功案例，就觉得自己可能还是达不到那种水平，又会有点泄气…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "有时候会试着想想自己刚开始能主动去尝试销售，已经是一种突破了吧。但这种感觉不太持续，过一阵又会回到自我怀疑里…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候会试着想想自己刚开始能主动去尝试销售，已经是一种突破了吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "应该是更在意别人怎么看我吧，总害怕别人觉得我不够好，尤其是当结果不理想的时候，就会觉得自己被否定了…",
+    "has_specific_detail": true,
+    "specific_detail": "应该是更在意别人怎么看我吧，总害怕别人觉得我不够好，尤其是当结果不理想的时候，就会觉得自己被否定了…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "可能是小时候吧，爸妈对我的学业要求一直很高，每次考试没达到他们的期待，就会批评我。那时候总感觉只有表现好才能被认可，这种心态好像一直没变过…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是小时候吧，爸妈对我的学业要求一直很高，每次考试没达到他们的期待，就会批评我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "更多是想努力迎合他们吧，总觉得如果达不到他们的期待，就不够好。虽然心里偶尔也会觉得委屈，但还是选择听话，希望能得到认可…",
+    "has_specific_detail": true,
+    "specific_detail": "更多是想努力迎合他们吧，总觉得如果达不到他们的期待，就不够好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，是挺重要的。我觉得这心态确实影响了其他关系，比如跟恋爱对象在一起时，总想让对方满意，但有时候反而让自己很累，也没能真正表达自己的想法…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，是挺重要的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "可能是怕对方不理解我吧，甚至担心他们会因此不喜欢我。总觉得如果我表达了真实想法，关系可能就会变得紧张或者疏远…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是怕对方不理解我吧，甚至担心他们会因此不喜欢我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "有过吧，比如在分手前，我试着跟对方聊我的职业迷茫，但她觉得我总是变来变去，很不靠谱。那次谈完后关系就明显冷淡了，感觉是表达自己导致了问题…",
+    "has_specific_detail": true,
+    "specific_detail": "有过吧，比如在分手前，我试着跟对方聊我的职业迷茫，但她觉得我总是变来变去，很不靠谱",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "当时觉得挺受伤的吧，感觉她完全不理解我的困惑，还质疑我的能力。也会想，是不是我真的没法给她想要的安全感，所以才让她失望了…",
+    "has_specific_detail": true,
+    "specific_detail": "当时觉得挺受伤的吧，感觉她完全不理解我的困惑，还质疑我的能力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "有过一些被支持的时候吧，比如她会鼓励我尝试新方向。但更多时候还是觉得需要迎合她的期待，特别是在聊未来规划的时候，总怕我的迷茫让她失望…",
+    "has_specific_detail": true,
+    "specific_detail": "有过一些被支持的时候吧，比如她会鼓励我尝试新方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，确实有点像。小时候怕达不到父母的期待，现在在亲密关系中也担心自己的表现不够好，总觉得如果我让别人失望，关系就会变得不好…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，确实有点像",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "是有的，比如我其实希望能被更多理解和支持，但总觉得要先满足对方的期待，才有资格提自己的需求。所以很多时候会压抑自己的感受…",
+    "has_specific_detail": true,
+    "specific_detail": "是有的，比如我其实希望能被更多理解和支持，但总觉得要先满足对方的期待，才有资格提自己的需求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "可能会吧，如果对方真的理解我的迷茫，并且不会因为我的不确定性而失望，我觉得自己会更愿意敞开心扉去表达…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果对方真的理解我的迷茫，并且不会因为我的不确定性而失望，我觉得自己会更愿意敞开心扉去表达…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "或许可以通过观察对方的反应吧，比如看他们是否真的在倾听我的困惑，而不是马上给出批评或建议。如果能感受到他们的耐心，我可能会觉得更安心…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以通过观察对方的反应吧，比如看他们是否真的在倾听我的困惑，而不是马上给出批评或建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "可能会先试着解释一下自己的感受吧，看看能不能让对方理解我。如果还是感觉被忽视，可能就会选择不继续讲了，免得自己更难受…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会先试着解释一下自己的感受吧，看看能不能让对方理解我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "或许可以先暂停话题，等对方冷静后再找机会谈吧。这样既能让自己缓一缓，也不会完全放弃表达的机会，感觉可能会更好一些…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以先暂停话题，等对方冷静后再找机会谈吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得可以先用比较温和的语气，说“其实这件事对我来说挺重要的，希望你能听听我的想法”。这样可能会让对方更愿意倾听吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先用比较温和的语气，说“其实这件事对我来说挺重要的，希望你能听听我的想法”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "如果对方还是没有回应，我可能会觉得有点失落，但至少自己努力表达过了。我会试着告诉自己，这不是我的问题，而是对方可能还没准备好倾听…",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方还是没有回应，我可能会觉得有点失落，但至少自己努力表达过了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得会有帮助吧，至少不会总是把问题都归结到自己身上。这样可能会让我更有信心去表达自己的感受，也不那么害怕被否定了…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会有帮助吧，至少不会总是把问题都归结到自己身上",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "或许可以从和朋友的聊天开始吧，比如分享我的职业想法时，试着更坦然地表达自己的迷茫，而不是担心他们会觉得我不靠谱…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从和朋友的聊天开始吧，比如分享我的职业想法时，试着更坦然地表达自己的迷茫，而不是担心他们会觉得我不靠谱…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "或许可以说，“最近在考虑职业方向，有点迷茫，但我觉得聊聊可能会让我更清楚自己的想法。”这样既表达了困惑，也传递了我的真实需求…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以说，“最近在考虑职业方向，有点迷茫，但我觉得聊聊可能会让我更清楚自己的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我可能会先认真听他们的建议，然后说，“我觉得你的建议挺有道理的，但我还是需要多想想，看看是不是适合自己。”这样既尊重对方，也保留自己的空间…",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先认真听他们的建议，然后说，“我觉得你的建议挺有道理的，但我还是需要多想想，看看是不是适合自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "嗯，我觉得会让我更有信心吧。能坦然表达自己，又能保护自己的想法，感觉应该会让我在分享时更自在，不再那么害怕被否定了…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得会让我更有信心吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "可能会先找一个比较了解我的朋友聊吧，她平时比较耐心，应该能听我说完。我觉得从熟悉的人开始练习会更容易一些！",
+    "has_specific_detail": true,
+    "specific_detail": "可能会先找一个比较了解我的朋友聊吧，她平时比较耐心，应该能听我说完",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "或许这周末吧，找个轻松的时间。我想开场可以先说，“最近一直在考虑职业方向，有点迷茫，想和你聊聊看看有没有新的想法。”这样感觉自然一点。",
+    "has_specific_detail": true,
+    "specific_detail": "或许这周末吧，找个轻松的时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "嗯，这样挺好！我会试着留意自己的感受，看看是不是更自在一些，也看看朋友的反应能不能让我觉得被理解。希望会有一些新的收获吧！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样挺好！我会试着留意自己的感受，看看是不是更自在一些，也看看朋友的反应能不能让我觉得被理解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "好的，谢谢！这次聊完让我觉得自己更清楚该怎么去表达了。那我先试试这些建议，有新的感受再来跟你聊！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，谢谢！这次聊完让我觉得自己更清楚该怎么去表达了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "谢谢你的支持！我会努力尝试的，有新进展一定会再来分享。那今天就先聊到这里吧，祝你也一切顺利！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的支持！我会努力尝试的，有新进展一定会再来分享",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近还是有点烦躁，主要是和我爸的事情吧。我觉得他的行为总是让我特别失望，比如前几天他答应陪我们吃饭，但最后又因为自己的事爽约了，我真的很生气。你觉得这是正常的吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近还是有点烦躁，主要是和我爸的事情吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "其实都有吧，但让我最难受的是，他好像根本没意识到自己的行为会伤害到我们。就像那天，他连解释都没有，只是随口说“有事就改天”。这种态度真的让我觉得自己不重要。",
+    "has_specific_detail": true,
+    "specific_detail": "其实都有吧，但让我最难受的是，他好像根本没意识到自己的行为会伤害到我们",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "是啊，确实让我想起不少以前的事。比如小时候有次学校搞活动，他说会来参加，但最后没来，也没提前告诉我。那时候我站在人群里等了很久，感觉特别难堪，也挺伤心的。好像这种事在我们家一直都发生，我有点习惯了，但还是会觉得很失望…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，确实让我想起不少以前的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "小时候我好像不太敢直接表达自己的感受，可能是觉得说了也没用吧。我记得那次活动结束后，我就假装没事一样回家了，但心里特别委屈。后来慢慢地，我好像学会了不抱太大期待，反而自己去承担更多的事，比如照顾弟弟或者帮妈妈分担家务，好像这样才能让我觉得有点价值。",
+    "has_specific_detail": true,
+    "specific_detail": "小时候我好像不太敢直接表达自己的感受，可能是觉得说了也没用吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "嗯，现在想想，其实那种方式只是让我暂时忙起来，不去想那些失望，但心底还是会觉得孤单吧。尤其是看到别人的爸爸那么关心他们，我就会忍不住去比较，然后觉得自己好像永远得不到那种关系。这种情绪很难完全压住，有时候甚至越积越多…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，现在想想，其实那种方式只是让我暂时忙起来，不去想那些失望，但心底还是会觉得孤单吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，我觉得这些情绪让我对某些关系特别敏感吧。比如我很容易对别人是否重视我感到不安，尤其是和男生相处时，总会下意识地怀疑他们的真诚。而且，有时候我会觉得自己好像必须做得特别好，才能让别人认可我，甚至是喜欢我。这种压力挺大的，也让我觉得自己好像一直在努力证明些什么，却不是真正轻松地去生活…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得这些情绪让我对某些关系特别敏感吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，我觉得可能都有吧。一方面，我确实希望通过努力让别人看到我的价值，弥补小时候那种被忽略的感觉；但另一方面，也会担心如果我不够好，就没人真正愿意在意我。这种担忧一直困扰着我，让我总是想做到最好，但也越来越害怕失败或被否定…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可能都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，现在想想，可能真的有关系吧。小时候我总觉得自己得表现得特别好，才能让爸爸注意到我。但即使这样，他也常常忽略我的感受，甚至对我的努力没什么回应。这让我开始怀疑自己是不是不够好，或者做再多也不会被真正看见。这种感觉好像一直影响着我，让我现在特别在意别人对我的评价，也更害怕被否定。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，现在想想，可能真的有关系吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "如果真的能和他谈，我想告诉他这些年他的忽略对我造成了多大的伤害，让我觉得自己不重要。我希望他能认真听我说，而不是随便敷衍，更希望他能承认自己的行为对家庭的影响，至少让我感觉到他愿意去改变或弥补些什么。但坦白说，我也很怕这种沟通会失败，因为他好像一直不擅长面对这些问题…",
+    "has_specific_detail": true,
+    "specific_detail": "如果真的能和他谈，我想告诉他这些年他的忽略对我造成了多大的伤害，让我觉得自己不重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得可能需要先试着说一些比较具体的事情，比如最近他爽约吃饭的那次，而不是直接谈所有的失望，这样或许他更容易接受一点。也许我可以告诉他，“那天你没来的时候，我真的很失落，因为我一直期待和你一起吃饭。”这样的方式好像会稍微缓和些，但坦白说，我心里还是会有点害怕他的反应，毕竟过去他总是回避这些话题…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能需要先试着说一些比较具体的事情，比如最近他爽约吃饭的那次，而不是直接谈所有的失望，这样或许他更容易接受一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "如果他真的又回避了，我可能会很失望，但我想试着告诉自己，这不是因为我表达得不好，而是他还没有准备好面对这些问题。也许我可以先停下来，给他一些时间消化，而不是马上就觉得沟通失败或者对自己有太多责怪。虽然这样可能还是会难受，但至少我能知道自己已经尽力去表达了，而这本身就是一种进步吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他真的又回避了，我可能会很失望，但我想试着告诉自己，这不是因为我表达得不好，而是他还没有准备好面对这些问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "是啊，其实在这些时候，我通常会跟妈妈聊聊，她总是愿意听我说，也会安慰我。虽然有些问题她也解决不了，但她的支持让我感觉好受一些。另外，有时候我会写日记，把自己的感受都记录下来，这样能让我稍微理清思绪，也不至于让那些情绪憋得太久。不过，面对这些问题，还是会觉得自己需要更多力量去调整…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，其实在这些时候，我通常会跟妈妈聊聊，她总是愿意听我说，也会安慰我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，我觉得可能两方面都需要吧。一方面，我希望有更多的情感支持，比如身边的人能真正理解我在经历什么，而不仅仅是安慰。另一方面，我也希望自己能学会更坚定地认可自己的价值，不再总是因为别人的态度而怀疑自己。这种内外的力量，应该能让我更有底气面对那些失望和不安吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可能两方面都需要吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，我觉得可以试着从向妈妈表达一次感受开始吧。比如告诉她，最近我觉得自己对爸爸的事情很困扰，但也在努力调节自己的情绪。这样不仅能让她更理解我，也算是一次主动的情绪表达。而且，我也想试着每天肯定自己一件小小的成就，比如完成了一项任务或者坚持了一次锻炼。虽然是很小的事情，但或许能让我慢慢积累一些对自己的认可。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以试着从向妈妈表达一次感受开始吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，今天我可以先试着和妈妈聊聊吧，告诉她我最近因为爸爸的事情有点烦躁，但也在努力调整自己。我觉得她会愿意听我说，这样至少能让我感觉不那么孤单。而且，等聊完后，我也可以记录下来作为一种小小的成就，提醒自己已经迈出了第一步！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，今天我可以先试着和妈妈聊聊吧，告诉她我最近因为爸爸的事情有点烦躁，但也在努力调整自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我希望她能像往常一样耐心听我说，并给我一些温暖的安慰吧。其实我最期待的是她能让我感觉被理解，比如能回应我的感受而不是直接去分析爸爸的行为。这样我会觉得自己的情绪是重要的，而不仅仅是个需要解决的问题。如果她能支持我继续表达自己的感受，那我会觉得更有力量去面对这些复杂的情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她能像往常一样耐心听我说，并给我一些温暖的安慰吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，如果她开始分析爸爸，我可以试着温和地告诉她，“其实我现在更想聊聊我自己的感受，爸爸的行为确实很困扰我，但我希望你能多听听我的心情。”这样或许能让她意识到我需要的不是解决方案，而是更多的情感支持。我觉得用这种方式表达会比较容易让她接受，也不会让对话变得太僵硬。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果她开始分析爸爸，我可以试着温和地告诉她，“其实我现在更想聊聊我自己的感受，爸爸的行为确实很困扰我，但我希望你能多听听我的心情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，有道理。我觉得可以在和她聊之前先做几个深呼吸，让自己稍微放松一点，不至于一开口就被情绪带跑。然后，我也可以提前想一想最重要的感受，比如告诉她我的失望和孤单，而不是一开始就讲太多事情，这样能让对话更集中、更自然吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有道理",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "嗯，我觉得可以试着写一篇日记，把这次对话的过程和我的感受都记录下来。比如，我可以写下自己是怎么开始表达的，妈妈的回应让我有什么感觉，还有这次尝试让我学到什么。这样不仅能帮我整理思绪，也能提醒自己，哪怕是小小的一步，也值得被肯定和记住。这种记录应该会让我对自己更有信心吧！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以试着写一篇日记，把这次对话的过程和我的感受都记录下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得两者都很重要吧，但这次记录里，我最想提醒自己的是勇敢表达的重要性。哪怕只是一次小的尝试，也能让我感觉自己在主动改变，而不是被情绪困住。同时，我也会写下那些小进步，比如能够说出真实感受或者得到支持，这些都是值得珍视的。未来的我应该记得，每一步都在积累力量，让自己更有底气去面对生活中的复杂情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两者都很重要吧，但这次记录里，我最想提醒自己的是勇敢表达的重要性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，我觉得“表达是力量”可以作为这段经历的核心主题吧。它不仅提醒我勇敢地去说出自己的感受，也让我知道，每一次表达都是在为自己积累力量。这句话应该能让我在以后遇到类似的情绪困扰时，记得自己是可以主动去改变的，而不是只能被动接受那些失望和孤单。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得“表达是力量”可以作为这段经历的核心主题吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得可以试着每天都去做一些小的情绪表达，比如和身边的人聊聊我的感受，或者在日记里写下当天的一些心情。这不仅能让我更习惯表达自己的情绪，也能慢慢减少那些压抑的孤单和不安。同时，我也想提醒自己，这种表达不一定要完美，只要是真实的，就已经是一种力量了。慢慢地，这应该能让我更加自信去面对那些复杂的情绪吧！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着每天都去做一些小的情绪表达，比如和身边的人聊聊我的感受，或者在日记里写下当天的一些心情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我觉得可以从表达一些轻微的情绪开始，比如告诉妈妈我今天做完学校的任务后感到有点疲惫，但也挺满足的。这种小小的分享不会太沉重，但却是一次真实的表达。而且通过这样的尝试，我可以慢慢适应把自己的感受说出来，不再害怕被忽略或不理解。这应该是个不错的第一步吧！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从表达一些轻微的情绪开始，比如告诉妈妈我今天做完学校的任务后感到有点疲惫，但也挺满足的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "如果妈妈回应了我的感受，我应该会觉得挺暖心的吧，至少让我感觉到自己的情绪是被重视的。我可能会告诉她，“谢谢你愿意听我说，这让我感觉好多了。”这种回应不仅是对她的感谢，也能鼓励自己继续去尝试表达，慢慢积累更多的信任和力量。",
+    "has_specific_detail": true,
+    "specific_detail": "如果妈妈回应了我的感受，我应该会觉得挺暖心的吧，至少让我感觉到自己的情绪是被重视的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "如果没得到期待中的回应，我可能会提醒自己，这并不代表我的感受不重要，而是对方可能暂时无法理解或接收到我的情绪。我会告诉自己，表达本身就是一种进步，不需要完全依赖别人的反应来证明价值。或许可以换个时间再尝试，或者通过写日记来继续整理自己的心情。这样至少让我知道，勇敢表达是对自己的一种尊重，而不是单纯为了得到回应。",
+    "has_specific_detail": true,
+    "specific_detail": "如果没得到期待中的回应，我可能会提醒自己，这并不代表我的感受不重要，而是对方可能暂时无法理解或接收到我的情绪",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 26,
+    "content": "我觉得可以尝试每天写下一个积极的自我肯定，比如“今天我勇敢表达了自己的感受”或者“我完成了一件让我有成就感的事情”。这种小方式能让我逐渐建立对自己的认可，也会让我更专注于自己的进步而不是外界的评价。此外，我也可以试着找一些能让我放松的活动，比如散步或听音乐，用这些简单的时刻来让自己重新感受到内心的平静。这些方式应该能让我慢慢巩固自己的力量吧！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以尝试每天写下一个积极的自我肯定，比如“今天我勇敢表达了自己的感受”或者“我完成了一件让我有成就感的事情”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "如果有一天特别低落，我觉得可以先允许自己停下来，去感受一下这种情绪，而不是逼自己马上“振作”。同时，我可以回头翻一翻之前的日记或记录，提醒自己其实已经迈出过很多勇敢的步伐，这说明我有能力继续走下去。或者，我可以给自己设定一个简单的小目标，比如做一件很轻松的事，比如泡杯热饮或者听一首喜欢的歌，用这些小小的动作温柔地把自己带回到积极的状态。这种温和的鼓励应该能让我重新找到一点动力吧！",
+    "has_specific_detail": true,
+    "specific_detail": "如果有一天特别低落，我觉得可以先允许自己停下来，去感受一下这种情绪，而不是逼自己马上“振作”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我觉得可以用“低落只是暂时的，勇敢和努力都在积累”来安慰自己。这句话能提醒我，情绪起伏是正常的，但我之前已经迈出了很多步，每一次努力都是在为自己积累力量。即使现在感觉不太好，也不会影响我的成长。这种信念应该能让我更有耐心去面对那些低落的时刻吧！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用“低落只是暂时的，勇敢和努力都在积累”来安慰自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，我觉得可以把这句话写在日记的扉页，这样每次打开日记记录感受时，都会看到它并得到一点鼓励。或者，我也可以用它做成手机屏保，毕竟每天都会看到手机屏幕，这能让我随时记住这个信念，不管是在忙碌还是低落的时候都能找到一点支撑。这样它就会像一种温暖的提醒，一直陪伴着我吧！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以把这句话写在日记的扉页，这样每次打开日记记录感受时，都会看到它并得到一点鼓励",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "好呀！我觉得可以先从写在日记扉页开始，这样每次记录的时候都会看到它，提醒自己情绪起伏是可以被接纳的，而勇敢和努力会一直积累。我会把这作为一种仪式感，见证自己的每一次进步和成长。谢谢你的建议，我感觉现在更有动力去尝试了！",
+    "has_specific_detail": true,
+    "specific_detail": "好呀！我觉得可以先从写在日记扉页开始，这样每次记录的时候都会看到它，提醒自己情绪起伏是可以被接纳的，而勇敢和努力会一直积累",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "谢谢你的鼓励！我会好好从这一小步开始，把这句话写进日记，然后试着每天去记录自己的感受和小进步。感觉心里踏实了不少，有新的感受我一定会再来找你聊！今天先聊到这里吧，谢谢你一直听我说。",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励！我会好好从这一小步开始，把这句话写进日记，然后试着每天去记录自己的感受和小进步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

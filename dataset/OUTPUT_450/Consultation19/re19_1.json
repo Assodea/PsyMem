@@ -1,0 +1,384 @@
+[
+  {
+    "turn": 1,
+    "content": "最近我和女朋友总是因为一些小事吵架，比如前几天她说我不够主动关心她，我觉得自己已经尽力了，但她还是不满意。让我觉得很压抑，也有点孤独。",
+    "has_specific_detail": true,
+    "specific_detail": "最近我和女朋友总是因为一些小事吵架，比如前几天她说我不够主动关心她，我觉得自己已经尽力了，但她还是不满意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "比如前几天，她说我工作结束后没主动问她一天过得怎么样，而是直接去玩游戏。她希望我能多聊聊她的事情，但我下班后只想安静待着，感觉很累…",
+    "has_specific_detail": true,
+    "specific_detail": "比如前几天，她说我工作结束后没主动问她一天过得怎么样，而是直接去玩游戏",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "她好像更希望我主动表达关心，比如问她工作上的烦恼或今天的心情。但我下班后通常只想沉浸在自己的事情里，觉得表达这些有点勉强…。",
+    "has_specific_detail": true,
+    "specific_detail": "她好像更希望我主动表达关心，比如问她工作上的烦恼或今天的心情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "我试过说自己下班后很累，希望先休息，但她觉得我在敷衍她，说关心她不需要太多时间。说完后，我反而觉得更有压力了…。",
+    "has_specific_detail": true,
+    "specific_detail": "我试过说自己下班后很累，希望先休息，但她觉得我在敷衍她，说关心她不需要太多时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我觉得她可能对关心有更高期待吧，她说“只要一句话也好”，但对我来说，连这样简单的互动有时都觉得很难，因为情绪已经很低落了…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得她可能对关心有更高期待吧，她说“只要一句话也好”，但对我来说，连这样简单的互动有时都觉得很难，因为情绪已经很低落了…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "应该主要是工作吧，最近任务特别多，有时候感觉自己做了很多，但还是没能达到预期效果。这种挫败感让我更想逃避，连和她沟通的动力都变少了…。",
+    "has_specific_detail": true,
+    "specific_detail": "应该主要是工作吧，最近任务特别多，有时候感觉自己做了很多，但还是没能达到预期效果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "通常就是玩游戏或者看剧，让自己暂时忘掉那些压力。但有时候过后还是觉得没解决问题，只是拖着不去面对，心里会有点愧疚…。",
+    "has_specific_detail": true,
+    "specific_detail": "通常就是玩游戏或者看剧，让自己暂时忘掉那些压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "很少主动跟别人聊工作上的压力，感觉他们不一定理解我。偶尔试过写写日记，但坚持不了多久，还是习惯自己默默承受…可能觉得说出来也没什么改变吧。",
+    "has_specific_detail": true,
+    "specific_detail": "很少主动跟别人聊工作上的压力，感觉他们不一定理解我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "可能是觉得倾听也解决不了实际问题吧，像写日记也是一样，写着写着就觉得没什么意义。而且有时候甚至不知道从哪里开始写，情绪太乱了…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是觉得倾听也解决不了实际问题吧，像写日记也是一样，写着写着就觉得没什么意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "上周领导批评我没有及时跟进一个项目细节，其实是因为我忘了，但当时不敢直接说实话，随便找了个理由搪塞过去。之后就一直觉得很内疚，也害怕被发现…这件事让我特别压抑。",
+    "has_specific_detail": true,
+    "specific_detail": "上周领导批评我没有及时跟进一个项目细节，其实是因为我忘了，但当时不敢直接说实话，随便找了个理由搪塞过去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "可能两方面都有吧，一方面怕被责备，觉得领导会对我失望；另一方面，总觉得自己应该表现得更好，不犯错才会被认可。说实话，我对这种错误特别敏感…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧，一方面怕被责备，觉得领导会对我失望；另一方面，总觉得自己应该表现得更好，不犯错才会被认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "确实是这样，我总觉得必须表现得很好才能得到认可，但这种高要求有时候让我感觉喘不过气。犯一点错就会自责好久，越自责越没动力去改正，恶性循环…。",
+    "has_specific_detail": true,
+    "specific_detail": "确实是这样，我总觉得必须表现得很好才能得到认可，但这种高要求有时候让我感觉喘不过气",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "可能是小时候父母总强调成绩和表现吧，他们对我的要求很高，但很少夸我。只有表现好时，他们才会稍微注意我。所以现在总觉得只有足够优秀才会被认可…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是小时候父母总强调成绩和表现吧，他们对我的要求很高，但很少夸我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "有一次学校组织比赛，我得了第一名，特别期待他们能夸我，但他们只是随口说了句“不错”，就去忙自己的事了。当时很失落，觉得自己努力了那么多却没被真正看见…。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次学校组织比赛，我得了第一名，特别期待他们能夸我，但他们只是随口说了句“不错”，就去忙自己的事了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我没说过，觉得说了也没用，他们好像更关心实际的结果，而不是我的感受。后来就习惯了通过努力表现让他们注意，但心里其实一直有点空…。",
+    "has_specific_detail": true,
+    "specific_detail": "我没说过，觉得说了也没用，他们好像更关心实际的结果，而不是我的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "现在感觉自己在亲密关系里也会渴望对方关注我的努力，但同时又害怕表达需求，怕被忽略或觉得不重要。总是矛盾地想靠近又想保护自己，这让我很累…。",
+    "has_specific_detail": true,
+    "specific_detail": "现在感觉自己在亲密关系里也会渴望对方关注我的努力，但同时又害怕表达需求，怕被忽略或觉得不重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "通常会选择沉默或者敷衍回应，比如她问我怎么了，我只说“没事”，但其实心里很烦躁。这样做是怕说多了会引起争吵，但同时又觉得自己被忽视了…。",
+    "has_specific_detail": true,
+    "specific_detail": "通常会选择沉默或者敷衍回应，比如她问我怎么了，我只说“没事”，但其实心里很烦躁",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "可能会有变化吧，但我总觉得自己表达不清楚，怕她误解我的意思，或者觉得我太敏感。这种担心让我很难主动说出来，还是习惯忍着…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会有变化吧，但我总觉得自己表达不清楚，怕她误解我的意思，或者觉得我太敏感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "可能是觉得“敏感”会被看作脆弱吧，从小父母总说我“别想太多”，让我觉得表达情绪是一种麻烦别人或暴露弱点的行为，所以总压抑着，不太敢说…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是觉得“敏感”会被看作脆弱吧，从小父母总说我“别想太多”，让我觉得表达情绪是一种麻烦别人或暴露弱点的行为，所以总压抑着，不太敢说…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "或许可以从和女朋友开始吧，尝试说出我的疲惫和压抑感，而不是简单敷衍她。但我还是会担心她不理解，或者觉得我在找借口…不知道怎么开口比较好。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从和女朋友开始吧，尝试说出我的疲惫和压抑感，而不是简单敷衍她",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "听起来是个好方法，比直接说“没事”要更真诚一些。我觉得可以试试，但还是有点紧张，怕她觉得我在抱怨。不过这样至少能让她知道我的真实感受吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "听起来是个好方法，比直接说“没事”要更真诚一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "如果她能理解我，肯定会让我觉得更轻松，也更愿意尝试表达。虽然现在还没试过，但想象她回应积极一点，感觉会挺暖心的吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她能理解我，肯定会让我觉得更轻松，也更愿意尝试表达",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "可能晚上吃完饭后会比较适合吧，那个时候她心情通常还不错，我也可以稍微平静下来。选择这种时机，感觉会让沟通更自然一点…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能晚上吃完饭后会比较适合吧，那个时候她心情通常还不错，我也可以稍微平静下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，我觉得提前整理一下会好一些，比如先说自己的疲惫，再提到希望她理解我不是故意忽略她。这样说起来应该会更清晰，也不容易被误解吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得提前整理一下会好一些，比如先说自己的疲惫，再提到希望她理解我不是故意忽略她",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "如果她不认同，我会试着听听她的想法，比如问她“你觉得我应该怎么做会更好？”这样或许能让对话继续，而不是陷入争论。我希望我们能慢慢找到平衡…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她不认同，我会试着听听她的想法，比如问她“你觉得我应该怎么做会更好？”这样或许能让对话继续，而不是陷入争论",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "应该会吧，如果能顺利沟通，我心里会觉得轻松一些，至少她知道了我的真实状态。这样关系也可能更稳定，让我少些压抑感和孤独感…。",
+    "has_specific_detail": true,
+    "specific_detail": "应该会吧，如果能顺利沟通，我心里会觉得轻松一些，至少她知道了我的真实状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我想今晚吃完饭后试试，刚好是我们都比较放松的时候。现在感觉思路还算清楚，但如果她情绪突然激动，我该怎么回应呢？这方面我还是有点不确定…。",
+    "has_specific_detail": true,
+    "specific_detail": "我想今晚吃完饭后试试，刚好是我们都比较放松的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "听起来挺适合的，这样说既不会让她觉得我不在乎，又能让对话继续下去。我会记住这句话，试着用平静的语气表达，谢谢你的建议！",
+    "has_specific_detail": true,
+    "specific_detail": "听起来挺适合的，这样说既不会让她觉得我不在乎，又能让对话继续下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "谢谢你的鼓励！今晚我会试着沟通，之后再跟你分享感受。今天聊到这里，我觉得收获挺多的，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励！今晚我会试着沟通，之后再跟你分享感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

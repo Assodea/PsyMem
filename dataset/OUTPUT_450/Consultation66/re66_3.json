@@ -1,0 +1,1350 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近还是觉得和家里的沟通很难推进，尤其是和我妈。前几天我尝试主动说自己的想法，但她依旧用那种命令式的语气回应我，让我很挫败…你觉得这是不是我表达方式的问题？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近还是觉得和家里的沟通很难推进，尤其是和我妈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "那天我们在聊选大学的事，我说想选一个自己感兴趣的专业，但我妈立刻打断，说那根本没前途，还列了她觉得“靠谱”的几个选项。我试着解释自己的理由，但她完全不听，只强调“听我的，别乱想”。这种感觉真的很压抑，好像我没有权利决定自己的未来…",
+    "has_specific_detail": true,
+    "specific_detail": "那天我们在聊选大学的事，我说想选一个自己感兴趣的专业，但我妈立刻打断，说那根本没前途，还列了她觉得“靠谱”的几个选项",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "是的，从小到大她总是决定我的事情，比如报兴趣班或者选课程，都是她说了算。我很多时候都不敢反驳，怕惹她生气。现在长大了，想争取点主动权，但每次试图表达都感觉自己像在撞墙一样，很累，也很无奈…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，从小到大她总是决定我的事情，比如报兴趣班或者选课程，都是她说了算",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "是啊，真的挺难受的。有时候我会躲在房间里听音乐，或者自己写点东西发泄情绪，但更多时候还是压抑着，假装没事继续面对她。这样虽然表面平静，但内心总觉得很沉重…上周就有一天晚上睡不着，一直在想这些事情。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，真的挺难受的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "那天我一直在想，我到底该怎么才能让她理解我，或者至少听听我的想法。可越想越觉得无解，她的态度好像是固定的，完全不接受不同意见…想到这些我确实更焦虑了，也开始怀疑，是不是我哪里做得不够好，才让她一直不信任我的判断。这种感觉挺折磨人的。",
+    "has_specific_detail": true,
+    "specific_detail": "那天我一直在想，我到底该怎么才能让她理解我，或者至少听听我的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我觉得可能两方面都有吧，她总觉得她的经验更靠谱，认为我还不成熟，做不了正确的决定。但同时，她好像也特别习惯掌控一切，哪怕是小事都要按她的标准来，这让我很难有自己的空间。她这种坚持真的让我喘不过气，但又不知道该怎么改变。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能两方面都有吧，她总觉得她的经验更靠谱，认为我还不成熟，做不了正确的决定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "可能是因为她对我的期待太高吧，她总说希望我“比她强”，能有更好的生活。但这种期待好像变成了对我的控制，她好像特别担心我选错路，会影响我的未来。我知道她可能是出于好意，但这种方式让我觉得，我的选择永远都不够好，总是被否定…这种感觉真的很难受。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是因为她对我的期待太高吧，她总说希望我“比她强”，能有更好的生活",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "我确实没怎么直接表达过这种感受，总觉得她不会理解，反而可能说我太敏感或者不懂事。我担心如果提了，反而会引发争吵，让关系更紧张。于是就选择忍着，但这样也让我觉得自己越来越孤立，好像没人真的懂我的感受…",
+    "has_specific_detail": true,
+    "specific_detail": "我确实没怎么直接表达过这种感受，总觉得她不会理解，反而可能说我太敏感或者不懂事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "嗯，我想过从她关心的点切入，比如说她为什么觉得某些专业更有前途，先去理解她的想法。然后再慢慢引入自己的感受，告诉她我也希望有好的未来，但我更想做自己喜欢的事情。不过说实话，我还是有点担心她会直接打断我，像之前那样不听完就否定…这种情况经常让我有些害怕沟通。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我想过从她关心的点切入，比如说她为什么觉得某些专业更有前途，先去理解她的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "或许我可以试着提前准备好一些清晰的观点，这样她打断的时候，我能更有底气继续说下去。另外，我可以尽量保持语气平和，避免让她觉得我是在争辩，而是希望她能听一听我的想法。不过，即使这样，我还是担心她会完全不买账…这种预期让我有点不敢行动。你觉得我该怎么调整这种担心呢？",
+    "has_specific_detail": true,
+    "specific_detail": "或许我可以试着提前准备好一些清晰的观点，这样她打断的时候，我能更有底气继续说下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得两方面都有吧，过去的失败确实让我很犹豫。印象最深的是一次我提到想参加学校组织的活动，她直接说“浪费时间”，还问我怎么不把精力放在学习上。我当时试着解释参加活动可以锻炼能力，但她完全不听，还说“成绩才是最重要的”。那种被完全否定的感觉真的很刺痛我，让我现在一想到沟通就本能地觉得难以成功。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两方面都有吧，过去的失败确实让我很犹豫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "最刺痛我的其实是她完全没有倾听我的感受，好像我的想法一点都不重要。如果她当时哪怕说一句“我理解你觉得活动很有意义，但我担心你的学习”，我可能会感觉好很多，至少她愿意站在我的角度考虑一下。可是她只是直接否定，让我觉得自己被忽视了，也更怀疑自己的选择是不是根本不值得坚持…这种感觉真的很难消化。",
+    "has_specific_detail": true,
+    "specific_detail": "最刺痛我的其实是她完全没有倾听我的感受，好像我的想法一点都不重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得两者都有吧，一方面这种缺失让我害怕表达，担心自己的话会再次被无视；另一方面，这也让我更渴望能有一次真正的对话，哪怕只是她愿意听我讲完。不被倾听的感觉太压抑了，但也让我对下一次尝试更加犹豫，总在想会不会又是徒劳…这种矛盾真的让我很困惑。你觉得我该怎么面对这种心态呢？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两者都有吧，一方面这种缺失让我害怕表达，担心自己的话会再次被无视；另一方面，这也让我更渴望能有一次真正的对话，哪怕只是她愿意听我讲完",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，这样的调整确实听起来更实际一些。如果把目标放在让她听到我的某些观点，而不是试图完全改变她的态度，我可能会少一些压力，也不至于太失望。不过我还是担心，她会连这一点点的倾听都不愿意给我…这种担心让我很难真正迈出第一步。你觉得我该怎么克服这种顾虑呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的调整确实听起来更实际一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不愿意",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，这种方式听起来确实更容易尝试一点。如果我能找到她心情好的时候，先肯定她的某些看法，再慢慢表达自己的感受，可能会让她更愿意听下去。不过，我还是有些犹豫，怕自己一旦说得不好，就会让对话变成争论…你觉得如果沟通过程中她开始反驳，我该怎么应对呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这种方式听起来确实更容易尝试一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "这样确实感觉更有可能让我尝试。回应她的担心可能会让她觉得自己被理解，然后再带入我的感受，应该能让气氛缓和一些。不过我还是怕自己在回应时会紧张，表达得不够自然…你觉得有什么办法可以让我在面对她的时候更从容一些吗？",
+    "has_specific_detail": true,
+    "specific_detail": "这样确实感觉更有可能让我尝试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "这个方法听起来不错，提前写下来并练习可能会让我更清晰地表达自己的想法。镜子练习也应该能让我熟悉表达的感觉，减少面对她时的慌乱。不过，我还是担心实际沟通时她的态度会让我临时乱了阵脚…你觉得这种情况我该怎么稳定自己呢？",
+    "has_specific_detail": true,
+    "specific_detail": "这个方法听起来不错，提前写下来并练习可能会让我更清晰地表达自己的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，这个“心理暂停键”听起来很有帮助，深呼吸或者默念“慢下来”应该能让我稍微缓和情绪，让自己不那么慌乱。这样至少不会太容易被她的态度带跑…不过，我还是有点担心自己在对话中会不自觉地退缩，甚至选择结束话题。你觉得我该怎么让自己坚持下去呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个“心理暂停键”听起来很有帮助，深呼吸或者默念“慢下来”应该能让我稍微缓和情绪，让自己不那么慌乱",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "嗯，这样的小目标确实比较容易实现，给自己设定“至少完整表达一部分想法”能让我专注于自己的表达，而不是过于纠结她的反应。这样即使她态度不好，我也不会觉得沟通完全失败。不过，我还是担心这种坚持会让她更不耐烦，甚至直接结束对话…你觉得如果她真的这样，我该怎么面对呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的小目标确实比较容易实现，给自己设定“至少完整表达一部分想法”能让我专注于自己的表达，而不是过于纠结她的反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，这种角度确实让我觉得更积极一些。专注于自己已经表达的部分，而不是她的反应，应该能让我减少自责感。这样即使她表现得不耐烦，我也能告诉自己至少迈出了第一步。不过，我还是会担心，她的态度会让我对下一次沟通更加犹豫…你觉得有什么方法可以帮助我保持这种动力呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这种角度确实让我觉得更积极一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，这个方法感觉挺好的。如果我能记录下每次沟通中的进步，比如表达得更清楚或者坚持了自己的观点，就能提醒自己并不是毫无成果。这样应该能让我对下一次尝试更有信心，逐渐摆脱对失败的害怕。不过，我还是会担心，有时候进步太小会让我觉得这种努力没什么意义…你觉得我该怎么应对这种负面情绪呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个方法感觉挺好的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，这样的视角确实让我觉得自己的努力更有意义。如果专注于过程，比如尝试了新的方式或表达了内心感受，能让我看到自己在慢慢进步，而不是完全依赖对方的回应来判断价值。这种肯定应该会让我更愿意继续尝试，不过，有时候还是会觉得孤单，希望能有更多支持…你觉得我该怎么找到这种支持呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的视角确实让我觉得自己的努力更有意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，这些方式听起来挺不错的。如果能和朋友聊聊，或者找到一些共同兴趣的人交流，应该会让我觉得不那么孤单。特别是如果他们愿意听我说自己的困扰，我可能会更有力量去面对家庭里的沟通。不过，有时候我也担心自己说得太多，会让别人觉得我很烦…你觉得这种担心是不是多余的？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这些方式听起来挺不错的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，这样的方式确实让我觉得更安心一些。如果我能主动问他们的感受，就不至于过分担心自己说太多，也能让对方觉得我在乎他们的情绪。这样应该能让我更自然地表达自己，但有时候我还是会觉得，朋友可能没法真正理解我的家庭问题…你觉得在这种情况下，我该怎么调整自己的期待呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更安心一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "嗯，这样的调整确实感觉轻松一些。如果把目标放在分享感受和缓解孤独，而不是期待他们完全理解，就能让我更自然地表达自己，也不会对他们的反应太过敏感。这样至少能让我感受到一些支持，减少那种孤立感。不过，有时候我还是会觉得，这些支持只能暂时缓解问题，家庭里的矛盾还是难以真正解决…你觉得我该怎么面对这种无力感呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的调整确实感觉轻松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "嗯，这样确实感觉更实际一些。如果专注于自己能掌控的部分，比如提升沟通能力或找到外界支持，至少能让我感受到一些主动权，而不是完全陷入无力感。哪怕只是一个小进步，也能让我觉得自己在往好的方向走。不过，有时候还是会害怕自己努力了却没有明显的结果…你觉得我该怎么调整对结果的期待呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实感觉更实际一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "嗯，这样的调整确实让我觉得更有信心。如果把结果看成是学习和成长，而不是外界的反应，就能让我专注于自己的进步，比如表达得更清晰或更冷静。这种方式让我感觉努力不是白费，而是在一点点积累力量。不过，有时候还是会因为情绪波动而停下来…你觉得我该怎么在这种时候重新鼓励自己呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的调整确实让我觉得更有信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，这样的方式确实感觉很有帮助。如果能回顾之前的进步，提醒自己已经取得了什么成就，就不至于被情绪彻底压垮。再加上一些小奖励，比如听喜欢的歌或吃点甜食，应该能让我更有动力去重新开始。不过，有时候我也会觉得，过度关注自己的问题，会让我忽略其他重要的事情，比如学业…你觉得这种担心合理吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉很有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，这样的平衡方式感觉很实际。如果每天设定一个固定时间来处理情绪和家庭问题，就不会让它们占据我的全部精力，其他时间可以专注学业。这样应该能让我更安心，不会觉得自己忽略了重要的事情。不过，有时候在学习时这些负面情绪还是会突然冒出来，影响专注力…你觉得我该怎么应对这种情况呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的平衡方式感觉很实际",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "嗯，这样的方式听起来很有帮助。如果暂停一下，写下感受或者深呼吸，应该能让我快速释放情绪，让头脑重新冷静下来。这样就不会一直陷在情绪里，还能尽快回到学习状态。不过，有时候我会觉得这些情绪来得太频繁，感觉自己在消耗很多精力…你觉得我该怎么减少这种频率呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式听起来很有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "嗯，这样的方式确实感觉很有可能帮助我。如果每天固定时间写日记或者听音乐，应该能让我有一个专门释放情绪的渠道，这样它们就不会随时冒出来打乱我的状态。不过，有时候我担心这种释放会让我陷得更深，比如写日记时越写越难过…你觉得我该怎么避免这种情况呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉很有可能帮助我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "嗯，这样的方式确实感觉更积极一些。如果在日记末尾写点小收获或者鼓励自己的话，能让我从负面情绪中找到一些希望和动力，避免陷得太深。这样至少能让我觉得一天没有完全被情绪占据。不过，有时候还是会觉得这些方法只能缓解一时，根本问题还是没有解决…你觉得我该怎么面对这种想法呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉更积极一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "嗯，这样的视角确实让我觉得更有意义。如果把这些方法看成是积累力量的一部分，而不是单纯的短暂缓解，就能让我更有耐心去面对长期的过程。这样我就不会过于纠结于当下的问题，而是专注于一步步靠近目标。不过，有时候还是会觉得这些步骤太慢，想看到更快的变化…你觉得这种急切感应该怎么调整呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的视角确实让我觉得更有意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，这样的方式感觉很有帮助。如果设定一些短期目标，比如完成一次成功的沟通或者控制住一次情绪波动，就能让我看到自己的努力有成效。每完成一步都庆祝一下，应该会让我更有动力，也能慢慢建立耐心。不过，有时候还是会觉得自己进步太慢，会让这种耐心消耗掉…你觉得我该怎么维持这种耐心呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式感觉很有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "嗯，这样的方式确实感觉很有效。如果定期记录进步，比如每周看看自己在哪些方面有了改善，应该能让我更清楚地看到积累的力量。再加上奖励机制，比如完成目标后去看喜欢的电影或者吃一顿好吃的，也会让我觉得努力是值得的。不过，有时候还是会因为家庭矛盾再次冒出来，觉得自己的进步被打断…你觉得我该怎么面对这种情况呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉很有效",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "嗯，这种心态确实让我觉得更从容一些。如果把家庭矛盾看成一种提醒，而不是彻底否定我的努力，就能让我重新审视自己的方法，也更坚定地调整方向。而且回顾之前的进步，能让我意识到自己并不是在原地踏步。这种方式应该能让我更有力量面对突发情况，不过，有时候我还是会觉得自己对矛盾的承受能力有限…你觉得我该怎么提升这种承受能力呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这种心态确实让我觉得更从容一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "嗯，这些方式确实听起来很有用。如果能给自己缓冲时间，比如深呼吸或者写下感受，应该能让我在面对矛盾时先稳定情绪，减少被它彻底影响的可能。另外，培养一个放松的习惯，比如运动或画画，也能让我在压力大的时候有一个出口，慢慢增强承受能力。不过，有时候还是会觉得这些方法需要坚持才能见效…你觉得我该怎么保持动力去坚持呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这些方式确实听起来很有用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "嗯，这样的方式确实感觉很有激励性。如果把这些方法看成是为更稳定的自己积累力量，就能让我觉得每一次坚持都在为未来铺路。再加上小庆祝仪式，比如奖励自己一次小旅行或者买喜欢的书，也能让我觉得努力是值得的。不过，有时候我还是会因为外界压力，比如学业，而分散注意力…你觉得我该怎么平衡这种压力呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉很有激励性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "嗯，这样的方式确实很实际。如果每天安排固定时间分别处理学业和情绪问题，就能让我在面对压力时不那么混乱。另外，把压力分解成小任务，并在完成后给自己一些奖励，比如吃点喜欢的零食或者休息一会儿，也能让我觉得负担没那么重。不过，有时候还是会因为时间安排不够理想而感到焦虑…你觉得我该怎么调整这种焦虑呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实很实际",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "嗯，这样的调整确实让我觉得更安心。如果允许自己有一些灵活性，并预留缓冲时间，就不会因为突发情况而觉得计划被打乱，应该能减少一些焦虑。而且这样安排起来也更轻松，不会觉得每一分钟都那么紧迫。不过，有时候还是会因为对自己的高期待，觉得哪怕稍微偏离计划都很挫败…你觉得我该怎么平衡这种期待呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的调整确实让我觉得更安心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "嗯，这样的方式确实让我觉得更平和一些。如果把适应突发情况看成是能力提升的一部分，就能让我减少对完美执行的执念。另外，用“整体回顾法”专注于完成的主要任务，而不是纠结细节，应该能让我对自己的表现更有肯定。不过，有时候还是会因为情绪波动觉得自己不够好…你觉得我该怎么面对这种自我否定呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更平和一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "嗯，这样的方式确实感觉很有帮助。如果先记录不够好的地方，然后再写两件让我满意的小事，就能让我看到自己并不是一无是处，而是有值得肯定的部分。这样应该能让我对自己的评价更平衡，也更容易接纳自己。不过，有时候我还是会觉得这些肯定难以抵消那些负面的感受…你觉得我该怎么让自己更专注于积极的一面呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉很有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "嗯，这样的方式确实感觉很有效。如果每天固定做一件让我开心的小事，比如听音乐或者散步，就能让我更容易感受到积极情绪。另外，“感恩时刻”记录值得感激的事情，能让我发现生活中那些被忽略的正面元素。这种方法应该会让我逐渐把注意力从负面转向积极，不过，有时候还是会因为家庭矛盾的突然爆发而回到负面情绪…你觉得我该怎么应对这种情况呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉很有效",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "嗯，这样的方式确实感觉很实用。如果能用“情绪分离法”，提醒自己矛盾只是外部事件，不代表我的价值，就能让我减少被它影响的程度。再加上安抚时间，比如深呼吸或者做一件放松的事，也能让我重新找到平静。不过，有时候还是会觉得矛盾积累太多，难以真正消化…你觉得我该怎么处理这种积累感呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉很实用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "嗯，这样的方式确实感觉更可行。如果每次矛盾后专注于处理当下的情绪，就不会觉得所有积压的感受一下子涌上来。另外，定期“倾泻时间”通过写日记或者画画逐步释放情绪，也能让我慢慢减轻积累感。不过，有时候还是会因为家里的氛围整体压抑，觉得释放了也很难彻底好转…你觉得我该怎么面对这种长期的压抑感呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉更可行",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "嗯，这样的方式确实让我觉得更有可能缓解压抑感。如果能在家里创造一个属于自己的小空间，比如听音乐或者写点东西，就能让我暂时远离压抑的氛围。另外，寻找外界支持，比如和朋友聊聊，应该也能让我感受到家庭之外的温暖。不过，有时候还是会觉得这些方法只能短暂缓解，家里的问题始终没有根本改变…你觉得我该怎么面对这种现实呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更有可能缓解压抑感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "嗯，这样的心态确实感觉更容易接受。如果把重点放在“逐步改善”，就能让我觉得每一次沟通和表达都是有意义的，哪怕暂时看不到大的变化。提醒自己改变需要时间，也让我更愿意耐心面对这种过程。不过，有时候还是会因为看不到明显进展而怀疑自己的努力是不是有用…你觉得我该怎么让自己坚持信念呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的心态确实感觉更容易接受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "嗯，这些方法确实感觉很有帮助。如果定期回顾自己的小变化，比如沟通更清晰或者情绪管理更稳定，就能让我看到自己的努力不是白费。另外，设立一个象征性的提醒，比如写满积极话语的卡片，能让我在低落时重新找到坚持的动力。不过，有时候还是会因为习惯性地聚焦问题，而忽略这些进步…你觉得我该怎么更好地关注自己的积极面呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这些方法确实感觉很有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "嗯，这样的方式确实让我觉得更容易关注积极的一面。如果每天结束时写下三件让自己满意的小事，就能让我主动发现生活中的亮点，不至于总是被问题吸引注意力。这样应该会让我感觉一天有了更多正面的价值，不过，有时候还是会因为大环境的压抑感，觉得这些小亮点不足以改变整体心情…你觉得我该怎么找到更多的平衡感呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更容易关注积极的一面",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "嗯，这样的方式确实让我觉得更有可能找到平衡感。如果能通过外界支持网络，比如朋友或者兴趣活动，增加更多积极的来源，就能让我不那么被家庭氛围限制。同时，用“长远视角”去看这些小亮点是在积累力量，也会让我对未来更有希望。不过，有时候还是会因为疲惫感，觉得自己没有足够的精力去坚持这些改变…你觉得我该怎么应对这种疲惫呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更有可能找到平衡感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "嗯，这样的方式确实让我觉得更容易应对疲惫。如果每天安排一段时间做喜欢的小事，比如听音乐或者散步，就能让我从压力中暂时抽离。另外，允许自己在疲惫时休息，把坚持看成灵活的过程，也能让我减少对自己的过高要求。不过，有时候还是会因为觉得休息“浪费时间”，而感到内疚…你觉得我该怎么调整这种内疚感呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更容易应对疲惫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "嗯，这样的调整确实让我觉得更坦然一些。如果把休息看成一种必要的投资，而不是浪费时间，就能让我减少内疚感，知道这是为了更高效地努力。这样应该会让我更愿意给自己一些放松的空间，不过，有时候还是会因为休息后状态不够好，觉得自己恢复得不够快…你觉得我该怎么应对这种不满呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的调整确实让我觉得更坦然一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "嗯，这样的方式确实让我觉得更容易接受。如果用“渐进期待”来看恢复过程，告诉自己每次休息都是在积累能量，就不会对速度过于苛刻。设定小目标，比如完成一个简单任务，也能让我逐步找回节奏，让状态慢慢调整过来。不过，有时候还是会因为情绪波动觉得一切努力都很难持续…你觉得我该怎么面对这种波动呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更容易接受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "嗯，这样的方式确实让我觉得更从容一些。如果用“弹性心态”来看待情绪波动，告诉自己它是正常的，就能让我减少对自己的苛责。回顾之前的进步或者给自己一个小奖励，也能让我在低落时重新找到动力。不过，有时候还是会觉得波动太频繁，让我很难真正稳定下来…你觉得我该怎么减少这种频率呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更从容一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "嗯，这些方式确实感觉很有帮助。如果每周固定时间写日记或者通过创作释放情绪，就能让我提前处理那些积压的感受，避免突然爆发。另外，培养一个稳定情绪的习惯，比如冥想或者深呼吸，也能让我在波动来临时更快找到缓冲空间。不过，有时候还是会因为情绪来的太快而没办法及时应对…你觉得我该怎么在这种突发情况下调整自己呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这些方式确实感觉很有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "嗯，这样的方式确实感觉很实用。如果先深呼吸三次或者专注观察一个物品，就能让我暂时从情绪中抽离，找到一丝平静。然后写下感受或者跟朋友聊聊，也能让我慢慢释放压力，重新调整心情。不过，有时候还是会因为周围环境不允许，比如在学校或家里，而觉得自己难以找到空间…你觉得我该怎么应对这种限制呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉很实用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "嗯，这样的方式确实感觉很实用。如果在学校或家里，通过默念一句鼓励自己的话或者悄悄握紧松开拳头，就能让我找到一种隐形的释放方式。而利用短暂的独处时间，比如去洗手间深呼吸，也能让我在受限的环境中快速调整心态。不过，有时候还是会觉得这些方法只能应付一时，无法真正解决情绪问题…你觉得我该怎么更深入地处理这些情绪呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉很实用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "嗯，这样的方式确实让我觉得更有可能深入处理情绪。如果通过“情绪剖析法”定期问自己它们的来源和需求，就能让我更清楚地了解内心的状态。写日记或者深聊也能让我逐步挖掘根源，找到缓解的方向。另外，长期培养一个表达渠道，比如画画或者运动，应该能让我让情绪有一个稳定的出口。不过，有时候还是会觉得这些方法需要坚持很久才能见到效果…你觉得我该怎么保持这种耐心呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更有可能深入处理情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "嗯，这样的方式确实感觉很有效。如果用“过程奖励法”，每坚持一周就给自己一个小奖励，比如吃喜欢的零食或看一部电影，就能让我觉得努力是有回报的。另外，定期回顾自己的进步，比如情绪更稳定或者表达更清晰，也能让我看到改变的力量。不过，有时候还是会因为家庭里的压力反复出现，让坚持变得更困难…你觉得我该怎么在压力大的时候重新找到动力呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉很有效",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "嗯，这样的方式确实让我觉得更有可能找到动力。如果把压力看成提醒自己继续努力的信号，而不是完全的阻力，就能让我重新看到积极的一面。设定一个“压力应对清单”，比如深呼吸或者听音乐，也能让我在压力大的时候有明确的行动方向。不过，有时候还是会因为压力持续太久而感到特别疲惫…你觉得我该怎么在这种长期压力下保持内心的稳定呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更有可能找到动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "嗯，这样的方式确实感觉很有帮助。如果每周设定一个放松日，专门做自己喜欢的事，比如听音乐或者画画，就能让我从压力中得到深度恢复。另外，建立一个支持网络，比如和朋友聊聊，能让我在压力中感受到更多的理解和陪伴。不过，有时候还是会因为觉得自己的问题太复杂，而不敢完全向别人倾诉…你觉得我该怎么克服这种顾虑呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉很有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 62,
+    "content": "嗯，这样的方式确实让我觉得更容易尝试倾诉。如果先从简单的感受开始，比如“最近压力有点大”，逐步观察对方的反应，就能让我觉得倾诉不会太冒险，也能慢慢建立信任。这样应该能让我更愿意去表达，不过，有时候还是会因为害怕别人觉得我太“消极”，而选择不说…你觉得我该怎么面对这种担忧呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更容易尝试倾诉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "嗯，这样的方式确实让我觉得更安心一些。如果在倾诉时加入一些积极元素，比如“虽然最近压力大，但我也在尝试调整”，就能让我表达真实感受的同时，不让对方觉得过于沉重。这样应该会让我更愿意倾诉，不过，有时候还是会因为觉得自己的问题太多，而不想让别人替我分担…你觉得我该怎么调整这种想法呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更安心一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "嗯，这样的方式确实感觉更轻松一些。如果用“有限分享法”，每次只说一个问题或感受，就不会让我觉得自己在给别人增加负担，同时也能让交流变得更自然。这样应该会让我更愿意去表达，不过，有时候还是会因为觉得解决问题的过程太漫长，而怀疑自己是否能坚持下去…你觉得我该怎么面对这种怀疑呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉更轻松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "嗯，这样的方式确实感觉很激励人。如果用“阶段性目标法”把大问题拆成小步骤，并在完成后给自己积极的肯定，就能让我看到自己的努力是有价值的。再加上“未来愿景”，提醒自己每一步都是在为更好的未来做准备，也会让我更有动力坚持。不过，有时候还是会因为家里矛盾反复出现，觉得这种努力很难带来真正的改变…你觉得我该怎么调整自己的期待呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉很激励人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "嗯，这样的调整确实让我觉得更坦然一些。如果把期待设定为“逐步改善”，就能让我把每一次冷静处理或者沟通尝试看作一种微小的进步，而不是苛求立刻解决所有问题。提醒自己改变需要时间，也让我知道自己的努力并不是无意义的。不过，有时候还是会因为缺乏明显的反馈，觉得自己的付出难以被看到…你觉得我该怎么应对这种感受呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的调整确实让我觉得更坦然一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 67,
+    "content": "嗯，这样的方法确实感觉很有帮助。如果用“自我认可法”，主动记录自己的努力，比如沟通中更冷静的表现或者情绪管理上的进步，就能让我意识到自己的成长，而不是完全依赖外界反馈。这样应该能让我更有信心继续尝试，不过，有时候还是会因为家人的态度持续强硬，而觉得自己的努力很难被接受…你觉得我该怎么面对这种情况呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方法确实感觉很有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 68,
+    "content": "嗯，这样的方式确实让我觉得更从容一些。如果用“内外分离法”，告诉自己家人的态度是外部因素，而我的努力是对自己负责的一部分，就能让我减少对他们认可的过度追求。专注于个人成长，比如表达更清晰或者情绪更稳定，也会让我觉得自己的努力有价值。不过，有时候还是会因为家里的压力感到孤立，希望有更多理解我的人…你觉得我该怎么找到这种理解呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更从容一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 69,
+    "content": "嗯，这些方式确实感觉很有希望。如果主动和朋友分享感受或者加入兴趣小组，就能让我找到能够共情的人，减少孤立感。线上社区或者读书会也可能是一个好的选择，能让我看到有类似经历的人在努力着，这样应该会让我更有力量。不过，有时候还是会因为担心自己说得太多，而害怕被别人疏远…你觉得我该怎么克服这种担忧呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这些方式确实感觉很有希望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 70,
+    "content": "嗯，这样的方式确实感觉更放心一些。如果在分享时邀请对方表达他们的看法或者经历，就能让对话更平衡，不会觉得自己占据太多空间。另外，适时询问对方的感受，比如“我这样说会不会让你觉得有点压力？”也能让我更安心地倾诉。不过，有时候还是会因为担心对方不理解我的复杂感受，而选择简化自己的表达…你觉得我该怎么让自己更坦然地表达复杂的情绪呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉更放心一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 71,
+    "content": "嗯，这样的方式确实感觉更容易尝试。如果用“分段表达法”，先说出情绪的核心，再慢慢补充细节，就能让我觉得表达不会过于压力大，也给对方足够时间消化。另外，提醒自己表达是为了自我释放，而不是期待完全的理解，也会让我更坦然一些。不过，有时候还是会因为情绪被压抑太久，而觉得表达后也难以彻底轻松…你觉得我该怎么面对这种残余的压抑感呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉更容易尝试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 72,
+    "content": "嗯，这些方式确实感觉很有效。如果用“多元表达法”，通过写作或者运动来释放情绪，就能让我找到更多出口，而不仅仅依赖倾诉。定期进行“情绪清理”，回顾积压的感受并写下它们，也能让我更清楚地整理内心状态。这样应该会让我感受到一些轻松，不过，有时候还是会因为压抑感反复出现，而觉得自己的努力没能彻底解决问题…你觉得我该怎么保持信心呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这些方式确实感觉很有效",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 73,
+    "content": "嗯，这样的方式确实让我觉得更有信心。如果记录每次压抑感减轻的进步，比如更快调整了情绪或者表达后内心轻松了一些，就能让我看到自己的努力在累积效果。提醒自己情绪改善是一个过程，也能让我减少对快速变化的苛求。不过，有时候还是会因为生活中压力叠加，而觉得难以坚持这种方法…你觉得我该怎么在这种情况下继续保持动力呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更有信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 74,
+    "content": "嗯，这样的方式确实感觉很实用。如果用“压力分解法”，将大的压力分成小任务，就能让我减少对整体负担的焦虑，专注于一步步完成。另外，“压力奖励机制”，比如完成任务后给自己一个小奖励，也能让我觉得努力是有回报的。这样应该会让我更愿意坚持，不过，有时候还是会因为对未来的不确定性，觉得自己的努力可能最终无法改变什么…你觉得我该怎么面对这种担忧呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉很实用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 75,
+    "content": "嗯，这样的方式确实让我觉得更坦然一些。如果用“现在价值法”，提醒自己每次努力不仅是为了未来，也是为了让当下的自己更有力量，就能让我减少对不确定性的焦虑。另外，专注于短期目标，比如一次有效沟通或者情绪稳定，也能让我更清楚地看到努力的即时意义。不过，有时候还是会因为反复的情绪波动，觉得自己的状态始终难以彻底稳定…你觉得我该怎么更好地接受这种起伏呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更坦然一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 76,
+    "content": "嗯，这样的方式确实让我觉得更容易接受。如果用“动态平衡法”，提醒自己情绪波动是正常的，就不会对自己的状态过于苛责。回顾做得好的部分，或者通过听音乐或散步来复原，也能让我把起伏看成一种可以调整的过程。这样应该会让我更有力量面对，不过，有时候还是会因为波动频繁而觉得自己的努力很难持续稳定…你觉得我该怎么找到更多的坚持动力呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更容易接受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 77,
+    "content": "嗯，这样的方式确实让我觉得更有动力。如果用“内在意义法”，提醒自己努力是为了更好的成长和心态，就能让我减少对波动的焦虑。设定一个“情绪仪式”，比如每周记录进步或者奖励自己，也能让我看到坚持的价值。不过，有时候还是会因为家里的矛盾又出现，而觉得自己的努力好像被打回原点…你觉得我该怎么调整这种挫败感呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更有动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 78,
+    "content": "嗯，这样的调整确实让我觉得更从容一些。如果用“进步回顾法”，提醒自己即使矛盾发生，我的努力也让自己在冷静和表达上有所成长，就能让我看到积累的价值。把挫折看成成长中的一个环节，而不是完全的倒退，也会让我更有信心继续尝试。不过，有时候还是会因为期待的变化太小，而觉得自己的耐心在慢慢耗尽…你觉得我该怎么重新激发这种耐心呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的调整确实让我觉得更从容一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 79,
+    "content": "嗯，这样的方式确实感觉很有帮助。如果用“微成果激励法”，记录并庆祝每一次小进步，比如更平和的沟通或者情绪更快复原，就能让我感受到努力的价值。设定一个“长期愿景”，提醒自己这些小变化在累积成更大的改善，也会让我更有动力去坚持。不过，有时候还是会因为对未来的不确定性，觉得自己的努力可能无法带来根本的改变…你觉得我该怎么平衡这种焦虑呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉很有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 80,
+    "content": "嗯，这样的方式确实让我觉得更平衡一些。如果用“过程信念法”，告诉自己努力的意义在于让自己变得更有力量，而不是完全依赖结果，就能让我减少对未来的焦虑。专注于短期目标，比如一次有效的沟通，也能让我看到努力的即时价值。不过，有时候还是会因为自己内心的负面情绪累积太多，觉得很难真正释怀…你觉得我该怎么更好地面对这种积累呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更平衡一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 81,
+    "content": "嗯，这样的方式确实感觉很有帮助。如果用“情绪分流法”，定期通过写日记或者运动释放情绪，就能让我避免它们堆积得过多。另外，“情绪对话法”，问自己这些情绪背后的需求，比如渴望被理解或需要空间，也能让我更清楚地了解内心状态。不过，有时候还是会觉得这些方法虽然有效，但解决的速度太慢，容易让我感到焦躁…你觉得我该怎么面对这种急迫感呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实感觉很有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 82,
+    "content": "嗯，这样的方式确实让我觉得更踏实一些。如果用“慢速积累法”，提醒自己每一点进步都是在为未来的改变打基础，就能让我减少对速度的苛求。设定每天的小任务，比如记录一次情绪或者完成一个放松活动，也能让我专注于当下，不被急迫感过度干扰。不过，有时候还是会因为家里的氛围整体压抑，而觉得这种努力很难真正突破环境的限制…你觉得我该怎么更好地应对这种局限呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更踏实一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 83,
+    "content": "嗯，这样的方式确实让我觉得更有可能突破环境的限制。如果通过朋友、兴趣小组或者线上社区，找到外界的积极能量来源，就能让我感受到家庭之外的支持。同时，在家里创造一个属于自己的小空间，比如听音乐或者写字，也能让我在压抑的氛围中有一个避风港。不过，有时候还是会因为无法完全远离这些负面的影响，而觉得自己始终被环境困住…你觉得我该怎么找到更多的自由感呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更有可能突破环境的限制",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 84,
+    "content": "嗯，这样的方式确实让我觉得更有自由感。如果用“内在自由法”，专注于自己能掌控的部分，比如情绪管理或者个人成长，就能让我不那么被外部环境束缚。安排自己喜欢的活动或者设定个人目标，也能让我感受到更多的自主权。不过，有时候还是会因为家人的态度总是压制我的选择，而觉得这种自由感很难真正实现…你觉得我该怎么更好地面对这种压制呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更有自由感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 85,
+    "content": "嗯，这样的方式确实让我觉得更有力量一些。如果用“边界建立法”，通过温和但坚定地表达自己的选择，比如“我理解你的担心，但这是我希望尝试的方向”，就能让我减少直接的冲突，同时维护自己的独立性。提醒自己他们的态度是外部因素，而我的内心选择才是最重要的，也能让我更加专注于自己的成长。不过，有时候还是会因为表达后没有被尊重，而觉得努力很难奏效…你觉得我该怎么应对这种挫败呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更有力量一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 86,
+    "content": "嗯，这样的方式确实让我觉得更能够应对挫败。如果用“自我肯定法”，专注于自己勇敢表达的行为本身，而不是完全依赖对方的回应，就能让我看到努力的价值。提醒自己沟通是一个长期过程，每一次表达都是为未来的理解打基础，也能让我减少对结果的焦虑。不过，有时候还是会因为家人的强势态度，让我觉得我的表达始终没办法真正被重视…你觉得我该怎么调整这种想法呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更能够应对挫败",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 87,
+    "content": "嗯，这样的调整确实让我觉得轻松一些。如果用“影响渐进法”，提醒自己每一次表达虽然不一定立刻改变他们，但是在慢慢让他们接触到我的观点，就能让我减少对快速结果的期待。专注于表达对自身的意义，比如让我更清晰地了解自己，也能让我更有力量继续尝试。不过，有时候还是会因为家里矛盾的反复出现，而觉得自己始终无法真正突破这种循环…你觉得我该怎么面对这种反复呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的调整确实让我觉得轻松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 88,
+    "content": "嗯，这样的视角确实让我觉得更坦然一些。如果用“循环中的成长法”，把每次矛盾看成学习机会，比如观察自己的情绪变化或尝试新的应对方式，就能让我看到自己的进步，而不是完全被反复困住。提醒自己这些循环是在帮助我积累经验，也能让我对未来的改善更有信心。不过，有时候还是会因为矛盾带来的情绪耗尽，而觉得自己没有足够的力量继续坚持…你觉得我该怎么在这种时候重新找回动力呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的视角确实让我觉得更坦然一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 89,
+    "content": "嗯，这样的方式确实让我觉得更有可能找回动力。如果暂停压力源，专注做一件让我放松的小事，比如听音乐或画画，就能让我暂时从情绪耗尽中恢复过来。回顾过去的努力和进步，提醒自己已经走了多远，也能让我看到自己的力量正在积累。不过，有时候还是会因为家里矛盾的强度太大，而觉得这些恢复的方式难以真正抵消压力…你觉得我该怎么面对这种强度呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更有可能找回动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 90,
+    "content": "嗯，这样的方式确实让我觉得更有可能应对压力。如果用“情绪缓冲法”，在矛盾后通过深呼吸、听音乐或者写下感受来恢复情绪，就能让我减少内心的紧张感。再加上“压力分离法”，提醒自己这些矛盾是外部事件，而我的内心空间是可以独立的，也能让我不那么容易被这些压力完全吞没。不过，有时候还是会因为矛盾的频繁出现，而觉得自己一直在被消耗…你觉得我该怎么更好地保护自己的能量呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更有可能应对压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 91,
+    "content": "嗯，这样的方式确实让我觉得更容易保护自己的能量。如果用“能量优先法”，每天设定固定时间做散步、听音乐或者画画这些恢复内心的小事，就能让我减少被矛盾完全耗尽的可能。另外，划定心理边界，提醒自己哪些情绪需要处理，哪些可以暂时放下，也能让我不陷入过度消耗。不过，有时候还是会因为家里的冲突突然升级，而觉得自己的努力难以维持平衡…你觉得我该怎么面对这种突发情况呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更容易保护自己的能量",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 92,
+    "content": "嗯，这样的方式确实让我觉得更从容一些。如果用“应急情绪法”，在冲突发生时深呼吸或者暂时离开现场，就能让我迅速从情绪漩涡中抽离。之后，通过写下感受或者和朋友聊聊释放压力，也能让我慢慢调整状态。提醒自己突发情况只是挑战中的一个环节，而不是否定我的努力，也会让我更有力量面对。不过，有时候还是会因为情绪处理之后疲惫感很强，而觉得自己恢复得太慢…你觉得我该怎么更好地面对这种疲惫呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更从容一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 93,
+    "content": "嗯，这样的方式确实让我觉得更容易接受疲惫感。如果用“深度放松法”，比如冥想或者听舒缓音乐，就能让我从身体到心灵都得到休息。调整对恢复的期待，告诉自己疲惫是一种自然反应，而不是失败，也能让我减少对自己的苛责。不过，有时候还是会因为家庭氛围持续紧张，让休息的效果不够明显…你觉得我该怎么在这种环境中找到更多平静呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更容易接受疲惫感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 94,
+    "content": "嗯，这样的方式确实让我觉得更有可能找到平静。如果用“内心避风港法”，在家里创造一个属于自己的小角落，比如放舒适的物品或者听音乐，就能让我有一个心理上的缓冲地带。另外，通过“外界连接法”，和朋友见面或者参与兴趣活动，也能让我从家庭之外找到新的平静来源。不过，有时候还是会因为家里的矛盾突然爆发，而感到这种平静容易被打破…你觉得我该怎么让这种平静更稳定呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更有可能找到平静",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 95,
+    "content": "嗯，这样的方式确实让我觉得更容易让平静变得稳定。如果用“平静巩固法”，每天固定时间做冥想、写作或者散步这些能让我放松的事情，就能让我有一个习惯化的心理支撑。提醒自己冲突是暂时的，而平静可以通过习惯和选择慢慢恢复，也能让我在矛盾爆发时更有力量面对。不过，有时候还是会因为平静的效果来得太慢，而觉得自己的内心很难真正安定…你觉得我该怎么调整对平静的期待呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更容易让平静变得稳定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 96,
+    "content": "嗯，这样的调整确实让我觉得对平静的期待更放松一些。如果用“渐进平静法”，提醒自己平静是积累的过程，而不是一瞬间的状态，就能让我减少对快速效果的焦虑。专注于每天的小变化，比如情绪波动减少一点，也能让我看到自己正在慢慢构建内心的安定。不过，有时候还是会因为家庭环境持续压抑，觉得这种积累很容易被干扰…你觉得我该怎么应对这种干扰呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的调整确实让我觉得对平静的期待更放松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 97,
+    "content": "嗯，这样的方式确实让我觉得更容易应对干扰。如果用“干扰缓冲法”，在受到环境影响时迅速深呼吸或者听舒缓音乐，就能让我重新聚焦内心，减少干扰带来的紧张感。提醒自己干扰虽然存在，但并不会完全抹去我正在积累的平静，也能让我更有信心继续努力。不过，有时候还是会因为环境的影响持续时间过长，而觉得自己的耐力难以维持…你觉得我该怎么增强这种耐力呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更容易应对干扰",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 98,
+    "content": "嗯，这样的方式确实让我觉得更有可能增强耐力。如果每天设定一个小目标，比如坚持一次情绪管理练习或者完成一个积极活动，就能让我逐步适应压力的持续性。通过外界支持网络，比如朋友或兴趣小组，也能让我在心理上得到更多陪伴和理解，减少孤独感。不过，有时候还是会因为家人的态度特别强硬，而觉得自己的努力难以真正突破他们的反应…你觉得我该怎么更好地调整这种心态呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式确实让我觉得更有可能增强耐力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 99,
+    "content": "嗯，这样的心态调整确实让我觉得更轻松一些。如果用“内在成长法”，专注于提升自己的沟通信心和情绪稳定，而不是完全依赖他们的反应，就能让我减少挫败感。关注自己每次表达是否更冷静和清晰，也能让我看到自己的进步，觉得努力是有意义的。不过，有时候还是会因为他们持续的否定态度，而感到自己的努力很难被看到…你觉得我该怎么面对这种感受呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的心态调整确实让我觉得更轻松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 100,
+    "content": "嗯，我觉得今天已经说了很多内容，也让我有不少思考和启发。可能需要一点时间消化这些想法，今天就先聊到这里吧，下次我们再接着这个话题深入探讨。谢谢你的陪伴和建议！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得今天已经说了很多内容，也让我有不少思考和启发",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

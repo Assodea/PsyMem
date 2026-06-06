@@ -1,0 +1,553 @@
+[
+  {
+    "turn": 1,
+    "content": "最近心情还是有点复杂，尤其是面对学业的时候，总觉得一开始能集中注意力，但没多久就又分心去玩游戏了。这让我挺内疚的…",
+    "has_specific_detail": true,
+    "specific_detail": "最近心情还是有点复杂，尤其是面对学业的时候，总觉得一开始能集中注意力，但没多久就又分心去玩游戏了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "我觉得游戏里有一种快速的满足感，比如完成任务就能看到奖励。而学习的成果太慢，特别是当我遇到难题时，就会想逃避…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得游戏里有一种快速的满足感，比如完成任务就能看到奖励",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "如果遇到难题，我常常先试一会儿，但很快就会觉得烦躁，然后就跑去玩游戏了。这样虽然暂时忘了问题，但事后会更焦虑…",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到难题，我常常先试一会儿，但很快就会觉得烦躁，然后就跑去玩游戏了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "有时候会想着问同学或者老师，但又怕被觉得笨，所以通常还是自己硬撑。感觉换方式也试过，但效果不大…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候会想着问同学或者老师，但又怕被觉得笨，所以通常还是自己硬撑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "嗯…可能是因为小时候，父母对我的期望挺高，但他们又经常争吵。当我做不好事情时，总感觉他们更容易生气，而不是鼓励我…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯…可能是因为小时候，父母对我的期望挺高，但他们又经常争吵",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "小时候他们生气时，我一般会躲到房间里玩玩具，或者假装不在意。但其实心里挺难过的，只是不知道该怎么表达…",
+    "has_specific_detail": true,
+    "specific_detail": "小时候他们生气时，我一般会躲到房间里玩玩具，或者假装不在意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "会的，比如现在家里还是会争吵，虽然我不再像小时候那样哭了，但还是觉得无助，只是换成了玩游戏来逃避…",
+    "has_specific_detail": true,
+    "specific_detail": "会的，比如现在家里还是会争吵，虽然我不再像小时候那样哭了，但还是觉得无助，只是换成了玩游戏来逃避…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "争吵的时候，我会觉得很压抑，注意力完全被影响，学习也没心思了。然后情绪低落时就更容易想玩游戏逃避…",
+    "has_specific_detail": true,
+    "specific_detail": "争吵的时候，我会觉得很压抑，注意力完全被影响，学习也没心思了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "有试过听音乐或者画点东西，有时候会感觉好一些，但总觉得没有游戏那么“管用”，可能是因为游戏能让我完全忘掉烦心事…",
+    "has_specific_detail": true,
+    "specific_detail": "有试过听音乐或者画点东西，有时候会感觉好一些，但总觉得没有游戏那么“管用”，可能是因为游戏能让我完全忘掉烦心事…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "其实，有时候和朋友一起聊些有趣的话题，或者在学校参加小组活动，也会让我觉得挺放松的，还能有种被认可的感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "其实，有时候和朋友一起聊些有趣的话题，或者在学校参加小组活动，也会让我觉得挺放松的，还能有种被认可的感觉…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "游戏里的满足感更像是自己一个人的成就，而现实中被认可的感觉会更真实，也更温暖，但同时也更难得…",
+    "has_specific_detail": true,
+    "specific_detail": "游戏里的满足感更像是自己一个人的成就，而现实中被认可的感觉会更真实，也更温暖，但同时也更难得…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我想如果能多尝试一些自己感兴趣的事，比如参与学校的社团活动，可能会有更多机会和别人互动，也许就能找到这种感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "我想如果能多尝试一些自己感兴趣的事，比如参与学校的社团活动，可能会有更多机会和别人互动，也许就能找到这种感觉…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "可能是和创意相关的，比如绘画社或者编程类的活动。我在游戏里挺喜欢设计东西，感觉这些也许能让我把兴趣带到现实中…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是和创意相关的，比如绘画社或者编程类的活动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "可能会担心自己起步比别人慢，或者不太敢主动和社团里的人交流。总觉得一开始会有点格格不入，但又很想试试看…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会担心自己起步比别人慢，或者不太敢主动和社团里的人交流",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我可能会先观察大家的习惯，然后从简单的事情开始参与，比如帮忙做些小任务，这样也许能慢慢找到感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先观察大家的习惯，然后从简单的事情开始参与，比如帮忙做些小任务，这样也许能慢慢找到感觉…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "如果有人主动和我聊，我会尽量表现得友善一点，比如认真听他说的内容，偶尔回应几句，希望能让对方觉得我是个容易相处的人…",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人主动和我聊，我会尽量表现得友善一点，比如认真听他说的内容，偶尔回应几句，希望能让对方觉得我是个容易相处的人…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "如果对方表现出认可，比如肯定我的想法或者笑着回应，我会觉得轻松很多，也更愿意继续交流下去…",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方表现出认可，比如肯定我的想法或者笑着回应，我会觉得轻松很多，也更愿意继续交流下去…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得自己在一些事情上还是挺有创意的，尤其是设计和想象方面。如果别人能看到这点，也许会更认可我吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得自己在一些事情上还是挺有创意的，尤其是设计和想象方面",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "也许可以主动参与一些需要创意的项目，比如社团里的海报设计或者活动策划，这样我的想法可能会被更多人看见…",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以主动参与一些需要创意的项目，比如社团里的海报设计或者活动策划，这样我的想法可能会被更多人看见…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 20,
+    "content": "我可能会先从一些小的设计任务开始，比如帮忙画个简单的图案或者提个创意点子，这样压力小，也能慢慢适应…",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先从一些小的设计任务开始，比如帮忙画个简单的图案或者提个创意点子，这样压力小，也能慢慢适应…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 21,
+    "content": "完成后如果能得到别人的鼓励或者认可，比如有人夸我的设计不错，我会觉得更有动力去尝试更大的任务…",
+    "has_specific_detail": true,
+    "specific_detail": "完成后如果能得到别人的鼓励或者认可，比如有人夸我的设计不错，我会觉得更有动力去尝试更大的任务…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "也许可以记录下每次完成的任务，比如画个小总结或者拍照片保存，这样回头看的时候能感觉自己确实有在进步…",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以记录下每次完成的任务，比如画个小总结或者拍照片保存，这样回头看的时候能感觉自己确实有在进步…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我觉得可以先冷静下来分析问题，或者找人聊聊寻求建议。告诉自己失败只是过程的一部分，尽量不去否定自己…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先冷静下来分析问题，或者找人聊聊寻求建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "是的，我可能会把困难分成几个小目标，比如先解决一个简单的部分，再慢慢突破更复杂的地方，这样不会觉得太有压力…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我可能会把困难分成几个小目标，比如先解决一个简单的部分，再慢慢突破更复杂的地方，这样不会觉得太有压力…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "会的，比如完成一个小目标后，我可能会允许自己休息一下，听首喜欢的歌或者玩一会儿游戏，让自己感觉被奖励了…",
+    "has_specific_detail": true,
+    "specific_detail": "会的，比如完成一个小目标后，我可能会允许自己休息一下，听首喜欢的歌或者玩一会儿游戏，让自己感觉被奖励了…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我想长期目标是能找到一个让我真正感兴趣的方向，比如和创意设计相关的领域，既能发挥自己的特长，也能感觉生活更有意义…",
+    "has_specific_detail": true,
+    "specific_detail": "我想长期目标是能找到一个让我真正感兴趣的方向，比如和创意设计相关的领域，既能发挥自己的特长，也能感觉生活更有意义…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得第一步可以多了解一些相关的职业或者领域，比如看视频、读文章，看看自己具体对哪方面更感兴趣，这样才能更有方向感…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得第一步可以多了解一些相关的职业或者领域，比如看视频、读文章，看看自己具体对哪方面更感兴趣，这样才能更有方向感…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我会关注这个领域需要哪些技能、平时的工作内容是什么，以及有没有机会发挥创意。如果这些都让我觉得有吸引力，就说明挺适合我的…",
+    "has_specific_detail": true,
+    "specific_detail": "我会关注这个领域需要哪些技能、平时的工作内容是什么，以及有没有机会发挥创意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "如果发现感兴趣的领域，我可能会先找一些基础教程自学，或者试着做点小项目，比如画插画或者设计简单的东西，慢慢积累经验…",
+    "has_specific_detail": true,
+    "specific_detail": "如果发现感兴趣的领域，我可能会先找一些基础教程自学，或者试着做点小项目，比如画插画或者设计简单的东西，慢慢积累经验…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 30,
+    "content": "我会定期整理作品，比如做一个文件夹保存自己完成的设计，还可以设定一些小目标，比如每周完成一幅画或者一个小设计作品…",
+    "has_specific_detail": true,
+    "specific_detail": "我会定期整理作品，比如做一个文件夹保存自己完成的设计，还可以设定一些小目标，比如每周完成一幅画或者一个小设计作品…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 31,
+    "content": "会的，我可能会把成果发到社交平台或者展示给朋友看，虽然有点紧张，但如果能得到认可，会觉得很有成就感！",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我可能会把成果发到社交平台或者展示给朋友看，虽然有点紧张，但如果能得到认可，会觉得很有成就感！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "如果有人提建议，我会尽量先听听看，看看是否有道理。虽然可能会有点不舒服，但我觉得这些意见也许能让我做得更好…",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人提建议，我会尽量先听听看，看看是否有道理",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我可能会先深呼吸，让自己冷静下来，然后告诉自己这些建议是为了帮助我进步，而不是否定我的努力，这样会感觉好一点…",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先深呼吸，让自己冷静下来，然后告诉自己这些建议是为了帮助我进步，而不是否定我的努力，这样会感觉好一点…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我会提醒自己，所有进步都是一点点积累起来的，只要每次努力都比之前更好一点，就已经很值得肯定了！",
+    "has_specific_detail": true,
+    "specific_detail": "我会提醒自己，所有进步都是一点点积累起来的，只要每次努力都比之前更好一点，就已经很值得肯定了！",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 35,
+    "content": "我可能会对现在的自己说：“谢谢你没有放弃，哪怕有困难也坚持下来了，这一切的努力都没有白费！”",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会对现在的自己说：“谢谢你没有放弃，哪怕有困难也坚持下来了，这一切的努力都没有白费！”",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 36,
+    "content": "我可以从整理自己的兴趣开始，比如列个清单，把想尝试的社团或活动写下来，这样就迈出了第一步！",
+    "has_specific_detail": true,
+    "specific_detail": "我可以从整理自己的兴趣开始，比如列个清单，把想尝试的社团或活动写下来，这样就迈出了第一步！",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 37,
+    "content": "会的，我可以给自己设定一周的时间，先去了解清单上的活动信息，然后选择一个最感兴趣的去尝试加入…",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我可以给自己设定一周的时间，先去了解清单上的活动信息，然后选择一个最感兴趣的去尝试加入…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 38,
+    "content": "如果信息不清，我会试着问同学或者老师寻求帮助；如果犹豫不决，就告诉自己先试试，反正可以随时调整方向，不必太纠结…",
+    "has_specific_detail": true,
+    "specific_detail": "如果信息不清，我会试着问同学或者老师寻求帮助；如果犹豫不决，就告诉自己先试试，反正可以随时调整方向，不必太纠结…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我可以告诉自己，这只是一次体验，不用太在意结果，多关注过程中有哪些有趣的地方，这样会更放松一点…",
+    "has_specific_detail": true,
+    "specific_detail": "我可以告诉自己，这只是一次体验，不用太在意结果，多关注过程中有哪些有趣的地方，这样会更放松一点…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 40,
+    "content": "我可以用笔记本或者手机记录下这些收获，比如有什么新发现或让自己开心的事，偶尔翻看时会觉得更有动力继续努力！",
+    "has_specific_detail": true,
+    "specific_detail": "我可以用笔记本或者手机记录下这些收获，比如有什么新发现或让自己开心的事，偶尔翻看时会觉得更有动力继续努力！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我希望未来的自己能从中感受到“原来我真的可以做到”，并相信只要坚持尝试，就一定能一步步实现自己的目标！",
+    "has_specific_detail": true,
+    "specific_detail": "我希望未来的自己能从中感受到“原来我真的可以做到”，并相信只要坚持尝试，就一定能一步步实现自己的目标！",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 42,
+    "content": "我可以马上开始写下感兴趣的社团清单，然后查找相关信息，计划好第一步要去尝试哪个活动！",
+    "has_specific_detail": true,
+    "specific_detail": "我可以马上开始写下感兴趣的社团清单，然后查找相关信息，计划好第一步要去尝试哪个活动！",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 43,
+    "content": "我会告诉自己，这是一段发现新可能的旅程，每找到一点有趣的信息，就当作是给自己的一个小惊喜！",
+    "has_specific_detail": true,
+    "specific_detail": "我会告诉自己，这是一段发现新可能的旅程，每找到一点有趣的信息，就当作是给自己的一个小惊喜！",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  }
+]

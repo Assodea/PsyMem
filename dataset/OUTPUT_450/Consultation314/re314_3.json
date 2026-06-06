@@ -1,0 +1,512 @@
+[
+  {
+    "turn": 1,
+    "content": "最近我一直在想，为什么每次母亲提到经济上的需求，我都会感到那么矛盾。一方面想帮忙，但另一方面又觉得压力特别大…",
+    "has_specific_detail": true,
+    "specific_detail": "最近我一直在想，为什么每次母亲提到经济上的需求，我都会感到那么矛盾",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "比如上周她突然给我打电话，说房子需要维修，让我帮忙出一部分费用。当时我愣了一下，心里觉得这不是我该全权负责的，但还是答应了…",
+    "has_specific_detail": true,
+    "specific_detail": "比如上周她突然给我打电话，说房子需要维修，让我帮忙出一部分费用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "是的，当时愣住的瞬间，我脑子里冒出了一种“为什么又是我”的想法，同时也有点内疚，觉得不帮她可能会被认为不孝顺…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，当时愣住的瞬间，我脑子里冒出了一种“为什么又是我”的想法，同时也有点内疚，觉得不帮她可能会被认为不孝顺…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "其实这种情况从我工作以后就开始了，但最近好像更频繁了，感觉她对我的依赖变得越来越明显，让我有点喘不过气…",
+    "has_specific_detail": true,
+    "specific_detail": "其实这种情况从我工作以后就开始了，但最近好像更频繁了，感觉她对我的依赖变得越来越明显，让我有点喘不过气…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "主要还是经济方面吧，但有时她也会提到自己很孤单，想让我多陪陪她。这种时候我会觉得很复杂，既同情又有些无奈…",
+    "has_specific_detail": true,
+    "specific_detail": "主要还是经济方面吧，但有时她也会提到自己很孤单，想让我多陪陪她",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我其实很少和她聊这些，总觉得一开口就会引发争执，所以更多是默默承担，但心里又积压了很多情绪…",
+    "has_specific_detail": true,
+    "specific_detail": "我其实很少和她聊这些，总觉得一开口就会引发争执，所以更多是默默承担，但心里又积压了很多情绪…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是的，以前试着表达过我的想法，但她总觉得我在推脱责任，甚至会责怪我不够关心她，这让我更不敢提了…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，以前试着表达过我的想法，但她总觉得我在推脱责任，甚至会责怪我不够关心她，这让我更不敢提了…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "我觉得她可能是真的害怕被忽视，或者担心自己没有依靠。但她用责怪的方式表达出来时，我会觉得既心疼又有些无力…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得她可能是真的害怕被忽视，或者担心自己没有依靠",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我觉得可能是父母离婚后，她就一直有这种“没有依靠”的感觉吧。尤其是我工作以后，她好像把更多期待放在我身上了…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是父母离婚后，她就一直有这种“没有依靠”的感觉吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "小时候我们关系挺疏远的，她总是很忙，对我的要求也比较多，但关心和陪伴却少。我感觉那时候她对我的依赖并不明显，更多像是在期待我“做好自己”。",
+    "has_specific_detail": true,
+    "specific_detail": "小时候我们关系挺疏远的，她总是很忙，对我的要求也比较多，但关心和陪伴却少",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "是的，现在她的依赖确实让我想起小时候那种“必须做好才能被认可”的感觉。每次面对她的请求，我都会下意识觉得自己不能拒绝，否则就不够好…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，现在她的依赖确实让我想起小时候那种“必须做好才能被认可”的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "是的，这种感觉应该从小时候就开始了。我记得有一次考试没考好，她很失望地说我让她丢了脸。那次之后，我就特别害怕让她失望，总觉得必须努力才能补偿她…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种感觉应该从小时候就开始了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "是的，我觉得一直以来我都在用各种方式试图“弥补”她，像是努力满足她的要求，尽量避免让她不满，但这样也让我忽视了自己的感受…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得一直以来我都在用各种方式试图“弥补”她，像是努力满足她的要求，尽量避免让她不满，但这样也让我忽视了自己的感受…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "是的，特别是在婚姻里，有时我会下意识地优先考虑对方的需求，而忽略自己的感受。久而久之，这种模式让我觉得自己好像一直在迁就别人…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，特别是在婚姻里，有时我会下意识地优先考虑对方的需求，而忽略自己的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我尝试过表达，但总觉得不太自然，好像说出来会被误解为抱怨。有时对方会安慰我，但更多时候还是回到原来的状态，让我觉得改变很难…",
+    "has_specific_detail": true,
+    "specific_detail": "我尝试过表达，但总觉得不太自然，好像说出来会被误解为抱怨",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得两方面都有吧。一方面是不太习惯主动表达，另一方面也害怕对方不理解我的真实想法，甚至觉得我是在“矫情”，所以干脆就不说了…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我想可能和小时候的经历有关系吧。小时候我表达自己的想法时，常常被母亲忽略或者批评，那种被否定的感觉让我渐渐觉得不说更安全…",
+    "has_specific_detail": true,
+    "specific_detail": "我想可能和小时候的经历有关系吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "如果当时母亲能理解我，可能我会更敢于表达自己的感受吧，也不会总觉得要压抑自己去迎合别人。我想那样的关系会轻松很多…",
+    "has_specific_detail": true,
+    "specific_detail": "如果当时母亲能理解我，可能我会更敢于表达自己的感受吧，也不会总觉得要压抑自己去迎合别人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得可以从小事情开始，比如试着在不太有冲突的情况下说出自己的真实感受，慢慢找到表达的安全感。同时，我可能需要提醒自己，不是每次都必须取悦别人…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从小事情开始，比如试着在不太有冲突的情况下说出自己的真实感受，慢慢找到表达的安全感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "比如下次母亲再提经济上的要求时，我可以试着先表达自己的感受，比如告诉她我最近也有些压力，而不是立刻答应。我觉得这样可以慢慢打破习惯…",
+    "has_specific_detail": true,
+    "specific_detail": "比如下次母亲再提经济上的要求时，我可以试着先表达自己的感受，比如告诉她我最近也有些压力，而不是立刻答应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我觉得可以提前在心里组织一下语言，比如用平和的方式说“最近我也有点吃紧”。这样既表达了自己，也避免让她觉得被拒绝太直接…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以提前在心里组织一下语言，比如用平和的方式说“最近我也有点吃紧”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "如果她表现出不满，我会试着平静地告诉她，这并不是我不愿意帮她，而是我也需要平衡自己的状况，希望她能理解…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她表现出不满，我会试着平静地告诉她，这并不是我不愿意帮她，而是我也需要平衡自己的状况，希望她能理解…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不愿意"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我觉得她可能会有些失落，甚至会再强调自己的困难。但我想提醒自己，她的反应是她的情绪，不必因此否定我的立场，这样或许会更坦然一些…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得她可能会有些失落，甚至会再强调自己的困难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得可以先肯定她的感受，比如说“我理解你的难处”，然后再重申自己的状况，比如“但我也需要顾及自己的压力”。这样既表达了共情，又不轻易妥协…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先肯定她的感受，比如说“我理解你的难处”，然后再重申自己的状况，比如“但我也需要顾及自己的压力”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我想即使她仍坚持，我也会觉得自己已经尽力了。至少我尝试表达了自己，这本身就是一种进步，不是吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我想即使她仍坚持，我也会觉得自己已经尽力了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "如果成功的话，我觉得我们的关系可能会变得更平衡一些。她或许会慢慢意识到我的感受，而我也能感到更轻松，不再总是压抑自己…",
+    "has_specific_detail": true,
+    "specific_detail": "如果成功的话，我觉得我们的关系可能会变得更平衡一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得如果在母亲这边能学会平衡自己，我在婚姻中也会更容易表达真实需求，减少那种总是迁就的感觉，关系可能会更健康…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果在母亲这边能学会平衡自己，我在婚姻中也会更容易表达真实需求，减少那种总是迁就的感觉，关系可能会更健康…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "比如在家务分配上，如果我觉得太累了，可以试着直接说“我今天真的很疲惫，能不能请你多分担一点？”这样既坦诚又不指责对方…",
+    "has_specific_detail": true,
+    "specific_detail": "比如在家务分配上，如果我觉得太累了，可以试着直接说“我今天真的很疲惫，能不能请你多分担一点？”这样既坦诚又不指责对方…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得这样的表达会让我更有被理解的感觉，也能减少那种委屈和压抑的情绪，让关系更轻松一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这样的表达会让我更有被理解的感觉，也能减少那种委屈和压抑的情绪，让关系更轻松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得可以提醒自己“表达自己的需求并不自私，这是关系中应有的平等”，这样能让我更坚定地去尝试和坚持。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以提醒自己“表达自己的需求并不自私，这是关系中应有的平等”，这样能让我更坚定地去尝试和坚持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "比如面对母亲时，我可以更坦率地说出自己的难处，而不是一味迎合；在伴侣面前，我可以主动提出自己的需求，而不只是默默忍耐。",
+    "has_specific_detail": true,
+    "specific_detail": "比如面对母亲时，我可以更坦率地说出自己的难处，而不是一味迎合；在伴侣面前，我可以主动提出自己的需求，而不只是默默忍耐",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 32,
+    "content": "可能会担心对方的反应不如预期，或者自己一时退缩。我觉得可以提前模拟情境，比如在心里练习对话，或者记住每次尝试都是进步，这样能更有信心面对。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会担心对方的反应不如预期，或者自己一时退缩",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "比如下次母亲再提经济上的请求时，我可以试着用平和的语气表达自己的状况，或者在伴侣面前主动提议分担某件事情。我觉得这些都是可以尝试的机会。",
+    "has_specific_detail": true,
+    "specific_detail": "比如下次母亲再提经济上的请求时，我可以试着用平和的语气表达自己的状况，或者在伴侣面前主动提议分担某件事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "如果感到情绪波动，我会试着先冷静下来，比如深呼吸或者写下自己的感受，然后告诉自己改变需要时间，每一次尝试都是值得的。",
+    "has_specific_detail": true,
+    "specific_detail": "如果感到情绪波动，我会试着先冷静下来，比如深呼吸或者写下自己的感受，然后告诉自己改变需要时间，每一次尝试都是值得的",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 35,
+    "content": "我可以每次尝试后写下自己表达时的感受和对方的反应，看看哪些方式有效，哪些需要改进，这样能让我更有方向感。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以每次尝试后写下自己表达时的感受和对方的反应，看看哪些方式有效，哪些需要改进，这样能让我更有方向感",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 36,
+    "content": "我觉得伴侣可能是一个支持的对象，如果能和他分享我的尝试和感受，会让我觉得不那么孤单。另外，像咨询这样的对话也给了我很多力量和方向。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得伴侣可能是一个支持的对象，如果能和他分享我的尝试和感受，会让我觉得不那么孤单",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得可以先从母亲那边开始，试着用新的方式表达自己的感受和立场，这对我来说是目前最重要也最想突破的部分。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从母亲那边开始，试着用新的方式表达自己的感受和立场，这对我来说是目前最重要也最想突破的部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我觉得可以提醒自己，她的反应并不能完全定义我的价值，同时多做一些心理建设，比如回想之前努力过的成果，这会让我更有底气面对。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以提醒自己，她的反应并不能完全定义我的价值，同时多做一些心理建设，比如回想之前努力过的成果，这会让我更有底气面对",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "是的，今天的对话让我理清了很多思路，也让我更明确接下来的方向。我感觉自己更有信心去尝试这些改变了！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，今天的对话让我理清了很多思路，也让我更明确接下来的方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

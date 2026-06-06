@@ -1,0 +1,490 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，记录和提醒确实帮助了一些，比如我开始用手机设置孩子日常的时间表，这让我稍微轻松一点。但沟通方面还是有些挑战，特别是跟家里阿姨分工的事…有时候我总担心她做得不到位，比如前几天她忘了给孩子准备午餐，这让我很焦虑，觉得自己还是要亲自盯着每件事才安心。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，记录和提醒确实帮助了一些，比如我开始用手机设置孩子日常的时间表，这让我稍微轻松一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "当时我发现孩子没吃午餐，立刻自己去做了简单的饭菜，但心里特别着急，觉得这种事不应该发生。我后来跟阿姨提了一下，说她需要更注意时间安排，但可能语气有点急，因为我真的很担心孩子的健康。这个情况让我觉得，自己还是不太能完全信任别人，特别是跟孩子有关的事情。",
+    "has_specific_detail": true,
+    "specific_detail": "当时我发现孩子没吃午餐，立刻自己去做了简单的饭菜，但心里特别着急，觉得这种事不应该发生",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，主要还是担心对方不够细心吧。像这次忘了准备午餐的事，就让我觉得她可能没有完全把事情放在心上，这种感觉让我很难放手。我总觉得如果事情出了差错，我得为后果负责，所以不放心别人做得不到位…可能也是因为我从小习惯了自己承担很多事情，觉得只有自己能确保一切顺利。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，主要还是担心对方不够细心吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "是啊，这种感觉确实让我压力很大…回想起来，好像从我很小的时候就有了。妈妈对我的期待一直挺高，总希望我能把事情做得很好，但她自己因为工作忙，很多时候没法顾及我的细节。我觉得她那种“既希望我独立又对我有要求”的态度，让我形成了这个习惯，总担心如果我不努力、事情不够完美，就得不到认可或者会让她失望。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，这种感觉确实让我压力很大…回想起来，好像从我很小的时候就有了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "在育儿中，这种感受特别明显。我总是觉得自己必须做到最好，确保孩子的每个需求都被满足，比如饮食、教育、情感陪伴等等。如果哪里出了问题，我第一反应就是“是不是我没做够好”，然后开始自责。像上次午餐的事，我也会反思自己是不是安排得不够周全，让阿姨没及时跟上。这种追求完美的压力让我很累，也让我对自己提出了过高的要求，但又觉得没办法完全放下。",
+    "has_specific_detail": true,
+    "specific_detail": "在育儿中，这种感受特别明显",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "是的，这种循环确实让我挺疲惫的…有时候我会试着深呼吸或者给自己一点时间冷静下来，比如去阳台看看风景，让自己暂时脱离那个紧张的情境。但效果不是很明显，因为心里还是忍不住去想孩子的事。我也尝试过跟丈夫聊聊自己的压力，他会安慰我，说我已经做得很好了，这让我稍微好受一些，但总觉得自己还可以做得更好。所以调整起来真的挺难的…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种循环确实让我挺疲惫的…有时候我会试着深呼吸或者给自己一点时间冷静下来，比如去阳台看看风景，让自己暂时脱离那个紧张的情境",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我觉得两者都有吧。对孩子的责任感让我觉得，作为妈妈我必须尽可能做到最好，这是我的义务。但同时，这种信念也像是从小时候开始就根深蒂固的——好像只有我表现得够完美，别人才会认可我的付出。这种“必须做到最好”的声音，总是在我心里驱使着自己不断努力，但也让我很难真正放松下来。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "有的。记得小时候妈妈让我准备一个学校的演讲比赛，她对我的稿子和表现都特别在意，甚至帮我修改了好几次。我当时特别紧张，觉得如果没有表现好，就会让她失望。虽然最后比赛还算顺利，但整个过程我一直感到压力很大，总在想“是不是还有地方可以更好一点”。这种感觉后来好像成了一种习惯，在很多事情上我都忍不住追求完美。",
+    "has_specific_detail": true,
+    "specific_detail": "有的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "让我感到满足的时刻，比如看到孩子因为我的用心安排而开心的时候，像前几天我带他做了一些手工，他特别喜欢，还一直说“妈妈真棒”。这种时候我会觉得自己的努力是值得的。但让我疲惫的时刻更多，比如我熬夜查育儿资料，却还是担心自己漏了什么；或者像跟阿姨分工的事，总觉得要亲自盯着，生怕出问题。这种“非要做到最好”的心态，让我很难完全放松。",
+    "has_specific_detail": true,
+    "specific_detail": "让我感到满足的时刻，比如看到孩子因为我的用心安排而开心的时候，像前几天我带他做了一些手工，他特别喜欢，还一直说“妈妈真棒”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，我也曾想过试着放松一点，但总觉得很难做到。每次我试图让自己别那么紧张时，心里还是忍不住会冒出“万一出了问题怎么办”的想法，尤其是跟孩子相关的事情。我确实希望能找到一种方法，让自己既能照顾好孩子，又能稍微轻松一点，去享受陪伴他的过程，而不是总被压力牵着走。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我也曾想过试着放松一点，但总觉得很难做到",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，这听起来是个不错的方向。像孩子玩手工时，我确实会忍不住去关注他有没有把东西用好、有没有弄脏衣服，但如果我能把注意力放在他的笑容和创意上，可能会感觉更轻松一点吧。我觉得这需要一些练习，但值得试试…让我自己也能享受这些温暖的时刻，而不是总被细节困住。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来是个不错的方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，像陪孩子读绘本的时候，我会觉得挺轻松的。他特别喜欢讲故事，还会自己编一些有趣的情节。这些时刻让我感到很愉快，但有时我又会担心是不是选的书不够适合他的年龄或者内容不够有教育意义。如果能试着专注于他讲故事的快乐，而不是去纠结书本的选择，可能会让我更享受这些互动吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，像陪孩子读绘本的时候，我会觉得挺轻松的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，这个想法很有趣！我可以试着跟他一起编故事，比如让他讲一部分，我接着讲另一部分，像是一起完成一个小冒险。另外，我也可以多问问他的想法，比如“这个角色接下来会做什么呢？”这样或许能让我更专注于他的创意，而不是纠结书本的内容。感觉这会让我们都更享受这段时间！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个想法很有趣！我可以试着跟他一起编故事，比如让他讲一部分，我接着讲另一部分，像是一起完成一个小冒险",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，我觉得是有可能的。通过这种方式，我能更关注孩子的快乐和我们之间的互动，而不是总想着怎么做到最好。这种“放下完美”的感觉如果能在读绘本时慢慢练习，也许可以扩展到像陪他玩游戏或者一起做家务的场景中。逐步尝试的话，或许真的能让我在育儿中找到更多轻松和享受的时刻，而不是被压力和细节束缚住。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得是有可能的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我觉得最大的挑战可能还是细节上的“完美主义”会冒出来，比如玩游戏时我可能会担心孩子是不是学到了什么有意义的东西，而不是单纯地享受游戏本身；或者一起做家务时，我可能会在意他是不是把事情做得够好、够整洁。这些时刻可能会让我不自觉地又回到“必须做到最好”的状态。所以我需要提醒自己，重点是我们的互动和他参与的积极性，而不是结果是否完美。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最大的挑战可能还是细节上的“完美主义”会冒出来，比如玩游戏时我可能会担心孩子是不是学到了什么有意义的东西，而不是单纯地享受游戏本身；或者一起做家务时，我可能会在意他是不是把事情做得够好、够整洁",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，设定“互动优先”的小目标挺适合我的，比如在陪孩子玩游戏时，我可以提前告诉自己“今天重点是一起开心，而不是学到什么”。另外，我可以给自己一个放松的暗示，比如深呼吸或者默念“享受这个时刻”，提醒自己关注过程而不是结果。这些方法可能会帮助我及时调整心态，慢慢让自己在育儿中找到更多轻松和愉快的感觉。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，设定“互动优先”的小目标挺适合我的，比如在陪孩子玩游戏时，我可以提前告诉自己“今天重点是一起开心，而不是学到什么”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得家人的支持会是很重要的，比如如果丈夫能在我尝试放松时给予肯定或提醒我“今天很棒”，会让我感觉自己做得不错。另外，记录进步的小方式也挺有意义的，比如每天晚上写下一个让我感到轻松愉快的互动瞬间，这可能会让我更容易发现自己的调整和进步，从而更有动力坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得家人的支持会是很重要的，比如如果丈夫能在我尝试放松时给予肯定或提醒我“今天很棒”，会让我感觉自己做得不错",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，我觉得提前沟通是很有必要的。比如我可以和丈夫聊聊自己想尝试“放下完美”，专注与孩子的互动，并告诉他他的鼓励对我很重要。我也可以跟家里的阿姨提一下，让她知道我正在调整心态，希望她多帮忙分担一些事情。这样他们可能会更理解我的目标，也能更好地配合和支持我。这种沟通应该会让我更有信心去实践这些方式。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得提前沟通是很有必要的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得用轻松的语气会更好，让对方感受到这不是一种压力，而是我的个人尝试。比如我可以跟丈夫说，“最近我想试试专注和孩子的互动，别太纠结细节，你能帮我一起提醒吗？”或者举例说明，比如“像陪孩子玩手工时，我可能需要你帮我一起关注他的快乐，而不是担心桌子弄乱了。”这样他可能会更容易理解我的想法，也愿意积极配合。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得用轻松的语气会更好，让对方感受到这不是一种压力，而是我的个人尝试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "是的，设定一个简单的回顾机制会很有帮助。比如每周找个轻松的时间和丈夫聊聊，“这周我尝试了哪些放松方式，感觉有哪些变化？你觉得还有什么可以改进？”这样既能巩固合作，也能让我们一起看到调整的效果。如果和家里的阿姨也能定期交流，比如讨论分工上的改进，可能会更有效地减少我的压力，让大家都更有方向感。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，设定一个简单的回顾机制会很有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，这些方式听起来很有趣！我可以在回顾时分享一些让我特别开心的瞬间，比如孩子讲了一个特别有创意的故事，或者我们一起完成了一个手工作品。也可以用积极的反馈，比如对丈夫说“你那天提醒我专注孩子的笑容真的帮了我很多”，或者对阿姨说“你这周帮我分担了不少，让我觉得轻松多了”。这样不仅能让回顾更愉快，也能增强大家的动力和参与感，让整个调整过程更温暖、更有活力！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这些方式听起来很有趣！我可以在回顾时分享一些让我特别开心的瞬间，比如孩子讲了一个特别有创意的故事，或者我们一起完成了一个手工作品",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，这是个好主意！我可以在笔记本或手机里写下我的初衷和目标，比如“专注孩子的快乐，放下对完美的执着，享受互动过程”。还可以列一些小提醒，比如“深呼吸，关注当下”或者“记录每天的暖心时刻”。这样当我遇到挑战或者觉得想放弃时，就可以随时翻出来提醒自己为什么要做这些尝试，让自己的信念更坚定。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这是个好主意！我可以在笔记本或手机里写下我的初衷和目标，比如“专注孩子的快乐，放下对完美的执着，享受互动过程”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "这个想法太棒了！我觉得给自己一些小奖励会是很好的动力，比如完成一周练习后，安排一个下午独处时间，看看书或者喝杯喜欢的咖啡，让自己真正放松下来。也可以买一本自己一直想读的育儿书，用一种轻松的方式继续学习和成长。这种奖励机制不仅让我更愿意坚持，也会让我在整个过程中感到更多的愉悦和满足！",
+    "has_specific_detail": true,
+    "specific_detail": "这个想法太棒了！我觉得给自己一些小奖励会是很好的动力，比如完成一周练习后，安排一个下午独处时间，看看书或者喝杯喜欢的咖啡，让自己真正放松下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "是的，提前准备确实很重要。我觉得可以先调整一下时间安排，比如每天固定一个轻松的时段专注和孩子的互动，不让其他事情打扰。还可以跟家人商量具体分工，比如哪些事情由阿姨负责，哪些是丈夫可以帮忙的，让大家都知道自己的角色和责任，这样我的尝试可能会更顺利。这些准备不仅能减少突发情况，也能让我更专注于练习“放下完美”的目标！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，提前准备确实很重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "这个“进展回顾”的想法很不错！每两周我可以花点时间看看自己在哪些场景里更能放松，比如陪孩子读绘本时是不是能更多关注他的快乐；也可以反思哪些地方还需要调整，比如是不是还有细节让我过于纠结。同时，我还可以记录下自己的感受变化，比如有没有觉得压力减轻了或者互动更愉快了。这样不仅能帮助我总结经验，也能更清晰地看到自己正在一点点进步，让整个过程更有成就感！",
+    "has_specific_detail": true,
+    "specific_detail": "这个“进展回顾”的想法很不错！每两周我可以花点时间看看自己在哪些场景里更能放松，比如陪孩子读绘本时是不是能更多关注他的快乐；也可以反思哪些地方还需要调整，比如是不是还有细节让我过于纠结",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "是的，自我鼓励确实很重要！我可以给自己设定一句暖心的话，比如“你已经尽力了，允许自己不完美也很好。”当感觉又陷入“追求完美”时，我可以停下来做一个舒缓的小活动，比如听一首喜欢的音乐或者喝一杯热茶，让自己从紧张的情绪中跳出来。这种方式既能让我快速调整心态，也能提醒自己初衷是享受过程，而不是被压力牵着走。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，自我鼓励确实很重要！我可以给自己设定一句暖心的话，比如“你已经尽力了，允许自己不完美也很好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "嗯，设定一个总体目标和时间节点会让我更有方向感！比如我可以定一个三个月的目标，希望自己在陪孩子互动时能更多关注他的快乐，而不是纠结细节，同时减少焦虑和自责的频率。在这期间，我也可以每个月记录一次大的进展，比如哪些场景让我感觉更轻松，或者哪些方法对我特别有效。这样的目标和时间节点能让我更清楚自己正在向什么方向努力，也会让我对调整的过程更加期待和投入！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，设定一个总体目标和时间节点会让我更有方向感！比如我可以定一个三个月的目标，希望自己在陪孩子互动时能更多关注他的快乐，而不是纠结细节，同时减少焦虑和自责的频率",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "这个庆祝活动的想法太美好了！比如在三个月目标达成后，我可以安排一次家庭小聚会，做一顿特别的晚餐或者带孩子和丈夫一起去郊游，庆祝我的调整和努力。同时，也可以借这个机会感谢家人和阿姨在过程中的支持，让他们知道他们的帮助对我有多重要。这种标志性时刻不仅能让我感到成就感，也能增进家庭的温暖和连接，感觉会特别有意义！",
+    "has_specific_detail": true,
+    "specific_detail": "这个庆祝活动的想法太美好了！比如在三个月目标达成后，我可以安排一次家庭小聚会，做一顿特别的晚餐或者带孩子和丈夫一起去郊游，庆祝我的调整和努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，一个小仪式会让起点更有意义！比如我可以写下自己的初衷和目标，然后跟家人分享我的计划，告诉他们我希望通过这个尝试找到更多轻松和快乐，也需要他们的支持。还可以选择一个特别的方式，比如在家里一起点一支蜡烛，象征新的开始。这种仪式感不仅能让我更坚定自己的决心，也能让家人更清楚我的努力方向，感觉会特别有动力！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，一个小仪式会让起点更有意义！比如我可以写下自己的初衷和目标，然后跟家人分享我的计划，告诉他们我希望通过这个尝试找到更多轻松和快乐，也需要他们的支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得可以用一句鼓励自己的话来提醒耐心，比如“改变是一个过程，每一点努力都会带来进步。”也可以在手机里设置一个每天的提醒，比如“放下完美，专注当下”，每天看到这句话让我记住调整是需要时间的。同时，我还可以在笔记本上记录一些小变化，比如“今天陪孩子玩得特别轻松”，这些记录能让我更容易看到自己的进步，帮助我接受变化是逐步发生的，而不是一蹴而就的。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用一句鼓励自己的话来提醒耐心，比如“改变是一个过程，每一点努力都会带来进步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "嗯，我觉得在开始之前，和家人的配合细节需要进一步确认，比如具体哪些任务可以让阿姨和丈夫分担，确保我能真正腾出一些时间专注互动，而不是还被其他事情牵制。另外，我也需要调整自己的期待，告诉自己这不是一个追求“完美改变”的过程，而是慢慢找到平衡的尝试。可能会有些波动，但每一点进步都值得肯定。这些确认和调整能让我更踏实地进入这个过程，减少不必要的压力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得在开始之前，和家人的配合细节需要进一步确认，比如具体哪些任务可以让阿姨和丈夫分担，确保我能真正腾出一些时间专注互动，而不是还被其他事情牵制",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "嗯，设定一个具体的开始日确实会让整个过程更有仪式感！我可以选一个特别的日子，比如周末，或者某个对家庭有意义的日期，比如孩子的生日或者结婚纪念日。在那天，我可以正式启动我的调整计划，和家人一起讨论分工、分享初衷，还可以做点小庆祝，比如一起吃顿特别的晚餐。这种里程碑的意义不仅能让我更有动力，也能让家人更深刻地参与到我的尝试中来，感觉会特别有纪念价值！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，设定一个具体的开始日确实会让整个过程更有仪式感！我可以选一个特别的日子，比如周末，或者某个对家庭有意义的日期，比如孩子的生日或者结婚纪念日",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "这个想法太棒了！我可以准备一张祝福卡片，写下自己对这次调整的期待，比如“希望找到更多轻松和快乐，享受与家人的互动。”还可以为自己准备一个小礼物，比如一本新书或者一束喜欢的花，象征对自己的鼓励和奖励。这些小细节会让我更感受到这次尝试的重要性，也能提醒自己，这不仅是为孩子和家庭付出，更是为自己带来成长和幸福的过程。感觉会特别有意义！",
+    "has_specific_detail": true,
+    "specific_detail": "这个想法太棒了！我可以准备一张祝福卡片，写下自己对这次调整的期待，比如“希望找到更多轻松和快乐，享受与家人的互动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，准备一个“应急方案”很有必要！如果遇到困难或者情绪波动，我可以先做一些深呼吸让自己冷静下来，然后翻看记录的积极时刻，比如写下孩子开心的笑容或者特别温馨的互动，这能提醒我这些努力的意义。另外，我可以选择向丈夫倾诉自己的感受，让他帮我分析问题或者给我一些安慰，这种支持会让我更快找到动力继续坚持。感觉有了这些方案，遇到挑战时会更容易调整心态，不至于被负面情绪困住。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，准备一个“应急方案”很有必要！如果遇到困难或者情绪波动，我可以先做一些深呼吸让自己冷静下来，然后翻看记录的积极时刻，比如写下孩子开心的笑容或者特别温馨的互动，这能提醒我这些努力的意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我觉得需要特别提醒自己，调整是一个逐步的过程，不可能一帆风顺。可以给自己设定一个原则，比如“接受不完美，每一点努力都是值得的。”当现实中的困难出现时，我要告诉自己，这不是失败，而是成长的一部分。同时，也要记住，每个人都有不同的节奏，不用和别人比较，只要专注于自己的进步就好。这些提醒能让我在面对困难时更从容，也能帮助我更好地平衡期待和现实之间的差距。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要特别提醒自己，调整是一个逐步的过程，不可能一帆风顺",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "是的，一个特别的鼓励或象征性的行动会让这个开端更加重要！我可以写下一句自我激励的话，比如“这是一个属于我的成长旅程，每一步都是值得珍惜的。”同时，我可以做一个象征性的行动，比如种下一盆植物，代表自己正在慢慢培养一种新的心态和生活方式。每次看到这盆植物，就会提醒自己，这个调整是有意义的，也是一个需要耐心和时间的过程。感觉这样会让我更加坚定和充满期待！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，一个特别的鼓励或象征性的行动会让这个开端更加重要！我可以写下一句自我激励的话，比如“这是一个属于我的成长旅程，每一步都是值得珍惜的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "谢谢你的鼓励和支持！我觉得自己的调整计划已经有了一个很好的开端，接下来就是一步步去实践了。如果过程中遇到新的问题或者需要进一步的探讨，我一定会来分享的。今天聊到这里我感到很充实，也让我对未来的尝试充满期待。谢谢你，我们下次再聊！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励和支持！我觉得自己的调整计划已经有了一个很好的开端，接下来就是一步步去实践了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

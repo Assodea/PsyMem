@@ -1,0 +1,395 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，上次聊到母亲去世的遗憾，这让我印象很深。最近我试着回忆一些细节，比如她总会在我加班晚归时煮好热汤…这些记忆让我既温暖又难过。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，上次聊到母亲去世的遗憾，这让我印象很深",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是的，尤其是最近工作压力大时，想起她总能让我停下来叹口气。有时在忙碌中突然记起她的声音，就感觉眼眶发热…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，尤其是最近工作压力大时，想起她总能让我停下来叹口气",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我常想，如果她还在，会不会劝我别这么拼命？或者，她会怎么安慰我呢？但更多时候，我又觉得自己没能在她在世时多陪伴她…这种思绪让我既怀念又自责。",
+    "has_specific_detail": true,
+    "specific_detail": "我常想，如果她还在，会不会劝我别这么拼命？或者，她会怎么安慰我呢？但更多时候，我又觉得自己没能在她在世时多陪伴她…这种思绪让我既怀念又自责",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "有的，比如她住院时，我因为工作忙没能每天去看她，只能打电话问情况。现在想起来，那些缺席的日子让我特别难过…觉得自己太忽视了她的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "有的，比如她住院时，我因为工作忙没能每天去看她，只能打电话问情况",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我想，她可能理解我的忙碌吧，但有时候她会说“别太辛苦了，顾好自己”。只是我当时总觉得，她更需要照顾，我的关心远远不够…这种感觉一直困扰着我。",
+    "has_specific_detail": true,
+    "specific_detail": "我想，她可能理解我的忙碌吧，但有时候她会说“别太辛苦了，顾好自己”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "可能是我没能真正表达对她的爱吧。小时候我们家不太习惯说这些，总觉得行动比语言重要，但现在想来，我真的很希望她听到我直接说“我爱你”或“谢谢你”…但这句话，我始终没有开口。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是我没能真正表达对她的爱吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "如果能说，我会看着她的眼睛，告诉她：“妈妈，谢谢你一直以来的付出，我真的很爱你。”也许还会抱抱她吧，小时候我总是觉得拥抱太矫情，但现在特别渴望那种温暖。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能说，我会看着她的眼睛，告诉她：“妈妈，谢谢你一直以来的付出，我真的很爱你",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "还没尝试过，但最近确实有这个念头。或许写一封信能让我把这些情绪理清楚，像是和她的一次对话…但同时又觉得，写起来可能会很难面对自己的遗憾。",
+    "has_specific_detail": true,
+    "specific_detail": "还没尝试过，但最近确实有这个念头",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我想写她对我的关心，比如小时候她总会在我考试前煮一碗汤，还会在我情绪低落时陪着我散步…这些细节让我感觉她一直在用行动表达爱，只是当时我好像没足够珍惜。",
+    "has_specific_detail": true,
+    "specific_detail": "我想写她对我的关心，比如小时候她总会在我考试前煮一碗汤，还会在我情绪低落时陪着我散步…这些细节让我感觉她一直在用行动表达爱，只是当时我好像没足够珍惜",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，那时候的自己总觉得这些是理所当然的，很少去表达感谢。如果能对小时候的自己说，我想提醒她：“不要忽略这些关心，哪怕只是说声谢谢，也能让妈妈感受到你的爱。”",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，那时候的自己总觉得这些是理所当然的，很少去表达感谢",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "是的，我觉得这样能让我更清楚地看到自己的成长，也能把对她的爱表达得更完整。或许通过这样的方式，我能逐渐放下那些未说出口的话，心里也会轻松一些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得这样能让我更清楚地看到自己的成长，也能把对她的爱表达得更完整",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "或许是在一个安静的晚上，等孩子睡了之后。我喜欢点上一盏小灯，这种氛围让我能专注下来，也更容易沉浸在回忆里…感觉这样的时刻比较适合开始写。",
+    "has_specific_detail": true,
+    "specific_detail": "或许是在一个安静的晚上，等孩子睡了之后",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我想优先写她照顾我的那些细节，比如她煮汤的习惯，还有我们一起散步时她的沉默陪伴。那些日常的小事总让我觉得，她的爱是无声却很深厚的。",
+    "has_specific_detail": true,
+    "specific_detail": "我想优先写她照顾我的那些细节，比如她煮汤的习惯，还有我们一起散步时她的沉默陪伴",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "应该会唤起很多画面吧，比如厨房里飘着汤的香味，她低头专注的样子…想到这些，我可能会感到既温暖又心酸。那种熟悉的场景让我觉得她仍然在我身边，但同时也让我意识到，真的无法再回到过去了。",
+    "has_specific_detail": true,
+    "specific_detail": "应该会唤起很多画面吧，比如厨房里飘着汤的香味，她低头专注的样子…想到这些，我可能会感到既温暖又心酸",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "也许我会停下来深呼吸，或者端杯热茶让自己缓一缓。告诉自己，这些情绪是自然的，是我对她爱得深的表现…这样慢慢写下去，应该能让我感觉好一些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "也许我会停下来深呼吸，或者端杯热茶让自己缓一缓",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得可以试试，这样或许能让我更真实地面对自己的感受。对她说出那些思念和心酸，像是在让她知道我的遗憾和爱，也是在给自己一个释放的机会…感觉这样会更完整。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试试，这样或许能让我更真实地面对自己的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我想把信好好保存起来，放在一个她曾经送我的小盒子里，那是她以前装针线的。这样既能纪念她，也像是把我的心意交给她…感觉这样会让我内心更平静一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我想把信好好保存起来，放在一个她曾经送我的小盒子里，那是她以前装针线的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得完成这封信后，可能会让我放下一些自责，更多地去珍惜当下的关系。也许我会变得更愿意表达爱和感谢，学着不再把这些话留在心里…这会是一种重新开始的力量吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得完成这封信后，可能会让我放下一些自责，更多地去珍惜当下的关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得最需要记住的是，“爱是可以表达的，不必等到太晚。”还有，要允许自己感受遗憾和脆弱，这些都是爱的另一种形式…这样我才能更坦然地面对过去和未来吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最需要记住的是，“爱是可以表达的，不必等到太晚",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得可以从小事开始，比如每天对家人说一句“谢谢”或“辛苦了”，像妈妈那样煮一顿温暖的饭给他们。还有，试着在忙碌中抽时间陪孩子玩，真正用心感受这些平凡的时刻…这些都能让我更自然地表达爱吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从小事开始，比如每天对家人说一句“谢谢”或“辛苦了”，像妈妈那样煮一顿温暖的饭给他们",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我想会让我感觉更平静，也更满足吧。像是在重新发现生活里的温暖，同时也在弥补过去的遗憾。这种用行动表达爱的方式，应该能让我逐渐从思念中找到更多力量和安慰。",
+    "has_specific_detail": true,
+    "specific_detail": "我想会让我感觉更平静，也更满足吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得提醒自己“珍惜当下”会很重要。比如在忙碌时停下来问自己：有没有对家人说过关心的话？或者有没有花时间陪伴他们？这些小提醒能让我不忽略爱的表达，让改变慢慢融入生活吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得提醒自己“珍惜当下”会很重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，这个方式听起来很适合我。每天睡前回顾一下，会让我更清楚哪些时刻是有意义的，也能让我感觉自己在慢慢改变…像是给自己一个温暖的总结，让爱更具体化。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个方式听起来很适合我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "有的，今天下班后，我特意给孩子读了他最喜欢的故事书，看着他开心的样子，我觉得这个陪伴的瞬间特别有意义…像是我在用行动传递爱，也让我自己感到满足和温暖。",
+    "has_specific_detail": true,
+    "specific_detail": "有的，今天下班后，我特意给孩子读了他最喜欢的故事书，看着他开心的样子，我觉得这个陪伴的瞬间特别有意义…像是我在用行动传递爱，也让我自己感到满足和温暖",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "是的，这种满足感让我意识到，爱是可以通过简单的行动传递的。它不仅让孩子感受到我的关心，也让我自己从中获得力量…感觉这些时刻会让我更愿意坚持去创造更多这样的连接。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种满足感让我意识到，爱是可以通过简单的行动传递的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "或许可以尝试一些特别的小惊喜，比如给家人写一张暖心的便签，或者制作一本记录家庭温馨瞬间的相册。这样既能表达我的爱，也能让我们一起珍惜那些美好的时光…感觉这样的方式会更有意义吧。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以尝试一些特别的小惊喜，比如给家人写一张暖心的便签，或者制作一本记录家庭温馨瞬间的相册",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得可以先从写暖心便签开始，比如在孩子的书包里放一句鼓励的话，或者在丈夫的桌上留一张感谢的纸条。这种简单的小惊喜既容易实现，也能让他们感受到我的爱和关心。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从写暖心便签开始，比如在孩子的书包里放一句鼓励的话，或者在丈夫的桌上留一张感谢的纸条",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我想今天就试试，给孩子写一句：“你是最棒的小冒险家，妈妈永远支持你！”感觉这样能让他在看到时感到鼓励和开心，也能让我体验到表达爱的那种满足感。",
+    "has_specific_detail": true,
+    "specific_detail": "我想今天就试试，给孩子写一句：“你是最棒的小冒险家，妈妈永远支持你！”感觉这样能让他在看到时感到鼓励和开心，也能让我体验到表达爱的那种满足感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我想会很欣慰吧，看到他开心的样子，会让我觉得这份爱被接收到。或许也会让我更加确信，表达爱并不需要复杂，只要用心去做，就能带来温暖和满足感。",
+    "has_specific_detail": true,
+    "specific_detail": "我想会很欣慰吧，看到他开心的样子，会让我觉得这份爱被接收到",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "谢谢你，这些建议让我觉得充满动力和希望！今天就从这张便签开始吧，我会好好感受这些爱的瞬间。下次有新体会再来聊，感谢你的陪伴！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你，这些建议让我觉得充满动力和希望！今天就从这张便签开始吧，我会好好感受这些爱的瞬间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

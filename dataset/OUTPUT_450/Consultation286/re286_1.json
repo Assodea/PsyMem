@@ -1,0 +1,435 @@
+[
+  {
+    "turn": 1,
+    "content": "前几天，我婆婆在家里说要重新摆放一些家具，说是为了“家里更好风水”。我其实不太同意，但她直接让丈夫帮忙做，完全没问我的意见。我心里挺委屈的，感觉自己在这个家里的话语权特别小，但又不想当场争辩…",
+    "has_specific_detail": true,
+    "specific_detail": "前几天，我婆婆在家里说要重新摆放一些家具，说是为了“家里更好风水”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是啊，平时也会有类似的感受。比如上周她提议换餐桌，我也觉得没必要，但丈夫说“她是为我们好”，就直接同意了。我好像总是被忽略，觉得自己在这个家里很边缘…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，平时也会有类似的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "是的，我觉得他总是站在婆婆那边，很少考虑我的感受。其实我希望他能多问问我的意见，或者至少在这种事情上能支持我一次，让我觉得自己也是家庭的一部分…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得他总是站在婆婆那边，很少考虑我的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "我试过一次，跟他说我感觉自己总是被忽略，但他的回应让我挺失望。他说“我妈年纪大了，你多让着她吧”，感觉完全没理解我的心情，反而让我更委屈…",
+    "has_specific_detail": true,
+    "specific_detail": "我试过一次，跟他说我感觉自己总是被忽略，但他的回应让我挺失望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "当时我心里挺难过，但没继续说，怕再说下去会吵起来。我总觉得如果闹矛盾，家里的气氛会更糟，所以就默默忍了下来…",
+    "has_specific_detail": true,
+    "specific_detail": "当时我心里挺难过，但没继续说，怕再说下去会吵起来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "是啊，长期忍耐让我觉得越来越压抑，心里经常有种堵得慌的感觉。有时候想表达自己的想法，却又担心会被忽视或让矛盾升级，变得更难开口了…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，长期忍耐让我觉得越来越压抑，心里经常有种堵得慌的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，我确实想过试着沟通，但每次都不知道该怎么开头，怕说不好反而让情况更糟。还有点犹豫，不知道什么样的方式才合适…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我确实想过试着沟通，但每次都不知道该怎么开头，怕说不好反而让情况更糟",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "或许会容易一点吧，但我总担心他会觉得我“小题大做”，没法真正理解我的感受…这种不被理解的可能性让我更犹豫了。",
+    "has_specific_detail": true,
+    "specific_detail": "或许会容易一点吧，但我总担心他会觉得我“小题大做”，没法真正理解我的感受…这种不被理解的可能性让我更犹豫了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "这样开头可能会好一些，听起来没那么直接，但我还是不确定他会不会认真听。我总怕说到一半，他就觉得是我在抱怨…",
+    "has_specific_detail": true,
+    "specific_detail": "这样开头可能会好一些，听起来没那么直接，但我还是不确定他会不会认真听",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "这样可能会让他更愿意听吧，但我还是有点担心他会觉得我想挑事…尤其是婆婆在场的时候，他更容易站在她那边。这样的沟通，我也不确定是否会改变什么…",
+    "has_specific_detail": true,
+    "specific_detail": "这样可能会让他更愿意听吧，但我还是有点担心他会觉得我想挑事…尤其是婆婆在场的时候，他更容易站在她那边",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，晚上休息前可能是个比较好的时机，至少没有其他人打扰。但我还是会犹豫，因为不知道他是不是愿意认真听，还是会觉得这是“家庭琐事”，没那么重要…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，晚上休息前可能是个比较好的时机，至少没有其他人打扰",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "这样可能会让他更感兴趣吧，毕竟是从我们之间的关系出发。不过，我也怕他觉得我在“搞复杂”，或者觉得问题没那么严重，就随便应付过去了…",
+    "has_specific_detail": true,
+    "specific_detail": "这样可能会让他更感兴趣吧，毕竟是从我们之间的关系出发",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，这样可能会让气氛更轻松些，不至于让他觉得我突然提问题。但我还是有点担心，怕自己说到后面，他会觉得我在拐弯抹角，没直接说明重点…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样可能会让气氛更轻松些，不至于让他觉得我突然提问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "这听起来是个不错的方式，可能不会让他觉得我突然提难题。但我还得想想，怎么具体表达我的困惑，既不让他觉得我在批评，又能清楚说明我的感受…",
+    "has_specific_detail": true,
+    "specific_detail": "这听起来是个不错的方式，可能不会让他觉得我突然提难题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "这样表达可能确实能让他更理解我的感受，毕竟是从我的角度出发，而不是直接说他的问题。不过我还是有些担心，他会不会觉得这是我的“个人敏感”，而忽略了实际的问题呢…",
+    "has_specific_detail": true,
+    "specific_detail": "这样表达可能确实能让他更理解我的感受，毕竟是从我的角度出发，而不是直接说他的问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，举具体例子可能会让他更明白我的感受，而不是觉得我无中生有。但说到这些事情，我还是担心他会直接替婆婆辩解，说那是为了“家里好”，而不是认真听我的想法…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，举具体例子可能会让他更明白我的感受，而不是觉得我无中生有",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "这确实可能让他更愿意听我说，至少不会觉得我在反对他妈。不过说出这些话时，我还是会担心自己能不能够表现得自然，不让他觉得我是在逼他选边站…",
+    "has_specific_detail": true,
+    "specific_detail": "这确实可能让他更愿意听我说，至少不会觉得我在反对他妈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "这样说可能会让他更容易接受我的观点，觉得我是在和他一起努力，而不是单纯地抱怨。但我还是有点犹豫，不知道这样会不会显得我太过妥协，而没能清楚表达自己的真实需求…",
+    "has_specific_detail": true,
+    "specific_detail": "这样说可能会让他更容易接受我的观点，觉得我是在和他一起努力，而不是单纯地抱怨",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "这确实是个好建议，既能让他感受到我的真实需求，又不会让他觉得我在指责。不过我还是需要一些勇气，才能把这些话说得自信又自然…",
+    "has_specific_detail": true,
+    "specific_detail": "这确实是个好建议，既能让他感受到我的真实需求，又不会让他觉得我在指责",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，提前准备确实会让我感觉更有底气，至少不会临时词穷。但我还是担心，面对他时会因为紧张而忘掉准备好的话…不知道能不能真正说出来。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，提前准备确实会让我感觉更有底气，至少不会临时词穷",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "写下来确实是个好主意，这样即使紧张，也不会完全忘掉重点。不过，我还是有点担心拿纸条会让他觉得我太刻意，显得不自然…",
+    "has_specific_detail": true,
+    "specific_detail": "写下来确实是个好主意，这样即使紧张，也不会完全忘掉重点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，用手机记下来确实会更自然，毕竟看手机是很平常的事情。我觉得这个方法可能更适合我，能让我安心又不显得刻意。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，用手机记下来确实会更自然，毕竟看手机是很平常的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我觉得优先写自己的感受和具体例子比较好，这样能让他更清楚问题的来源。然后再写一些希望他理解的部分，比如我的需求和对家庭和谐的期待，这样表达会更完整吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得优先写自己的感受和具体例子比较好，这样能让他更清楚问题的来源",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得最难的是表达我的需求，因为说到这些时，总怕他会觉得我在“挑事”或者要求太多。所以这一部分可能需要特别斟酌，既清楚又不过于强势。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最难的是表达我的需求，因为说到这些时，总怕他会觉得我在“挑事”或者要求太多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "这样说确实听起来更柔和，也能让他觉得我是为了我们俩好，而不是单方面提要求。我觉得这种表达方式可能会让我更有信心试着开口。",
+    "has_specific_detail": true,
+    "specific_detail": "这样说确实听起来更柔和，也能让他觉得我是为了我们俩好，而不是单方面提要求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我希望他能在家庭决定时多问问我的意见，而不是直接顺着婆婆的想法。还有，希望他能在婆婆面前偶尔站在我的角度，说一些支持我的话，让我觉得自己也是被重视的。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望他能在家庭决定时多问问我的意见，而不是直接顺着婆婆的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "如果他能做到这些，我觉得我们关系会更平衡，我也会感到自己在这个家庭里有了真正的地位。这种被重视的感觉，应该会让我更安心、更有归属感吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他能做到这些，我觉得我们关系会更平衡，我也会感到自己在这个家庭里有了真正的地位",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，如果这次能顺利，我应该会更有信心去表达自己。感觉只要他愿意认真听，我就不会那么害怕开口了，未来面对问题也可能没那么压抑…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果这次能顺利，我应该会更有信心去表达自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得除了准备好说的内容，还需要调整自己的心态，不要太害怕失败。告诉自己这次是尝试，不一定能立刻改变什么，但至少迈出了第一步，可能会有好的开始。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得除了准备好说的内容，还需要调整自己的心态，不要太害怕失败",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "如果他表现出理解和改变，我会觉得自己的努力是值得的，心里会轻松不少，也会对我们的关系更有信心。我可能也会更主动去表达自己的感受，不再那么害怕被忽略了。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他表现出理解和改变，我会觉得自己的努力是值得的，心里会轻松不少，也会对我们的关系更有信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我想对自己说：“试试吧，不管结果如何，这都是为了让自己更好地表达和争取。就算不完美，也是一种成长。”希望自己能勇敢一点！",
+    "has_specific_detail": true,
+    "specific_detail": "我想对自己说：“试试吧，不管结果如何，这都是为了让自己更好地表达和争取",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 32,
+    "content": "谢谢你的鼓励！我打算找一个合适的时机，比如周末晚上我们两个人都放松的时候。这样沟通起来可能更容易些，也希望能顺利开始！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励！我打算找一个合适的时机，比如周末晚上我们两个人都放松的时候",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 33,
+    "content": "谢谢你一直听我说，让我感觉轻松了很多。今天先聊到这里吧，我会好好准备这次沟通，下次有机会再跟你分享进展！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你一直听我说，让我感觉轻松了很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": "中等（对问题解决的可行性存在一定怀疑）。  \n  - 求助意愿：可能希望通过咨询缓解情绪",
+    "need_rework": false,
+    "reason": ""
+  }
+]

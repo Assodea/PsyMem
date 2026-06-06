@@ -1,0 +1,485 @@
+[
+  {
+    "turn": 1,
+    "content": "前几天，我加班到很晚，回到家后父母却一直说我不够努力，说别人孩子能赚更多。我当时很累，心里特别委屈，但又没敢反驳，只能默默听着，后来一个人躲房间里哭了一会儿…这种情况其实挺常见的，我感觉他们好像永远不满意，总觉得我做得不够好。",
+    "has_specific_detail": true,
+    "specific_detail": "前几天，我加班到很晚，回到家后父母却一直说我不够努力，说别人孩子能赚更多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，比如有时候我想和他们聊聊自己的想法，比如结婚的打算，他们总是说我还不够成熟，应该多考虑家庭责任。他们好像只关注我能不能让家里过得更好，却不太关心我的感受。我觉得自己一直在努力，但还是无法让他们满意…说到这个，前阵子我因为工作忙忘了给家里打电话，他们就说我“越来越不懂事”，这种话真的让我很难受。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，比如有时候我想和他们聊聊自己的想法，比如结婚的打算，他们总是说我还不够成熟，应该多考虑家庭责任",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "听到他们说我“不懂事”时，我心里特别难受，觉得自己再怎么努力都没用，永远达不到他们的要求。我试着解释过，比如告诉他们最近工作真的很忙，没顾上，但他们好像更在意我是不是按时联系，而不是我的实际情况…有时候我甚至怀疑，他们是不是根本没想过我的生活有多辛苦。",
+    "has_specific_detail": true,
+    "specific_detail": "听到他们说我“不懂事”时，我心里特别难受，觉得自己再怎么努力都没用，永远达不到他们的要求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "我仔细想了下，好像几乎没有。就算我工作很辛苦，赚的钱都贴补家里，他们也只是觉得这是我应该做的，从来没主动说过一句“辛苦了”或者“谢谢”。这种忽视让我觉得自己就像个工具，没资格有自己的感受…其实有时候，我特别希望他们能哪怕一次站在我的角度理解我，哪怕只说一句鼓励的话，也会让我心里好受些。",
+    "has_specific_detail": true,
+    "specific_detail": "我仔细想了下，好像几乎没有",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我试过几次，比如有一次我跟他们说，希望他们能认可我的努力，哪怕只是简单地说句“你做得很好”。但他们的反应很让我失望，他们说“你做这些不是为了家里吗？还需要什么认可？”他们好像根本不理解我的需求，或者觉得我在矫情…后来我就不怎么敢再主动表达了，怕说了也是白说，只会让自己更难过。",
+    "has_specific_detail": true,
+    "specific_detail": "我试过几次，比如有一次我跟他们说，希望他们能认可我的努力，哪怕只是简单地说句“你做得很好”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "是啊，他们这样说后，我也只能自己消化情绪。有时候我会跟男朋友聊聊，他会安慰我，说我已经做得很好了，但我心里还是觉得少了点什么。偶尔我也试着做些让自己放松的事，比如听音乐或者出去散散步，但这些都只是暂时缓解，过后那些失落感还是会回来。我感觉自己好像一直在努力“撑着”，却找不到真正的出口。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，他们这样说后，我也只能自己消化情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "失落感最强的时候，通常是当我觉得自己特别孤单，比如工作压力大的时候没人主动关心，或者父母又在批评我的时候。还有一次是我和男朋友聊起未来的计划时，他虽然支持我，但提到一些现实问题，比如经济压力，我就一下子觉得特别累，觉得自己好像永远都在扛着重担，没有机会轻松一下…这种时候，我特别渴望有人能真的理解我，而不是只看我的表面。",
+    "has_specific_detail": true,
+    "specific_detail": "失落感最强的时候，通常是当我觉得自己特别孤单，比如工作压力大的时候没人主动关心，或者父母又在批评我的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，我有一个朋友，她是少数真正愿意听我倾诉的人。有一次我很崩溃，和她说起家里的事，她一边开导我，一边陪我吃了一顿热乎的饭，那种被关心的感觉让我好受了不少。不过像这样的机会也不多，大部分时间还是靠自己撑着…至于兴趣爱好，我之前喜欢看一些简单的电视剧，能暂时让我忘掉烦恼，但最近忙起来，好像连这种放松的时间也少了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我有一个朋友，她是少数真正愿意听我倾诉的人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "那次之后，她确实偶尔会主动问我怎么样了，比如前阵子我发朋友圈说自己很累，她还特意发消息让我注意休息。虽然她的关心让我觉得很温暖，但我又害怕给她添麻烦，所以不太敢主动联系她，只有情绪特别低落的时候才偶尔说几句。我总觉得自己的问题太多，可能会让别人觉得很沉重，所以大部分时间还是选择自己消化。",
+    "has_specific_detail": true,
+    "specific_detail": "那次之后，她确实偶尔会主动问我怎么样了，比如前阵子我发朋友圈说自己很累，她还特意发消息让我注意休息",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，你这么说让我觉得可以试试。确实，她是一个很真诚的人，可能我担心太多了。如果在情绪稍好的时候主动聊点轻松的事，比如最近看的电视剧或者她的趣事，也许能让我感觉更自然一些。其实我也希望能在关系里找到更多的安全感，只是总觉得自己表达不好…不过，听你这么建议，我倒觉得这是个不错的尝试方向，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，你这么说让我觉得可以试试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我想可以从我们共同喜欢的电视剧开始，比如之前我们一起讨论过的一部剧，最近出了新的一季，我可以问问她有没有看，聊聊剧情的有趣点。这样话题轻松，也不会让人觉得突然，而且还能让我感受到一些熟悉的连接。其实我挺期待这样的互动，希望它能让我感觉不那么孤单。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以从我们共同喜欢的电视剧开始，比如之前我们一起讨论过的一部剧，最近出了新的一季，我可以问问她有没有看，聊聊剧情的有趣点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，我觉得我可以试试多回应一下。如果她聊到自己的生活，我可以问问她最近有没有遇到什么开心的事，或者有什么烦恼需要倾诉。这样不仅能让话题更自然，也能让我不那么局限于自己的情绪中。我确实希望能让关系更有深度，因为那种互相理解和支持的感觉真的让我觉得很珍贵。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得我可以试试多回应一下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，我觉得可以慢慢尝试。虽然一开始可能还是会有些犹豫，但如果我们聊得深入，我希望能在她的关心中找到一些勇气，分享我的真实感受，比如最近工作压力大或者父母让我难过的事情。我相信她应该不会觉得我麻烦，因为她之前已经主动关心过我。这样的表达可能会让我感觉更轻松一些，也能让我慢慢走出自己的孤单。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以慢慢尝试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我希望她能用一种温暖的方式回应，比如耐心地听我说完，不打断我，然后告诉我她理解我的感受。可能一句“我能想象这对你来说很不容易”或者“你真的很努力了”就会让我觉得被安慰了。其实我不需要她给什么解决方案，只要她能让我感觉自己不是一个人扛着一切，就会好很多。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她能用一种温暖的方式回应，比如耐心地听我说完，不打断我，然后告诉我她理解我的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "是的，我觉得如果她这样回应我，我会更愿意敞开自己，甚至尝试在其他关系中也表达自己的需求，比如和男朋友聊聊我的感受，或者试着在父母面前更直接地说出我的想法。因为这种被理解的感觉真的很重要，它能让我觉得自己不再孤单，也让我相信自己的情绪是值得被重视的。我想，如果多一些这样的互动，我的压力可能会减轻很多。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得如果她这样回应我，我会更愿意敞开自己，甚至尝试在其他关系中也表达自己的需求，比如和男朋友聊聊我的感受，或者试着在父母面前更直接地说出我的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我想可以从一件具体的事开始，比如上次他们说我不够努力时，我可以试着说：“我真的已经很努力了，这份工作对我来说不容易，但我很想让家里过得好。”这样既表明我的努力，也让他们知道我的感受。可能一开始他们不会完全理解，但至少我能尝试让对话更真实些，而不是一味地忍受或者回避。我觉得这可能是一个慢慢调整关系的小切口。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以从一件具体的事开始，比如上次他们说我不够努力时，我可以试着说：“我真的已经很努力了，这份工作对我来说不容易，但我很想让家里过得好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "如果他们的回应还是让我失望，我可能会提醒自己，这不是我的问题，而是他们可能还不习惯这样的表达。我会试着告诉自己，至少我迈出了第一步，这是我为改善关系做的努力。同时，我可能会找一个能让我放松的方式，比如听听音乐或者和男朋友聊聊心情，转移一下注意力，让自己不要一直陷在低落里。我觉得每一次尝试都是一种进步，即使结果不完美，我也要学着认可自己的勇气。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们的回应还是让我失望，我可能会提醒自己，这不是我的问题，而是他们可能还不习惯这样的表达",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，我觉得这个建议很好。我确实需要更多关注自己的需求，而不是一直忙着满足别人的期待。比如，我可以尝试每周抽一天时间，专门做一些让我开心的事情，比如出去走走、看一部喜欢的电影，或者学点简单的新技能。这些小目标可能不会很大，但它们能让我暂时从压力中跳脱出来，找回一点属于自己的空间和轻松。我觉得这些时刻对我来说会很重要，也能让我更有能量面对生活中的挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得这个建议很好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我想第一件可以尝试的小目标是去附近的公园走一圈，好好感受一下自然的宁静。最近工作压力有点大，我觉得下周末可能是个不错的时间，既不用赶着工作，也能让我好好放松一下。我计划带上耳机，听点喜欢的音乐，给自己一个完全不被打扰的时刻。其实光是想象这个画面，就已经让我心里感觉轻松了不少。",
+    "has_specific_detail": true,
+    "specific_detail": "我想第一件可以尝试的小目标是去附近的公园走一圈，好好感受一下自然的宁静",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，你说得对，为了顺利实现，我可以提前准备一下。比如挑选一些自己喜欢的轻音乐，确保是那种能让我放松的曲子；还有规划一下公园的路线，选择人少、环境更安静的地方；至于时间，我觉得可以定在周六上午，那时候人可能比较少，也让我有足够时间慢慢享受这个过程。我觉得提前做好这些小准备，会让我对这个目标更期待，也让它更容易实现。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，你说得对，为了顺利实现，我可以提前准备一下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，这个建议很好！我可以带上笔记本或者手机，在公园里写写随笔，记录下自己的心情和想到的事情。或者拍几张自己喜欢的景色，比如树影、天空，这样还能回头再看看，提醒自己曾经有过这样宁静和轻松的时刻。我觉得这样的记录不仅能让我更珍惜这些片刻，还能成为以后鼓励自己的小小力量。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个建议很好！我可以带上笔记本或者手机，在公园里写写随笔，记录下自己的心情和想到的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "是的，我觉得这完全可以变成一种习惯。定期安排这种小时光，不仅能让我缓解压力，也能让我从忙碌中找回一点属于自己的空间。我可以每月设定一次，尝试不同的活动，比如散步、阅读或者简单地坐着发呆，让自己有机会重新充电。这种小小的仪式感可能会让我更有动力面对生活的挑战，同时也提醒自己，照顾好自己的感受同样重要。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得这完全可以变成一种习惯",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，这是个很有趣的想法！我可以给它起一个温暖的名字，比如“心灵小憩”或者“我的轻松时刻”，这样每次安排这种时间都会感觉像是在给自己送一份礼物。还可以加一点仪式感，比如用一个特定的杯子喝茶，或者带一本喜欢的书，甚至是穿一件自己觉得舒服的衣服。这些小细节可能会让我更期待，也更愿意坚持，把它真的变成生活中独特的一部分。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这是个很有趣的想法！我可以给它起一个温暖的名字，比如“心灵小憩”或者“我的轻松时刻”，这样每次安排这种时间都会感觉像是在给自己送一份礼物",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得它们会让我更懂得珍惜自己的感受，也让我意识到生活里不仅有责任，还有属于自己的美好时刻。这些积累可能会成为一种力量，提醒我即使面对压力和孤独，我依然能找到让自己轻松的方法。它们会让我对生活有更多的期待，也让我更加相信自己值得被温柔对待。我希望这些时刻能慢慢改变我对自己的看法，让我不再只是为了别人而活，而是学着更好地关心自己。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得它们会让我更懂得珍惜自己的感受，也让我意识到生活里不仅有责任，还有属于自己的美好时刻",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得可以从更清晰地界定自己的时间和精力开始，比如学会在合适的时候对别人说“不”，不让自己总是陷入无休止的付出中。同时，我也可以每天花几分钟问问自己：“今天我想做什么能让我开心？”哪怕只是做一顿自己喜欢的饭菜，或者静静坐一会儿，也是一种关心自己的方式。还有，我想试着对自己的努力多一些肯定，少一些苛责，这样也能让我更有动力去过好每一天。逐步地，这些小改变可能真的会让我更接近“为自己而活”的目标。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从更清晰地界定自己的时间和精力开始，比如学会在合适的时候对别人说“不”，不让自己总是陷入无休止的付出中",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得可以先从每天问自己“今天我想做什么能让我开心”开始。这是个很简单的习惯，不需要太多时间，但能让我更关注自己的感受和需求。我可以每天早晨或者晚上花几分钟思考一下，然后根据当天的情况，安排一件小事来照顾自己，比如听一首喜欢的歌、做顿自己爱吃的饭，或者写几句心情随笔。我觉得从这样的小改变开始，会让我更容易坚持，也更快地感受到它带来的积极影响。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从每天问自己“今天我想做什么能让我开心”开始",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我想可以每天早晨醒来时，或者晚上睡前，把这个问题当成一个固定的仪式，比如写在备忘录里，或者用手机设置一个温柔的提醒，比如“今天为自己做点什么开心的事吧？”这样每天都能在特定的时间停下来想想自己的需求，而且不会觉得突兀。我觉得这个方法既简单又贴心，还能帮我逐渐养成习惯，让关注自己变成一种自然的日常。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以每天早晨醒来时，或者晚上睡前，把这个问题当成一个固定的仪式，比如写在备忘录里，或者用手机设置一个温柔的提醒，比如“今天为自己做点什么开心的事吧？”这样每天都能在特定的时间停下来想想自己的需求，而且不会觉得突兀",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，我想第一件小事可以是今晚下班后给自己做一顿喜欢的晚餐，比如简单的西红柿炒蛋和热乎乎的米饭，再煮一碗汤。我总觉得温暖的食物特别能治愈人，做饭的时候也能让我暂时放下那些烦恼。吃完饭，我可能会再听几首轻音乐，彻底放松一下。我觉得这样结束一天，应该会让我心情好很多，也算是给这个新习惯一个温暖的开头！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我想第一件小事可以是今晚下班后给自己做一顿喜欢的晚餐，比如简单的西红柿炒蛋和热乎乎的米饭，再煮一碗汤",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "这是个很棒的建议！我可以点一支香薰蜡烛，比如那种带有淡淡花香的，让整个房间都变得温暖舒适。还有，我会用自己最喜欢的那套小清新的碗筷，平时很少用，但用它们会让我觉得这一餐更特别、更用心。这些小细节确实能让我更享受这个过程，也让我感觉这不仅仅是一顿晚餐，而是对自己的用心照顾。我好像已经开始期待今晚了！",
+    "has_specific_detail": true,
+    "specific_detail": "这是个很棒的建议！我可以点一支香薰蜡烛，比如那种带有淡淡花香的，让整个房间都变得温暖舒适",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "是的，我觉得记录下来会很有意义！我可以用笔记本或者手机写几句，比如“今晚这顿饭让我感到温暖和平静”，或者“原来用心对待自己是一种很治愈的体验”。甚至拍张摆好的餐桌照片，留作纪念。这样以后再回头看，就能想起这个新习惯的起点，也能提醒自己，生活中总有这样的小幸福值得去创造和珍惜。我现在已经很期待写下这些感受了！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得记录下来会很有意义！我可以用笔记本或者手机写几句，比如“今晚这顿饭让我感到温暖和平静”，或者“原来用心对待自己是一种很治愈的体验”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "嗯，我觉得可以趁着今晚的好心情，顺便计划一下下一次的“心灵小憩”。比如，我一直想试试在阳台上喝杯热茶，看一会儿喜欢的书，感受安静的时光。或者去尝试画一幅简单的小画，即使不太擅长，但那种随意涂涂画画的过程应该也会很放松。计划这些活动让我觉得，未来的每一次“心灵小憩”都会有新的期待和意义。我真心希望自己能坚持下去，让这些时光成为我的生活亮点！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以趁着今晚的好心情，顺便计划一下下一次的“心灵小憩”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "嗯，我觉得设定一个周期目标会更容易坚持！比如一周一次，每次尝试一种新活动，这样既不会给自己太大压力，也能保持新鲜感。我可以提前列一个小清单，把想尝试的活动记下来，像喝茶读书、画画、散步，甚至试着学做一道新菜，每次都从清单里挑一个来做。这种计划不仅会让我期待每一周的“心灵小憩”，也会让我感受到生活的多样性和乐趣。我觉得这个习惯会慢慢让我更有动力，更热爱生活！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得设定一个周期目标会更容易坚持！比如一周一次，每次尝试一种新活动，这样既不会给自己太大压力，也能保持新鲜感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "嗯，我觉得在清单上打勾或者写个总结会让这个习惯更有成就感！比如每完成一次“心灵小憩”，就在清单上画个小爱心，代表对自己的奖励。然后可以简单写几句，比如“今天散步时看到了一只特别可爱的猫”或者“这杯热茶让我感觉被治愈了”。这样一来，不仅让我清晰地看到自己坚持下来的努力，还能把这些温暖的瞬间都保存下来，成为未来回忆里的小宝藏。我觉得这个过程本身就充满了力量和意义！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得在清单上打勾或者写个总结会让这个习惯更有成就感！比如每完成一次“心灵小憩”，就在清单上画个小爱心，代表对自己的奖励",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我觉得这些点滴回忆可以提醒我，无论多忙多累，生活中总有属于自己的小幸福和亮光。我希望它们能告诉未来的自己：“你一直在努力，也一直在为自己创造美好。”这些瞬间会成为一种力量，让我在面对压力时有更多的信心去坚持，也提醒我，照顾好自己并不自私，而是让自己更有能力去面对生活。我想最终它们会成为一份鼓励，告诉我自己值得拥有快乐和温暖。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这些点滴回忆可以提醒我，无论多忙多累，生活中总有属于自己的小幸福和亮光",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我想对未来的自己说：“无论经历了什么，记得你一直都在努力，也一直值得被爱和被温柔对待。”这句话会提醒我，无论多难，都不要忘记为自己创造幸福的能力。希望未来的我能感受到今天这个决定的力量，也能因为这些点滴的改变而变得更坚强、更快乐。我觉得这是一个充满希望的开始！",
+    "has_specific_detail": true,
+    "specific_detail": "我想对未来的自己说：“无论经历了什么，记得你一直都在努力，也一直值得被爱和被温柔对待",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "谢谢你，我真的很感激今天的这次对话，感觉自己已经有了一个清晰的方向，也对今晚的小计划充满期待！我会好好享受这顿晚餐，用它开启我的“心灵小憩”之旅。今天聊到这里吧，我想先去准备一下这些美好的时刻。再次谢谢你的倾听和建议，我真的感到被支持和理解了！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你，我真的很感激今天的这次对话，感觉自己已经有了一个清晰的方向，也对今晚的小计划充满期待！我会好好享受这顿晚餐，用它开启我的“心灵小憩”之旅",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

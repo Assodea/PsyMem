@@ -1,0 +1,1327 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，聊完之后确实感觉思路清晰了些，但最近还是有点纠结寝室里的关系。比如，有时候室友开玩笑说我太安静，我其实不太舒服，但又不敢直接表达…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，聊完之后确实感觉思路清晰了些，但最近还是有点纠结寝室里的关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是的，主要是怕影响关系吧。我总觉得如果直接说了，可能会让气氛尴尬或者她们觉得我太敏感。可是心里又一直在意这些话，感觉挺矛盾的…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，主要是怕影响关系吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我觉得可能是随口说吧，但听到的时候还是会下意识想，她们是不是觉得我太冷淡、不够合群？有时甚至会怀疑自己是不是不适应这里，感觉很难完全放松…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是随口说吧，但听到的时候还是会下意识想，她们是不是觉得我太冷淡、不够合群？有时甚至会怀疑自己是不是不适应这里，感觉很难完全放松…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "可能两方面都有吧。比如她们一起讨论一些流行话题，我不太熟悉，就只能笑笑不怎么参与。这样的时候我会觉得自己好像格格不入，也有点孤立感…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我觉得更多是自己对融入的期待吧，总想和她们打成一片，但实际行动却有些犹豫。偶尔会试着去了解话题，比如看她们提到的综艺，但感觉还是跟不上她们的节奏…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得更多是自己对融入的期待吧，总想和她们打成一片，但实际行动却有些犹豫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "可能是怕自己表现不好吧，也担心说错什么被评价。有时候她们会回应我的参与，但更多时候只是继续聊自己的，我就觉得自己像个“局外人”，有点难过…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是怕自己表现不好吧，也担心说错什么被评价",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "一般我会选择沉默吧，觉得再加入可能还是会显得不自然。这种局外感在其他场景也有，比如班级活动时，我会更倾向于跟熟悉的人待在一起，而不是主动融入大群体…。",
+    "has_specific_detail": true,
+    "specific_detail": "一般我会选择沉默吧，觉得再加入可能还是会显得不自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "好像从高中的时候就开始了吧，那时候班里有些同学特别外向，总是主导活动，而我更习惯跟一两个朋友待着。记得一次班级聚会，他们提议玩一个需要轮流发言的游戏，我当时就特别紧张，感觉自己说的话好像不合大家的节奏…。",
+    "has_specific_detail": true,
+    "specific_detail": "好像从高中的时候就开始了吧，那时候班里有些同学特别外向，总是主导活动，而我更习惯跟一两个朋友待着",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "当时主要是害怕说错话吧，总觉得自己说的内容会被别人评头论足。后来面对类似的活动，我就更倾向于回避或者尽量减少存在感，避免让自己成为焦点，但心里还是会有点遗憾…。",
+    "has_specific_detail": true,
+    "specific_detail": "当时主要是害怕说错话吧，总觉得自己说的内容会被别人评头论足",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能是自己对外界评价比较敏感吧，总觉得别人会注意我的表现。如果不回避的话，我希望能更自然一点，敢表达自己的想法，而不是一直担心别人的反应…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是自己对外界评价比较敏感吧，总觉得别人会注意我的表现",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "有过一次吧，高中时在小组讨论里，我提出了一个关于课题的新点子，结果大家都觉得很有帮助，还主动讨论起来。当时感觉挺意外的，也有点开心，觉得自己是被认可了，但同时又在想这是不是偶然的好评…。",
+    "has_specific_detail": true,
+    "specific_detail": "有过一次吧，高中时在小组讨论里，我提出了一个关于课题的新点子，结果大家都觉得很有帮助，还主动讨论起来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "可能两方面都有吧，一方面总觉得自己的能力不够稳定，难以重复这样的表现；另一方面也害怕如果失去了这种认可，就会让自己更没信心，像回到原来的状态一样…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧，一方面总觉得自己的能力不够稳定，难以重复这样的表现；另一方面也害怕如果失去了这种认可，就会让自己更没信心，像回到原来的状态一样…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "有过吧，比如高中时考试失利的时候，父母虽然没责备我，但总会提到“下次要努力”，让我感觉自己的表现总不够好。从那之后，我好像就更容易对自己的能力产生怀疑，觉得自己总是差一点…。",
+    "has_specific_detail": true,
+    "specific_detail": "有过吧，比如高中时考试失利的时候，父母虽然没责备我，但总会提到“下次要努力”，让我感觉自己的表现总不够好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我觉得他们的态度可能是想鼓励吧，但对我来说还是会有压力。那种“差一点”的感觉确实延续到了现在，比如学业上会怕自己成绩不够好，人际关系里也总觉得自己不够主动、不够有趣…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得他们的态度可能是想鼓励吧，但对我来说还是会有压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "是的，会让我更小心翼翼，比如在人际关系里不太敢主动表达自己的观点，或者在一些需要表现自己的场合选择低调一些。总觉得如果表现不好，可能会让别人对我失望…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，会让我更小心翼翼，比如在人际关系里不太敢主动表达自己的观点，或者在一些需要表现自己的场合选择低调一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "可能两方面都有吧，一方面怕被评价，一方面也希望自己能做得更好。有过打破害怕的时刻，比如一次课堂展示，我准备得很充分，讲解时大家都认真听，还主动提问交流，那时候真的感觉挺有成就感，也没那么紧张了…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧，一方面怕被评价，一方面也希望自己能做得更好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得更多是因为感受到了大家的认可吧，那种被认真倾听和回应的感觉让我觉得自己是有价值的，像是终于被看见了一样。这对我来说真的很重要…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得更多是因为感受到了大家的认可吧，那种被认真倾听和回应的感觉让我觉得自己是有价值的，像是终于被看见了一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "被看见的时候，比如和朋友聊心事，他们认真回应我的感受，会让我觉得自己很重要；但寝室里有时我提了个意见却没人接话，那种忽略感让我觉得挺失落的，好像自己的存在不被重视…。",
+    "has_specific_detail": true,
+    "specific_detail": "被看见的时候，比如和朋友聊心事，他们认真回应我的感受，会让我觉得自己很重要；但寝室里有时我提了个意见却没人接话，那种忽略感让我觉得挺失落的，好像自己的存在不被重视…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "小时候好像就有这种渴望吧，特别是家里聚会的时候，大人们总是聊自己的事情，很少注意到我的想法。记得有一次我主动说了自己的兴趣，但他们只是随口附和两句就转移话题，那时候我就觉得很失落，好像自己不重要…。",
+    "has_specific_detail": true,
+    "specific_detail": "小时候好像就有这种渴望吧，特别是家里聚会的时候，大人们总是聊自己的事情，很少注意到我的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "是的，我确实会更在意别人是否认真倾听。比如在寝室里，如果我说了什么却没人回应，就会觉得很受挫，总担心自己是不是说得不够好或者不够重要…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实会更在意别人是否认真倾听",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "如果有人主动回应我，我会觉得被关注和重视，那种感觉特别温暖。对我来说，这意味着我的存在是有价值的，不再只是一个“局外人”了…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人主动回应我，我会觉得被关注和重视，那种感觉特别温暖",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "或许通过完成一些自己擅长的事情，比如写作或者课程作业吧，这些能让我看到自己的能力和努力。还有就是试着表达真实的感受，哪怕只是一小部分，也能让我觉得自己在主动创造连接…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许通过完成一些自己擅长的事情，比如写作或者课程作业吧，这些能让我看到自己的能力和努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "或许可以从简单的互动开始吧，比如在她们聊话题时尝试提出自己的看法，哪怕只是补充一句“小细节”。这样既不需要太多主动，也能慢慢让自己参与其中，感觉更自然些…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从简单的互动开始吧，比如在她们聊话题时尝试提出自己的看法，哪怕只是补充一句“小细节”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，她们有时候会聊一些旅行的经历，这部分我比较感兴趣，偶尔也能分享一些自己小时候去过的地方的趣事。感觉这样的话题对我来说没那么有压力，可能是个好切入点吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，她们有时候会聊一些旅行的经历，这部分我比较感兴趣，偶尔也能分享一些自己小时候去过的地方的趣事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得主动提问会让互动更自然，比如问她们为什么喜欢那个地方，或者有什么特别的体验。我也可以试着分享自己对某个地方的印象，比如那里的美食或风景，这样可能能拉近一点距离…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得主动提问会让互动更自然，比如问她们为什么喜欢那个地方，或者有什么特别的体验",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "或许可以用比较随意的语气吧，比如在聊天气氛轻松的时候插入自己的感受，而不是等话题快结束再说。这样会让自己感觉更自然，也减少紧张感…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以用比较随意的语气吧，比如在聊天气氛轻松的时候插入自己的感受，而不是等话题快结束再说",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "是啊，提前回忆一些旅行的趣事，比如小时候在某个地方发生的小插曲，或者准备几句简单的表达。这样在聊到相关话题时，就不会临时卡住，感觉也会更从容些…。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，提前回忆一些旅行的趣事，比如小时候在某个地方发生的小插曲，或者准备几句简单的表达",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "如果得到积极回应，肯定会让我感觉更有信心，也觉得自己是可以慢慢融入的。这种变化可能会让我对寝室关系有更多期待，比如希望能建立更自然、更轻松的互动，而不是总感觉需要小心翼翼…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果得到积极回应，肯定会让我感觉更有信心，也觉得自己是可以慢慢融入的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我希望自己能坚持保持适度的主动，比如偶尔试着加入话题，同时学会接受沉默，不总是把自己没被回应看作失败。这样可能能让自己更放松些，也减少内耗…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望自己能坚持保持适度的主动，比如偶尔试着加入话题，同时学会接受沉默，不总是把自己没被回应看作失败",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 30,
+    "content": "记录每次互动的积极点应该会有帮助，比如写下哪句话得到了回应，或者自己尝试表达后感觉轻松的时刻。定期回顾这些小进步，也能让我看到变化，给自己一些正向的鼓励吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "记录每次互动的积极点应该会有帮助，比如写下哪句话得到了回应，或者自己尝试表达后感觉轻松的时刻",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "如果坚持下来，我觉得会让我对寝室关系更有信心，可能能逐渐放下对别人评价的过度在意。希望最终能建立一种既轻松又真实的关系，不再总觉得自己是“局外人”。",
+    "has_specific_detail": true,
+    "specific_detail": "如果坚持下来，我觉得会让我对寝室关系更有信心，可能能逐渐放下对别人评价的过度在意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "和信任的朋友分享进展应该会很有帮助，他们的鼓励能让我更有动力。另外为每次主动互动设定一个小奖励，比如吃喜欢的零食，也能让我觉得这是一种积极的体验，慢慢形成习惯…。",
+    "has_specific_detail": true,
+    "specific_detail": "和信任的朋友分享进展应该会很有帮助，他们的鼓励能让我更有动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "可能会遇到冷场或者回应不如预期吧，但我希望自己能提醒自己，这并不意味着我做得不好。告诉自己每一次尝试都是进步，就算没有理想的结果，也是在慢慢适应和成长…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会遇到冷场或者回应不如预期吧，但我希望自己能提醒自己，这并不意味着我做得不好",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 34,
+    "content": "深呼吸可能会很有用，让自己冷静下来，不把冷场看得太严重。或者试着换个角度想，觉得这只是一次普通互动，而不是对我的能力或价值的评价，这样心情可能会轻松一些…。",
+    "has_specific_detail": true,
+    "specific_detail": "深呼吸可能会很有用，让自己冷静下来，不把冷场看得太严重",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "“我在慢慢进步”是个很好的提醒语，我觉得还可以告诉自己“每个人都会有这样的时刻，这不影响我的价值”。这些话能让我更平静，也更愿意继续尝试…。",
+    "has_specific_detail": true,
+    "specific_detail": "“我在慢慢进步”是个很好的提醒语，我觉得还可以告诉自己“每个人都会有这样的时刻，这不影响我的价值”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "或许可以主动创造一次轻松互动，比如聊聊大家都感兴趣的话题，或者分享一个有趣的小故事。另外回顾自己过去的成功经历，比如课堂展示时的认可，也能让我重新找回那种自信的感觉…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以主动创造一次轻松互动，比如聊聊大家都感兴趣的话题，或者分享一个有趣的小故事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "如果能在寝室关系中实现轻松互动，我觉得会让我对其他人际关系也更有信心。可能会更敢于表达自己，也不再总担心别人的评价，整体的社交体验会变得更自在、更愉快吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能在寝室关系中实现轻松互动，我觉得会让我对其他人际关系也更有信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "这种变化可能会让我更主动参与活动，比如班级聚餐或者社团的讨论，也许会更愿意尝试和不同性格的人交流。不再那么害怕陌生场景，感觉自己的生活圈子可能会变得更丰富…。",
+    "has_specific_detail": true,
+    "specific_detail": "这种变化可能会让我更主动参与活动，比如班级聚餐或者社团的讨论，也许会更愿意尝试和不同性格的人交流",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "每周总结一次社交中的进步是个好方法，可以让我看到自己的成长。另外设定一个小的互动挑战，比如主动提问或分享一件事，也能让我逐步适应更主动的社交方式，感觉会很有帮助…。",
+    "has_specific_detail": true,
+    "specific_detail": "每周总结一次社交中的进步是个好方法，可以让我看到自己的成长",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我觉得如果能更轻松地表达自己的感受，或者在群体活动中不再犹豫着要不要加入，那应该就是很大的成长了。到时候可能会感觉自己不再那么拘谨，也更愿意去尝试新的社交机会…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果能更轻松地表达自己的感受，或者在群体活动中不再犹豫着要不要加入，那应该就是很大的成长了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "如果这些变化发生，我觉得会期待和室友有更深入的交流吧，比如聊一些更个人化的感受，而不仅仅是浅浅的日常话题。也希望能建立更稳定的情感连接，让关系变得更有意义、更真实…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这些变化发生，我觉得会期待和室友有更深入的交流吧，比如聊一些更个人化的感受，而不仅仅是浅浅的日常话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "主动分享自己的感受是个好方法，比如在轻松的聊天中提到自己最近的一些心情变化。同时也可以多倾听室友的故事，适时回应她们的情绪，感觉这样能慢慢建立更深的互动和信任…。",
+    "has_specific_detail": true,
+    "specific_detail": "主动分享自己的感受是个好方法，比如在轻松的聊天中提到自己最近的一些心情变化",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "如果室友开始主动问我最近怎么样，或者愿意和我分享她们的烦恼，那应该是关系变得更深入的信号吧。这会让我感觉我们之间有了更多真实的情感交流，而不仅仅是表面的互动…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果室友开始主动问我最近怎么样，或者愿意和我分享她们的烦恼，那应该是关系变得更深入的信号吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "如果这种变化逐渐发生，我觉得会让我对自己的价值更肯定吧，不再总觉得需要通过迎合别人来获得认可。同时也会更少担心别人的评价，可能会更自然地去表达自己…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这种变化逐渐发生，我觉得会让我对自己的价值更肯定吧，不再总觉得需要通过迎合别人来获得认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "可能是像寝室聚会时，大家聊到一个话题，我能自然地加入并表达自己的想法，而不是犹豫着要不要说。这种从容的表现应该会让我特别感受到自己的成长，觉得自己真的在改变…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是像寝室聚会时，大家聊到一个话题，我能自然地加入并表达自己的想法，而不是犹豫着要不要说",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "嗯，可能会想尝试在更大的群体中表达自己的观点，比如课堂讨论或者社团活动，也许还会想主动组织一次小型聚会，看看自己能不能成为带动气氛的人。这些目标感觉挺挑战，但也很有意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能会想尝试在更大的群体中表达自己的观点，比如课堂讨论或者社团活动，也许还会想主动组织一次小型聚会，看看自己能不能成为带动气氛的人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "观察别人带动气氛的方式是个好方法，比如注意他们怎么引导话题或者活跃讨论。提前设计一些轻松的话题也能让我更有底气，比如聊大家的兴趣爱好或者最近发生的趣事，感觉这样会让互动更自然…。",
+    "has_specific_detail": true,
+    "specific_detail": "观察别人带动气氛的方式是个好方法，比如注意他们怎么引导话题或者活跃讨论",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "“每次尝试都是进步”这个信念确实很鼓励人，也让我觉得自己是在不断成长。还有“我有能力创造连接”，能提醒自己其实是可以主动去影响关系的，这种信念会让我更愿意去尝试和坚持…。",
+    "has_specific_detail": true,
+    "specific_detail": "“每次尝试都是进步”这个信念确实很鼓励人，也让我觉得自己是在不断成长",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "比如我主动提出一个建议被采纳，或者分享一个有趣的小故事让大家笑起来，这些时刻应该会让我特别感受到自己的力量。会觉得自己不仅仅是参与者，而是能给别人带来积极影响的人…。",
+    "has_specific_detail": true,
+    "specific_detail": "比如我主动提出一个建议被采纳，或者分享一个有趣的小故事让大家笑起来，这些时刻应该会让我特别感受到自己的力量",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "当这些经历积累起来，我觉得会让我更认可自己的价值，觉得自己是值得被关注和回应的。同时可能会更愿意承担人际中的主动角色，不再总是小心翼翼，而是更自然地去影响和连接别人…。",
+    "has_specific_detail": true,
+    "specific_detail": "当这些经历积累起来，我觉得会让我更认可自己的价值，觉得自己是值得被关注和回应的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "如果大家主动邀请我参与讨论，或者在聊某个话题时我自然而然成为中心，那应该会让我觉得自己真的融入了。那种被认可和关注的感觉，可能会让我彻底摆脱“局外人”的身份，觉得自己是真正的一部分了…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果大家主动邀请我参与讨论，或者在聊某个话题时我自然而然成为中心，那应该会让我觉得自己真的融入了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "感受到融入后，我觉得会更主动探索新关系，比如尝试认识不同的人，或者参与更多活动。同时也会更享受当下的互动，不再总是担心自己表现得如何，而是单纯感受交流的快乐…。",
+    "has_specific_detail": true,
+    "specific_detail": "感受到融入后，我觉得会更主动探索新关系，比如尝试认识不同的人，或者参与更多活动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "记录感恩时刻是个好习惯，比如每天写下一个让我觉得开心或被认可的瞬间。定期反思自己的成长也很重要，可以让我看到自己的进步，提醒自己已经走了多远，这样心态会更积极、更稳定…。",
+    "has_specific_detail": true,
+    "specific_detail": "记录感恩时刻是个好习惯，比如每天写下一个让我觉得开心或被认可的瞬间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "“我的努力在改变自己”这个信念很激励人，会让我相信自己的行动是有价值的。另外“每一次互动都在积累意义”，能让我更珍惜每次交流，不管是大是小，都觉得它对我的成长是有贡献的…。",
+    "has_specific_detail": true,
+    "specific_detail": "“我的努力在改变自己”这个信念很激励人，会让我相信自己的行动是有价值的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "或许会想在人际关系中尝试扮演支持者的角色，比如主动关心和鼓励别人，成为让人感到温暖的人。也可能会尝试影响更大的群体，比如在社团中组织活动或者带领团队，这些目标感觉很有挑战，但也充满期待…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许会想在人际关系中尝试扮演支持者的角色，比如主动关心和鼓励别人，成为让人感到温暖的人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "提升倾听能力是个好开始，比如学着认真回应别人的感受，让他们觉得被理解。同时可以学习一些活动组织的技巧，比如如何规划流程或者调动气氛，这样能让我更有底气去尝试这些目标…。",
+    "has_specific_detail": true,
+    "specific_detail": "提升倾听能力是个好开始，比如学着认真回应别人的感受，让他们觉得被理解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "设立阶段性目标是个好方法，比如先尝试主动关心一个人，再慢慢扩大到组织一次小型活动。记录每次成功的细节也能增强信心，让自己看到每一步的进步，感觉会更有动力去坚持下去…。",
+    "has_specific_detail": true,
+    "specific_detail": "设立阶段性目标是个好方法，比如先尝试主动关心一个人，再慢慢扩大到组织一次小型活动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "当目标逐步实现后，我觉得会让我更积极面对挑战，比如愿意尝试新的事情而不是害怕失败。同时可能也会更愿意承担责任，觉得自己有能力去影响和支持别人，而不是只是跟随或回避…。",
+    "has_specific_detail": true,
+    "specific_detail": "当目标逐步实现后，我觉得会让我更积极面对挑战，比如愿意尝试新的事情而不是害怕失败",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "如果这种态度延续到学业或职业中，我觉得会让我更主动追求目标，比如敢于尝试新的学习方向或项目。同时面对复杂的人际关系也会更有勇气，能更自信地处理冲突或表达自己的想法，不再那么拘束…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这种态度延续到学业或职业中，我觉得会让我更主动追求目标，比如敢于尝试新的学习方向或项目",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "“我的成长是持续的”这个信念很鼓励人，让我相信自己在不断进步。另外“挑战让我变得更强”，能让我更愿意面对困难，觉得每一次努力都是在为未来积累力量，这样心态会更坚定、更积极…。",
+    "has_specific_detail": true,
+    "specific_detail": "“我的成长是持续的”这个信念很鼓励人，让我相信自己在不断进步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "写下自己的成长故事是个好方法，可以让我回顾自己克服困难的经历，提醒自己有能力面对挑战。另外寻求身边人的支持，比如和信任的朋友聊聊自己的困惑，也能让我感觉不那么孤单，更有力量坚持下去…。",
+    "has_specific_detail": true,
+    "specific_detail": "写下自己的成长故事是个好方法，可以让我回顾自己克服困难的经历，提醒自己有能力面对挑战",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 62,
+    "content": "提前做好计划是个很实用的行动，比如分解挑战成几个小步骤，这样不会觉得压力太大。培养解决问题的耐心也很重要，提醒自己困难是需要时间和努力去克服的，不必急于求成…。",
+    "has_specific_detail": true,
+    "specific_detail": "提前做好计划是个很实用的行动，比如分解挑战成几个小步骤，这样不会觉得压力太大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "成功应对一个大挑战后，我觉得会更愿意突破舒适区，敢于尝试更多未知的事情。同时可能也会更珍惜每次努力的过程，觉得每一步都在为自己创造新的可能性，而不是单纯追求结果…。",
+    "has_specific_detail": true,
+    "specific_detail": "成功应对一个大挑战后，我觉得会更愿意突破舒适区，敢于尝试更多未知的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "如果把这种态度带到日常生活中，我觉得会让自己更积极主动，也能传递勇气给身边的人。比如通过自己的行动鼓励他们也去尝试改变，让大家看到努力和成长是值得的，这种影响感觉会特别有意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果把这种态度带到日常生活中，我觉得会让自己更积极主动，也能传递勇气给身边的人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "分享自己的经历是个好方法，比如讲讲自己从犹豫到主动的转变，让别人看到改变是可能的。另外可以主动支持别人的尝试，比如给予鼓励或提供建议，让他们感受到有人在背后支持，这样互动会更温暖、更有力量…。",
+    "has_specific_detail": true,
+    "specific_detail": "分享自己的经历是个好方法，比如讲讲自己从犹豫到主动的转变，让别人看到改变是可能的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "如果坚持这些行为，我觉得会让我更认可自己的价值，觉得自己不仅能成长，还能影响和支持别人。同时也会更享受给予的过程，从中找到一种满足感和意义，感觉自己是和别人真正连接在一起的…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果坚持这些行为，我觉得会让我更认可自己的价值，觉得自己不仅能成长，还能影响和支持别人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 67,
+    "content": "当这种满足感成为生活的一部分，我觉得会让我更关注合作与共赢，比如在团队中主动寻找共同的目标，而不是单纯关注个人表现。同时也会更主动培养深度关系，珍惜那些能带来真实交流和互相支持的连接，这样生活会更有温度和意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "当这种满足感成为生活的一部分，我觉得会让我更关注合作与共赢，比如在团队中主动寻找共同的目标，而不是单纯关注个人表现",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 68,
+    "content": "观察团队中的需求是个好起点，比如注意大家需要什么帮助，尝试提供支持。也可以主动表达对深度关系的期待，比如在轻松的聊天中分享自己对真实交流的看法，看看能不能引发更深入的互动，这些行动感觉都挺实际…。",
+    "has_specific_detail": true,
+    "specific_detail": "观察团队中的需求是个好起点，比如注意大家需要什么帮助，尝试提供支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 69,
+    "content": "“每次尝试都在积累意义”这个提醒很激励人，会让我相信自己的行动是有价值的。另外“我的付出会让关系更真实”，能让我更期待这些努力的结果，觉得自己的努力是在创造一种更深的连接，这样动力会更持续…。",
+    "has_specific_detail": true,
+    "specific_detail": "“每次尝试都在积累意义”这个提醒很激励人，会让我相信自己的行动是有价值的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 70,
+    "content": "如果有人主动表达感谢，或者开始和我分享更个人化的感受，那一定会让我觉得自己的努力被回应了。这种时刻会让我感到特别欣慰，觉得自己不仅在付出，也在建立一种双向的真实关系…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人主动表达感谢，或者开始和我分享更个人化的感受，那一定会让我觉得自己的努力被回应了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 71,
+    "content": "当这些时刻越来越多，我觉得会让我更相信人与人之间的连接是有价值的，也更愿意投入情感到关系中。可能会觉得关系不只是表面互动，而是可以通过努力变得更深、更真实，这样对人际会有更多期待和信心…。",
+    "has_specific_detail": true,
+    "specific_detail": "当这些时刻越来越多，我觉得会让我更相信人与人之间的连接是有价值的，也更愿意投入情感到关系中",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 72,
+    "content": "如果延伸到更广的人际圈，我觉得会让我更愿意尝试建立跨圈层的联系，比如认识不同背景的人，拓展自己的视野。同时也会更主动寻找互相支持的群体，让自己的生活充满更多真实的互动和共同成长的机会…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果延伸到更广的人际圈，我觉得会让我更愿意尝试建立跨圈层的联系，比如认识不同背景的人，拓展自己的视野",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 73,
+    "content": "每月主动结识一个新朋友是个很好的习惯，可以让我慢慢扩大人际圈。定期参与能拓展视野的活动，比如讲座或兴趣小组，也能让我接触到更多不同的人和思想，感觉这些行动都能为目标打下基础…。",
+    "has_specific_detail": true,
+    "specific_detail": "每月主动结识一个新朋友是个很好的习惯，可以让我慢慢扩大人际圈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 74,
+    "content": "写下新朋友的特点是个不错的方法，比如记录他们的兴趣或给我留下的特别印象。每次活动后总结收获也很有意义，可以让我看到自己的成长和体验的丰富性，感觉会让整个过程更有成就感和动力…。",
+    "has_specific_detail": true,
+    "specific_detail": "写下新朋友的特点是个不错的方法，比如记录他们的兴趣或给我留下的特别印象",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 75,
+    "content": "当这些行动成为习惯，我觉得会让我更主动拥抱变化，觉得新的机会和连接是值得尝试的。同时也会更珍惜每次互动的机会，把它看作一种成长和交流，而不是单纯的日常往来，这样生活会变得更丰富、更有意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "当这些行动成为习惯，我觉得会让我更主动拥抱变化，觉得新的机会和连接是值得尝试的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 76,
+    "content": "如果将这种态度带入未来的挑战或新环境，我觉得会让我更自信地适应变化，比如敢于面对陌生环境和新的机会。同时也可能更积极地影响他人，用自己的行动和态度鼓励他们去尝试和成长，这样目标会变得更广、更有意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果将这种态度带入未来的挑战或新环境，我觉得会让我更自信地适应变化，比如敢于面对陌生环境和新的机会",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 77,
+    "content": "设定挑战自己的任务是个好方法，比如尝试在新环境中主动提出自己的想法。主动寻找能共同成长的伙伴也很重要，可以让我在过程中得到支持和鼓励，同时互相激励，感觉会让目标实现得更顺利…。",
+    "has_specific_detail": true,
+    "specific_detail": "设定挑战自己的任务是个好方法，比如尝试在新环境中主动提出自己的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 78,
+    "content": "设定时间节点会让行动更有条理，比如每月完成一个具体任务，像主动参与一次新活动。定期回顾自己的进展也很重要，可以让我看到哪些地方做得好，哪些需要调整，这样整个过程会更清晰、更有方向…。",
+    "has_specific_detail": true,
+    "specific_detail": "设定时间节点会让行动更有条理，比如每月完成一个具体任务，像主动参与一次新活动",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 79,
+    "content": "给自己一个小奖励是个不错的方式，比如吃一顿喜欢的餐点或买一本感兴趣的书。记录下完成任务时的心情也很有意义，可以让我回顾自己的努力和收获，感觉会让整个过程更充满动力…。",
+    "has_specific_detail": true,
+    "specific_detail": "给自己一个小奖励是个不错的方式，比如吃一顿喜欢的餐点或买一本感兴趣的书",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 80,
+    "content": "如果这些行动形成习惯，我觉得会让我更自律，比如更有计划地安排自己的目标和时间。同时也会更愿意追求长期的成长，觉得一步步积累努力是值得的，而不仅仅关注短期结果，这种改变应该会让生活更稳健、更有意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这些行动形成习惯，我觉得会让我更自律，比如更有计划地安排自己的目标和时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 81,
+    "content": "在这种稳健的心态下，我觉得可能会想追求个人突破，比如尝试一些以前害怕的挑战，像公众演讲或带领团队。同时也可能希望在更广的领域中产生积极影响，比如通过自己的行动和经验去支持更多人，让成长的意义扩展到更大的范围…。",
+    "has_specific_detail": true,
+    "specific_detail": "在这种稳健的心态下，我觉得可能会想追求个人突破，比如尝试一些以前害怕的挑战，像公众演讲或带领团队",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 82,
+    "content": "提升表达能力是个重要的准备，比如练习如何清晰地阐述观点或者讲故事。同时可以寻找机会参与公益项目，这样不仅能积累经验，也能接触更多人，学着如何支持和影响别人，感觉这些都能为目标打下坚实的基础…。",
+    "has_specific_detail": true,
+    "specific_detail": "提升表达能力是个重要的准备，比如练习如何清晰地阐述观点或者讲故事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 83,
+    "content": "设定小的阶段性目标，比如每月完成一次表达练习或参与一个公益活动，会让我觉得目标更可行。定期和信任的人分享自己的进展也很有帮助，他们的鼓励和反馈能让我更有动力坚持下去，同时看到自己的努力是有意义的…。",
+    "has_specific_detail": true,
+    "specific_detail": "设定小的阶段性目标，比如每月完成一次表达练习或参与一个公益活动，会让我觉得目标更可行",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 84,
+    "content": "“每一步都在积累力量”这个信念会让我相信自己的努力是有长期价值的。另外“我的努力能带来改变”，能让我觉得自己不仅是在成长，也是在影响别人和环境，这样的信念会让我更坚定地坚持下去…。",
+    "has_specific_detail": true,
+    "specific_detail": "“每一步都在积累力量”这个信念会让我相信自己的努力是有长期价值的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 85,
+    "content": "当这些信念不断推动我前进，我觉得会让我更愿意尝试未知，比如主动探索新的领域或机会。同时也会更有勇气承担责任，觉得自己不仅可以为自己努力，也能为别人或团队带来积极的影响，这样未来规划可能会变得更开放、更有挑战性…。",
+    "has_specific_detail": true,
+    "specific_detail": "当这些信念不断推动我前进，我觉得会让我更愿意尝试未知，比如主动探索新的领域或机会",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 86,
+    "content": "定期回顾自己的成长轨迹是个好方法，可以让我看到自己从哪里开始，又走了多远。设立一个长期的愿景目标，比如成为一个能支持和影响更多人的人，也能让我有明确的方向感，感觉会让每一步努力都更加有意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "定期回顾自己的成长轨迹是个好方法，可以让我看到自己从哪里开始，又走了多远",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 87,
+    "content": "如果逐步接近这样的愿景目标，我觉得生活会变得更有成就感，比如觉得自己的努力真的创造了价值。同时也可能更愿意将自己的经验分享给更多人，希望能用自己的成长故事鼓励他们，让我的经历不仅是个人的收获，更是一种传递力量的方式…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果逐步接近这样的愿景目标，我觉得生活会变得更有成就感，比如觉得自己的努力真的创造了价值",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 88,
+    "content": "写成长故事是个很好的方式，可以把自己的经历和思考整理出来，分享给更多人。组织一次交流活动也很有意义，比如邀请身边的人一起讨论成长的经历和感悟，感觉这样的互动能带来真实的连接和启发…。",
+    "has_specific_detail": true,
+    "specific_detail": "写成长故事是个很好的方式，可以把自己的经历和思考整理出来，分享给更多人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 89,
+    "content": "如果分享成为习惯，我觉得会让我更主动建立共鸣，比如用自己的经历去理解和支持别人。同时也可能更愿意承担引领的角色，觉得自己不仅是在成长，也有能力帮助和带动更多人，让人际关系和个人成长都变得更有深度和意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果分享成为习惯，我觉得会让我更主动建立共鸣，比如用自己的经历去理解和支持别人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 90,
+    "content": "定期参与社会活动是个很好的长期行动，可以让我不断接触不同的人和需求，积累支持他人的经验。另外设计一个能持续支持他人的项目，比如一个成长分享平台或者交流小组，也能让我把自己的影响力扩展到更大的范围，感觉会很有意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "定期参与社会活动是个很好的长期行动，可以让我不断接触不同的人和需求，积累支持他人的经验",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 91,
+    "content": "定期回顾自己的初衷是个好方法，可以让我重新连接到最初的动力和目标。另外记录自己对他人产生的积极影响，比如别人因为我的分享受到了启发，或者互动中感到温暖，也会让我更有信心坚持下去，觉得自己的努力是有意义的…。",
+    "has_specific_detail": true,
+    "specific_detail": "定期回顾自己的初衷是个好方法，可以让我重新连接到最初的动力和目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 92,
+    "content": "如果这些方法持续实施，我觉得会让我更清晰地看到自己的影响力，比如意识到自己的行动真的在改变一些人或环境。同时也会更坚定地追求更大的社会贡献，觉得自己有能力也有责任去做更多有意义的事情，这样愿景目标会变得更广、更有深度…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这些方法持续实施，我觉得会让我更清晰地看到自己的影响力，比如意识到自己的行动真的在改变一些人或环境",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 93,
+    "content": "建立一个公益团队是个很好的长期计划，可以汇集志同道合的人一起推动有意义的项目。另外开展一系列支持成长的活动，比如定期举办分享会或工作坊，让更多人参与进来，这样不仅能实现自己的目标，也能影响和支持更多人，感觉特别值得尝试…。",
+    "has_specific_detail": true,
+    "specific_detail": "建立一个公益团队是个很好的长期计划，可以汇集志同道合的人一起推动有意义的项目",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 94,
+    "content": "找到合适的合作伙伴是关键，可以选择那些有共同目标和价值观的人，这样协作会更顺畅。让活动贴合参与者需求也很重要，比如通过前期调研了解他们的兴趣点和实际需要，确保活动内容能够真正吸引和帮助到他们…。",
+    "has_specific_detail": true,
+    "specific_detail": "找到合适的合作伙伴是关键，可以选择那些有共同目标和价值观的人，这样协作会更顺畅",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 95,
+    "content": "定期召开团队会议是个好方式，可以让大家及时交流进展和解决问题。另外建立透明的反馈机制，比如定期收集团队成员和参与者的意见，也能确保活动和协作的质量不断优化，感觉这样会让整个过程更高效、更有凝聚力…。",
+    "has_specific_detail": true,
+    "specific_detail": "定期召开团队会议是个好方式，可以让大家及时交流进展和解决问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 96,
+    "content": "设立共同的阶段性目标是个好方法，比如明确每次活动的具体任务，让大家有方向感。庆祝每次活动的成功也很重要，可以通过分享成果或举办小型聚餐来感谢团队的努力，这样能增强大家的成就感和继续前进的动力…。",
+    "has_specific_detail": true,
+    "specific_detail": "设立共同的阶段性目标是个好方法，比如明确每次活动的具体任务，让大家有方向感",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 97,
+    "content": "如果团队持续积极运作，我觉得会让我更从容地解决问题，比如面对挑战时不再慌张，而是能冷静找到解决方案。同时也会让我更主动地激发团队潜力，学着如何发现每个人的优势并调动起来，让整体运作更加高效和有活力…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果团队持续积极运作，我觉得会让我更从容地解决问题，比如面对挑战时不再慌张，而是能冷静找到解决方案",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 98,
+    "content": "当这种成长逐步实现，我觉得会让我更愿意承担社会责任，比如投入更多时间和精力到有意义的公益项目。同时也可能探索更大的合作可能性，寻找跨领域的伙伴一起推动更广泛的影响，让未来规划变得更有挑战也更有价值…。",
+    "has_specific_detail": true,
+    "specific_detail": "当这种成长逐步实现，我觉得会让我更愿意承担社会责任，比如投入更多时间和精力到有意义的公益项目",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 99,
+    "content": "研究不同领域的需求是个重要的行动，可以让我更清楚哪些方面需要关注和支持。主动联系有影响力的组织也是很关键的一步，通过寻求合作或交流经验，能让我借助他们的资源和平台推动目标实现，感觉这些都很值得尝试…。",
+    "has_specific_detail": true,
+    "specific_detail": "研究不同领域的需求是个重要的行动，可以让我更清楚哪些方面需要关注和支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 100,
+    "content": "建立一个行动日志是个好方法，可以记录每次探索的进展和感受，让整个过程更清晰。定期总结自己的学习和收获也很有帮助，比如每月回顾哪些行动有效，哪些需要调整，这样能不断优化自己的计划，同时看到自己的成长…。",
+    "has_specific_detail": true,
+    "specific_detail": "建立一个行动日志是个好方法，可以记录每次探索的进展和感受，让整个过程更清晰",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 101,
+    "content": "我觉得今天聊得挺深入了，感觉自己的思路也理清了不少。或许这些内容我可以再消化一下，下次我们再接着聊吧，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得今天聊得挺深入了，感觉自己的思路也理清了不少",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

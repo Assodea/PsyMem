@@ -1,0 +1,515 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近其实没有太大的变化。和姐姐还是偶尔聊些生活琐事，但聊完总觉得没有真正被理解，像是缺了点什么…至于哥哥，我们几乎没怎么说话，还是很疏远。说到表达需求，我发现我经常犹豫要不要开口，担心说了也没用，就又退缩了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近其实没有太大的变化",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "可能两方面都有吧…我觉得姐姐确实关心我，但她总是忙着自己的事，聊的时候感觉她的注意力不完全在我这儿；而我自己也常担心，万一说了什么，让对方觉得麻烦或者不耐烦怎么办呢？有时候甚至会觉得自己要求太多了，所以干脆闭嘴。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧…我觉得姐姐确实关心我，但她总是忙着自己的事，聊的时候感觉她的注意力不完全在我这儿；而我自己也常担心，万一说了什么，让对方觉得麻烦或者不耐烦怎么办呢？有时候甚至会觉得自己要求太多了，所以干脆闭嘴",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，有时候会觉得很压抑，像有好多话堵在心口却说不出来…但更多的是一种遗憾吧，尤其是在聊完之后，会后悔没把自己的真实想法说出来，感觉又错过了一次被理解的机会。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有时候会觉得很压抑，像有好多话堵在心口却说不出来…但更多的是一种遗憾吧，尤其是在聊完之后，会后悔没把自己的真实想法说出来，感觉又错过了一次被理解的机会",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "我想最担心的还是对方表现得冷淡或者不在乎吧，那种感觉会让我更失望，甚至有点难堪…像之前有一次我试着和姐姐聊我对未来的焦虑，她虽然听了，但就随口安慰了几句，然后话题就转到她自己的生活上了，我当时真的挺失落的。",
+    "has_specific_detail": true,
+    "specific_detail": "我想最担心的还是对方表现得冷淡或者不在乎吧，那种感觉会让我更失望，甚至有点难堪…像之前有一次我试着和姐姐聊我对未来的焦虑，她虽然听了，但就随口安慰了几句，然后话题就转到她自己的生活上了，我当时真的挺失落的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "嗯，那种失落感可能会持续好几天吧，尤其是越想越觉得自己不该期待太多…之后我通常会选择转移注意力，比如专心做作业或者看剧，但其实心里还是有点空落落的，有时候会想“是不是我自己太难相处了”。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，那种失落感可能会持续好几天吧，尤其是越想越觉得自己不该期待太多…之后我通常会选择转移注意力，比如专心做作业或者看剧，但其实心里还是有点空落落的，有时候会想“是不是我自己太难相处了”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "可能是缺少一种真正的情感连接吧，就是那种能让我觉得自己被看见、被理解的感觉…我总觉得无论是和家人还是朋友，谈话都停留在表面，很难深入到心里。我好像一直在期待有人能主动关心我的内心，而不是我自己去努力争取这种关注。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是缺少一种真正的情感连接吧，就是那种能让我觉得自己被看见、被理解的感觉…我总觉得无论是和家人还是朋友，谈话都停留在表面，很难深入到心里",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是的，这种期待对我来说真的很重要。可能正因为它，我在互动时会特别敏感，一旦感觉不到对方的主动关心，就会变得冷淡或者疏远…有时候甚至觉得，既然别人不主动了解我，那我也不需要太主动去表达了，这样好像能减少失望吧。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种期待对我来说真的很重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "有时候会想试着靠近吧，尤其是看到对方也表现出一点关心的时候，但往往还是会犹豫很久，不知道该怎么开口…像上次姐姐主动问我最近怎么样，我一开始挺想聊聊自己的感受，可最后还是只是简单回答了一句“还好吧”，然后就没继续说了。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候会想试着靠近吧，尤其是看到对方也表现出一点关心的时候，但往往还是会犹豫很久，不知道该怎么开口…像上次姐姐主动问我最近怎么样，我一开始挺想聊聊自己的感受，可最后还是只是简单回答了一句“还好吧”，然后就没继续说了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "可能两者都有吧…我确实害怕她听了之后觉得我的问题不重要，或者只是敷衍回应。而且我也担心自己说得不够清楚，会让人觉得我太敏感或者太复杂，这种顾虑常常让我选择沉默。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧…我确实害怕她听了之后觉得我的问题不重要，或者只是敷衍回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "如果可以，我希望自己能更坦然地说出自己的真实感受，比如告诉她我最近真的很焦虑，想找人聊聊…而理想的回应可能是她认真听我说，给我一些安慰或者建议，让我感觉她真的在乎我的情绪，而不是只是随便应付几句。",
+    "has_specific_detail": true,
+    "specific_detail": "如果可以，我希望自己能更坦然地说出自己的真实感受，比如告诉她我最近真的很焦虑，想找人聊聊…而理想的回应可能是她认真听我说，给我一些安慰或者建议，让我感觉她真的在乎我的情绪，而不是只是随便应付几句",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得这会让我对她的信任感增加不少吧，也可能会更愿意向她敞开心扉…而且我的心情应该会轻松很多，至少不会再那么压抑，可能也会开始觉得自己是值得被关注的。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这会让我对她的信任感增加不少吧，也可能会更愿意向她敞开心扉…而且我的心情应该会轻松很多，至少不会再那么压抑，可能也会开始觉得自己是值得被关注的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "或许可以试着从一些简单的事情入手吧，比如聊聊我最近的学习压力或者对未来的担忧，这些可能不会显得太敏感…这样也许能让我稍微放松一点，不会觉得表达是一种冒险。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试着从一些简单的事情入手吧，比如聊聊我最近的学习压力或者对未来的担忧，这些可能不会显得太敏感…这样也许能让我稍微放松一点，不会觉得表达是一种冒险",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我想如果她真的认真听了，我可能会鼓起勇气继续聊吧，尤其是聊一些我内心的焦虑和孤独感…但前提是她的回应能让我觉得自己是被理解的，这样才能让我更安心地继续表达。",
+    "has_specific_detail": true,
+    "specific_detail": "我想如果她真的认真听了，我可能会鼓起勇气继续聊吧，尤其是聊一些我内心的焦虑和孤独感…但前提是她的回应能让我觉得自己是被理解的，这样才能让我更安心地继续表达",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，可能会退回到沉默吧，就像之前那样觉得“还是别说了”…不过我也可能尝试先观察她的反应，再决定是不是换个方式继续聊，比如用更轻松的语气或者换个话题看看她的态度。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能会退回到沉默吧，就像之前那样觉得“还是别说了”…不过我也可能尝试先观察她的反应，再决定是不是换个方式继续聊，比如用更轻松的语气或者换个话题看看她的态度",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，确实会有点不安吧，毕竟每次主动尝试都会带着一些期待，如果最终没有回应，还是会觉得失望…不过比起完全沉默，这样的尝试至少让我感觉自己有在努力，而不是完全放弃关系。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，确实会有点不安吧，毕竟每次主动尝试都会带着一些期待，如果最终没有回应，还是会觉得失望…不过比起完全沉默，这样的尝试至少让我感觉自己有在努力，而不是完全放弃关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，有一次我试着跟姐姐聊我的学业压力，虽然她没有特别深入回应，但至少认真听了，还说了一句“别太给自己压力”。虽然话不多，但我还是觉得自己做得不错，至少迈出了表达的第一步，这让我稍微有点成就感。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有一次我试着跟姐姐聊我的学业压力，虽然她没有特别深入回应，但至少认真听了，还说了一句“别太给自己压力”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得可以试着更具体地描述自己的感受，比如说“最近总是睡不好，担心考试”之类的，这样可能更容易让她明白我的状态…同时也可以主动问她的建议，让对话更有互动，而不是单纯倾诉。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着更具体地描述自己的感受，比如说“最近总是睡不好，担心考试”之类的，这样可能更容易让她明白我的状态…同时也可以主动问她的建议，让对话更有互动，而不是单纯倾诉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我想我需要提醒自己，表达不是为了讨好别人，而是为了让自己更舒服一点…同时也告诉自己，即使对方的反应不够理想，也不代表我的感受不重要，这样可能会让我更轻松地开口吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我想我需要提醒自己，表达不是为了讨好别人，而是为了让自己更舒服一点…同时也告诉自己，即使对方的反应不够理想，也不代表我的感受不重要，这样可能会让我更轻松地开口吧",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 19,
+    "content": "嗯，我觉得应该会更愿意吧，至少不会像以前那样总是害怕失败…可能还会试着聊一些更深的感受，比如自己对孤独感的看法，这样也许能慢慢建立起更真实的连接。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得应该会更愿意吧，至少不会像以前那样总是害怕失败…可能还会试着聊一些更深的感受，比如自己对孤独感的看法，这样也许能慢慢建立起更真实的连接",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我想让他们知道，其实我并不是故意疏远，而是一直觉得自己不被真正理解…我希望他们能看到我的情绪，而不是只关注表面上的“还好吧”，这样我可能会感觉没那么孤单。",
+    "has_specific_detail": true,
+    "specific_detail": "我想让他们知道，其实我并不是故意疏远，而是一直觉得自己不被真正理解…我希望他们能看到我的情绪，而不是只关注表面上的“还好吧”，这样我可能会感觉没那么孤单",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "可能会选择一个比较轻松的时机吧，比如一起吃饭或者随意聊天的时候，用比较平缓的语气提到自己的感受…这样可能会让我没那么紧张，也不会让对方觉得突然或者太沉重。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会选择一个比较轻松的时机吧，比如一起吃饭或者随意聊天的时候，用比较平缓的语气提到自己的感受…这样可能会让我没那么紧张，也不会让对方觉得突然或者太沉重",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "或许可以从简单的感受入手，比如“最近总觉得有点孤单，好像很少有人真正理解我”这样的话…既能表达我的情绪，又不会显得太强烈，应该更容易引出后面的交流吧。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从简单的感受入手，比如“最近总觉得有点孤单，好像很少有人真正理解我”这样的话…既能表达我的情绪，又不会显得太强烈，应该更容易引出后面的交流吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我可能会分享一些具体的经历，比如“有时候聊自己的问题，感觉对方只是随便回应几句，我就不知道该不该继续说了”…这样他们可能更容易理解我的孤单感是怎么来的，也许会愿意多听我说一点。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会分享一些具体的经历，比如“有时候聊自己的问题，感觉对方只是随便回应几句，我就不知道该不该继续说了”…这样他们可能更容易理解我的孤单感是怎么来的，也许会愿意多听我说一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "如果他们真的愿意倾听，我可能会聊一些更深的担忧，比如自己对未来的不确定感，或者对关系中总觉得缺少安全感的困惑…这些是我一直压在心里的东西，如果能说出来，可能会让我感觉更轻松，也更接近他们。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们真的愿意倾听，我可能会聊一些更深的担忧，比如自己对未来的不确定感，或者对关系中总觉得缺少安全感的困惑…这些是我一直压在心里的东西，如果能说出来，可能会让我感觉更轻松，也更接近他们",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我希望他们能用一种真诚的方式回应吧，比如认真听我说完，然后给一些具体的安慰或者建议…哪怕只是简单地表示理解，比如“我知道你很不容易”，都能让我觉得自己的感受是被看重的。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望他们能用一种真诚的方式回应吧，比如认真听我说完，然后给一些具体的安慰或者建议…哪怕只是简单地表示理解，比如“我知道你很不容易”，都能让我觉得自己的感受是被看重的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "可能可以提前在心里练习一下吧，比如想象对话的场景，试着把自己想说的话组织好…这样可以让我感觉更有掌控感，也减少临场时的紧张和犹豫。",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以提前在心里练习一下吧，比如想象对话的场景，试着把自己想说的话组织好…这样可以让我感觉更有掌控感，也减少临场时的紧张和犹豫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "嗯，我觉得可以试着告诉自己，对方的冷淡不一定是针对我的，也许只是他们的状态不好…然后调整自己的表达，比如换个更轻松的话题，或者暂时结束对话，给彼此一些缓冲空间。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以试着告诉自己，对方的冷淡不一定是针对我的，也许只是他们的状态不好…然后调整自己的表达，比如换个更轻松的话题，或者暂时结束对话，给彼此一些缓冲空间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "或许可以试着给自己一点积极的暗示，比如告诉自己“至少我迈出了尝试的第一步，这已经很勇敢了”…然后做些让自己放松的事情，比如听音乐或者写下自己的感受，让心情慢慢好起来。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试着给自己一点积极的暗示，比如告诉自己“至少我迈出了尝试的第一步，这已经很勇敢了”…然后做些让自己放松的事情，比如听音乐或者写下自己的感受，让心情慢慢好起来",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 29,
+    "content": "我想关系可能会变得稍微更亲近吧，比如聊天时不再那么拘谨，能多一点情感上的交流…而且我自己可能也会觉得更有信心，不再总是害怕表达会失败，这种变化应该会让我更愿意主动去靠近他们。",
+    "has_specific_detail": true,
+    "specific_detail": "我想关系可能会变得稍微更亲近吧，比如聊天时不再那么拘谨，能多一点情感上的交流…而且我自己可能也会觉得更有信心，不再总是害怕表达会失败，这种变化应该会让我更愿意主动去靠近他们",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得自己已经开始学着更坦然地面对自己的情绪，并尝试用温和的方式表达感受，这算是一个不错的开始吧…不过我觉得还需要努力减少对失败的过度担心，学会更灵活地调整自己的期待，这样可能会让自己更轻松些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得自己已经开始学着更坦然地面对自己的情绪，并尝试用温和的方式表达感受，这算是一个不错的开始吧…不过我觉得还需要努力减少对失败的过度担心，学会更灵活地调整自己的期待，这样可能会让自己更轻松些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "或许可以从和姐姐聊天时的轻松话题入手吧，比如聊一些学习上的小烦恼或者最近看的电影…这些内容比较日常，不容易让人觉得沉重，也让我更容易放松地表达自己，同时观察她的反应来调整沟通方式。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从和姐姐聊天时的轻松话题入手吧，比如聊一些学习上的小烦恼或者最近看的电影…这些内容比较日常，不容易让人觉得沉重，也让我更容易放松地表达自己，同时观察她的反应来调整沟通方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "是的，我觉得如果这次尝试能让我感到被关注和理解，可能会让我更有信心去聊一些内心深处的感受，比如对关系中的孤独感或者未来的不安…感觉这会是迈向更亲密互动的一步。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得如果这次尝试能让我感到被关注和理解，可能会让我更有信心去聊一些内心深处的感受，比如对关系中的孤独感或者未来的不安…感觉这会是迈向更亲密互动的一步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "如果成功迈出了这一步，我可能会重新认识到自己其实有能力去改善关系，也值得被关注和理解…对关系的期待也许会变得更积极，比如希望能在更多时候感受到彼此的支持，而不是总觉得孤单或者疏远。",
+    "has_specific_detail": true,
+    "specific_detail": "如果成功迈出了这一步，我可能会重新认识到自己其实有能力去改善关系，也值得被关注和理解…对关系的期待也许会变得更积极，比如希望能在更多时候感受到彼此的支持，而不是总觉得孤单或者疏远",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我觉得最需要坚持的是主动表达自己的感受，而不是一味沉默或者回避…同时也需要注意避免过度依赖对方的回应来评判自己价值，告诉自己，无论结果如何，我的感受都是值得被关注的。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最需要坚持的是主动表达自己的感受，而不是一味沉默或者回避…同时也需要注意避免过度依赖对方的回应来评判自己价值，告诉自己，无论结果如何，我的感受都是值得被关注的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我想我会对现在的自己说：“谢谢你没有放弃尝试，虽然过程不容易，但你的勇气让一切变得可能。”这种成长会让我更加相信自己的力量，也更珍惜家人之间逐渐建立的亲密感。",
+    "has_specific_detail": true,
+    "specific_detail": "我想我会对现在的自己说：“谢谢你没有放弃尝试，虽然过程不容易，但你的勇气让一切变得可能",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 36,
+    "content": "谢谢你的支持和陪伴，这让我觉得轻松了不少。今天聊到这里差不多了，这些问题我想再消化一下，下次再继续聊吧。",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的支持和陪伴，这让我觉得轻松了不少",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "谢谢你的理解和耐心陪伴，这让我感觉自己并不是孤单的。下次有新的进展我会再来找你聊聊！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的理解和耐心陪伴，这让我感觉自己并不是孤单的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "谢谢你的鼓励和支持，这真的让我感觉好多了！我会继续努力，下次再来分享我的进展吧。",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励和支持，这真的让我感觉好多了！我会继续努力，下次再来分享我的进展吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "谢谢你的鼓励，我会继续努力！期待下次再聊，也希望能带来一些好的消息。下次见！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励，我会继续努力！期待下次再聊，也希望能带来一些好的消息",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  }
+]

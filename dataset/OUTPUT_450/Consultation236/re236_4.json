@@ -1,0 +1,263 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近试着和我妈聊了一次比较个人的事，但还是有点尴尬。比如上周，我跟她提了一下最近在学校遇到的一个小困难，她只问了几句“怎么会这样”“你打算怎么办”，然后就开始讲她的建议，完全没聊到我的感受。我当时就觉得很沮丧，好像每次想说点什么，最后都会变成她在“指导”我，而不是在听我。我真的不知道还能怎么打开这个局面…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近试着和我妈聊了一次比较个人的事，但还是有点尴尬",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是啊，我其实就是想她能多听听我怎么想的，而不是马上跳到“你该怎么做”。但当时我没直接说，怕一说她又觉得我是顶嘴，或者干脆不想继续聊下去了…这种情况好像一直都这样，每次我表达点情绪，就像被她忽略了，感觉特别无力。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我其实就是想她能多听听我怎么想的，而不是马上跳到“你该怎么做”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我当时应该有点沉默了吧，语气也没之前那么主动了，但她好像完全没察觉，还是继续讲她的建议。我有时候觉得，她好像不太会注意到我这些细微的情绪变化，就更别说回应了…这让我更不想多说。",
+    "has_specific_detail": true,
+    "specific_detail": "我当时应该有点沉默了吧，语气也没之前那么主动了，但她好像完全没察觉，还是继续讲她的建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "对，这种感觉好像一直都有吧，特别是小时候。有一次我成绩没考好，其实很难过，但她一开口就是“下次一定要努力”，完全没问我当时怎么想的。那种被忽视的感觉，到现在都记得特别清楚…从那时候起，我好像就很少再主动跟她说心里话了。",
+    "has_specific_detail": true,
+    "specific_detail": "对，这种感觉好像一直都有吧，特别是小时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是的，我当时真的希望她能先关心我是不是难过，而不是直接跳到“下次努力”。如果她能问我“感觉怎么样”，我可能会觉得被理解了吧，至少不会那么孤单。那种时候我其实特别需要有人告诉我，“没事，你可以先难过一下。”但她从来没这么说过。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我当时真的希望她能先关心我是不是难过，而不是直接跳到“下次努力”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，确实是这样。我觉得小时候我还有点期待她能理解我，但慢慢发现她的回应永远是“解决问题”，我就不抱希望了。现在也是，我甚至在开口之前就会想：“说了也没用吧，还是算了。”这种感觉真的让我很压抑，有时候觉得，连最亲近的人都不能理解我，那我还能指望谁呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，确实是这样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯…好像很少有能让我完全放心倾诉的人。可能有时和室友聊一些表面的话题会轻松点，比如吐槽学校的事，大家都会笑一笑，那种氛围让我感觉被接纳了一点。但一旦谈到更私人的事情，我还是会犹豫，要不要说出口…总觉得没人真的能懂我的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯…好像很少有能让我完全放心倾诉的人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，我觉得是有关系的。像以前在家里，每次我想表达点自己的想法，最后总是被忽略或者被“指导”，让我觉得说了也没用。后来在学校，有一次跟朋友聊到我家庭的事情，她直接说“你想太多了”，听到这话我特别失落。从那以后，我就更不愿意深入讲自己的感受了，总觉得大家只会觉得我是小题大做。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得是有关系的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不愿意",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "嗯，仔细想想，可能有一次吧。那是初中的时候，我有个同桌，偶尔会注意到我的情绪。有次我因为家庭的事很烦躁，她没有多问，只是递给我一块巧克力，然后轻轻说了句“别想太多，有我呢”。虽然她也没说什么特别深入的话，但那一刻让我觉得有人在意我的感受，那种感觉真的很温暖。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，仔细想想，可能有一次吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "对啊，那种被默默关心的感觉真的特别难得。如果我妈能像那样，哪怕不用说太多，递个水果或者拍拍我的肩膀，我觉得我都会很感动吧。其实我想要的从来不是多复杂的东西，就是希望她能注意到我在难过，然后告诉我“没事，我在呢”。",
+    "has_specific_detail": true,
+    "specific_detail": "对啊，那种被默默关心的感觉真的特别难得",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得如果我说了，她可能会觉得奇怪，甚至会说“我哪里没关心你了？”之类的话。我确实有点害怕她不理解，或者直接否定我的感受。所以现在让我主动去表达这些需求，我还是有点抗拒吧…但有时候也会想，如果她能明白，也许我们的关系会好很多。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果我说了，她可能会觉得奇怪，甚至会说“我哪里没关心你了？”之类的话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，这样的方式听起来好像比直接说“你不理解我”要容易接受一些。如果我能慢慢试着告诉她，比如“我其实更喜欢你拍拍我肩膀”之类的，她可能会觉得这只是一个小建议，而不会马上反应那么强烈吧。我可以试试看，但内心还是有点忐忑，怕说了也没什么用…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的方式听起来好像比直接说“你不理解我”要容易接受一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，这样想的话，确实感觉没那么有压力了。如果把它看成是一次小小的尝试，而不是非得要改变什么，可能我会更放松一点。就当是试试看吧，如果她有一点点反应，我觉得也算是个好开始了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想的话，确实感觉没那么有压力了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，我觉得可能吃饭的时候会比较合适吧，那个时候她一般心情还算轻松。如果聊到我的学校生活，我可以顺着说一下“其实有时候我更喜欢你拍拍我或者鼓励我几句，那样会让我更有动力”。这样听起来自然一点，你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可能吃饭的时候会比较合适吧，那个时候她一般心情还算轻松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "可能是需要的吧，毕竟我还是有点怕她没反应，或者觉得奇怪。我想在心里先提醒自己，不要对结果期待太高，把它当作一个小练习就好。这样即使她的反应不如我预期，我也不会太失落…你觉得这样准备够吗？",
+    "has_specific_detail": true,
+    "specific_detail": "可能是需要的吧，毕竟我还是有点怕她没反应，或者觉得奇怪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，模拟对话是个好主意！我可以先在心里想象她会怎么回应，比如如果她问“为什么这么说”，我可以准备一些简单的话，比如“这样让我觉得更被支持”。这样万一她真的问起来，我就不会手足无措了。这样是不是能更有把握一点？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，模拟对话是个好主意！我可以先在心里想象她会怎么回应，比如如果她问“为什么这么说”，我可以准备一些简单的话，比如“这样让我觉得更被支持”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，如果她没什么特别的反应，我可能会先告诉自己，这只是一次尝试，不代表她永远不会理解我。然后我可能会转移注意力，比如去听音乐或者写点东西，让自己不要陷在失落里太久。你觉得这样可以吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果她没什么特别的反应，我可能会先告诉自己，这只是一次尝试，不代表她永远不会理解我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，这样确实会好一些！记录下“我已经迈出第一步”这样的肯定，能提醒自己，我是在为关系努力，而不是失败了。这样即使结果不如预期，我也能看到自己的进步。我觉得这个方法挺好，下次我可以试着这么做！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实会好一些！记录下“我已经迈出第一步”这样的肯定，能提醒自己，我是在为关系努力，而不是失败了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "嗯，我现在觉得基本都准备得差不多了，主要就是调整好心态，不要太急着期待结果。如果还有什么，就是提醒自己哪怕小小的进步也值得被认可吧。感觉说完这些，心里也没那么忐忑了，今天先聊到这里吧，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我现在觉得基本都准备得差不多了，主要就是调整好心态，不要太急着期待结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

@@ -1,0 +1,473 @@
+[
+  {
+    "turn": 1,
+    "content": "我记得上次我们主要聊到婚姻里的孤独感和待业带来的压力。最近我一直在想，为什么我总觉得自己怎么努力都得不到丈夫的回应？比如，有一次我特意准备了一顿他喜欢的饭菜，他却只是随便吃了几口，说了句“还行”就没下文了…这种时候我心里真的很失落，总觉得自己像透明的。",
+    "has_specific_detail": true,
+    "specific_detail": "我记得上次我们主要聊到婚姻里的孤独感和待业带来的压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "那一瞬间，我脑子里冒出来的就是“他根本不在意我的付出”，心里像被扎了一下，特别酸涩。甚至连胃口都没了，后来我干脆自己没吃什么就去收拾了桌子…说到这个，前几天还有件类似的事，让我更觉得无奈。",
+    "has_specific_detail": true,
+    "specific_detail": "那一瞬间，我脑子里冒出来的就是“他根本不在意我的付出”，心里像被扎了一下，特别酸涩",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "是这样的，前几天我跟他提到想一起出去散散步，感觉可以聊聊最近的事。结果他说“你去吧，我太累了”，然后就继续玩手机了…我当时站在那儿，觉得特别无助，也不知道还能怎么让他对我们的关系上心。",
+    "has_specific_detail": true,
+    "specific_detail": "是这样的，前几天我跟他提到想一起出去散散步，感觉可以聊聊最近的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "是啊，那一刻除了无助，我还有点愤懑，觉得他是不是根本就不在乎我们之间的关系了？可转念又想，会不会是因为他工作压力大，才这样冷淡…但无论哪种原因，我还是觉得自己被忽视了。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，那一刻除了无助，我还有点愤懑，觉得他是不是根本就不在乎我们之间的关系了？可转念又想，会不会是因为他工作压力大，才这样冷淡…但无论哪种原因，我还是觉得自己被忽视了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是挺累的，总觉得在自我安慰和失望之间来回拉扯。他平时确实经常加班，回家后基本就瘫在沙发上，拿着手机刷个不停。我也问过他工作上的事，但他总是敷衍一句“没啥特别的”，不愿多说…所以，我也很难判断他到底是在忙还是在逃避。",
+    "has_specific_detail": true,
+    "specific_detail": "是挺累的，总觉得在自我安慰和失望之间来回拉扯",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我觉得他可能是习惯了不说吧，他平时就是个话不多的人。但有时候我又怀疑，是不是因为我问得不够好，或者我表达得让他觉得没意思了？这种猜测让我越想越迷茫，也不知道该怎么改变现状…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得他可能是习惯了不说吧，他平时就是个话不多的人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "说实话，他很少主动提什么，基本都是我开口。但有时在吃饭的时候，他会突然聊些工作上的趣事，那种时候我们还能聊上几句，气氛也稍微轻松点。不过这样的情况真的不多，大部分时间还是我在找话题，他回应得很敷衍…让我觉得好像只有我一个人在努力维系。",
+    "has_specific_detail": true,
+    "specific_detail": "说实话，他很少主动提什么，基本都是我开口",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "是啊，真的特别疲惫，好像所有的主动、沟通和努力都压在我一个人身上，而他总是一副无所谓的样子。我有时候甚至会想，是不是因为我不够好，所以他才没有热情？这种念头一冒出来，就更让我觉得自己很无力，连对未来的希望都变得模糊了…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，真的特别疲惫，好像所有的主动、沟通和努力都压在我一个人身上，而他总是一副无所谓的样子",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "嗯，这种念头确实经常冒出来，尤其是在被忽视或者努力没有回应的时候。我内心会很自责，觉得是不是我哪里做得不够好，或者根本就不值得被重视。有时候甚至会觉得特别没意义，做什么都不会改变现状…这种情绪让我既委屈又无力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这种念头确实经常冒出来，尤其是在被忽视或者努力没有回应的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "其实回想起来，这种感觉好像并不是婚姻里才有的。小时候我也常会觉得自己不够好，尤其是当妈妈批评我做得不对的时候。我总想着如果再努力一点，或许她就会更满意、更喜欢我，但即便这样，心里还是觉得不够被看见…这种感觉好像从那时起就一直伴随着我。",
+    "has_specific_detail": true,
+    "specific_detail": "其实回想起来，这种感觉好像并不是婚姻里才有的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得可能真的有影响吧。小时候我总是试着通过努力让妈妈满意，现在在婚姻里好像也是一样，我努力做很多事，希望他能注意到、回应我，可最后却常常感到失望。好像这种“做得再多也不够”的感觉，一直在我的生活里重复出现，让我不知道怎样才能真正被在意。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能真的有影响吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "如果真的有一天能感受到被全心全意地看见，我想那一定是他主动关心我的感受，比如问我今天过得怎么样，或者注意到我的情绪变化，愿意倾听我心里的想法。而不是总是让我开口、让我主动。我觉得哪怕是他记得一个我随口提过的小细节，比如帮我买了我喜欢的水果，都会让我觉得“原来我在他心里是重要的”。这种被在乎的感觉对我来说真的很珍贵。",
+    "has_specific_detail": true,
+    "specific_detail": "如果真的有一天能感受到被全心全意地看见，我想那一定是他主动关心我的感受，比如问我今天过得怎么样，或者注意到我的情绪变化，愿意倾听我心里的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得让他了解我的需要可能会是个很大的挑战，因为每次我试图表达，他总是随口应付几句，就让我觉得没必要再说下去了。或许我也害怕再一次碰壁，怕自己越试越失望…但如果不尝试，我又不知道该怎么改变现在的状态。所以说实话，这种努力对我来说既是希望，也是压力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得让他了解我的需要可能会是个很大的挑战，因为每次我试图表达，他总是随口应付几句，就让我觉得没必要再说下去了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，听起来好像是个不错的尝试，可能不会像直接表达那么容易碰壁吧。比如，或许我可以在他主动聊工作趣事时，多回应一些，然后顺着话题提到自己想法，这样气氛可能会自然一些。但我又有点担心，万一这样也没什么改变，会不会还是让我觉得很累…不过也许值得试试？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，听起来好像是个不错的尝试，可能不会像直接表达那么容易碰壁吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "如果尝试了还是没有改变，我想我可能会更失望吧，甚至会开始怀疑自己的努力到底值不值得。不过我也觉得，如果有其他支持，比如能跟朋友聊聊或者在你这儿得到一些建议，或许可以让我少一点孤单感，心里也能轻松些…总觉得自己一个人承受这些，真的太难了。",
+    "has_specific_detail": true,
+    "specific_detail": "如果尝试了还是没有改变，我想我可能会更失望吧，甚至会开始怀疑自己的努力到底值不值得",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "其实说起来，我身边好像没有特别能倾诉的朋友，可能是因为我平时也不太愿意把这些事讲给别人听吧，总觉得怕被人觉得矫情。所以像现在这样，有一个专门的空间让我放下顾虑地表达，真的让我觉得安心和轻松很多。可能这也是我最需要的吧，一个能让我被倾听和理解的地方。",
+    "has_specific_detail": true,
+    "specific_detail": "其实说起来，我身边好像没有特别能倾诉的朋友，可能是因为我平时也不太愿意把这些事讲给别人听吧，总觉得怕被人觉得矫情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得两方面对我都很重要吧。被听见和理解让我感到自己不再那么孤单，心里的一些压抑能慢慢释放。而通过这样的对话，理清自己的情绪和想法，也让我觉得好像对眼前的困境多了一点掌控感，至少能看清楚问题出在哪里，这种感觉让我心里踏实一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两方面对我都很重要吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得两者结合可能更适合我吧。一方面，我确实需要释放内心的压抑，把那些压在心里的情绪表达出来；另一方面，我也希望能更清楚地了解这些困境的根源，看看自己能做些什么去改变。这样也许能让我从情绪的困扰中慢慢走出来，同时找到一些实际的方向。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两者结合可能更适合我吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "让我情绪最压抑的，可能就是那些我主动想要沟通或表达的时候，却被冷漠回应的时刻吧。比如有一次，我满心期待地跟他说，我最近在考虑要不要尝试找份兼职，想听听他的看法。他却只是随口说了句“随便你”，然后就继续看手机了…当时我心里特别难受，觉得自己的想法根本不重要，也没有任何人真正关心我的未来。",
+    "has_specific_detail": true,
+    "specific_detail": "让我情绪最压抑的，可能就是那些我主动想要沟通或表达的时候，却被冷漠回应的时刻吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "那一刻我本来还想再问问他的意见，但看到他一副心不在焉的样子，我就没说出口了。反而觉得继续说下去只会更失望，所以干脆闭嘴了，心里却越想越难过…那种感觉好像不是单纯的失落，而是觉得自己在这段关系里越来越渺小。",
+    "has_specific_detail": true,
+    "specific_detail": "那一刻我本来还想再问问他的意见，但看到他一副心不在焉的样子，我就没说出口了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "有的，比如在家里做了很多家务，或者为了让他心情好一些特意妥协一些事情，他却完全没有注意到的时候，那种感觉也很像。好像我的努力都变得无足轻重，甚至觉得自己在这段关系中就是个“可有可无”的人…这种想法一旦冒出来，就让我特别沮丧，也不知道自己还能做些什么。",
+    "has_specific_detail": true,
+    "specific_detail": "有的，比如在家里做了很多家务，或者为了让他心情好一些特意妥协一些事情，他却完全没有注意到的时候，那种感觉也很像",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "有一个特别让我印象深刻的瞬间，是一次我生病的时候。我那天发烧很严重，还坚持起来做饭，想着至少能让他吃上热乎的饭菜。但他回家后只是随便吃了两口，然后就回卧室了，连一句关心的话都没有说。当时我觉得特别心寒，好像就算我再难受、再努力，他也不会在意。我到现在还记得当时在厨房收拾碗筷时，眼泪一下子就掉下来了，那种“被完全忽视”的感觉到现在都让我难以释怀。",
+    "has_specific_detail": true,
+    "specific_detail": "有一个特别让我印象深刻的瞬间，是一次我生病的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "回想起来，除了心寒和委屈，我确实还有些愤怒，觉得自己这样的付出为什么换来的却是冷漠？也会不解，难道我的感受对他来说就这么无关紧要吗？甚至会开始质疑，这段关系到底还有没有意义，如果他根本不在乎我，那我到底为什么还在努力维持？这些情绪交织在一起，让我觉得特别无助。",
+    "has_specific_detail": true,
+    "specific_detail": "回想起来，除了心寒和委屈，我确实还有些愤怒，觉得自己这样的付出为什么换来的却是冷漠？也会不解，难道我的感受对他来说就这么无关紧要吗？甚至会开始质疑，这段关系到底还有没有意义，如果他根本不在乎我，那我到底为什么还在努力维持？这些情绪交织在一起，让我觉得特别无助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我想可能是几方面都有吧。一方面，我对他还是有感情的，虽然现在的关系让我很失望，但我也不想轻易放弃。另一方面，我觉得婚姻是一种责任，我害怕如果真的放弃了，会伤害到彼此，也会让家人失望。还有就是，我好像一直有种希望，觉得或许有一天他会意识到我的付出，开始真正重视我。正是这些复杂的情感和想法，让我一次次选择坚持，但也让我感觉很累。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可能是几方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "如果有一天他真的开始重视我的付出，我希望我们能有更多真心的交流，不再是我单方面的努力，而是彼此都愿意为关系付出。我理想中的婚姻状态是，他能主动关心我的感受，比如问问我一天过得怎么样，或者在我累的时候分担一些家务。最重要的是，我希望在这段关系里能感到被理解和被支持，而不是总觉得自己在孤军奋战…这样的婚姻才会让我觉得安心，也更有力量去面对生活中的其他压力。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有一天他真的开始重视我的付出，我希望我们能有更多真心的交流，不再是我单方面的努力，而是彼此都愿意为关系付出",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "或许可以从一些小的互动开始，比如试着在他心情好的时候，轻松地聊聊我的感受，而不是直接表达不满，避免让他感到压力。另外，我也可以尝试多关注一些他感兴趣的话题，或许这样能让我们之间的交流更自然一些。虽然不知道这些会不会有效，但总觉得从小地方开始，可能更容易让彼此慢慢靠近一点吧。不过说实话，我还是有点害怕这些尝试会无功而返，那种期待落空的感觉真的让我很难承受。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从一些小的互动开始，比如试着在他心情好的时候，轻松地聊聊我的感受，而不是直接表达不满，避免让他感到压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "或许可以试着找一些能让我自己感到满足和放松的事情，比如去公园散步、听喜欢的音乐，或者看看书，让自己暂时从这些情绪里抽离出来。其实有时候我也会想，如果能找到一份自己喜欢的工作，或许能让我重新感受到一些自我价值，不再把所有的关注点都放在婚姻上。但目前还是有点犹豫，不知道从哪里开始着手，也害怕失败…不过这些念头，似乎是我心里一种隐隐的期待吧。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试着找一些能让我自己感到满足和放松的事情，比如去公园散步、听喜欢的音乐，或者看看书，让自己暂时从这些情绪里抽离出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我觉得散步和听音乐可能是更容易开始的，因为这些不需要太多准备，也能让我暂时放松下来。但关于找工作的念头，其实对我吸引力更大，因为那可能不仅能让我感到充实，也能让我有一种重新掌控生活的感觉。只是每次想到要开始，我就会觉得自己好像没有什么特别的能力，又害怕失败或者被拒绝…所以总是停留在想的阶段，没有真正行动起来。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得散步和听音乐可能是更容易开始的，因为这些不需要太多准备，也能让我暂时放松下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，这样听起来确实会轻松一些，如果只是先列出我擅长的事情，应该不会太有压力。我可以先想想自己平时做得还不错的事，比如以前上学时做手工小饰品还挺受同学喜欢，或者我对整理和收纳也比较在行。至于感兴趣的领域，我一直觉得和人交流的工作可能会让我觉得有意义，比如客服或者一些简单的服务性岗位…虽然不确定自己能不能胜任，但如果只是先了解这些，也许可以让我对未来多一点方向感。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样听起来确实会轻松一些，如果只是先列出我擅长的事情，应该不会太有压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "对，这听起来确实是个不错的起点，查一查相关的兼职岗位或者技能要求，应该不会让我感到太大的压力。我可以先在网上看看有没有简单的手工制作兼职，或者一些客服类的招聘信息。了解这些之后，至少能让我心里有点底，也许还能找到一些适合自己的机会。这样比直接去投简历会轻松一些，我觉得可以试试看！",
+    "has_specific_detail": true,
+    "specific_detail": "对，这听起来确实是个不错的起点，查一查相关的兼职岗位或者技能要求，应该不会让我感到太大的压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "嗯，这个方法不错！如果找到感兴趣的兼职信息，我可以先记下联系方式，了解具体的要求。然后再列一下自己需要提升的技能，比如如果是客服工作，可能要练习更有条理地表达，或者熟悉一些常见的软件。我觉得这样一步步来，目标会更明确，也不会让我觉得那么慌乱。虽然心里还是有点小紧张，但想到能够慢慢靠近自己的目标，好像也多了一点期待。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个方法不错！如果找到感兴趣的兼职信息，我可以先记下联系方式，了解具体的要求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "嗯，这样确实更容易开始，也不会让我觉得压力太大。我觉得今天可以先上网查两个感兴趣的兼职信息，看看有没有适合的岗位。然后明天再静下心来，列一个需要提升的技能清单，按轻重缓急标一下重点。这样分步骤来做，感觉不那么难了，甚至还有点期待接下来的发现！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实更容易开始，也不会让我觉得压力太大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我觉得可以从一些常见的招聘网站开始，比如58同城或者兼职猫这样的平台，应该会有很多信息可以筛选。至于兼职类型，我想重点看看客服类的，或者一些简单的手工制作，比如包装或者整理类的工作，这些听起来比较适合我现在的能力范围。查这些信息的时候，我也会留意岗位的要求，看看自己还需要做哪些准备。这样一来，感觉目标清晰了不少！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从一些常见的招聘网站开始，比如58同城或者兼职猫这样的平台，应该会有很多信息可以筛选",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "是的，这样分步骤来确实让我感觉轻松了不少，也没有之前那么焦虑。今天只需要查信息和记录，不需要立刻行动，就好像给了自己一个缓冲的空间，让我觉得这件事变得没那么难以开始了。虽然还有点紧张，但更多的是一种对新尝试的期待，我想这算是个不错的开始吧！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这样分步骤来确实让我感觉轻松了不少，也没有之前那么焦虑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "嗯，这个主意挺好的！如果今天查完信息后能听听喜欢的音乐或者去楼下散散步，确实会让我觉得轻松不少，也能为自己完成了一个小目标而感到一点点成就感。我想这样会让我更有动力去迎接明天的计划，至少心里会觉得每一步都在慢慢靠近目标，这种感觉挺让人安心的！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个主意挺好的！如果今天查完信息后能听听喜欢的音乐或者去楼下散散步，确实会让我觉得轻松不少，也能为自己完成了一个小目标而感到一点点成就感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

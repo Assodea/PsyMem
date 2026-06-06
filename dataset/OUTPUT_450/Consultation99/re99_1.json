@@ -1,0 +1,1376 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近总觉得特别孤独，尤其是晚上一个人待着的时候。我会想起奶奶，感觉心里空荡荡的，怎么都填不满…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近总觉得特别孤独，尤其是晚上一个人待着的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是啊，奶奶一直是最关心我的人。小时候她总会听我讲学校的事，还会在我生病时整夜陪着我。她让我觉得自己是被爱着的，可现在那种感觉好像再也找不到了…。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，奶奶一直是最关心我的人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "会啊，尤其是她做的红烧肉，总觉得没有人能做得像她那么好吃。有时候闻到类似的味道，就会想起她，那种温暖的感觉瞬间涌上来，但接着又是难过…",
+    "has_specific_detail": true,
+    "specific_detail": "会啊，尤其是她做的红烧肉，总觉得没有人能做得像她那么好吃",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "有时会买点零食吃，或者开着电视却不看，只是让屋里有点声音。但更多时候，我会忍不住翻奶奶的照片，看着看着就哭了，感觉情绪越压越沉…。",
+    "has_specific_detail": true,
+    "specific_detail": "有时会买点零食吃，或者开着电视却不看，只是让屋里有点声音",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "其实很少跟家人聊，我觉得他们可能不会理解我的感受。有时候想找朋友说，但又怕自己太情绪化，反而让别人觉得麻烦。所以多数时候还是自己默默承受吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "其实很少跟家人聊，我觉得他们可能不会理解我的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "家人之间的关系有点疏远，感觉我们不会谈太多心事。朋友的话偶尔会关心，但我总觉得他们只是礼貌性的问问，没什么深入的交流…有时候，我甚至不知道该怎么跟他们开口说自己的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "家人之间的关系有点疏远，感觉我们不会谈太多心事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "是啊，我总觉得即使说了，他们也不会真正理解我的感受。像奶奶那样无条件的关爱，别人好像很难给我。我怕自己说出来后，不仅没得到安慰，反而更失望…。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我总觉得即使说了，他们也不会真正理解我的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "好像没有特别深的，大学时有个室友对我挺好的，我们偶尔会聊一些心事。但后来毕业后联系少了，关系也渐渐淡了。那种被理解的感觉很短暂，现在想起来有点遗憾…。",
+    "has_specific_detail": true,
+    "specific_detail": "好像没有特别深的，大学时有个室友对我挺好的，我们偶尔会聊一些心事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "有想过联系她，但总觉得不知道该怎么开口，怕她会觉得突然或尴尬。至于其他关系，我好像很少主动靠近别人，总觉得他们不会真的理解我，就没去尝试…。",
+    "has_specific_detail": true,
+    "specific_detail": "有想过联系她，但总觉得不知道该怎么开口，怕她会觉得突然或尴尬",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "应该是害怕暴露自己的脆弱吧。我总觉得如果别人知道我内心有这么多问题，可能会觉得我很麻烦。再加上之前尝试表达过，但得到的回应让我觉得自己是在自讨没趣，所以后来就慢慢不愿主动了…。",
+    "has_specific_detail": true,
+    "specific_detail": "应该是害怕暴露自己的脆弱吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，有一次我跟一个同事提起自己最近的低落情绪，她随便说了句“别想太多就好了”，感觉特别敷衍。那种被忽视的感觉让我觉得，还是不要再跟别人说这些了，免得更难受…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有一次我跟一个同事提起自己最近的低落情绪，她随便说了句“别想太多就好了”，感觉特别敷衍",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "有一次，一个朋友知道我最近心情不好，主动约我出去吃饭，还听我讲了很多。我能感受到她的关心，但我还是没敢说太多，怕自己情绪太重，让她觉得压力大…。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次，一个朋友知道我最近心情不好，主动约我出去吃饭，还听我讲了很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "对，除了怕让她觉得有压力，我也担心自己说出来后会显得很脆弱，好像无法自我调节似的。还有就是，有些感受太复杂了，我觉得自己也讲不清楚，怕她听了会困惑或者不理解…。",
+    "has_specific_detail": true,
+    "specific_detail": "对，除了怕让她觉得有压力，我也担心自己说出来后会显得很脆弱，好像无法自我调节似的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，孤独感是最明显的，尤其是夜里一个人时，感觉整个世界都跟我隔绝了。我还常常感到一种没办法控制的失落，就像被困在情绪的漩涡里，怎么都走不出来…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，孤独感是最明显的，尤其是夜里一个人时，感觉整个世界都跟我隔绝了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "可能是回忆吧，奶奶的影子总会浮现出来，还有小时候那些感觉被关爱的片段。但同时也会担心未来，怕自己一直这样孤单下去，找不到真正的支持和方向…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是回忆吧，奶奶的影子总会浮现出来，还有小时候那些感觉被关爱的片段",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我希望能有一个真正理解我的人，可以像奶奶那样倾听我的感受，不用担心被评价或敷衍。生活上，希望自己能找到一些目标，不再觉得每天都没意义，能有一点动力去努力…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能有一个真正理解我的人，可以像奶奶那样倾听我的感受，不用担心被评价或敷衍",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "偶尔会试着画画，虽然画得不太好，但在画的过程中能稍微安静下来，好像暂时忘掉那些烦恼。有时候完成一幅画，会有一点点成就感，但这种感觉总是很短暂…。",
+    "has_specific_detail": true,
+    "specific_detail": "偶尔会试着画画，虽然画得不太好，但在画的过程中能稍微安静下来，好像暂时忘掉那些烦恼",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "有想过，但每次刚开始都会觉得自己没天赋，可能学了也不会有什么进步，就打消了念头。其实有时候画的内容是我的情绪，但看着那些作品，又会让我陷入更多的低落…。",
+    "has_specific_detail": true,
+    "specific_detail": "有想过，但每次刚开始都会觉得自己没天赋，可能学了也不会有什么进步，就打消了念头",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "可能是觉得没意义吧，总觉得即使进步了，也不会改变我现在的状态。好像生活中缺少一种真正的目标，所以做什么都提不起太多劲头，甚至觉得努力了也没用…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是觉得没意义吧，总觉得即使进步了，也不会改变我现在的状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "可能是能让我觉得有价值的事情吧，比如能帮助别人或者创造点什么有意义的东西。但现在想起来，又觉得这些目标离我太远了，好像没办法真正实现…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是能让我觉得有价值的事情吧，比如能帮助别人或者创造点什么有意义的东西",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "应该是觉得自己不够好吧，总觉得无论怎么做，都达不到理想中的状态。加上平时的情绪总是影响我，让我没办法专注和坚持，最后就变成了放弃…。",
+    "has_specific_detail": true,
+    "specific_detail": "应该是觉得自己不够好吧，总觉得无论怎么做，都达不到理想中的状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "是啊，如果情绪能稳定一点，我可能会更愿意去尝试坚持。除了情绪，还有一种害怕失败的心理，总担心付出了努力后还是没有结果，感觉那样会更打击自己…。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，如果情绪能稳定一点，我可能会更愿意去尝试坚持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "有过，比如之前试着戒掉某种药物，刚开始几天觉得自己挺有希望，但后来情绪一波波涌上来，最后又复发了。当时特别沮丧，觉得自己连这种事都做不到，好像更没救了…。",
+    "has_specific_detail": true,
+    "specific_detail": "有过，比如之前试着戒掉某种药物，刚开始几天觉得自己挺有希望，但后来情绪一波波涌上来，最后又复发了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "应该是情绪压得太重吧，那段时间特别低落，总觉得没办法承受，就又依赖药物来缓解。加上独处的环境让我更容易陷入负面情绪，感觉没有什么支撑点可以帮助我坚持下去…。",
+    "has_specific_detail": true,
+    "specific_detail": "应该是情绪压得太重吧，那段时间特别低落，总觉得没办法承受，就又依赖药物来缓解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "可能会吧，如果有人能在我最难受的时候陪着我，或者帮我分散注意力，我可能不会那么容易复发。但当时感觉没有可以依靠的人，自己也没找到其他方法，就只能靠药物来熬过去…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果有人能在我最难受的时候陪着我，或者帮我分散注意力，我可能不会那么容易复发",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "有试过，比如每天晚上写几句话记录心情，但坚持了一段时间后又放弃了，总觉得写出来的东西还是让人难过。偶尔会听点音乐，但那种效果也很短暂，没办法真正改变什么…。",
+    "has_specific_detail": true,
+    "specific_detail": "有试过，比如每天晚上写几句话记录心情，但坚持了一段时间后又放弃了，总觉得写出来的东西还是让人难过",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我有想过主动联系朋友，但又担心自己说多了会让他们觉得累。其实有时候发个简单的问候也挺好的，但总觉得自己这样做好像没什么意义，最后还是没去行动…。",
+    "has_specific_detail": true,
+    "specific_detail": "我有想过主动联系朋友，但又担心自己说多了会让他们觉得累",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "也许会容易一些，但我总担心对方只是敷衍地回应，或者根本不感兴趣，这种想法常常让我打退堂鼓。还有就是怕自己主动了，结果关系也没有什么改变，觉得努力还是白费…。",
+    "has_specific_detail": true,
+    "specific_detail": "也许会容易一些，但我总担心对方只是敷衍地回应，或者根本不感兴趣，这种想法常常让我打退堂鼓",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "听起来是个好办法，但我还是会忍不住想着结果。如果对方回应得不好，我可能会觉得更加失望，甚至觉得自己不该主动。可能需要很大的勇气才能试着这样做吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "听起来是个好办法，但我还是会忍不住想着结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "嗯，这样可能会轻松一些，分享点有趣的事情好像也不那么让人压力大。不过，有时候我连找到“有趣的事情”都觉得困难，总觉得自己的生活没什么值得说的东西…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样可能会轻松一些，分享点有趣的事情好像也不那么让人压力大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "可能是兴趣减少了吧，以前还会试着去做些新鲜的事，比如学烘焙或者看电影，但现在总觉得这些都提不起劲头，好像做什么都没有太多意义，只是为了打发时间…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是兴趣减少了吧，以前还会试着去做些新鲜的事，比如学烘焙或者看电影，但现在总觉得这些都提不起劲头，好像做什么都没有太多意义，只是为了打发时间…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "有想过，比如去学一项技能或者尝试新的运动，但每次都觉得自己可能坚持不下来，最后还是放弃了。总感觉缺少一种动力，好像做什么都不会真正改变我的状态…。",
+    "has_specific_detail": true,
+    "specific_detail": "有想过，比如去学一项技能或者尝试新的运动，但每次都觉得自己可能坚持不下来，最后还是放弃了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "听起来是个好方法，但我总担心即使是小目标，也可能因为情绪波动坚持不了几天。似乎任何需要“每天做”的事情都会让我觉得压力很大，哪怕只是几分钟…。",
+    "has_specific_detail": true,
+    "specific_detail": "听起来是个好方法，但我总担心即使是小目标，也可能因为情绪波动坚持不了几天",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，一周一次听起来确实没那么有压力，感觉更容易接受一些。但还是会担心自己做了一次后就没有动力继续了，可能需要有人陪着或者督促我才能坚持下来吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，一周一次听起来确实没那么有压力，感觉更容易接受一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "有几个朋友可能会愿意，但我总觉得自己很难开口让他们陪我做这些事，怕他们觉得麻烦或者没兴趣。好像又回到了那个害怕主动的感觉，特别矛盾…。",
+    "has_specific_detail": true,
+    "specific_detail": "有几个朋友可能会愿意，但我总觉得自己很难开口让他们陪我做这些事，怕他们觉得麻烦或者没兴趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "这样听起来确实会轻松一些，感觉不会让对方觉得我在强求什么。但我还是会担心他们只是随口回应一下，并不真正感兴趣，最后我还是会觉得有点失落…。",
+    "has_specific_detail": true,
+    "specific_detail": "这样听起来确实会轻松一些，感觉不会让对方觉得我在强求什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "这样可能会好一些，至少我不会太在意对方怎么回应。不过有时候觉得自己表达了却没什么后续，好像也会让我觉得更孤单，像是在自言自语一样…。",
+    "has_specific_detail": true,
+    "specific_detail": "这样可能会好一些，至少我不会太在意对方怎么回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "嗯，这可能是个不错的办法，加个问题确实能让对话更自然一些。但我还是会担心对方觉得这话题太沉重，或者不愿深入聊，最后又变成了敷衍回应…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这可能是个不错的办法，加个问题确实能让对话更自然一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "这样确实会轻松不少，聊一些趣事感觉不会让人觉得太沉重。不过有时候觉得自己生活里没什么有趣的事情可以分享，又怕聊着聊着就冷场了，还是有点不安…。",
+    "has_specific_detail": true,
+    "specific_detail": "这样确实会轻松不少，聊一些趣事感觉不会让人觉得太沉重",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "嗯，这样确实能减轻压力，感觉把注意力放在对方身上会更容易聊起来。不过有时候又担心自己问了之后，别人觉得我只是敷衍地应付他们，还是会有点犹豫…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能减轻压力，感觉把注意力放在对方身上会更容易聊起来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "嗯，加具体细节确实会显得更真诚一些，感觉对方可能会更愿意聊下去。不过我还是会担心自己问得太多，让人觉得我很刻意，或者觉得不自在…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，加具体细节确实会显得更真诚一些，感觉对方可能会更愿意聊下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "听起来是个好办法，问一个问题后观察对方的反应确实会让人感觉不那么急迫。不过我还是会担心，如果对方反应冷淡，我可能会觉得自己很尴尬，或者更不敢继续问了…。",
+    "has_specific_detail": true,
+    "specific_detail": "听起来是个好办法，问一个问题后观察对方的反应确实会让人感觉不那么急迫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "嗯，有备用话题确实能缓解一些尴尬，感觉会让对话不至于突然停下来。不过我还是怕自己说的内容太无聊，让对方没兴趣聊下去，最后又陷入那种冷场的局面…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有备用话题确实能缓解一些尴尬，感觉会让对话不至于突然停下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "这样确实听起来更容易吸引对方关注，感觉聊他们的兴趣会让话题自然展开。不过有时候我又担心自己对他们的兴趣了解不够，说了可能显得很外行，反而让对方觉得没共鸣…。",
+    "has_specific_detail": true,
+    "specific_detail": "这样确实听起来更容易吸引对方关注，感觉聊他们的兴趣会让话题自然展开",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "嗯，这样表达好奇心确实会让对方更愿意分享，感觉会让话题自然一些。不过我还是怕自己听了之后接不上话，会显得很笨拙，或者让对方觉得聊不下去…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样表达好奇心确实会让对方更愿意分享，感觉会让话题自然一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "嗯，关注细节确实能帮我找到接话点，感觉会让对方觉得我真的在听。不过有时候怕自己抓不到关键点，或者说的东西让对方觉得无关紧要，还是会有点犹豫…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，关注细节确实能帮我找到接话点，感觉会让对方觉得我真的在听",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "嗯，这样重复对方的话确实会显得我在认真听，感觉也不会太难。不过我还是怕自己重复了之后，对方觉得没什么新意，或者觉得我只是敷衍，可能又会有点犹豫…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样重复对方的话确实会显得我在认真听，感觉也不会太难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "嗯，加入自己的感受确实会让回应更自然一些，也可能让对方觉得我是真心参与。但有时候我会觉得自己没什么特别的经历可以分享，怕说出来显得很普通或者没意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，加入自己的感受确实会让回应更自然一些，也可能让对方觉得我是真心参与",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "嗯，从小细节出发确实感觉更轻松一些，可能也不会让对方觉得太无聊。不过我还是会担心自己说的东西不够吸引人，甚至让对方觉得我的生活太单调…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，从小细节出发确实感觉更轻松一些，可能也不会让对方觉得太无聊",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "嗯，加上自己的情感确实会让分享更有温度一些，可能也会让对方更愿意回应。但有时候我觉得自己表达情感的能力不够，总怕说出来的感受显得很生硬或者让人误解…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，加上自己的情感确实会让分享更有温度一些，可能也会让对方更愿意回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "嗯，用具体例子确实感觉会更自然一些，好像也不容易被误解。不过有时候我觉得自己很难找到那些能描述的场景，可能还是因为生活里太少让我觉得暖心的时刻吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，用具体例子确实感觉会更自然一些，好像也不容易被误解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "嗯，留意那些细节确实可能会让我发现一些温暖的瞬间，感觉对情绪也会有点帮助。不过我还是怕自己注意到了，却没办法真正感受到那种温暖，好像心里总有一道隔阂…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，留意那些细节确实可能会让我发现一些温暖的瞬间，感觉对情绪也会有点帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "可能是对情感表达的不习惯吧，小时候除了奶奶，没有人真正关注我的感受。那种缺少回应的经历让我觉得，即使有美好的事物，我也很难完全信任它会持续存在…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是对情感表达的不习惯吧，小时候除了奶奶，没有人真正关注我的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "嗯，可能两方面都有吧。小时候总觉得除了奶奶没人真正关心我，后来渐渐怀疑自己是不是不值得被爱。现在每次遇到美好的事情，都会忍不住想：这真的属于我吗？还是只是一种错觉…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "也许会吧，主动的互动可能会让我慢慢觉得自己还是有机会被关心的。不过一想到开始行动，我又会担心自己表现不好，或者对方不愿回应，可能还是需要很大的勇气去尝试…。",
+    "has_specific_detail": true,
+    "specific_detail": "也许会吧，主动的互动可能会让我慢慢觉得自己还是有机会被关心的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "嗯，发一条简单的消息听起来确实没那么有压力，感觉会比直接说心事容易些。不过我还是会担心发了之后对方不回或者很敷衍，那种失落可能会让我更难受…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，发一条简单的消息听起来确实没那么有压力，感觉会比直接说心事容易些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "这样听起来确实更安全一些，熟悉的人可能会更愿意回应。不过我还是会忍不住想，如果他们的回应跟我的期待不一样，自己可能还是会觉得受挫，很难真正建立信心…。",
+    "has_specific_detail": true,
+    "specific_detail": "这样听起来确实更安全一些，熟悉的人可能会更愿意回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "嗯，把联系当成一种练习确实感觉会轻松一些，好像不会那么害怕结果。不过有时候还是会忍不住期待对方的回应，总觉得如果没有好结果，这种练习好像也失去了意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把联系当成一种练习确实感觉会轻松一些，好像不会那么害怕结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "这样确实听起来更有意义一些，把每次联系看成一种可能性感觉不那么局限于结果。不过要真的做到好像还是挺难的，我总会忍不住去想：如果没有回应，那这些尝试是不是还是白费了…。",
+    "has_specific_detail": true,
+    "specific_detail": "这样确实听起来更有意义一些，把每次联系看成一种可能性感觉不那么局限于结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "嗯，这样确实是个不错的角度，把联系当作是自己的一种突破，好像能让我更关注自己的进步。不过，我还是会担心，如果尝试了很多次却没看到变化，可能还是会觉得努力没意义，甚至更加失望…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实是个不错的角度，把联系当作是自己的一种突破，好像能让我更关注自己的进步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "这样听起来确实能缓解一些压力，设定一个时间范围可能会让我更容易去行动。不过我还是担心，到最后如果没有任何积极的反馈，可能会让我觉得整个过程都失败了，甚至失去继续尝试的动力…。",
+    "has_specific_detail": true,
+    "specific_detail": "这样听起来确实能缓解一些压力，设定一个时间范围可能会让我更容易去行动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 62,
+    "content": "嗯，记录感受确实可能会让我更关注自己的变化，而不是只看结果。这样好像能让我发现哪怕是很小的进步，不过我还是担心自己在记录的时候会忍不住去比较，觉得自己的努力还是不够好…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，记录感受确实可能会让我更关注自己的变化，而不是只看结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "嗯，用这种肯定的方式记录确实会感觉更积极一些，可能也不会让我过于纠结结果。不过，有时候我还是会忍不住想：这一步真的有意义吗？或者我是不是只是在自我安慰，实际并没有什么改变…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，用这种肯定的方式记录确实会感觉更积极一些，可能也不会让我过于纠结结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "嗯，记录具体的细节确实会让我觉得更真实一些，好像能看到自己确实在行动。不过有时候我还是会忍不住想，如果那些细节看起来很普通，或者没有什么特别的变化，可能还是会让我觉得自己的努力很微不足道…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，记录具体的细节确实会让我觉得更真实一些，好像能看到自己确实在行动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "嗯，加上自己的感受确实会让记录更有意义一些，好像能让我看到自己的努力是有价值的。不过，我还是怕自己写下来之后，觉得这些感受太微弱，没办法真正改变我的整体状态，可能还是会有点失望…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，加上自己的感受确实会让记录更有意义一些，好像能让我看到自己的努力是有价值的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "嗯，定期回顾记录确实可能会让我看到一些累积的变化，感觉会比单次感受更有意义。不过我还是担心，如果回顾时发现自己的进步很小，可能还是会觉得自己不够好，甚至对继续尝试失去信心…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，定期回顾记录确实可能会让我看到一些累积的变化，感觉会比单次感受更有意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 67,
+    "content": "这样确实是个好的方向，关注自己的坚持会让我觉得努力本身是值得的。不过有时候我还是会忍不住想，如果坚持了却没有改变，那这些努力到底意义在哪，会不会只是徒劳的循环…。",
+    "has_specific_detail": true,
+    "specific_detail": "这样确实是个好的方向，关注自己的坚持会让我觉得努力本身是值得的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 68,
+    "content": "嗯，把意义放在尝试本身确实会让我觉得突破自己的局限是有价值的，感觉不再完全依赖结果。不过，有时候我还是会忍不住怀疑这些突破到底能不能真正改变我的状态，或者只是暂时的安慰…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把意义放在尝试本身确实会让我觉得突破自己的局限是有价值的，感觉不再完全依赖结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 69,
+    "content": "嗯，这样确实会让我觉得每次行动是为未来积累的基础，感觉比单次的期待更有意义。不过有时候还是会忍不住想，如果这些基础最终没有带来真正的改变，会不会让我更失望…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实会让我觉得每次行动是为未来积累的基础，感觉比单次的期待更有意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 70,
+    "content": "嗯，给自己一个小奖励确实会让过程感觉更愉悦一些，可能也不会那么纠结结果。不过我还是会担心，如果奖励没法真正让我开心，那整个尝试会不会又变得毫无意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，给自己一个小奖励确实会让过程感觉更愉悦一些，可能也不会那么纠结结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 71,
+    "content": "嗯，选择一个更贴近自己情感需求的奖励确实会感觉更有意义一些，比如画一幅自己喜欢的画或者吃点特别的东西。不过有时候还是会觉得，这些奖励只是短暂的安慰，无法真正改变我的整体状态…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，选择一个更贴近自己情感需求的奖励确实会感觉更有意义一些，比如画一幅自己喜欢的画或者吃点特别的东西",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 72,
+    "content": "嗯，把奖励和长期目标结合确实听起来更有意义一些，感觉会让自己更有方向。不过我还是担心，如果目标太难或者阶段性进展很慢，会让我觉得自己总是达不到期望，又陷入那种失望的循环…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把奖励和长期目标结合确实听起来更有意义一些，感觉会让自己更有方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 73,
+    "content": "嗯，目标拆分得特别小确实会减轻不少压力，比如完成一点点感觉不那么难。不过有时候还是会担心，这种“小步伐”真的能带来什么改变吗，会不会最终还是看不到明显的结果…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，目标拆分得特别小确实会减轻不少压力，比如完成一点点感觉不那么难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 74,
+    "content": "嗯，定期回顾累计的变化确实可能让我更容易看到自己的努力，好像会感觉每一步都有价值。不过我还是会担心，如果回顾的时候发现进展很少，会不会让我觉得自己的努力还是不够，最终陷入更多的自我怀疑…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，定期回顾累计的变化确实可能让我更容易看到自己的努力，好像会感觉每一步都有价值",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 75,
+    "content": "嗯，这样确实会让我对自己更宽容一些，关注意图感觉不再完全被结果束缚。不过有时候还是会忍不住想，如果尝试了很多次都没有明显变化，那我是不是根本没有能力去改变自己的状态…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实会让我对自己更宽容一些，关注意图感觉不再完全被结果束缚",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 76,
+    "content": "嗯，把改变看作一个长期过程确实会让我觉得不需要太急于看到结果，感觉压力会减轻一些。不过有时候还是会担心，即使长期努力了，最终还是没有达到理想的状态，会不会让自己的希望变得更破碎…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把改变看作一个长期过程确实会让我觉得不需要太急于看到结果，感觉压力会减轻一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 77,
+    "content": "嗯，调整期待确实可能会让我更容易看到自己的小变化，感觉希望不再那么遥远。不过我还是会忍不住想，这些小变化是不是太微不足道，最终还是没办法真正让我觉得生活有意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，调整期待确实可能会让我更容易看到自己的小变化，感觉希望不再那么遥远",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 78,
+    "content": "嗯，把变化和内心需求结合确实会让每一步感觉更有意义一些，好像能让我更贴近自己的情感。不过有时候还是会怀疑这些感受是不是只是短暂的，最终会不会又回到原来的状态，让努力显得徒劳…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把变化和内心需求结合确实会让每一步感觉更有意义一些，好像能让我更贴近自己的情感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 79,
+    "content": "嗯，用感受到的温暖作为动力确实可能会让我更愿意继续尝试，感觉努力变得更自然一些。不过我还是会担心，如果那些温暖的感觉渐渐减少或者消失，会不会让我又陷入那种失落和无力的状态…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，用感受到的温暖作为动力确实可能会让我更愿意继续尝试，感觉努力变得更自然一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 80,
+    "content": "嗯，提前设计应对方式确实会让我感觉更有准备，好像能减少面对失落时的无助感。不过有时候还是会担心，即使有这些方法，情绪波动还是会让我最终放弃，感觉一切努力又回到原点…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，提前设计应对方式确实会让我感觉更有准备，好像能减少面对失落时的无助感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 81,
+    "content": "嗯，把面对情绪波动看作成长确实会让我觉得自己是在进步，而不是完全失败。不过我还是会担心，如果这些成长没法真正改变我的整体状态，会不会让我觉得自己只是暂时在安慰自己，最终还是没有实质性的突破…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把面对情绪波动看作成长确实会让我觉得自己是在进步，而不是完全失败",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 82,
+    "content": "嗯，把突破定义得更灵活确实会让我觉得进步是可以积累的，感觉压力会减轻一些。不过有时候还是会忍不住想，这种一点点的耐心真的能让我走得更远吗，会不会最终还是停留在原地…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把突破定义得更灵活确实会让我觉得进步是可以积累的，感觉压力会减轻一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 83,
+    "content": "嗯，把每一步看作是铺垫确实会让我觉得努力是有意义的，感觉过程比结果更重要。不过我还是会担心，如果铺垫了很久却没办法看到明显的进展，会不会让我觉得自己依然没有方向，最终失去动力…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把每一步看作是铺垫确实会让我觉得努力是有意义的，感觉过程比结果更重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 84,
+    "content": "嗯，设定阶段性目标确实会让我感觉方向更清晰一些，感觉每周都有点小目标可能会更容易坚持。不过有时候还是会担心，如果这些目标完成后没带来实际的改变，会不会让我觉得自己的努力依然是徒劳的…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，设定阶段性目标确实会让我感觉方向更清晰一些，感觉每周都有点小目标可能会更容易坚持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 85,
+    "content": "嗯，加上反思环节确实可能让我看到更多内在的价值，感觉目标本身变得更有意义。不过有时候还是会担心，如果反思后发现自己没学到什么，或者感受很平淡，会不会让我觉得自己的努力还是不够好，甚至更失望…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，加上反思环节确实可能让我看到更多内在的价值，感觉目标本身变得更有意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 86,
+    "content": "嗯，专注于过程中的坚持确实会让我更容易认可自己的行动，感觉努力本身变得更值得。不过我还是会担心，如果这种坚持一直没有带来改变，会不会让我最终觉得所有的尝试都只是徒劳…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，专注于过程中的坚持确实会让我更容易认可自己的行动，感觉努力本身变得更值得",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 87,
+    "content": "嗯，把目标调整为“探索可能性”确实会让我觉得尝试变得更轻松一些，感觉压力也没那么大。不过我还是会忍不住想，如果这些探索最终没有让我找到真正的方向，会不会让我觉得自己依然迷失在原地…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把目标调整为“探索可能性”确实会让我觉得尝试变得更轻松一些，感觉压力也没那么大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 88,
+    "content": "嗯，记录新发现确实会让我觉得每次探索都有收获，感觉过程变得更有价值。不过我还是会担心，如果这些发现没有让我真正走出困境，会不会让我觉得自己一直在原地打转，最终还是没有改变…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，记录新发现确实会让我觉得每次探索都有收获，感觉过程变得更有价值",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 89,
+    "content": "嗯，把发现看作积累的一部分确实会让我觉得自己是在慢慢前进，感觉过程比结果更重要。不过有时候还是会忍不住想，如果这些碎片最终没能拼成一个完整的方向，会不会让我觉得自己的努力还是没有意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把发现看作积累的一部分确实会让我觉得自己是在慢慢前进，感觉过程比结果更重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 90,
+    "content": "嗯，把每个发现看作独立的价值确实会让我觉得探索变得更有意义，好像每一步都有自己的重要性。不过有时候还是会忍不住想，如果这些发现无法真正让我感到满足，是不是依然会让我觉得自己的生活缺少一种整体的方向感…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把每个发现看作独立的价值确实会让我觉得探索变得更有意义，好像每一步都有自己的重要性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 91,
+    "content": "嗯，把发现串联成一个主题确实会让我感觉探索有了一些结构，好像能看到自己正在整理出一幅图景。不过我还是会担心，如果这些线索最终无法形成一个明确的方向，会不会让我觉得自己还是在迷失，找不到真正的出口…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把发现串联成一个主题确实会让我感觉探索有了一些结构，好像能看到自己正在整理出一幅图景",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 92,
+    "content": "嗯，把出口定义成“更多理解自己”确实会让我觉得探索变得更有意义，感觉不再那么执着于明确的目标。不过我还是会担心，如果最终理解了自己，却没办法改变现状，会不会让我觉得这些努力还是没能真正帮助我走出困境…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把出口定义成“更多理解自己”确实会让我觉得探索变得更有意义，感觉不再那么执着于明确的目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 93,
+    "content": "嗯，把理解看作改变的第一步确实会让我觉得每次探索都是有意义的，感觉过程变得更连贯。不过我还是会忍不住想，如果这些理解最终没有带来行动或者结果，会不会让我觉得自己还是停留在原地，没有真正的突破…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把理解看作改变的第一步确实会让我觉得每次探索都是有意义的，感觉过程变得更连贯",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 94,
+    "content": "嗯，把理解和小行动结合确实会让我觉得探索更加具体，感觉能够一步步推进。不过有时候还是会担心，如果这些行动没有得到预期的回应，会不会让我觉得自己依然在努力却看不到希望…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把理解和小行动结合确实会让我觉得探索更加具体，感觉能够一步步推进",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 95,
+    "content": "嗯，把行动的意义放在自己身上确实会让我觉得每一步都有价值，感觉成长变得更自主。不过我还是会忍不住想，如果这些成长没有让我最终走出困境，是不是还是无法真正改变我的生活状态…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把行动的意义放在自己身上确实会让我觉得每一步都有价值，感觉成长变得更自主",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 96,
+    "content": "嗯，把改变看作动态过程确实会让我觉得努力更持续一些，感觉不会那么执着于一次性解决问题。不过有时候还是会忍不住想，如果这种动态的改变最终没能让我真正摆脱困境，会不会还是让我觉得自己在循环中没有尽头…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把改变看作动态过程确实会让我觉得努力更持续一些，感觉不会那么执着于一次性解决问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 97,
+    "content": "嗯，把困境看作生活的一部分确实会让我觉得自己可以慢慢学会调整，而不是一定要彻底解决问题。不过我还是会担心，如果一直无法摆脱困境，会不会让我觉得自己始终在妥协，而没有真正找到内心的平静…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把困境看作生活的一部分确实会让我觉得自己可以慢慢学会调整，而不是一定要彻底解决问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 98,
+    "content": "嗯，把平静定义得更宽泛确实会让我觉得它更可触及，感觉片刻的舒适也能成为一种安慰。不过我还是会忍不住想，如果这些片刻无法延续，会不会让我觉得自己始终在追逐而无法真正拥有平静…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把平静定义得更宽泛确实会让我觉得它更可触及，感觉片刻的舒适也能成为一种安慰",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 99,
+    "content": "嗯，把追逐平静看作一种练习确实会让我觉得每次努力都是一种自我关怀，感觉过程本身变得更有价值。不过我还是会担心，如果这种练习长期没有让我感到更多的改变，是不是会让我最终觉得这些努力还是徒劳无功…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把追逐平静看作一种练习确实会让我觉得每次努力都是一种自我关怀，感觉过程本身变得更有价值",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 100,
+    "content": "嗯，我觉得今天差不多了，聊了很多让我有些需要消化的内容。谢谢你的倾听，下次我们可以接着聊这些问题！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得今天差不多了，聊了很多让我有些需要消化的内容",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 101,
+    "content": "谢谢你的耐心和理解，希望这些对话能慢慢帮助我理清一些想法。下次见吧！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的耐心和理解，希望这些对话能慢慢帮助我理清一些想法",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 102,
+    "content": "谢谢你的鼓励和支持，真的让我感觉好多了。我会努力继续探索自己的，期待下次再聊！保重！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励和支持，真的让我感觉好多了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

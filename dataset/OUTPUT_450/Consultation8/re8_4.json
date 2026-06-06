@@ -1,0 +1,607 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近还是有点纠结的感觉。比如上周我和妈妈聊了职业规划，她又开始强调稳定的工作，但我其实更想试试新领域…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近还是有点纠结的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "她提到公务员考试，说那是最稳妥的选择，还列了很多例子。但我觉得她完全没考虑我的兴趣，听着有点压迫感，也不太舒服…。",
+    "has_specific_detail": true,
+    "specific_detail": "她提到公务员考试，说那是最稳妥的选择，还列了很多例子",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我试着说了想去尝试和创意相关的工作，但她马上说不实际，还强调竞争压力。我后来就没多说了，觉得好像说了也没用…",
+    "has_specific_detail": true,
+    "specific_detail": "我试着说了想去尝试和创意相关的工作，但她马上说不实际，还强调竞争压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "是的，有点无力吧，还有一种被忽视的感觉，像我的想法不重要一样。其实我也知道她是为我好，但这种沟通总让我觉得很难受…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，有点无力吧，还有一种被忽视的感觉，像我的想法不重要一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "嗯，有时候我会感激她关心我的未来，但又觉得她的方式让我压力很大，特别是她总觉得她的选择才是对的，这让我很难继续讲自己的想法…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有时候我会感激她关心我的未来，但又觉得她的方式让我压力很大，特别是她总觉得她的选择才是对的，这让我很难继续讲自己的想法…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "这种情况其实挺常见的，尤其是谈到重大决定时，比如学业、职业方向。我觉得最近更明显了，可能因为我毕业后她更关注我的下一步吧…",
+    "has_specific_detail": true,
+    "specific_detail": "这种情况其实挺常见的，尤其是谈到重大决定时，比如学业、职业方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我希望她能多听听我的想法，别急着否定。比如哪怕她不完全认同，也能先认可我的兴趣，或者一起讨论怎么平衡现实和兴趣，这样我会觉得轻松些…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她能多听听我的想法，别急着否定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "有过一次吧，是我大学选专业的时候。我坚持学自己喜欢的方向，她虽然反对，但最后还是勉强同意了。不过感觉更多是妥协，不是真正的接纳…",
+    "has_specific_detail": true,
+    "specific_detail": "有过一次吧，是我大学选专业的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "感觉这次更难，因为选专业那会儿有学校的支持，现在是直接面对现实压力。她更强调经济稳定，我的兴趣好像更难被看重…。",
+    "has_specific_detail": true,
+    "specific_detail": "感觉这次更难，因为选专业那会儿有学校的支持，现在是直接面对现实压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我有想过，比如先找些具体的职业例子，证明兴趣领域也有发展空间。但又担心她还是会挑问题，觉得不够可靠，就没太行动…。",
+    "has_specific_detail": true,
+    "specific_detail": "我有想过，比如先找些具体的职业例子，证明兴趣领域也有发展空间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得她可能担心我选的路太不稳定，会有经济风险吧。她总说社会竞争激烈，怕我受挫或者过得辛苦，所以特别看重安全感…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得她可能担心我选的路太不稳定，会有经济风险吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "可能有吧，她一直强调稳定的工作是最重要的，小时候也经常说她自己年轻时选错了路，吃了很多苦。我觉得她的经历可能影响了她的看法…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能有吧，她一直强调稳定的工作是最重要的，小时候也经常说她自己年轻时选错了路，吃了很多苦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，这倒是没试过。我觉得如果能聊聊她的经历，也许可以更了解她为什么这么坚持稳定的选择。但说实话，我担心她会觉得我是在质疑她的经验…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这倒是没试过",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "可能会吧，如果我表达得更像是关心她的经历，而不是反驳她的观点，她可能会愿意聊聊。但我还是有点犹豫，不知道该怎么开始这个话题…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，如果我表达得更像是关心她的经历，而不是反驳她的观点，她可能会愿意聊聊",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，这样听起来确实比较自然，也不会显得太直接。我可以试着用这种方式问问她，但还是有点紧张，怕她会觉得我在多问不必要的事情…。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样听起来确实比较自然，也不会显得太直接",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "如果她有顾虑，我可以跟她说我只是想更了解她的想法，觉得她的经历对我也很重要。这样可能会让她安心些吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她有顾虑，我可以跟她说我只是想更了解她的想法，觉得她的经历对我也很重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "或许可以多收集一些具体的职业信息和成功案例，来支持我的兴趣方向。这样说起来更有底气，感觉会让她更容易信服我…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以多收集一些具体的职业信息和成功案例，来支持我的兴趣方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我可以从职业网站和行业论坛上了解相关岗位的要求和发展趋势，也可以试着联系一些在这个领域工作的人，听听他们的经验和建议，这样信息更真实…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以从职业网站和行业论坛上了解相关岗位的要求和发展趋势，也可以试着联系一些在这个领域工作的人，听听他们的经验和建议，这样信息更真实…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 19,
+    "content": "我可以先挑一些她关注的点，比如稳定性和发展机会，再结合具体数据和成功案例来说，让她觉得我的选择有保障，也符合她的担忧…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以先挑一些她关注的点，比如稳定性和发展机会，再结合具体数据和成功案例来说，让她觉得我的选择有保障，也符合她的担忧…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "是的，我觉得可以加一些我为什么喜欢这个领域的原因，比如兴趣点和个人目标，这样她可能会更理解我选择的意义，也许能减少她的反对…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可以加一些我为什么喜欢这个领域的原因，比如兴趣点和个人目标，这样她可能会更理解我选择的意义，也许能减少她的反对…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我会试着告诉她，我理解她的担忧，但我也希望能有机会去尝试。可以先选一个相对稳妥的方式进入这个领域，慢慢发展，这样也许她会觉得更安心…。",
+    "has_specific_detail": true,
+    "specific_detail": "我会试着告诉她，我理解她的担忧，但我也希望能有机会去尝试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "如果她能稍微认可我的想法，我觉得我们关系可能会更轻松些。我也希望通过这个过程让她看到我有能力规划自己的未来，这样可能会减少她的控制感…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她能稍微认可我的想法，我觉得我们关系可能会更轻松些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "或许可以在我整理好职业信息之后开始，这样说起来更有底气。等时机合适，比如她心情好的时候再聊，感觉会更容易让她接受…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以在我整理好职业信息之后开始，这样说起来更有底气",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得可以先理清自己的想法，把重点放在我的目标和她的关注点之间的结合点。另外，也可以提前练习怎么表达，避免紧张或者说不清楚…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先理清自己的想法，把重点放在我的目标和她的关注点之间的结合点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "如果她情绪波动，我会试着先安抚她，表达理解，比如说“我知道你是为了我好”。然后再慢慢回到我的观点，用事实和数据去缓解她的担忧…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她情绪波动，我会试着先安抚她，表达理解，比如说“我知道你是为了我好”",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 26,
+    "content": "感觉有些信心了，但还是担心她会坚持自己的观点，不愿多听我的。我可能需要多准备几个方案，让她看到不同的可能性，这样能更灵活应对吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "感觉有些信心了，但还是担心她会坚持自己的观点，不愿多听我的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "可能是结合稳定性和兴趣的方案，比如先在相关领域找到一个相对传统又稳妥的岗位，再逐步发展自己真正感兴趣的方向，这样她可能会觉得更靠谱…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是结合稳定性和兴趣的方案，比如先在相关领域找到一个相对传统又稳妥的岗位，再逐步发展自己真正感兴趣的方向，这样她可能会觉得更靠谱…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我会用具体例子来说明，比如列举某个岗位的薪资和发展路径，然后再说我的计划是从这里开始，慢慢积累经验并探索兴趣，这样她会觉得更实在吧…。",
+    "has_specific_detail": true,
+    "specific_detail": "我会用具体例子来说明，比如列举某个岗位的薪资和发展路径，然后再说我的计划是从这里开始，慢慢积累经验并探索兴趣，这样她会觉得更实在吧…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得要关注岗位的稳定性，比如薪资范围、行业发展趋势，还要找一些成功的案例。另外，我也得想清楚自己的兴趣点，确保表达时不会偏离重点…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得要关注岗位的稳定性，比如薪资范围、行业发展趋势，还要找一些成功的案例",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "如果信息不够全面，我可以拓宽渠道，比如多看职业平台或行业报告，或者向专业人士请教。这样能补充细节，让我的准备更有说服力…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果信息不够全面，我可以拓宽渠道，比如多看职业平台或行业报告，或者向专业人士请教",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 31,
+    "content": "是的，准备充分后我会感觉更有底气，也能更冷静地表达自己的想法。希望这样能让她看到我的努力和认真态度，更愿意听我说…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，准备充分后我会感觉更有底气，也能更冷静地表达自己的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我觉得可以再多练习表达，把重点内容理顺，避免临场紧张。另外也要调整心态，不把她的反应太个人化，记住我是在争取理解，而不是对抗…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以再多练习表达，把重点内容理顺，避免临场紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "如果沟通顺利，我觉得我的选择会更有自主性，而我们的关系可能会更平等些。她也许会开始相信我有能力规划自己的未来，这对我们都很重要…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果沟通顺利，我觉得我的选择会更有自主性，而我们的关系可能会更平等些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "这会让我更有信心去追求自己真正想要的，也会让我觉得她的支持不是一种束缚，而是动力。这样我在面对未来选择时，可能会更坚定、更主动…。",
+    "has_specific_detail": true,
+    "specific_detail": "这会让我更有信心去追求自己真正想要的，也会让我觉得她的支持不是一种束缚，而是动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我觉得第一步是整理好职业信息和计划，把重点和数据清楚呈现出来。这样在沟通时能更有条理，也更容易让她理解我的想法…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得第一步是整理好职业信息和计划，把重点和数据清楚呈现出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我需要重点关注稳定性，比如薪资范围和就业机会，同时结合我的兴趣和发展空间。还要用具体的例子来支持这些点，这样她会觉得更可信、更实在…。",
+    "has_specific_detail": true,
+    "specific_detail": "我需要重点关注稳定性，比如薪资范围和就业机会，同时结合我的兴趣和发展空间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我会选她比较放松的时候，比如饭后或者周末，先用轻松的方式引入话题，然后再逐步展开我的想法和准备内容，这样感觉她会更容易接受…。",
+    "has_specific_detail": true,
+    "specific_detail": "我会选她比较放松的时候，比如饭后或者周末，先用轻松的方式引入话题，然后再逐步展开我的想法和准备内容，这样感觉她会更容易接受…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "无论结果如何，我希望自己能学会更清晰地表达需求，同时锻炼面对不同意见时的冷静和坚持。这对未来的沟通和成长都很重要…。",
+    "has_specific_detail": true,
+    "specific_detail": "无论结果如何，我希望自己能学会更清晰地表达需求，同时锻炼面对不同意见时的冷静和坚持",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 39,
+    "content": "如果感到压力，我可能会暂停一下，去散步或者听音乐放松心情。也可以和朋友聊聊，缓解紧张，同时获得一些支持和建议…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果感到压力，我可能会暂停一下，去散步或者听音乐放松心情",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 40,
+    "content": "可能还需要再细化一些方案，比如分阶段的计划，能更具体地展示我怎么平衡兴趣和稳定性。这样沟通时她可能会觉得我的选择更可行…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能还需要再细化一些方案，比如分阶段的计划，能更具体地展示我怎么平衡兴趣和稳定性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我可以先从短期目标入手，比如找到一个稳定的入门岗位，然后再规划后续如何逐步发展兴趣领域。这部分具体化后，感觉会更容易让她接受…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以先从短期目标入手，比如找到一个稳定的入门岗位，然后再规划后续如何逐步发展兴趣领域",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "她可能会关注岗位的薪资范围、工作环境，以及行业的长期发展趋势。我需要准备这些具体数据，确保能回答她的疑问，让她觉得这个选择靠谱…。",
+    "has_specific_detail": true,
+    "specific_detail": "她可能会关注岗位的薪资范围、工作环境，以及行业的长期发展趋势",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "我会选择一个和兴趣领域相关的岗位，既符合她对稳定的要求，又让我有发展空间。这样可以让她觉得安心，也能让我保持动力去追求目标…。",
+    "has_specific_detail": true,
+    "specific_detail": "我会选择一个和兴趣领域相关的岗位，既符合她对稳定的要求，又让我有发展空间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "我最期待的是让她认可我的选择，同时能够感觉到自己在为未来负责。这种支持和自主性对我来说都很重要，也会让我更有信心去追求目标…。",
+    "has_specific_detail": true,
+    "specific_detail": "我最期待的是让她认可我的选择，同时能够感觉到自己在为未来负责",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "我觉得最需要坚持的是表达自己的真实想法，同时保持耐心和冷静，特别是在她提出质疑的时候，不轻易放弃沟通。这是让我被理解的关键…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最需要坚持的是表达自己的真实想法，同时保持耐心和冷静，特别是在她提出质疑的时候，不轻易放弃沟通",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "我想告诉未来的自己：坚持做你喜欢的事，不要害怕争取支持。每一步努力都会让你更接近想要的生活，加油！",
+    "has_specific_detail": true,
+    "specific_detail": "我想告诉未来的自己：坚持做你喜欢的事，不要害怕争取支持",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 47,
+    "content": "谢谢你的鼓励和支持！我会按计划行动，记住每一步的进展和感受。今天的讨论让我更有方向感了，我们下次再聊吧！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励和支持！我会按计划行动，记住每一步的进展和感受",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  }
+]

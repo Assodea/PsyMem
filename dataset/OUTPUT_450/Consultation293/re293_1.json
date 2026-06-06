@@ -1,0 +1,281 @@
+[
+  {
+    "turn": 1,
+    "content": "最近有个事情让我很困扰，就是我总是反复检查家里的门锁，明明已经锁好了，却还是忍不住去确认。比如前天我出门买东西，走到楼下了又返回去看了三次。每次确认完，心里还是觉得不安，好像没做对一样…。",
+    "has_specific_detail": true,
+    "specific_detail": "最近有个事情让我很困扰，就是我总是反复检查家里的门锁，明明已经锁好了，却还是忍不住去确认",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "好像是大学后期开始的，那时候学习压力很大，总担心自己遗漏了什么。最近没发生特别的事情，但可能因为工作不稳定，心里总觉得不踏实。比如这几天接了个小项目，每次发邮件前我都要检查好几遍，确认有没有错字或漏掉附件，时间都浪费在这些上了…。",
+    "has_specific_detail": true,
+    "specific_detail": "好像是大学后期开始的，那时候学习压力很大，总担心自己遗漏了什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "是的，有时候感觉像有个声音在提醒我，“如果不再检查一次，可能会出问题”。但有时也像习惯一样，不做就会更焦虑。比如发邮件前，明明知道内容没问题，但不多检查几遍，总觉得心里不安，好像会出岔子…这种感觉真的很难摆脱。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，有时候感觉像有个声音在提醒我，“如果不再检查一次，可能会出问题”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "是的，检查完也不完全放心，最多暂时缓解一点。最强的不安感通常是需要交出成果的时候，比如发邮件、提交工作或者面对别人评价。这种时候总觉得，如果有一点点错，就会被批评或者让别人失望…这种压力很难摆脱。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，检查完也不完全放心，最多暂时缓解一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "或许是小时候吧，家里人对我的要求一直挺高，比如考试时如果丢分了，父母会反复问为什么错了，怎么没注意。虽然他们是想让我进步，但那时候总觉得，一旦出错就好像不够好、不值得被认可。这种感觉可能一直影响到现在吧…",
+    "has_specific_detail": true,
+    "specific_detail": "或许是小时候吧，家里人对我的要求一直挺高，比如考试时如果丢分了，父母会反复问为什么错了，怎么没注意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "是的，现在这种感觉还挺常出现的。比如前几天跟客户沟通时，他们提了点修改意见，我就开始怀疑是不是自己做得不够好，甚至有点害怕听到他们的评价…总觉得一旦被指出问题，就说明我不够优秀，心里特别紧张。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，现在这种感觉还挺常出现的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "好像确实是这样，我对自己的要求特别高，总觉得必须做得完美才行。至于“偶尔出点小错”，其实我很难接受…即使是小问题，比如写错一个字，都让我觉得好像自己不够好，甚至会因为这个反复懊恼很久。",
+    "has_specific_detail": true,
+    "specific_detail": "好像确实是这样，我对自己的要求特别高，总觉得必须做得完美才行",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "是的，每次犯错都会觉得自己不够好，好像证明了我做得不够努力或者不够细心。而且我总会反复去想那个错在哪里，甚至会重新做一遍，试图弥补，但这样反而让内心更疲惫，像陷入了一个循环似的…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，每次犯错都会觉得自己不够好，好像证明了我做得不够努力或者不够细心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "是啊，真的很耗精力，有时候做完一件事就觉得整个人被抽空了。试过提醒自己“错误是正常的”，但内心还是难以相信，反而会继续纠结…比如写个简单的文案，检查十几次还觉得不满意。好像没有什么能真正让我放下这种自责感。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，真的很耗精力，有时候做完一件事就觉得整个人被抽空了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "如果能放下这种自责感，我想生活会轻松很多吧。比如工作时能更专注于完成任务，而不是浪费时间反复检查；也许还能尝试更多新的事情，而不是因为害怕犯错而退缩…但要做到这一点，感觉好像挺难的，我还是会担心自己不够好。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能放下这种自责感，我想生活会轻松很多吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得这个担心确实和过去有关吧，那时候总觉得必须做到完美才值得被认可。如果可以重新选择，我希望别人能告诉我，犯错没关系，只要努力就已经很好了，或者能关注我的努力而不是结果…但好像一直没有得到这种回应，所以现在还是会害怕不够完美。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这个担心确实和过去有关吧，那时候总觉得必须做到完美才值得被认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "听你这么说，好像是这样。我对自己确实很苛刻，总觉得做得还不够好，很少停下来肯定自己的付出。如果试着换个角度去认可努力，可能会感觉轻松一些吧，比如告诉自己“已经尽力了，这样也不错”。但要真的做到，好像还是需要一点时间和练习…",
+    "has_specific_detail": true,
+    "specific_detail": "听你这么说，好像是这样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，我觉得可以从一些小任务开始试试，比如写完一篇文案后，不再反复检查，而是停下来告诉自己“已经尽力了，这已经很好了”。或者完成一次客户沟通后，试着专注于自己表现出的努力，而不是去纠结有没有遗漏细节。这样或许能让我慢慢习惯肯定自己的付出，而不是一味地挑剔不足。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以从一些小任务开始试试，比如写完一篇文案后，不再反复检查，而是停下来告诉自己“已经尽力了，这已经很好了”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我觉得这个方法有可能会帮到我，至少能让我从“挑错”的习惯中稍微跳出来。比如完成任务后如果能感受到哪怕一点轻松，可能就会更愿意继续尝试这种方式吧。慢慢积累起来，或许真的能帮我建立一点自信，减少对自己过于苛刻的感觉。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这个方法有可能会帮到我，至少能让我从“挑错”的习惯中稍微跳出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，我觉得日常琐事也可以试试，比如做饭的时候不纠结味道是不是完美，告诉自己“已经尽力了，能吃得饱就很好”；或者整理房间时，不要求每个角落都完美无尘，而是认可自己花时间让环境更舒适。这样的练习或许能让我更容易接受“够好”而不是“必须完美”。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得日常琐事也可以试试，比如做饭的时候不纠结味道是不是完美，告诉自己“已经尽力了，能吃得饱就很好”；或者整理房间时，不要求每个角落都完美无尘，而是认可自己花时间让环境更舒适",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，我觉得像散步或者运动这样的场景压力会比较小。比如跑步时不纠结速度快不快，而是认可自己坚持了运动；或者散步时不要求走多少步，而是享受一下这个过程。这样的练习可能能让我慢慢学会关注事情的积极面，而不是总盯着自己哪里做得不够好。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得像散步或者运动这样的场景压力会比较小",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，我觉得散步时专注于感受周围环境，而不是总想着“必须走够步数”，应该会让人感觉更轻松自在。可能从明天开始吧，就试着在散步时对自己说“这样很好，我已经在努力享受了”。希望能慢慢让自己习惯这种方式。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得散步时专注于感受周围环境，而不是总想着“必须走够步数”，应该会让人感觉更轻松自在",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "散步结束后，我可以停下来对自己说一句“今天的这段时间已经很棒了，你做得很好”，然后静静感受一下自己的轻松状态。也许还能做点自己喜欢的小事情，比如喝杯茶或者看一本书，给自己一点奖励，让这种认可的感觉更具体。",
+    "has_specific_detail": true,
+    "specific_detail": "散步结束后，我可以停下来对自己说一句“今天的这段时间已经很棒了，你做得很好”，然后静静感受一下自己的轻松状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "是的，这样的方式确实让我觉得很温暖，也更期待下一次练习。如果能通过这些小仪式慢慢积累积极感受，或许我的心态会一点点变得更轻松，更愿意尝试接受“够好就好”。这样一来，生活可能也会变得更愉快些吧！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这样的方式确实让我觉得很温暖，也更期待下一次练习",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得这个计划已经挺完善了，现在能想到的就是尝试保持一种轻松的心态，不给自己太多额外的压力。散步时专注于过程而不是目标，结束后认真去感受奖励的温暖就好。我会好好去试试的！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这个计划已经挺完善了，现在能想到的就是尝试保持一种轻松的心态，不给自己太多额外的压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "谢谢你的鼓励，感觉有你的陪伴让我更有信心去尝试这些改变！那我就先从明天开始行动，有什么新的感受或者问题，我一定会再来和你聊的。今天先聊到这里吧，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励，感觉有你的陪伴让我更有信心去尝试这些改变！那我就先从明天开始行动，有什么新的感受或者问题，我一定会再来和你聊的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

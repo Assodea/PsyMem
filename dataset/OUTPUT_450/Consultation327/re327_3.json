@@ -1,0 +1,502 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近我还没有再写信给他们，但有一次吃饭时，我试着提到自己最近学习有点累。结果他们还是关注我的成绩，问我是不是有些科目落下了…我觉得很无力，好像每次想说自己的感受，最终都会绕回到学习上。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近我还没有再写信给他们，但有一次吃饭时，我试着提到自己最近学习有点累",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "我当时只是点了点头，说“还好吧”，然后就没再继续聊了。其实我有点害怕继续说下去会变成一种“批评教育”，所以干脆就闭嘴了…这种感觉挺压抑的。",
+    "has_specific_detail": true,
+    "specific_detail": "我当时只是点了点头，说“还好吧”，然后就没再继续聊了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，主要是和父母的时候会这样，因为他们总是会把问题归结到我的表现上，好像一切问题都是我的责任…不过有时候在学校也会有类似的感觉，比如老师批评我的时候，我也不敢多说什么，只能默默忍着。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，主要是和父母的时候会这样，因为他们总是会把问题归结到我的表现上，好像一切问题都是我的责任…不过有时候在学校也会有类似的感觉，比如老师批评我的时候，我也不敢多说什么，只能默默忍着",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "我觉得可能从小就有吧，因为小时候父母总是说“你要懂事”“别给家里添麻烦”，所以我一直很努力做好每件事。后来在初中的时候，有次考试失利后被批评得特别厉害，从那之后，这种压力就更明显了，尤其是面对他们或老师的时候。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能从小就有吧，因为小时候父母总是说“你要懂事”“别给家里添麻烦”，所以我一直很努力做好每件事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "嗯，我记得很清楚，那次他们一直在说“你怎么可以考成这样”，还说我如果再这样下去以后会没出息。我当时特别难过，觉得自己是不是太差劲了，后来就躲在房间里哭了很久，但也没敢跟他们争辩或者解释。这个画面一直让我很难忘。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我记得很清楚，那次他们一直在说“你怎么可以考成这样”，还说我如果再这样下去以后会没出息",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "是啊，当时我真的特别希望他们能发现我的情绪，哪怕敲敲门问问我是不是不舒服也好。但他们没有，甚至后来还说“哭有什么用，赶紧去复习”。那一刻，我就觉得自己好像只能靠成绩证明自己的存在…这种感觉到现在都挥之不去。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，当时我真的特别希望他们能发现我的情绪，哪怕敲敲门问问我是不是不舒服也好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "有的，比如和同学一起讨论成绩时，如果我考得不太好，就会很自卑，总觉得别人会因为这个看不起我。所以有时候我宁愿避免这种话题，或者装作不在意，但心里其实很在意…这种感觉让我在人际关系里也不太放松。",
+    "has_specific_detail": true,
+    "specific_detail": "有的，比如和同学一起讨论成绩时，如果我考得不太好，就会很自卑，总觉得别人会因为这个看不起我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "是的，我确实很少主动跟朋友说自己的情绪，就怕他们会觉得我太脆弱或者太麻烦。有时候即使我很难过，也只会用“没事”敷衍过去，或者转移话题…但这样做久了，其实会觉得挺孤单的。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实很少主动跟朋友说自己的情绪，就怕他们会觉得我太脆弱或者太麻烦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "应该是情绪低落的时候吧，尤其是看见别人有朋友陪着他们聊天或者安慰的时候，那种感觉会特别明显。我会想，如果我也能有一个能听我说说话的人就好了…但又不敢去主动依赖别人，总觉得会被拒绝。",
+    "has_specific_detail": true,
+    "specific_detail": "应该是情绪低落的时候吧，尤其是看见别人有朋友陪着他们聊天或者安慰的时候，那种感觉会特别明显",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，是挺难受的…其实有一个同学我觉得还算比较温和，她平时也会主动关心别人，但我就是不太敢开口。总觉得万一她觉得我很烦，或者以后对我疏远了，那就更糟糕了…这种担心让我一直没试过。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，是挺难受的…其实有一个同学我觉得还算比较温和，她平时也会主动关心别人，但我就是不太敢开口",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，确实有过类似的经历。初中的时候我和一个朋友关系挺好，但后来我在一次误会中试图解释自己的感受，她却觉得我在“矫情”，之后我们就渐渐疏远了。那次让我觉得表达真实情绪可能会带来关系的破裂，所以后来就更加小心翼翼了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，确实有过类似的经历",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，我觉得相比当时，现在的我更能意识到自己有情绪需要被关注，而不是一味压抑它们。不过，我还是很难真的去表达出来，总觉得需要找到一个“绝对安全”的时机和对象才行…但好像这样的机会一直没有出现。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得相比当时，现在的我更能意识到自己有情绪需要被关注，而不是一味压抑它们",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，也许可以试试…比如前几天有一节课我没听懂，课后自己去问了老师，结果他表扬了我的主动性，这让我有点开心。但同时我也担心同学会不会觉得我“太爱表现”了…总是忍不住去想别人的看法。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，也许可以试试…比如前几天有一节课我没听懂，课后自己去问了老师，结果他表扬了我的主动性，这让我有点开心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "是的，这种感觉真的很常见。比如班级里有活动需要发言的时候，我其实挺想试试，但总会担心万一说错了或者表现得不好，大家会笑话我。所以很多时候，我干脆就不参与了，免得出丑。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种感觉真的很常见",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我觉得可能两者都有吧。一方面，我害怕别人对我的负面评价，觉得自己会被孤立；另一方面，我对自己也有很高的期待，总希望每件事都能做到最好，所以一旦觉得可能会失败，就不敢去尝试了…这种矛盾让我有时候挺挣扎的。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "会的，每次看到别人抓住机会表现得很好时，我都会有点后悔，觉得如果我也试一试，说不定能做到更好。但这种念头又总是被“万一失败”的担心压下去，就这样一遍遍循环，真的挺折磨人的。",
+    "has_specific_detail": true,
+    "specific_detail": "会的，每次看到别人抓住机会表现得很好时，我都会有点后悔，觉得如果我也试一试，说不定能做到更好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "有一次老师让我在班会上分享学习经验，当时我特别紧张，但还是硬着头皮答应了。结果分享完后，有几个同学来问我问题，还说我讲得挺有帮助的，那一刻真的很开心。不过，事后回想起来，我还是会琢磨自己哪里可以讲得更好…总觉得不够完美。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次老师让我在班会上分享学习经验，当时我特别紧张，但还是硬着头皮答应了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "是的，比如学习时，我常常花很长时间去检查和修改作业，总觉得一定要做到完全没有错误才行。还有生活中，比如整理书桌，我也会反复调整摆放的位置，直到看起来“刚刚好”…有时候这些细节让我觉得很累，但又停不下来。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，比如学习时，我常常花很长时间去检查和修改作业，总觉得一定要做到完全没有错误才行",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "嗯，确实有帮助的时候，比如在做一些需要精细的作业或准备考试时，这种追求能让我得到不错的成绩。但另一方面，它也让我花太多时间在一些不必要的细节上，甚至影响了休息时间，感觉既成就了我，又困住了我…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，确实有帮助的时候，比如在做一些需要精细的作业或准备考试时，这种追求能让我得到不错的成绩",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，我也想试着放松一些，但每次都忍不住去想“万一不够好，会不会被批评或者让别人失望”。有一次，我告诉自己写作业只要完成就好，结果后来发现有个小错误，还是很自责…总觉得自己很难放下这种要求。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我也想试着放松一些，但每次都忍不住去想“万一不够好，会不会被批评或者让别人失望”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "可能是吧，小的时候如果犯了错误，父母常会说“你怎么这么不认真”或者“这点小事都做不好”，让我觉得错误是一种很严重的事情。久而久之，我好像就特别害怕出错，总觉得只有完美才能避免被责备…这种感觉到现在都还在影响着我。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是吧，小的时候如果犯了错误，父母常会说“你怎么这么不认真”或者“这点小事都做不好”，让我觉得错误是一种很严重的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得可能两者都有吧。一方面，我确实害怕被别人批评，总觉得那是一种否定；另一方面，我也希望通过做到最好，证明自己是值得被认可的…但这两种想法有时候会让我特别累，好像怎么努力都不够。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我希望“值得被认可”不是只能靠成绩或表现来证明，而是别人能看到我的努力和真实的情绪，比如当我觉得累的时候，有人会说“你已经做得很好了，不需要太勉强自己”。这种认可对我来说可能会更温暖，也更真实一些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望“值得被认可”不是只能靠成绩或表现来证明，而是别人能看到我的努力和真实的情绪，比如当我觉得累的时候，有人会说“你已经做得很好了，不需要太勉强自己”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，我觉得可以试试这样告诉自己，但老实说，这对我来说有点难。每次想这样想的时候，脑子里又会冒出“可是你还可以更好”的声音，好像总有个更高的标准在催促我…所以很难真正放松下来去接纳自己的努力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以试试这样告诉自己，但老实说，这对我来说有点难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得这个“声音”更像是小时候父母的影子吧，总是提醒我不能放松，要做到最好才行。虽然现在他们可能没那么严厉了，但这种声音好像已经变成了我自己的一部分，时刻在脑海里回响着，让我不敢停下来。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这个“声音”更像是小时候父母的影子吧，总是提醒我不能放松，要做到最好才行",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "嗯，仔细想想，这个“声音”确实像是在提醒我避免出错，可能它是想让我不再经历小时候那种被批评的难过吧。如果我要对它说什么，我会想告诉它：“谢谢你一直在保护我，但现在的我已经可以试着接受自己的不完美了，你可以稍微休息一下。”",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，仔细想想，这个“声音”确实像是在提醒我避免出错，可能它是想让我不再经历小时候那种被批评的难过吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得可以试着给自己设一个“暂停键”，当那个声音出现时，提醒自己深呼吸几次，然后告诉自己：“现在已经够好了，不需要再勉强了。”也许还可以在心里默念一句“我值得被接纳”，让自己慢慢学会放下那些过高的要求。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着给自己设一个“暂停键”，当那个声音出现时，提醒自己深呼吸几次，然后告诉自己：“现在已经够好了，不需要再勉强了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我觉得在做作业时可以先试试，因为这是我经常感到压力的场景之一。如果发现自己因为追求完美而停不下来，就可以暂停一下，做几次深呼吸，然后提醒自己：“完成比完美更重要。”这样可能会更容易坚持练习。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得在做作业时可以先试试，因为这是我经常感到压力的场景之一",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，我觉得如果在做作业时尝试成功了，可能会更有信心在其他场景里用类似的方法。比如当父母对我的表现提出评价时，我可以先深呼吸，提醒自己“他们的意见不代表我的全部”，然后再决定要不要回应，而不是直接陷入自责或焦虑里。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得如果在做作业时尝试成功了，可能会更有信心在其他场景里用类似的方法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得，我可能会想平静地说：“谢谢你们的建议，但我觉得我已经尽力了。”这样既能表达我的努力，也不会显得太对抗…但说出口需要一些勇气，我可能还需要多练习。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得，我可能会想平静地说：“谢谢你们的建议，但我觉得我已经尽力了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得可能在他们评价我的学习时比较适合尝试，因为这是我们最常讨论的话题。如果下次他们提到成绩或者让我更加努力的时候，我可以试着用这句话回应，看看会不会让他们稍微理解我的感受一点。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能在他们评价我的学习时比较适合尝试，因为这是我们最常讨论的话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "嗯，我觉得提前在心里模拟一下场景，或者对着镜子小声练习，可能会让我更有底气一些。也可以把这句话写下来贴在书桌上，当作一种提醒，让自己慢慢习惯这种表达方式。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得提前在心里模拟一下场景，或者对着镜子小声练习，可能会让我更有底气一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "如果他们的反应没有立刻改变，我可能会提醒自己，这不是因为我做得不够好，而是他们的习惯需要时间去改变。然后我会试着专注于自己的努力，而不是一味期待他们的认可，告诉自己“我的感受是重要的”。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们的反应没有立刻改变，我可能会提醒自己，这不是因为我做得不够好，而是他们的习惯需要时间去改变",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 34,
+    "content": "我觉得可以试着记录每次自己成功表达感受的经历，不管结果如何，都写下自己当时的努力和感受。还有，如果和那个温和的同学聊聊，也许能得到一些支持，慢慢让我更有信心去坚持这些改变。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着记录每次自己成功表达感受的经历，不管结果如何，都写下自己当时的努力和感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我觉得可以先尝试一次表达，比如下次父母提到我的学习时，我用那句“谢谢你们的建议，但我觉得我已经尽力了”来回应。如果顺利的话，再和那个同学分享我的计划，看看她会不会也给我一些鼓励或者建议。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先尝试一次表达，比如下次父母提到我的学习时，我用那句“谢谢你们的建议，但我觉得我已经尽力了”来回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "嗯，我觉得可以在心里默念“你已经准备好了，放轻松就好”，然后深呼吸几次，给自己一点安定的感觉。这样可能会让我更有勇气面对父母的评价，也能更平静地说出那句话。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以在心里默念“你已经准备好了，放轻松就好”，然后深呼吸几次，给自己一点安定的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "好的，我会试着按照这个计划去做，虽然可能会有点紧张，但感觉比以前更有方向了。尝试之后我一定会来和你分享我的感受，谢谢你的支持！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，我会试着按照这个计划去做，虽然可能会有点紧张，但感觉比以前更有方向了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "谢谢你，我会继续努力的！听到你的鼓励让我感觉轻松了不少，今天先聊到这里吧，下次我会带着新的进展再来找你！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你，我会继续努力的！听到你的鼓励让我感觉轻松了不少，今天先聊到这里吧，下次我会带着新的进展再来找你！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

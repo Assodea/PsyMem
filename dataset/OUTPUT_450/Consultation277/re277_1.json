@@ -1,0 +1,324 @@
+[
+  {
+    "turn": 1,
+    "content": "最近分手了，和谈了两年的女朋友。本来以为我们会有未来，但她说我太敏感，老是胡思乱想，觉得很累。说实话，我不知道问题到底出在哪儿…",
+    "has_specific_detail": true,
+    "specific_detail": "最近分手了，和谈了两年的女朋友",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "她说我总是对一些小事过度在意，比如有一次她没回消息，我会反复想是不是她生气了，甚至半夜给她发长信息问清楚。她觉得这种频率让她很有压力…我也知道这样不好，但控制不住自己。",
+    "has_specific_detail": true,
+    "specific_detail": "她说我总是对一些小事过度在意，比如有一次她没回消息，我会反复想是不是她生气了，甚至半夜给她发长信息问清楚",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "当时脑子里会一直想，她是不是不爱我了？是不是对我失望了？甚至会猜测她是不是在跟别人聊天…这种念头让我很焦虑，感觉心里像压着块大石头，坐立不安，必须发信息问清楚才能稍微安心一点。",
+    "has_specific_detail": true,
+    "specific_detail": "当时脑子里会一直想，她是不是不爱我了？是不是对我失望了？甚至会猜测她是不是在跟别人聊天…这种念头让我很焦虑，感觉心里像压着块大石头，坐立不安，必须发信息问清楚才能稍微安心一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "她回复后，焦虑会暂时缓解，但有时候她的语气不够热情，我又会开始胡思乱想，觉得她是不是不开心。这样的循环让我自己也觉得很累，可就是停不下来…",
+    "has_specific_detail": true,
+    "specific_detail": "她回复后，焦虑会暂时缓解，但有时候她的语气不够热情，我又会开始胡思乱想，觉得她是不是不开心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我特别在意她的语气和态度，比如回复是不是比平时慢了，或者是不是少了些关心的话。每次注意到这些，我就会觉得她可能不在乎我了，或者对我不满意，这种感觉让我很不安…好像如果抓不到这些“信号”，我就失去了安全感。",
+    "has_specific_detail": true,
+    "specific_detail": "我特别在意她的语气和态度，比如回复是不是比平时慢了，或者是不是少了些关心的话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "有时候她会主动关心我的状态，比如加班很晚时提醒我早点休息，或者周末计划带我去放松一下。那种被关心的感觉让我觉得自己是重要的，仿佛有人真正看见了我的存在和需要。这种时刻让我很珍惜，也让我特别害怕失去…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候她会主动关心我的状态，比如加班很晚时提醒我早点休息，或者周末计划带我去放松一下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "可能是小时候吧，我父母虽然对我很好，但更多是关注我的学习和生活安排，情绪上的需求常常被忽略。比如我难过时，爸妈会说“别想太多，好好学习就行了”。那种时候我总感觉自己的情绪没人真正理解，所以后来特别渴望在亲密关系里能被看见和在意…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是小时候吧，我父母虽然对我很好，但更多是关注我的学习和生活安排，情绪上的需求常常被忽略",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯……说实话，这种感受挺少的。可能有一次我考试考得很差，本来以为会被批评，但我妈只是安慰我，让我别太有压力，说还有机会，那时候我觉得她是站在我这边的。不过大部分时间，还是感觉他们更关心我的成绩，而不是我的感受…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯……说实话，这种感受挺少的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我觉得小时候总感觉自己的情绪不重要，所以现在特别在意对方的态度和回应，生怕自己又被忽略。比如她不主动关心我，我就会觉得是不是我做得不够好，不值得被重视。我好像总是在证明自己是被需要的…这可能也让她觉得我有点黏人吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得小时候总感觉自己的情绪不重要，所以现在特别在意对方的态度和回应，生怕自己又被忽略",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "当她没有及时回应时，我常会想是不是自己哪里做得不够好，或者我是不是不值得她投入时间和感情。这种想法会让我觉得自己很失败，好像再努力也不够好，心情就会一下子低落到谷底…",
+    "has_specific_detail": true,
+    "specific_detail": "当她没有及时回应时，我常会想是不是自己哪里做得不够好，或者我是不是不值得她投入时间和感情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "通常我会先陷入那种低落的情绪里，越想越觉得自己哪里出了问题。但后来可能会忍不住给她发消息，试着聊清楚或者寻求安慰，希望能通过她的回应让自己好受点…但有时候这样反而让关系更紧张。",
+    "has_specific_detail": true,
+    "specific_detail": "通常我会先陷入那种低落的情绪里，越想越觉得自己哪里出了问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "有时候我会试着听音乐或者看点视频，想让自己分散注意力，但效果不太明显，心思还是会飘回去。有时候也会写下自己的感受，像是在和自己对话，那样稍微能感觉清晰一点，但依然没办法完全摆脱那种孤独感…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候我会试着听音乐或者看点视频，想让自己分散注意力，但效果不太明显，心思还是会飘回去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得核心是渴望被理解吧。小时候很多情绪没人倾诉，长大后以为在亲密关系里能找到那种支持，但分手后又觉得自己回到了那种“被忽略”的状态。这种感觉让我特别无助，好像即使努力了，也没有办法真正被看见…这才是最难熬的地方。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得核心是渴望被理解吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "有一次我因为工作上的事情特别焦虑，她发现了，主动问我怎么了，还陪我聊到很晚。那一刻我觉得自己被看见了，她是真的关心我的感受，不只是表面安慰。这种时刻让我觉得自己是重要的，也让我相信过我们的关系是有深度的…所以后来失去这种感觉，更让我觉得空落落的，好像某种支撑突然消失了。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次我因为工作上的事情特别焦虑，她发现了，主动问我怎么了，还陪我聊到很晚",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "朋友倒是有几个关系不错的，但他们大多忙于自己的生活，很少会去聊特别深的情绪话题。偶尔我跟一个大学室友会吐槽一下工作，但感觉那种交流更多是发泄，和在她面前的那种被理解还是不一样。我好像很难再找到那种真正“被看见”的感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "朋友倒是有几个关系不错的，但他们大多忙于自己的生活，很少会去聊特别深的情绪话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我可能更倾向于被动一些，尤其在不太熟的人面前，总觉得表达自己的需求可能会被拒绝或者被误解。所以即使心里渴望深度的交流，也常常会选择不说，等对方主动靠近。但很多时候，对方好像也没意识到我的想法，关系也就停留在表面了…这样一来，我其实挺容易放弃进一步深入的。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能更倾向于被动一些，尤其在不太熟的人面前，总觉得表达自己的需求可能会被拒绝或者被误解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "如果对方表现得很真诚，或者主动关心我的感受，我会更容易打开自己。比如那个大学室友，有一次他主动问我是不是工作压力很大，还说如果需要他可以帮忙分担点事情，那时候我就很自然地聊了很多。这样的关系让我觉得轻松，不用担心被误解，但这种人好像并不多…",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方表现得很真诚，或者主动关心我的感受，我会更容易打开自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "也许可以从一些小的、不会让我太有压力的方式开始，比如在和朋友聊天时试着多分享一点自己的感受，而不是只回应他们的话题，哪怕只是说“最近有点焦虑”。这样既不会显得太突兀，也可能让对方更了解我…但每次想到可能得不到回应，还是会有点犹豫。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以从一些小的、不会让我太有压力的方式开始，比如在和朋友聊天时试着多分享一点自己的感受，而不是只回应他们的话题，哪怕只是说“最近有点焦虑”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "嗯，可能在他们主动问起我的近况时会比较自然，比如他们问“最近工作怎么样”之类的，我可以试着多说一点，比如“最近压力挺大的，感觉有点焦虑”。这样顺着对方的话题分享，可能会让我没那么担心被冷场。你觉得这样可以吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能在他们主动问起我的近况时会比较自然，比如他们问“最近工作怎么样”之类的，我可以试着多说一点，比如“最近压力挺大的，感觉有点焦虑”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "如果对方表现出兴趣或继续追问，我应该会愿意多聊一些，可能会感觉被重视和接纳吧。但有时候也会担心自己说太多，怕给对方添麻烦或者显得我太依赖，心里可能会有点矛盾…",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方表现出兴趣或继续追问，我应该会愿意多聊一些，可能会感觉被重视和接纳吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我觉得更多是害怕自己的需求会被否定吧。小时候和父母说心事，他们常觉得是小题大做，比如我说同学不理我，他们会说“别在意，专心学习就好”。久而久之，我可能就习惯了压抑自己的想法，怕表达了也得不到回应，反而更难受…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得更多是害怕自己的需求会被否定吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "当时的我可能最需要的是父母能认真听我说，告诉我我的感受是被理解的，而不是直接让我别在意。如果他们能问问我为什么难过，或者抱抱我，说“我们理解你的感受”，那我可能会觉得被看见了，而不是自己一个人在承受…",
+    "has_specific_detail": true,
+    "specific_detail": "当时的我可能最需要的是父母能认真听我说，告诉我我的感受是被理解的，而不是直接让我别在意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我还没有特别系统地试过，但也许可以试着告诉自己，“你的感受是正常的，没什么不可以说出来”，或者写下自己的想法，像是在和自己对话一样。甚至可能抱抱自己，告诉自己“没关系，你很重要”。不知道这些会不会有效，但感觉可以试一试…",
+    "has_specific_detail": true,
+    "specific_detail": "我还没有特别系统地试过，但也许可以试着告诉自己，“你的感受是正常的，没什么不可以说出来”，或者写下自己的想法，像是在和自己对话一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "谢谢你愿意听我说，我觉得有你在，心里好像没那么压抑了。如果我试了这些方法，有什么感受一定会告诉你。我也希望自己能慢慢学会接纳自己…目前能聊到这些，感觉轻松了不少。今天先聊到这里吧，谢谢你。",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你愿意听我说，我觉得有你在，心里好像没那么压抑了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

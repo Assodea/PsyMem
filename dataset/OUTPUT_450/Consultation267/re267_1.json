@@ -1,0 +1,454 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近情绪总是容易波动。有时候工作上一点小事，比如同事对我提了个意见，我心里就会莫名烦躁，甚至会忍不住想发火…但其实我也知道可能没那么严重。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近情绪总是容易波动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "我们同事关系总体还算融洽，大家也挺客气的。不过最近工作任务有点多，总感觉事情压在一起让我喘不过气。可能是压力大了，才会更容易对一些细节变得敏感吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我们同事关系总体还算融洽，大家也挺客气的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我会试着分散注意力，比如下班后追剧或者出去散步。但有时候，明明在做这些事情，脑子却还是在想工作的事，感觉放松得不彻底…",
+    "has_specific_detail": true,
+    "specific_detail": "我会试着分散注意力，比如下班后追剧或者出去散步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "可能两方面都有吧，有时候是觉得任务还没做完心里不踏实，有时候又害怕细节没做好被别人发现问题，忍不住去反复琢磨…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧，有时候是觉得任务还没做完心里不踏实，有时候又害怕细节没做好被别人发现问题，忍不住去反复琢磨…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "特别是需要同事配合的任务，比如一起做报告。我总担心自己没考虑周全，或者别人会觉得我没尽力，所以会反复检查，甚至主动多承担一些工作…",
+    "has_specific_detail": true,
+    "specific_detail": "特别是需要同事配合的任务，比如一起做报告",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "可能两者都有吧…我总觉得如果自己多做点，出了问题别人就不会怪我；而且也确实会觉得自己做更靠谱，至少心里比较安心一些。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧…我总觉得如果自己多做点，出了问题别人就不会怪我；而且也确实会觉得自己做更靠谱，至少心里比较安心一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "好像从学生时代就有这种感觉吧，父母对我的学业很看重，总是希望我表现好一点。我记得小时候如果考得不好，他们虽然不责备，但会明显少了关注…这可能让我觉得，表现好才能被认可。",
+    "has_specific_detail": true,
+    "specific_detail": "好像从学生时代就有这种感觉吧，父母对我的学业很看重，总是希望我表现好一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "小时候好像没怎么表达过吧，觉得他们的关注是对我好的，自己就更努力去迎合了。只是偶尔会有点委屈，觉得想说点自己的感受也不知道该怎么开口…",
+    "has_specific_detail": true,
+    "specific_detail": "小时候好像没怎么表达过吧，觉得他们的关注是对我好的，自己就更努力去迎合了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "可能希望他们能多问问我怎么想的吧，比如我学得开不开心，或者有没有遇到什么困难，而不是只看成绩…这样我可能会觉得自己被更全面地理解了。",
+    "has_specific_detail": true,
+    "specific_detail": "可能希望他们能多问问我怎么想的吧，比如我学得开不开心，或者有没有遇到什么困难，而不是只看成绩…这样我可能会觉得自己被更全面地理解了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "对，我有时候也会希望同事或领导能看到我为一件事付出的过程，而不是只在意最后的成果。这样会让我觉得自己的努力是被肯定的，而不是被忽略的…",
+    "has_specific_detail": true,
+    "specific_detail": "对，我有时候也会希望同事或领导能看到我为一件事付出的过程，而不是只在意最后的成果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我大多是自己默默完成吧，觉得主动说的话可能会显得刻意，或者怕别人觉得我在炫耀。就这样心里偶尔会有点不甘，但也不好意思开口…",
+    "has_specific_detail": true,
+    "specific_detail": "我大多是自己默默完成吧，觉得主动说的话可能会显得刻意，或者怕别人觉得我在炫耀",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，会觉得更累吧，因为一边想让人看到自己的付出，一边又害怕表达得不合适。情绪上也更容易波动，比如别人没注意到时，我可能会觉得有点委屈甚至失落…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，会觉得更累吧，因为一边想让人看到自己的付出，一边又害怕表达得不合适",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "可能会吧，但我还是会有些犹豫，怕自己说得不好反而适得其反。可能需要找到更舒服的方式和时机，才能慢慢去尝试…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会吧，但我还是会有些犹豫，怕自己说得不好反而适得其反",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "如果是比较轻松的场合，比如茶歇时间，可能会更容易开口；还有面对关系比较好的同事，我也会觉得更自在一些，没那么紧张…",
+    "has_specific_detail": true,
+    "specific_detail": "如果是比较轻松的场合，比如茶歇时间，可能会更容易开口；还有面对关系比较好的同事，我也会觉得更自在一些，没那么紧张…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "也许可以从最近完成的一个小任务说起，比如之前加班赶的那个表格，可以随口提一下当时怎么优化的，让大家觉得方便了…这样可能没那么刻意。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以从最近完成的一个小任务说起，比如之前加班赶的那个表格，可以随口提一下当时怎么优化的，让大家觉得方便了…这样可能没那么刻意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "如果他们回应了，可能会觉得很开心吧，也会觉得自己努力的价值被看到了。这样的反馈应该能让我更有动力去分享和表达。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们回应了，可能会觉得很开心吧，也会觉得自己努力的价值被看到了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "可能需要克服对“别人会怎么想”的过度担心吧，总觉得分享会不会显得多余或者自夸。也许得试着告诉自己，只要自然表达就好，不用太在意别人的评价…",
+    "has_specific_detail": true,
+    "specific_detail": "可能需要克服对“别人会怎么想”的过度担心吧，总觉得分享会不会显得多余或者自夸",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，这句话挺好的，“我只是分享过程，而不是求认可”，听起来很中肯，也能让我放下对评价的担忧，专注在表达上…我觉得可以试着用用！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这句话挺好的，“我只是分享过程，而不是求认可”，听起来很中肯，也能让我放下对评价的担忧，专注在表达上…我觉得可以试着用用！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我想下次茶歇时间可以试试，和那个平时关系比较好的同事聊聊最近的工作进展，随口提提我做任务时的思路和细节，看看感觉怎么样！",
+    "has_specific_detail": true,
+    "specific_detail": "我想下次茶歇时间可以试试，和那个平时关系比较好的同事聊聊最近的工作进展，随口提提我做任务时的思路和细节，看看感觉怎么样！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，这个主意不错！可以在心里总结一下，看看分享后是不是感觉轻松一些，或者有没有收获到什么正面的反馈，这样下次也能更有信心去尝试！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个主意不错！可以在心里总结一下，看看分享后是不是感觉轻松一些，或者有没有收获到什么正面的反馈，这样下次也能更有信心去尝试！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我希望能慢慢习惯更自然地分享，不再总是害怕被误解；如果能收到一些积极的反馈，那就更好了，这会让我觉得努力更有意义。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能慢慢习惯更自然地分享，不再总是害怕被误解；如果能收到一些积极的反馈，那就更好了，这会让我觉得努力更有意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "如果遇到冷淡的回应，我会试着告诉自己，这可能只是他们当时没注意，而不是我的问题。然后再总结经验，看看下次是否可以换个方式或时机去表达。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到冷淡的回应，我会试着告诉自己，这可能只是他们当时没注意，而不是我的问题",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 23,
+    "content": "我可以用轻松的语气，比如“前几天做那个表格时发现了个小技巧，还挺有意思的”，这样既自然又不会显得刻意，感觉会更好融入一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以用轻松的语气，比如“前几天做那个表格时发现了个小技巧，还挺有意思的”，这样既自然又不会显得刻意，感觉会更好融入一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我可以试着问问对方的看法，比如“你觉得这样改是不是方便了一点？”或者“你平时有遇到类似的情况吗？”这样能让对话更有来回感，也更自然。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着问问对方的看法，比如“你觉得这样改是不是方便了一点？”或者“你平时有遇到类似的情况吗？”这样能让对话更有来回感，也更自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "嗯，我觉得每周尝试两到三次是个不错的目标！这样不会给自己太大压力，但也能慢慢积累经验，逐渐习惯分享和交流。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得每周尝试两到三次是个不错的目标！这样不会给自己太大压力，但也能慢慢积累经验，逐渐习惯分享和交流",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "可以的！我可以每天简单写几句，比如今天有没有尝试分享，感受如何，或者有没有收到什么反馈。这样还能回过头来看自己的进步，感觉会很有成就感！",
+    "has_specific_detail": true,
+    "specific_detail": "可以的！我可以每天简单写几句，比如今天有没有尝试分享，感受如何，或者有没有收到什么反馈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得可以先梳理下最近的工作内容，挑几个自己觉得有亮点的小细节，心里有个底。这样在分享时就更有自信，也不会临时不知道说什么。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先梳理下最近的工作内容，挑几个自己觉得有亮点的小细节，心里有个底",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我可以从上周做的那个数据分析入手，当时为了提升准确性，调整了一些计算方法。这个过程挺有意思的，也觉得能拿出来聊聊！",
+    "has_specific_detail": true,
+    "specific_detail": "我可以从上周做的那个数据分析入手，当时为了提升准确性，调整了一些计算方法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我可以提到当时为了减少偏差，尝试把原本的公式优化了一下，用了更适合的计算方法。然后顺带讲讲优化后效果提升了多少，这样会更直观一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以提到当时为了减少偏差，尝试把原本的公式优化了一下，用了更适合的计算方法",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 30,
+    "content": "我可以结合实际场景，比如说“当时那个数据误差挺明显的，用原公式总是不太对，后来调整后才发现问题解决了”。这样描述会更贴近实际，也容易让人理解。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以结合实际场景，比如说“当时那个数据误差挺明显的，用原公式总是不太对，后来调整后才发现问题解决了”",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 31,
+    "content": "我觉得最让我期待的是，能慢慢让自己的努力被看到，并且通过分享拉近和同事的距离。如果收到正面的反馈，那应该会特别开心吧！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最让我期待的是，能慢慢让自己的努力被看到，并且通过分享拉近和同事的距离",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我觉得可以从周三的茶歇时间开始，那个时候大家都比较放松，而且平时和那位同事聊天也比较自然，应该是个不错的机会！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从周三的茶歇时间开始，那个时候大家都比较放松，而且平时和那位同事聊天也比较自然，应该是个不错的机会！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "这个提醒很不错！我可以在便签上写下“轻松分享、自然表达”，贴在我的桌子上，每次看到都会提醒自己不用太紧张，就当是一场普通的聊天。",
+    "has_specific_detail": true,
+    "specific_detail": "这个提醒很不错！我可以在便签上写下“轻松分享、自然表达”，贴在我的桌子上，每次看到都会提醒自己不用太紧张，就当是一场普通的聊天",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 34,
+    "content": "我可以写在一个小本子上，简单记录一下，比如“今天分享了什么内容、同事的反应如何、自己感觉怎么样”。这样既能总结，也能为下次尝试积累信心！",
+    "has_specific_detail": true,
+    "specific_detail": "我可以写在一个小本子上，简单记录一下，比如“今天分享了什么内容、同事的反应如何、自己感觉怎么样”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "好的！谢谢你的建议和鼓励，我觉得自己现在更有方向感了。周三尝试之后，我再来跟你分享我的感受！",
+    "has_specific_detail": true,
+    "specific_detail": "好的！谢谢你的建议和鼓励，我觉得自己现在更有方向感了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

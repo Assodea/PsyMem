@@ -1,0 +1,1064 @@
+[
+  {
+    "turn": 1,
+    "content": "最近男朋友提了结婚的事情，但我总觉得自己没准备好。我们异地了6年，他在深圳，我在另一个城市工作，距离一直让我有些不安。",
+    "has_specific_detail": true,
+    "specific_detail": "最近男朋友提了结婚的事情，但我总觉得自己没准备好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "主要是对未来吧，异地一直让我觉得缺乏安全感。比如他想结婚后让我搬去深圳，可我担心自己适应不了新的城市和生活，甚至怕失去现在的工作节奏。",
+    "has_specific_detail": true,
+    "specific_detail": "主要是对未来吧，异地一直让我觉得缺乏安全感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我在高校工作，虽然忙碌，但节奏相对稳定，而且环境熟悉、同事关系也不错。这份工作让我感觉自己有掌控感，而深圳对我来说有点陌生，总觉得难以融入…",
+    "has_specific_detail": true,
+    "specific_detail": "我在高校工作，虽然忙碌，但节奏相对稳定，而且环境熟悉、同事关系也不错",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "两方面都有吧。城市陌生可能会让我觉得孤单，而搬过去后，我也担心两个人的生活是否真的能协调好，比如他工作很忙，我们会不会反而更疏远…。",
+    "has_specific_detail": true,
+    "specific_detail": "两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "他倒是说会尽量陪伴我，还提到帮我找适合的工作，但我总觉得他说得简单了些。比如具体怎么调整他的忙碌工作、怎么让我融入新环境，他似乎没想得那么细…",
+    "has_specific_detail": true,
+    "specific_detail": "他倒是说会尽量陪伴我，还提到帮我找适合的工作，但我总觉得他说得简单了些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "聊过几次，但感觉每次都没深入。他会安慰我，说“不要太担心”，但我心里的不安还是没消失，尤其是关于工作和生活的具体安排，总觉得还悬着…。",
+    "has_specific_detail": true,
+    "specific_detail": "聊过几次，但感觉每次都没深入",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我希望他能具体谈谈结婚后如何平衡工作和陪伴，或者更详细地讨论我搬去深圳后的生活安排，比如住房、我的工作机会，还有两个人如何共同面对新的城市生活。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望他能具体谈谈结婚后如何平衡工作和陪伴，或者更详细地讨论我搬去深圳后的生活安排，比如住房、我的工作机会，还有两个人如何共同面对新的城市生活",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 8,
+    "content": "或许提前列个清单会好些，这样能更系统地表达我的担忧，也方便他理解。不过每次聊这些话题，我总觉得有点紧张，可能还需要找个两个人都放松的时候再谈吧…",
+    "has_specific_detail": true,
+    "specific_detail": "或许提前列个清单会好些，这样能更系统地表达我的担忧，也方便他理解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "也许是周末吧，他不用工作，我也比较轻松。比如一起吃饭后聊，或者散步时谈，感觉这些时候氛围会自然些，也不会太正式…。",
+    "has_specific_detail": true,
+    "specific_detail": "也许是周末吧，他不用工作，我也比较轻松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "是的，这样可能更容易让他理解我的想法。如果先聊一些对未来的期待，比如我希望婚后能有怎样的生活，再自然过渡到具体的担忧，感觉会更顺畅些…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这样可能更容易让他理解我的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我希望婚后能有稳定的陪伴和温馨的家庭氛围，比如能一起规划生活、分享日常的点滴。这些期待其实也是我现在的困扰所在，因为异地和对未来的不确定让我感觉这些理想有点遥远…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望婚后能有稳定的陪伴和温馨的家庭氛围，比如能一起规划生活、分享日常的点滴",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "短期同住可能会是个好办法，这样可以提前感受一下两个人的生活状态，看能否适应他的节奏和深圳的环境。更频繁见面也能让我觉得关系更稳定些，可能会减少一些不安…。",
+    "has_specific_detail": true,
+    "specific_detail": "短期同住可能会是个好办法，这样可以提前感受一下两个人的生活状态，看能否适应他的节奏和深圳的环境",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得至少两三个月吧，这样时间足够观察和适应。我会特别关注我们日常相处的细节，比如他的陪伴是否足够、生活习惯是否协调，还有我能否慢慢习惯深圳的环境…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得至少两三个月吧，这样时间足够观察和适应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "或许可以试着参加一些当地的活动，比如社区聚会或兴趣小组，这样可能更快熟悉环境。另外，也可以认识他的朋友，多一些社交接触，感觉会让我融入得更自然些…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试着参加一些当地的活动，比如社区聚会或兴趣小组，这样可能更快熟悉环境",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我希望他能陪我一起参加活动，这样会感觉更有支持。另外，如果他能提前帮我了解一些深圳的资源，比如好的社交圈或工作机会，也会让我安心不少…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望他能陪我一起参加活动，这样会感觉更有支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我可以先表达对他关心的感激，然后再具体提出我的需要，比如说“我希望你能陪我一起探索深圳，或者帮我找些适合我的活动和工作信息，这样我会更放心些”。这样感觉会更直接，也不容易让他误解…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以先表达对他关心的感激，然后再具体提出我的需要，比如说“我希望你能陪我一起探索深圳，或者帮我找些适合我的活动和工作信息，这样我会更放心些”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我会用比较轻松的语气，比如把这些需求融入日常对话，而不是一次性抛出全部问题。比如散步时说“如果以后能一起去参加些活动，感觉会很有意思！”这样既表达期望，又不会让他觉得压力太大…。",
+    "has_specific_detail": true,
+    "specific_detail": "我会用比较轻松的语气，比如把这些需求融入日常对话，而不是一次性抛出全部问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "他比较喜欢随意的聊天，不太习惯特别正式的谈话，所以我觉得这种方式对他来说会更容易接受。平时我们聊生活琐事时，他反而会更放松，也更愿意听我说些想法…。",
+    "has_specific_detail": true,
+    "specific_detail": "他比较喜欢随意的聊天，不太习惯特别正式的谈话，所以我觉得这种方式对他来说会更容易接受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "或许可以从未来的日常生活聊起，比如问他“你觉得以后我们会一起做什么样的活动？”或者提到深圳的生活方式，比如“那里有什么地方适合两个人一起去玩？”这样慢慢过渡到我的期待和担忧…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从未来的日常生活聊起，比如问他“你觉得以后我们会一起做什么样的活动？”或者提到深圳的生活方式，比如“那里有什么地方适合两个人一起去玩？”这样慢慢过渡到我的期待和担忧…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "如果他回应得简单，我可以继续补充，比如说“我觉得这些活动挺好，但可能需要你多陪陪我，特别是刚过去的时候，我可能会有些不适应。”这样既表达我的期待，也点出我的担忧，让他更清楚我的感受…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他回应得简单，我可以继续补充，比如说“我觉得这些活动挺好，但可能需要你多陪陪我，特别是刚过去的时候，我可能会有些不适应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我可以先肯定他的努力，比如说“我知道你也在尽力考虑我的感受，这让我很感动。”然后再建议一起想办法，比如“我们可以一起规划一下，看看怎么让这个过程更轻松些。”这样既安抚他，也让他感觉我们是在合作解决问题…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以先肯定他的努力，比如说“我知道你也在尽力考虑我的感受，这让我很感动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得可以从实际生活入手，比如先讨论住房安排，确定住在哪里合适；然后再聊我的工作机会，看能否找到适合的岗位；最后是日常相处的节奏，比如如何分配时间一起活动或休息，这些都挺关键…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从实际生活入手，比如先讨论住房安排，确定住在哪里合适；然后再聊我的工作机会，看能否找到适合的岗位；最后是日常相处的节奏，比如如何分配时间一起活动或休息，这些都挺关键…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我觉得可以先了解深圳的住房情况，比如租金和社区环境；然后查一些适合我的高校或教育相关岗位；还有看看当地有什么活动或兴趣小组，方便融入社交圈。提前准备这些资料，感觉讨论起来会更高效…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先了解深圳的住房情况，比如租金和社区环境；然后查一些适合我的高校或教育相关岗位；还有看看当地有什么活动或兴趣小组，方便融入社交圈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我希望我们能一起准备，尤其是住房和工作相关的信息。他对深圳更熟悉，可能能提供更多建议，这样也能让我感觉我们是在一起面对这些问题，而不是我一个人在处理…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望我们能一起准备，尤其是住房和工作相关的信息",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我可以用比较轻松的方式邀请，比如说“我在查深圳的租房信息了，感觉有点复杂，你能帮我看看哪些地方住着比较方便吗？”这样既表达我的需要，也让他觉得这是我们一起做的事情，而不是单方面的要求…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以用比较轻松的方式邀请，比如说“我在查深圳的租房信息了，感觉有点复杂，你能帮我看看哪些地方住着比较方便吗？”这样既表达我的需要，也让他觉得这是我们一起做的事情，而不是单方面的要求…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我可以负责查租房网站和工作机会，他可以帮忙筛选适合的社区或给一些建议。然后我们一起讨论这些选项，看看哪个最符合我们的需求。这样分工明确，感觉会更高效…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以负责查租房网站和工作机会，他可以帮忙筛选适合的社区或给一些建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我最看重的是地理位置，离工作和生活便利的地方近些比较好。另外，社区环境要安静安全，这样会让我感觉更舒适，适应起来也没那么难…。",
+    "has_specific_detail": true,
+    "specific_detail": "我最看重的是地理位置，离工作和生活便利的地方近些比较好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "可能会有吧，比如他可能更注重租金或离公司近。我会试着理解他的想法，然后提出我的需求，比如“我能明白你关注成本，但环境真的对我很重要，我们能不能找个折中的方案？”这样感觉能更平衡些…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会有吧，比如他可能更注重租金或离公司近",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我可以在租金预算上稍微灵活些，或者选一个稍远但环境合适的地方，这样既满足我的需求，也照顾到他的考虑。感觉这样的调整会让我们都觉得更公平…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以在租金预算上稍微灵活些，或者选一个稍远但环境合适的地方，这样既满足我的需求，也照顾到他的考虑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我们可以定期交流，比如每周一起讨论一次进展，或者有重要选择时及时分享彼此的想法。如果能保持这种开放沟通，感觉会减少误解，让整个过程更顺畅…。",
+    "has_specific_detail": true,
+    "specific_detail": "我们可以定期交流，比如每周一起讨论一次进展，或者有重要选择时及时分享彼此的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得需要提醒自己慢慢来，不要急于看到结果。同时，也要接纳可能的困难，比如适应新环境的过程。每完成一个小目标，就鼓励自己一下，这样感觉能保持信心和稳定情绪…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要提醒自己慢慢来，不要急于看到结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我觉得可以多和朋友聊聊，他们的支持会让我感觉不那么孤单。另外，也可以试着参加一些舒缓压力的活动，比如去健身或者读书，这些都能让我更放松些…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以多和朋友聊聊，他们的支持会让我感觉不那么孤单",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "对我来说，朋友的倾听和理解最重要的是共情，能站在我的角度看问题。如果他们能回应说“我知道你在适应新环境时会有压力，但你已经做得很好了”，这样的鼓励会让我觉得很被支持…。",
+    "has_specific_detail": true,
+    "specific_detail": "对我来说，朋友的倾听和理解最重要的是共情，能站在我的角度看问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我可以用轻松的方式分享，比如聊一些具体的事情，比如“最近在考虑搬家和工作的问题，感觉有点挑战，你有什么建议吗？”这样既表达我的感受，也不会显得过于依赖…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以用轻松的方式分享，比如聊一些具体的事情，比如“最近在考虑搬家和工作的问题，感觉有点挑战，你有什么建议吗？”这样既表达我的感受，也不会显得过于依赖…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我可以试着做些让我放松的事情，比如写写日记，记录自己的进展和心情；或者听音乐、散步，让自己沉静下来。这些小方法感觉能让我更快调整状态…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着做些让我放松的事情，比如写写日记，记录自己的进展和心情；或者听音乐、散步，让自己沉静下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "写日记时，我可以专注记录当天让我觉得开心或安心的小事，比如完成了一件任务或者和朋友聊得很愉快。散步时，也可以挑一些自然环境好的地方，这样更容易让自己感觉平静和舒适…。",
+    "has_specific_detail": true,
+    "specific_detail": "写日记时，我可以专注记录当天让我觉得开心或安心的小事，比如完成了一件任务或者和朋友聊得很愉快",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "写日记可能是我最容易坚持的，因为只需要一点时间就能完成，而且能让我慢慢梳理自己的情绪。每次记录下来，感觉都会更清晰，也更有力量面对问题…。",
+    "has_specific_detail": true,
+    "specific_detail": "写日记可能是我最容易坚持的，因为只需要一点时间就能完成，而且能让我慢慢梳理自己的情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我可以写一些关于未来生活的期待，比如“我希望婚后我们的日常是什么样的？”或者记录当天的情绪波动，探讨背后的原因，比如“为什么这件事让我觉得不安？”这样能更深入了解自己…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以写一些关于未来生活的期待，比如“我希望婚后我们的日常是什么样的？”或者记录当天的情绪波动，探讨背后的原因，比如“为什么这件事让我觉得不安？”这样能更深入了解自己…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "或许会发现我对某些细节特别在意，比如稳定的节奏和可靠的支持。记录这些后，我可能会更清楚自己想要的生活样貌，也能更具体地表达我的需求，让未来的规划更贴近我的期待…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许会发现我对某些细节特别在意，比如稳定的节奏和可靠的支持",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 40,
+    "content": "我可以先从日常生活细节开始，比如记录“我希望的婚后一天是怎样的？”写下关于工作、陪伴、活动等方面的理想样貌，这样感觉能逐步明确自己的期待和需求…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以先从日常生活细节开始，比如记录“我希望的婚后一天是怎样的？”写下关于工作、陪伴、活动等方面的理想样貌，这样感觉能逐步明确自己的期待和需求…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我希望能更深入了解自己的不安，比如为什么对变化那么敏感，同时也希望调整对未知的恐惧，学会更多地相信自己能适应新的生活。这些感觉对我很重要…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能更深入了解自己的不安，比如为什么对变化那么敏感，同时也希望调整对未知的恐惧，学会更多地相信自己能适应新的生活",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "可以的！比如回顾我独自搬到现在的城市时，是怎么一步步适应工作的节奏和新环境的。记录这些成功的经历，感觉能提醒自己其实是有能力面对改变的，也能增加信心…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以的！比如回顾我独自搬到现在的城市时，是怎么一步步适应工作的节奏和新环境的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "可以写下当时适应新工作的具体步骤，比如如何结交同事、建立新的作息习惯，以及独自探索城市的感受。特别是那些让我觉得成就感满满的瞬间，记录下来会更生动，也更鼓舞人心…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以写下当时适应新工作的具体步骤，比如如何结交同事、建立新的作息习惯，以及独自探索城市的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "应该能发现，比如当时主动去参加一些社交活动和尝试新兴趣，这让我更快融入环境。这种方式感觉也可以用在未来，比如搬去深圳后多参与社区活动或探索城市特色，让适应过程更顺利些…。",
+    "has_specific_detail": true,
+    "specific_detail": "应该能发现，比如当时主动去参加一些社交活动和尝试新兴趣，这让我更快融入环境",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "我最期待探索城市特色，比如去深圳的文化场馆或者户外景点，这种新鲜感会让我更快熟悉环境，也减轻陌生感。同时，这也是我和男朋友可以一起做的事情，感觉会增进彼此的互动…。",
+    "has_specific_detail": true,
+    "specific_detail": "我最期待探索城市特色，比如去深圳的文化场馆或者户外景点，这种新鲜感会让我更快熟悉环境，也减轻陌生感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "可以试着一起制定“城市探索计划”，比如每周去一个新的地方，还可以记录感受或者拍些照片。这样不仅让我主动融入，也能让我们有更多互动和共同的经历，感觉会特别有意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以试着一起制定“城市探索计划”，比如每周去一个新的地方，还可以记录感受或者拍些照片",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "我想优先体验深圳的博物馆或展览，感觉这些地方能让我更快了解城市的文化氛围。另外也想去一些著名的自然景点，比如徒步或者海边，这样既放松心情，又增加我们共同的记忆…。",
+    "has_specific_detail": true,
+    "specific_detail": "我想优先体验深圳的博物馆或展览，感觉这些地方能让我更快了解城市的文化氛围",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "可以在每次去之前一起研究地点的历史或者特色，探索过程中多聊彼此的感受，比如什么让我们觉得特别有趣。还可以记录下来，之后再规划类似的活动，感觉这样会更有意义，也增进彼此的交流…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以在每次去之前一起研究地点的历史或者特色，探索过程中多聊彼此的感受，比如什么让我们觉得特别有趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "可能会发现我们都喜欢某种风格的展览或活动，比如艺术类或者自然主题的东西。这种共同兴趣能让我感觉我们更契合，也可能在交流中更深入了解他的想法和喜好，增进彼此的默契…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会发现我们都喜欢某种风格的展览或活动，比如艺术类或者自然主题的东西",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "可以在活动中主动分享自己的感受，比如说“我觉得这个展览特别有意思，因为它让我想到什么什么”，同时也多问他的看法，比如“你觉得哪个部分最吸引你？”这样能让我们更了解彼此的内心世界，默契自然也会增加…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以在活动中主动分享自己的感受，比如说“我觉得这个展览特别有意思，因为它让我想到什么什么”，同时也多问他的看法，比如“你觉得哪个部分最吸引你？”这样能让我们更了解彼此的内心世界，默契自然也会增加…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "我可以用积极的回应，比如说“你的观点很有趣，我没想到这个角度！”或者表达认同“我也觉得这个部分特别棒。”这样既能鼓励他继续分享，也让对话更流畅、更有互动感…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以用积极的回应，比如说“你的观点很有趣，我没想到这个角度！”或者表达认同“我也觉得这个部分特别棒",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "是的，通过这些互动，我能更清楚我们在兴趣和想法上的契合度，这会让我感觉我们能一起面对未来的挑战。看到他愿意倾听和分享，也让我更有信心他会在婚后给予支持和陪伴…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，通过这些互动，我能更清楚我们在兴趣和想法上的契合度，这会让我感觉我们能一起面对未来的挑战",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "我觉得可以继续加强沟通，比如定期聊彼此对未来的想法和期待。另外，也可以一起规划一些长期目标，比如家庭生活的安排或者职业发展方向，让我觉得两个人真的在共同努力，为未来打基础…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以继续加强沟通，比如定期聊彼此对未来的想法和期待",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "可以分阶段制定目标，比如先讨论短期的，比如搬家后的生活安排；然后再逐步延伸到中长期，比如职业发展和家庭计划。同时列出具体步骤，比如谁负责什么，感觉这样会更有方向，也更容易落实…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以分阶段制定目标，比如先讨论短期的，比如搬家后的生活安排；然后再逐步延伸到中长期，比如职业发展和家庭计划",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "我们可以用共享的在线表格或者计划软件，记录目标和每周的进展。比如列出任务清单，并定期回顾完成情况，这样不仅方便跟进，也能让我们看到努力的成果，感觉会很有成就感…。",
+    "has_specific_detail": true,
+    "specific_detail": "我们可以用共享的在线表格或者计划软件，记录目标和每周的进展",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "可以每完成一个目标，就一起庆祝一下，比如去吃顿特别的餐，或者安排一场短途旅行。这样的奖励不仅让过程更轻松愉快，也能让我感觉我们的努力是有意义的…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以每完成一个目标，就一起庆祝一下，比如去吃顿特别的餐，或者安排一场短途旅行",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "或许是找到合适的住房吧！这个节点对我们来说意义重大，既是新生活的开始，也标志着我们的共同努力有了实际成果。感觉可以用一次特别的餐或者小旅行来庆祝…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许是找到合适的住房吧！这个节点对我们来说意义重大，既是新生活的开始，也标志着我们的共同努力有了实际成果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "我可以参与选房的每个环节，比如一起看房、讨论优缺点，甚至给房间布置提些小建议。感觉这些细节会让我觉得自己也在为新生活贡献力量，更有参与感和满足感…。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以参与选房的每个环节，比如一起看房、讨论优缺点，甚至给房间布置提些小建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "我最在意家的氛围，比如光线是否充足、是否有温馨的角落可以让我放松。功能布局也很重要，比如厨房和书房的设计，感觉这些会直接影响我的日常舒适感…。",
+    "has_specific_detail": true,
+    "specific_detail": "我最在意家的氛围，比如光线是否充足、是否有温馨的角落可以让我放松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "我希望新家有些自然元素，比如摆放植物或使用柔和的灯光，能让我觉得更舒适放松。另外也想加入一些个人特色，比如挂上我们一起的照片或旅行纪念品，让家更有我们的共同回忆…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望新家有些自然元素，比如摆放植物或使用柔和的灯光，能让我觉得更舒适放松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "我特别想亲手设计照片墙，把我们的旅行照片按时间排列，还可以加入一些小装饰，比如挂灯或画框，让整个空间更有故事感和个人风格。这样感觉会特别有意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "我特别想亲手设计照片墙，把我们的旅行照片按时间排列，还可以加入一些小装饰，比如挂灯或画框，让整个空间更有故事感和个人风格",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 62,
+    "content": "应该会发现更多珍惜吧，比如看到每张照片时都会回忆起那些共同的美好瞬间，也会让我对未来生活更期待，觉得还有更多这样的回忆可以一起创造…。",
+    "has_specific_detail": true,
+    "specific_detail": "应该会发现更多珍惜吧，比如看到每张照片时都会回忆起那些共同的美好瞬间，也会让我对未来生活更期待，觉得还有更多这样的回忆可以一起创造…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "我们可以定期安排一些特别的活动，比如每月尝试一个新地方或者新餐厅，或者一起规划旅行和记录点滴。感觉这些习惯能持续给关系增添新鲜感，也让彼此的生活更充满温暖和意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "我们可以定期安排一些特别的活动，比如每月尝试一个新地方或者新餐厅，或者一起规划旅行和记录点滴",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "可以从尝试新餐厅开始，比如一起选择一家没去过的地方，体验新的美食和氛围。感觉这样既简单又有趣，还能为我们创造新的共同回忆…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以从尝试新餐厅开始，比如一起选择一家没去过的地方，体验新的美食和氛围",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "可以提前查查餐厅的特色和背景故事，比如它有什么独特的菜品或者设计灵感。还可以一起拍些照片记录这次体验，之后回顾时会感觉特别有趣和难忘…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以提前查查餐厅的特色和背景故事，比如它有什么独特的菜品或者设计灵感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "可以在吃完后聊聊对餐厅的印象，比如说“我觉得这里的氛围特别温馨，你呢？”或者分享哪些菜品让我印象深刻。这样既表达了我的感受，也能让他更深刻地记住这次经历…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以在吃完后聊聊对餐厅的印象，比如说“我觉得这里的氛围特别温馨，你呢？”或者分享哪些菜品让我印象深刻",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 67,
+    "content": "可能会发现他对某种菜系特别感兴趣，或者我们都喜欢某种氛围的餐厅。这些新话题可以延伸到下次的计划，比如一起探索类似风格的地方，感觉会让关系更有趣、更进一步…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会发现他对某种菜系特别感兴趣，或者我们都喜欢某种氛围的餐厅",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 68,
+    "content": "可以一起写个“体验日记”，记录每次尝试的亮点，比如最喜欢的菜品、氛围或者有趣的小插曲。还可以拍几张照片贴进去，这样每次回看都会觉得特别有意义…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以一起写个“体验日记”，记录每次尝试的亮点，比如最喜欢的菜品、氛围或者有趣的小插曲",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 69,
+    "content": "可能会感悟到我们一起经历的每一个小瞬间都很特别，比如某道菜让我想起他曾经讲过的故事，或者某个氛围让我觉得特别放松。这些细节让我更深刻地感受到彼此的陪伴和关系的独特温暖…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会感悟到我们一起经历的每一个小瞬间都很特别，比如某道菜让我想起他曾经讲过的故事，或者某个氛围让我觉得特别放松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 70,
+    "content": "回顾这些记录时，应该会感受到满满的幸福和成就感，看到我们一起走过的点滴让我更坚定地相信，我们能够共同面对未来的变化和挑战。感觉这些回忆也会成为我重要的精神支持…。",
+    "has_specific_detail": true,
+    "specific_detail": "回顾这些记录时，应该会感受到满满的幸福和成就感，看到我们一起走过的点滴让我更坚定地相信，我们能够共同面对未来的变化和挑战",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 71,
+    "content": "可以继续规划一些小旅行或者共同的兴趣活动，比如学习一项新技能或者尝试一个新的爱好。感觉这些计划不仅能增加互动，也会让我们一起成长，创造更多有意义的回忆和温暖…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以继续规划一些小旅行或者共同的兴趣活动，比如学习一项新技能或者尝试一个新的爱好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 72,
+    "content": "或许可以尝试一起学烹饪，选择一些我们都感兴趣的菜系，比如意大利菜或者甜品。感觉不仅能增加互动，还能带来满满的成就感，之后还能一起分享成果，特别有趣…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以尝试一起学烹饪，选择一些我们都感兴趣的菜系，比如意大利菜或者甜品",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 73,
+    "content": "可以定个目标，比如学会做一道拿手菜，然后邀请朋友来家里举办一次“家宴”。这样不仅能展示我们的成果，还能分享这段过程的快乐，感觉会特别有意义，也让人印象深刻…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以定个目标，比如学会做一道拿手菜，然后邀请朋友来家里举办一次“家宴”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 74,
+    "content": "可以设计一个主题，比如“旅行的味道”，菜单上选不同国家的菜品，还可以用旅行照片做装饰，像展览一样展示我们的共同回忆。感觉这样不仅有趣，还特别有个人特色…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以设计一个主题，比如“旅行的味道”，菜单上选不同国家的菜品，还可以用旅行照片做装饰，像展览一样展示我们的共同回忆",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 75,
+    "content": "我最期待布置装饰，比如挑选合适的旅行照片、设计桌上的小摆件，甚至可以用地图或纪念品点缀空间。感觉这些细节会让整个家宴氛围更温馨，也更能展现我们的共同故事…。",
+    "has_specific_detail": true,
+    "specific_detail": "我最期待布置装饰，比如挑选合适的旅行照片、设计桌上的小摆件，甚至可以用地图或纪念品点缀空间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 76,
+    "content": "可以拍些照片记录家宴的布置和大家互动的瞬间，之后写点心得，比如哪道菜最受欢迎、哪些细节让人印象深刻。感觉这些记录会让我以后回顾时特别有成就感，也充满幸福…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以拍些照片记录家宴的布置和大家互动的瞬间，之后写点心得，比如哪道菜最受欢迎、哪些细节让人印象深刻",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 77,
+    "content": "或许可以计划一次特别的旅行，把家宴的主题“旅行的味道”延续到现实中，去探索我们菜单上的那些国家或地方。感觉这样的目标既有趣又能创造更多共同回忆，让幸福感持续蔓延…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以计划一次特别的旅行，把家宴的主题“旅行的味道”延续到现实中，去探索我们菜单上的那些国家或地方",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 78,
+    "content": "可以在旅行中寻找当地的特色菜品，然后学着做一两道，带回家作为纪念。或者记录每个地方的独特风景和感受，拍成小视频，作为我们共同的旅行故事留存，感觉会特别深刻…。",
+    "has_specific_detail": true,
+    "specific_detail": "可以在旅行中寻找当地的特色菜品，然后学着做一两道，带回家作为纪念",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 79,
+    "content": "我们可以一起分工，比如他负责拍摄和记录景点，我负责学习菜品或写旅行感受。然后共同创意视频的剪辑和故事线，让两个人都能在过程中找到自己的角色，感觉会特别有参与感和成就感…。",
+    "has_specific_detail": true,
+    "specific_detail": "我们可以一起分工，比如他负责拍摄和记录景点，我负责学习菜品或写旅行感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 80,
+    "content": "完成后，我想我们会更珍惜彼此的陪伴，也能更深刻地感受到一起创造回忆的意义。这种经历可能会让我们的关系更紧密，更有共同目标和默契，感觉会变得更加坚定和温暖…。",
+    "has_specific_detail": true,
+    "specific_detail": "完成后，我想我们会更珍惜彼此的陪伴，也能更深刻地感受到一起创造回忆的意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 81,
+    "content": "是的，这些共同目标和默契让我觉得婚姻不再只是未知的挑战，而是两个人一起创造生活的旅程。这种信念会让我更安心，也更有信心去面对未来的变化和可能的困难…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这些共同目标和默契让我觉得婚姻不再只是未知的挑战，而是两个人一起创造生活的旅程",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

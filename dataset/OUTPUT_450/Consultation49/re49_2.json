@@ -1,0 +1,686 @@
+[
+  {
+    "turn": 1,
+    "content": "上次我提到因为赌博的事情，欠了不少债，内心一直很愧疚和自责。最近也一直在想未来该怎么办，感觉很迷茫…",
+    "has_specific_detail": true,
+    "specific_detail": "上次我提到因为赌博的事情，欠了不少债，内心一直很愧疚和自责",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "每次想到未来，总是先想到那些债务，压得人喘不过气。比如想到每个月工资一发就得还债，几乎没什么剩下的，感觉生活特别无力…",
+    "has_specific_detail": true,
+    "specific_detail": "每次想到未来，总是先想到那些债务，压得人喘不过气",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "情绪上常常觉得焦虑和烦躁，甚至有时候心里发慌。行动上也会变得拖延，比如明知道该省钱，却还是忍不住买些不必要的东西…",
+    "has_specific_detail": true,
+    "specific_detail": "情绪上常常觉得焦虑和烦躁，甚至有时候心里发慌",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "可能是想要让自己暂时感觉轻松吧，有时候买东西或者吃点好的，能让我短暂忘记压力。可事后又会更加懊悔，觉得自己太不争气…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是想要让自己暂时感觉轻松吧，有时候买东西或者吃点好的，能让我短暂忘记压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "偶尔会打打篮球，但因为工作忙，时间少了很多。其实运动完心情会好一点，但又觉得还债才是正事，老是陷入这种矛盾里…",
+    "has_specific_detail": true,
+    "specific_detail": "偶尔会打打篮球，但因为工作忙，时间少了很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "可能会有帮助吧，至少运动的时候不用总想着债务的事。但又怕一旦开始放松，就会觉得自己不够努力，还债的压力会更大…",
+    "has_specific_detail": true,
+    "specific_detail": "可能会有帮助吧，至少运动的时候不用总想着债务的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "可能是欠债之后开始的吧，之前虽然也大手大脚，但没这种强烈的负担感。现在一想到钱的事，就觉得放松好像是在逃避责任…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是欠债之后开始的吧，之前虽然也大手大脚，但没这种强烈的负担感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "主要是对自己的吧，觉得自己做了错事，应该努力弥补。还有就是对家人，不想因为我的问题让他们也担心或者失望…",
+    "has_specific_detail": true,
+    "specific_detail": "主要是对自己的吧，觉得自己做了错事，应该努力弥补",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "他们知道一些，但我没全说，只提了欠债的事，没有细讲赌博的原因。他们偶尔会劝我别太急，但我总觉得他们还是挺失望的…",
+    "has_specific_detail": true,
+    "specific_detail": "他们知道一些，但我没全说，只提了欠债的事，没有细讲赌博的原因",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "有时候他们会主动问我钱够不够用，还说可以帮我周转一下。但我总觉得自己欠得够多了，实在不好意思再麻烦他们…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候他们会主动问我钱够不够用，还说可以帮我周转一下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "可能是觉得，自己已经给他们添了麻烦，再接受帮助会让我更觉得无地自容吧。而且我总想着，既然是自己的错，就该自己扛起来…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是觉得，自己已经给他们添了麻烦，再接受帮助会让我更觉得无地自容吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "说实话，完全自己承担挺困难的，但好像又觉得这样才能“赎罪”。可有时候压力太大，又觉得自己快坚持不住了…",
+    "has_specific_detail": true,
+    "specific_detail": "说实话，完全自己承担挺困难的，但好像又觉得这样才能“赎罪”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "也许可以试着分阶段处理问题，比如先把主要债务理清，再慢慢调整状态。这样或许能让我感觉自己在努力，也稍微轻松一点…",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试着分阶段处理问题，比如先把主要债务理清，再慢慢调整状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "可能可以从控制开销入手，比如每个月设定一个明确的存款目标。虽然现在钱不多，但至少能让自己感觉有在往前走…",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以从控制开销入手，比如每个月设定一个明确的存款目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "或许可以试着记账，把每一笔花销都写下来。这样能清楚看到哪些是没必要的消费，提醒自己少冲动买东西…",
+    "has_specific_detail": false,
+    "specific_detail": "",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少具体细节（如具体事件、场景、时间）; 缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 16,
+    "content": "也许可以设个目标，比如每天花费控制在一定范围内，然后在记账时标注完成情况。看到自己达标，可能会觉得更有动力！",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以设个目标，比如每天花费控制在一定范围内，然后在记账时标注完成情况",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得可以从每天50块开始试试吧，涵盖基本吃饭和交通费用，偶尔给自己留点小余地，不会太难坚持…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从每天50块开始试试吧，涵盖基本吃饭和交通费用，偶尔给自己留点小余地，不会太难坚持…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "或许可以每天抽十分钟做深呼吸或者放点音乐放松一下心情。虽然时间不长，但感觉能稍微平静下来，缓解一下焦虑…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以每天抽十分钟做深呼吸或者放点音乐放松一下心情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我比较喜欢听一些轻音乐或者自然声音，比如流水和鸟鸣的声音。在安静的房间里听，会让我感觉更放松、心情也平静些…",
+    "has_specific_detail": true,
+    "specific_detail": "我比较喜欢听一些轻音乐或者自然声音，比如流水和鸟鸣的声音",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得睡前比较合适，白天忙完工作情绪容易紧张，睡前听一会儿音乐能让我更放松，可能也会睡得好一点…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得睡前比较合适，白天忙完工作情绪容易紧张，睡前听一会儿音乐能让我更放松，可能也会睡得好一点…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "可以在睡前记个简单的感受，比如有没有感觉情绪缓和，睡觉是不是更踏实。如果效果好，也能鼓励我坚持下去…",
+    "has_specific_detail": true,
+    "specific_detail": "可以在睡前记个简单的感受，比如有没有感觉情绪缓和，睡觉是不是更踏实",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "可能在工作间隙吧，有时候因为琐事或者压力会特别烦躁。如果能利用几分钟深呼吸或者听听音乐，应该能缓解情绪…",
+    "has_specific_detail": true,
+    "specific_detail": "可能在工作间隙吧，有时候因为琐事或者压力会特别烦躁",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "或许可以给手机设个提醒，每天固定时间，比如下午两点左右，提示自己停下深呼吸或者放松一下，避免被事情淹没…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以给手机设个提醒，每天固定时间，比如下午两点左右，提示自己停下深呼吸或者放松一下，避免被事情淹没…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 24,
+    "content": "如果特别忙，可能就推迟到稍微空闲的时候，比如完成一件事后再花两分钟放松一下，尽量别让自己一直绷着…",
+    "has_specific_detail": true,
+    "specific_detail": "如果特别忙，可能就推迟到稍微空闲的时候，比如完成一件事后再花两分钟放松一下，尽量别让自己一直绷着…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 25,
+    "content": "是的，有个小奖励会让我感觉完成任务不是那么枯燥，像一种自我肯定。这样一来，可能心情也会更积极一些…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，有个小奖励会让我感觉完成任务不是那么枯燥，像一种自我肯定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "也许可以给自己泡杯喜欢的茶或者吃点小零食，这些小事虽然简单，但能让我感觉稍微放松和满足一点…",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以给自己泡杯喜欢的茶或者吃点小零食，这些小事虽然简单，但能让我感觉稍微放松和满足一点…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "这主意不错！比如完成一份工作任务后就泡杯茶，或者解决了一个问题后奖励自己一点零食，这样感觉更有成就感！",
+    "has_specific_detail": true,
+    "specific_detail": "这主意不错！比如完成一份工作任务后就泡杯茶，或者解决了一个问题后奖励自己一点零食，这样感觉更有成就感！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "或许可以写下每天的进步，比如存了多少钱或者完成了哪些计划。看到这些小成果，会让我觉得自己是在慢慢变好的，能更有动力继续坚持…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以写下每天的进步，比如存了多少钱或者完成了哪些计划",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得手机备忘录比较方便，随时都能打开记录。而且还能设置提醒，定期回顾这些进步，帮自己保持信心！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得手机备忘录比较方便，随时都能打开记录",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "其实有想过，比如在一年内尽量把债务还清一半。这样每天的努力都有具体目标，虽然压力大，但感觉会更有动力去坚持…",
+    "has_specific_detail": true,
+    "specific_detail": "其实有想过，比如在一年内尽量把债务还清一半",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我可以先明确每个月要还多少，然后控制开销存下固定金额。另外，也许可以尝试找点兼职收入，减轻债务压力…",
+    "has_specific_detail": true,
+    "specific_detail": "我可以先明确每个月要还多少，然后控制开销存下固定金额",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 32,
+    "content": "我觉得可以考虑做一些体力活的兼职，比如周末送外卖或者搬运工作，这些相对灵活，还能利用下班后的时间，不影响主业…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以考虑做一些体力活的兼职，比如周末送外卖或者搬运工作，这些相对灵活，还能利用下班后的时间，不影响主业…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "确实需要提前规划一下，比如每天工作后留点时间休息，周末兼职时控制工作时间，尽量别让自己太累影响正职工作…",
+    "has_specific_detail": true,
+    "specific_detail": "确实需要提前规划一下，比如每天工作后留点时间休息，周末兼职时控制工作时间，尽量别让自己太累影响正职工作…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 34,
+    "content": "或许可以每天晚上反思一下，比如记下工作和兼职后的感受，看身体和情绪状态是否有问题。如果觉得太累，就调整一下节奏…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以每天晚上反思一下，比如记下工作和兼职后的感受，看身体和情绪状态是否有问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我可以问自己，比如“今天有没有特别累？”“情绪上有没有觉得烦躁或焦虑？”“身体有没有不舒服？”这些问题能让我更清楚自己的状态…",
+    "has_specific_detail": true,
+    "specific_detail": "我可以问自己，比如“今天有没有特别累？”“情绪上有没有觉得烦躁或焦虑？”“身体有没有不舒服？”这些问题能让我更清楚自己的状态…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "如果感觉疲惫，可以早点休息或者泡个热水脚放松。如果情绪波动，可能会听音乐或者简单做些深呼吸，让自己平静下来…",
+    "has_specific_detail": true,
+    "specific_detail": "如果感觉疲惫，可以早点休息或者泡个热水脚放松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "可以在备忘录里记录调整后的感受，比如“休息后感觉精力恢复了多少”“情绪有没有好转”。这样久了就知道哪种方式效果最好…",
+    "has_specific_detail": true,
+    "specific_detail": "可以在备忘录里记录调整后的感受，比如“休息后感觉精力恢复了多少”“情绪有没有好转”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我觉得慢慢积累下来，可能会让我更懂得如何照顾自己，情绪也会更稳定一些。这样面对压力时，或许也能更从容一点…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得慢慢积累下来，可能会让我更懂得如何照顾自己，情绪也会更稳定一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我希望能通过这些努力，让生活逐渐恢复平稳，比如债务慢慢减少，自己也能更自律一些，真正感觉在掌控自己的生活…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能通过这些努力，让生活逐渐恢复平稳，比如债务慢慢减少，自己也能更自律一些，真正感觉在掌控自己的生活…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "如果接近这些目标，可能会觉得轻松不少，也会更有信心去规划未来。也许到时候，我会更期待尝试新的可能，比如改善收入或者重新考虑感情问题…",
+    "has_specific_detail": true,
+    "specific_detail": "如果接近这些目标，可能会觉得轻松不少，也会更有信心去规划未来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我觉得可以先尝试学习一些技能，比如利用空闲时间看看和工作相关的视频教程，提升能力。感情方面，也许可以试着调整心态，慢慢放下之前的顾虑…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先尝试学习一些技能，比如利用空闲时间看看和工作相关的视频教程，提升能力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "每天可以花半小时学习技能，比如看教程或者练习实际操作。每周抽时间反思一下自己对感情的想法，看看是否有新的心态变化…",
+    "has_specific_detail": true,
+    "specific_detail": "每天可以花半小时学习技能，比如看教程或者练习实际操作",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 43,
+    "content": "或许可以设一些小奖励，比如完成一周学习后给自己看场电影，或者记录下每次反思的收获，看到进步会让我更有动力坚持！",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以设一些小奖励，比如完成一周学习后给自己看场电影，或者记录下每次反思的收获，看到进步会让我更有动力坚持！",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 44,
+    "content": "如果不顺利，可能会停下来想想为什么没完成，是计划太满还是状态不好。然后试着调整目标，比如减少学习时间，先恢复节奏再慢慢跟上…",
+    "has_specific_detail": true,
+    "specific_detail": "如果不顺利，可能会停下来想想为什么没完成，是计划太满还是状态不好",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 45,
+    "content": "也许可以在备忘录里列个进度清单，完成一点就打个勾。看到清单上的进步，会让我觉得即使慢一点，也是在往前走！",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以在备忘录里列个进度清单，完成一点就打个勾",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "我觉得可以在完成阶段目标后，给自己买一件喜欢却一直舍不得的东西，比如一双运动鞋。这样既实用又有纪念意义，能提醒自己努力的成果！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以在完成阶段目标后，给自己买一件喜欢却一直舍不得的东西，比如一双运动鞋",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "接下来我觉得最需要专注在控制开销和记账上，这是基础。如果能把花钱的习惯改善，债务压力也会慢慢减轻，计划推进就更稳妥了！",
+    "has_specific_detail": true,
+    "specific_detail": "接下来我觉得最需要专注在控制开销和记账上，这是基础",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "或许可以在钱包里放个纸条，写上“这笔钱用得值得吗？”每次拿钱的时候看到，能提醒自己多思考，不再冲动消费！",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以在钱包里放个纸条，写上“这笔钱用得值得吗？”每次拿钱的时候看到，能提醒自己多思考，不再冲动消费！",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 49,
+    "content": "如果成功控制住，我可能会觉得自己终于有点改变了，会有点小开心。也许可以把省下的钱记下来，当成对自己的鼓励！",
+    "has_specific_detail": true,
+    "specific_detail": "如果成功控制住，我可能会觉得自己终于有点改变了，会有点小开心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "我觉得可以用这些钱去还一部分债务，看到负债减少会让我感觉轻松一些。或者留一小部分出来买点实用的东西，犒劳一下自己！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用这些钱去还一部分债务，看到负债减少会让我感觉轻松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "如果能形成这样的节奏，我觉得生活会更有条理，心里也会踏实很多。或许面对未来时，能更自信一点，不再总是焦虑和迷茫…",
+    "has_specific_detail": true,
+    "specific_detail": "如果能形成这样的节奏，我觉得生活会更有条理，心里也会踏实很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "我想对自己说，虽然现在很难，但每一步的努力都会让未来好一点。只要坚持下去，总能慢慢走出困境，不要放弃！",
+    "has_specific_detail": true,
+    "specific_detail": "我想对自己说，虽然现在很难，但每一步的努力都会让未来好一点",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 53,
+    "content": "是的，今天聊了这么多，我感觉对未来的方向更清楚了一点，也觉得自己可以从小事开始慢慢改变。谢谢你听我说！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，今天聊了这么多，我感觉对未来的方向更清楚了一点，也觉得自己可以从小事开始慢慢改变",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

@@ -1,0 +1,694 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，上次我们聊过这方面后，我试着更主动地跟妈妈表达我的一些想法。比如上周，我提到自己对心理学挺感兴趣的，但她好像更关心学这类专业将来好不好就业。虽然她没有直接反对，但我感觉她还是希望我按照更“稳妥”的方向走。说实话，这让我有点矛盾…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，上次我们聊过这方面后，我试着更主动地跟妈妈表达我的一些想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "当她提到“稳妥”的方向时，我通常会先点头附和，比如说“是啊，你说得有道理”，但心里其实觉得有点不被理解。我想表达自己的兴趣，但又怕让她觉得我太任性…这种时候，我总觉得我们聊得好像还差了点什么。",
+    "has_specific_detail": true,
+    "specific_detail": "当她提到“稳妥”的方向时，我通常会先点头附和，比如说“是啊，你说得有道理”，但心里其实觉得有点不被理解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我觉得可能是态度和话题深度都有点问题吧。比如有一次我想多说说为什么喜欢心理学，但她却很快转到“学这个有没有稳定工作”的话题上。我感觉自己的兴趣好像变成了次要的，没被深入讨论…会让我有点失落吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是态度和话题深度都有点问题吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "当时我确实犹豫了，心里想着“她可能觉得这些没那么重要吧”，所以就没再多说。后来话题变成她的一些建议，我只能点头附和，但其实内心还是挺想让她听听我的感受的…",
+    "has_specific_detail": true,
+    "specific_detail": "当时我确实犹豫了，心里想着“她可能觉得这些没那么重要吧”，所以就没再多说",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我觉得如果多说一些，可能她会更理解吧，比如我对研究人际关系特别感兴趣。但我也会担心她觉得这些“没用”，或者不够实际，所以总有点不敢深入去说…这种感觉让我挺纠结的。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果多说一些，可能她会更理解吧，比如我对研究人际关系特别感兴趣",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我觉得或许可以先从她关心的“实际性”入手，比如告诉她心理学也有很多职业方向，然后再慢慢聊到我为什么喜欢这领域。这样可能会让她更容易接受吧…但我还是怕自己说不好，或者她直接打断。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得或许可以先从她关心的“实际性”入手，比如告诉她心理学也有很多职业方向，然后再慢慢聊到我为什么喜欢这领域",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "也许我可以提前整理一些关于心理学职业发展的资料，比如哪些方向比较有前景，甚至找一些实际例子。这样如果她问起具体问题，我也能更自信地回答。不过，我还是会担心准备得再充分，她也可能更在意自己的想法…这让我有点犹豫。",
+    "has_specific_detail": true,
+    "specific_detail": "也许我可以提前整理一些关于心理学职业发展的资料，比如哪些方向比较有前景，甚至找一些实际例子",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "如果她更倾向自己的意见，我想我可以先表达对她担忧的理解，比如说“我知道你是为我好”。然后再试着强调我的兴趣和努力，比如“但我真的很想尝试一下，也会认真规划”。这样可能既能尊重她，也让自己观点更清晰吧。不过，我还是会有点怕她觉得我太固执…",
+    "has_specific_detail": true,
+    "specific_detail": "如果她更倾向自己的意见，我想我可以先表达对她担忧的理解，比如说“我知道你是为我好”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "如果她觉得我固执，我可能会试着缓和语气，比如说“我不是不听你的建议，只是这件事对我真的很重要”。然后再强调我愿意在她的担忧上做更多准备，比如一起研究职业发展什么的，这样或许能让她放心一些，同时也让我表达得更自然吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她觉得我固执，我可能会试着缓和语气，比如说“我不是不听你的建议，只是这件事对我真的很重要”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "如果她还是保留态度，我可能会有点失落，觉得自己的兴趣没被完全支持。但说实话，我对心理学的兴趣挺强的，暂时应该不会因此动摇方向，只是会希望能有更多来自她的认可和支持吧…这种情绪会让我偶尔有点不安。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她还是保留态度，我可能会有点失落，觉得自己的兴趣没被完全支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得我的班主任可能是一个可以倾诉的人，她之前在班会上提到过一些关于兴趣的重要性，也会鼓励我们探索自己的方向。如果有机会，我想试着和她聊聊看，也许能从她那里得到一些理解和建议吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得我的班主任可能是一个可以倾诉的人，她之前在班会上提到过一些关于兴趣的重要性，也会鼓励我们探索自己的方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我可能会先聊聊自己对心理学的兴趣，比如为什么喜欢研究人际关系，然后再提到和妈妈沟通时的困惑。她平时很会引导我们，我觉得她或许能给我一些建议，帮我更好地表达自己吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先聊聊自己对心理学的兴趣，比如为什么喜欢研究人际关系，然后再提到和妈妈沟通时的困惑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我希望她能肯定我的兴趣，比如告诉我这方向值得探索，也希望她能给一些实际建议，像如何更清晰地表达自己，或者怎么让妈妈更理解我的想法。这样的话，我会觉得更加有底气去坚持自己的选择吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她能肯定我的兴趣，比如告诉我这方向值得探索，也希望她能给一些实际建议，像如何更清晰地表达自己，或者怎么让妈妈更理解我的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我可能会先尝试表达技巧，因为和妈妈沟通是当前最让我困扰的部分。如果能更清晰地传达自己的想法，或许也能让她对我的兴趣有更多认可。至于职业规划，我觉得可以在后面再一步步完善。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先尝试表达技巧，因为和妈妈沟通是当前最让我困扰的部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我觉得可能更注重逻辑清晰度吧，比如先说兴趣的具体点，再提到它的实际价值，这样能让妈妈更容易理解我的想法。同时也会注意语气不要太急，尽量温和一些，这样她可能更愿意听我说下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能更注重逻辑清晰度吧，比如先说兴趣的具体点，再提到它的实际价值，这样能让妈妈更容易理解我的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "如果她态度有些松动，我会希望下一步能讨论具体的可能性，比如心理学的职业方向或者学习规划。这样既能让她看到我的认真和努力，也能让我们的对话更有建设性吧。我觉得这会是个很好的进展！",
+    "has_specific_detail": true,
+    "specific_detail": "如果她态度有些松动，我会希望下一步能讨论具体的可能性，比如心理学的职业方向或者学习规划",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得可以提前查一些心理学相关职业的资料，比如有哪些就业方向、需要什么技能，甚至看看有没有成功的案例分享。如果能把这些信息整理清楚，再结合我的兴趣点去说，可能会让讨论更有说服力吧，也更容易获得她的支持。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以提前查一些心理学相关职业的资料，比如有哪些就业方向、需要什么技能，甚至看看有没有成功的案例分享",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我可能会更关注适合我的具体方向，比如人际关系研究或者心理咨询师的职业路径，同时也会查一些发展前景和稳定性的数据。这样既能结合我的兴趣，又能回应妈妈对“实际性”的担忧，感觉会更全面一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会更关注适合我的具体方向，比如人际关系研究或者心理咨询师的职业路径，同时也会查一些发展前景和稳定性的数据",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得入行门槛和职业发展阶段会是关键信息。比如需要哪些学历或证书，职业发展的可能路径是什么，这样可以让我更清晰地规划未来，也让妈妈看到这条路的实际可行性。工作环境的话，我可能会简单提一下，但不是重点。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得入行门槛和职业发展阶段会是关键信息",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得可以用一些具体的例子来说明，比如哪个专业方向对应哪些职业，以及它们的需求和前景。再用简单的语言总结重点，不让信息显得太复杂，这样妈妈可能会更容易接受，也更愿意继续听下去吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用一些具体的例子来说明，比如哪个专业方向对应哪些职业，以及它们的需求和前景",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "如果她提到这条路可能太难，我会先承认她的担心，比如说“确实有挑战”。然后再强调我已经做好努力的准备，比如“但我觉得自己可以一步步学起来，而且我真的很感兴趣”。这样既回应了她的顾虑，也传达了我的决心和信心。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她提到这条路可能太难，我会先承认她的担心，比如说“确实有挑战”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得可以提一些实际行动，比如说“我已经查了相关专业的课程设置”或者“打算利用假期读一些心理学的入门书”。这些细节能让她更具体地看到我的努力，而不是停留在空泛的想法上，这样可能更容易让她放心一些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以提一些实际行动，比如说“我已经查了相关专业的课程设置”或者“打算利用假期读一些心理学的入门书”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "如果她表现出一点认可，我应该会觉得挺开心的吧，像是终于被理解了一些。这种感觉会让我更有动力去努力，同时也更有信心和她继续讨论未来的计划。可能还会让我觉得，我们的关系好像更贴近了些。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她表现出一点认可，我应该会觉得挺开心的吧，像是终于被理解了一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "如果沟通越来越顺畅，我会希望和她讨论一些更长远的规划，比如大学期间可以参与哪些实践活动，或者未来可能发展的具体职业方向。也许还能聊聊她对我兴趣领域的看法，我觉得那样会让我们的关系更深入，也让我更有信心走下去。",
+    "has_specific_detail": true,
+    "specific_detail": "如果沟通越来越顺畅，我会希望和她讨论一些更长远的规划，比如大学期间可以参与哪些实践活动，或者未来可能发展的具体职业方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我希望她更多地扮演倾听者和支持者吧。能认真听我说，理解我的想法，同时也给一些鼓励，让我觉得她是站在我这边的。如果有建议，我也希望是基于理解后的，而不是直接否定，这样会让我更容易接受。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她更多地扮演倾听者和支持者吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得可以调整语气更温和一些，比如多用“我觉得”或“我希望”这样的表达，而不是太直接地陈述。节奏上也可以慢一点，给她更多思考的时间。同时在她回应时，我会认真听，并适当地回应她的观点，这样可能会让对话更平等、更顺畅吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以调整语气更温和一些，比如多用“我觉得”或“我希望”这样的表达，而不是太直接地陈述",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "如果她对某些话题表现出特别感兴趣，我会主动问她的看法，比如“你觉得这个方向怎么样？”或者“有什么建议吗？”。这样不仅能让她感到被重视，也能让我更好地理解她的观点，然后再结合我的想法继续讨论，可能会让交流更深入吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她对某些话题表现出特别感兴趣，我会主动问她的看法，比如“你觉得这个方向怎么样？”或者“有什么建议吗？”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "如果她的建议和我的想法不同，我会先表示理解，比如“我明白你这么想是为我好”。然后再表达自己的观点，比如“但我觉得这个方向更适合我，可以试着平衡一下”。这样既能尊重她的意见，又不会轻易放弃自己的想法吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她的建议和我的想法不同，我会先表示理解，比如“我明白你这么想是为我好”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "如果关系逐渐改善，我可能会觉得更轻松、更有安全感吧，也会更愿意主动和她分享我的想法。对未来，我会期待能和她在更多事情上达成共识，比如一起讨论我的成长和规划，这样会让我觉得自己被真正支持和理解了。",
+    "has_specific_detail": true,
+    "specific_detail": "如果关系逐渐改善，我可能会觉得更轻松、更有安全感吧，也会更愿意主动和她分享我的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得接下来最关键的一步是继续尝试更深入的沟通，比如把我的兴趣和规划结合起来，慢慢让她看到我的思考深度。同时也可以适时展示一些努力成果，让她感受到我的认真和可行性，这样可能更容易赢得她的支持吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得接下来最关键的一步是继续尝试更深入的沟通，比如把我的兴趣和规划结合起来，慢慢让她看到我的思考深度",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得可能需要在情绪管理和表达技巧上再提升一些。比如在沟通中尽量保持冷静，不因为她的质疑就急于辩解，同时用更清晰、逻辑性的表达来说明我的观点。这样可能会让对话更顺畅，也能让她更容易接受我的想法。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能需要在情绪管理和表达技巧上再提升一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我想可以试着用模拟对话的方法，比如在心里或者和信任的朋友练习，提前准备一些可能会出现的问题和我的回应。也可以把思路记录下来，这样表达时就不容易乱了。我觉得这些方法能让我更有条理，也更从容一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以试着用模拟对话的方法，比如在心里或者和信任的朋友练习，提前准备一些可能会出现的问题和我的回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "如果发现某些问题难以回答，我会去查更多资料，或者参考一些相关的案例来补充自己的知识。表达不清的话，我可能会先简化思路，把复杂的内容分成几个小点，这样更容易组织语言，也更方便让对方理解吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果发现某些问题难以回答，我会去查更多资料，或者参考一些相关的案例来补充自己的知识",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 34,
+    "content": "如果有了更多信心，我可能会从我的兴趣点入手，比如具体说说心理学哪些方面吸引我，以及我为什么觉得这条路值得努力。然后再逐步引入一些实际规划，比如未来可能的职业方向，这样既能展现我的热情，也能回应她的关心吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有了更多信心，我可能会从我的兴趣点入手，比如具体说说心理学哪些方面吸引我，以及我为什么觉得这条路值得努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "如果她表现出理解或支持，我会希望接下来能一起讨论更具体的学习和实践计划，比如有哪些书可以读、假期可以参与什么活动。这样不仅能让她看到我的行动力，也能让我们在未来的规划上有更多共同参与的感觉吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她表现出理解或支持，我会希望接下来能一起讨论更具体的学习和实践计划，比如有哪些书可以读、假期可以参与什么活动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "如果能达成一些共识，我觉得我们的关系可能会变得更融洽吧。我会感觉自己被真正理解了，也更愿意主动分享我的想法，而她可能也会对我的选择多一些信任和支持。这种变化会让我觉得很温暖，也更有动力去努力实现自己的目标。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能达成一些共识，我觉得我们的关系可能会变得更融洽吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "如果这种融洽实现了，我觉得会让我更有自信去表达自己的真实想法，也可能更懂得如何平衡倾听与坚持。这种经验或许能让我在其他关系中也更从容，比如与老师或朋友沟通时，能更自然地传递自己的感受，同时也更理解别人的立场吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果这种融洽实现了，我觉得会让我更有自信去表达自己的真实想法，也可能更懂得如何平衡倾听与坚持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我觉得写日记是个不错的方式，可以记录每次沟通的感受和收获，比如哪些地方做得好，哪些还可以改进。也可以定期做阶段性回顾，看看自己在哪些方面进步了，这样不仅能更清楚地看到自己的成长，还能为下一步的努力提供方向吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得写日记是个不错的方式，可以记录每次沟通的感受和收获，比如哪些地方做得好，哪些还可以改进",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我觉得可以为自己设定一个小目标，比如每周写两次日记，时间可以固定在晚上睡前，这样比较容易坚持。也可以在日记里加一些小奖励机制，比如记录下一个让自己开心或自豪的进步，这样会更有动力去写下去吧！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以为自己设定一个小目标，比如每周写两次日记，时间可以固定在晚上睡前，这样比较容易坚持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我觉得“事件-感受-收获”的结构可能会更适合我，这样可以帮助我理清思路，也更方便回顾时找到重点。不过，也会留一些空间自由表达，比如写下当天的特别感受或随想，这样记录起来不会太拘束，还能更贴近自己的心情吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得“事件-感受-收获”的结构可能会更适合我，这样可以帮助我理清思路，也更方便回顾时找到重点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "如果遇到动力不足，我可能会回头翻看之前的日记，提醒自己已经取得了哪些进步，这会让我觉得自己的努力是有意义的。或者给自己设一个新的小目标，比如记录下一次重要的沟通成果，这样会更有期待感，也能重新激励自己坚持下去吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到动力不足，我可能会回头翻看之前的日记，提醒自己已经取得了哪些进步，这会让我觉得自己的努力是有意义的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "我觉得这些记录和反思会让我更清楚自己在职业规划上的方向和努力，也能让我在沟通中不断调整自己的方式，变得更成熟和自信。和妈妈的关系可能会因此变得更加开放和理解，我也会更有动力去坚持自己的选择，同时感受到来自她的支持和陪伴吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这些记录和反思会让我更清楚自己在职业规划上的方向和努力，也能让我在沟通中不断调整自己的方式，变得更成熟和自信",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "我觉得最需要保持的是耐心和坚持吧。沟通和成长都不是一蹴而就的，可能会有挫折或者进展慢的时候，但只要我能一步步努力，保持积极的心态和对目标的信心，相信最终会看到改变和收获的！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最需要保持的是耐心和坚持吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "我觉得可以写一句座右铭，比如“每一步都算数”放在显眼的地方，提醒自己努力的意义。同时也可以定期和信任的人聊聊，比如班主任或朋友，分享自己的进展和感受，这样既能获得支持，也能让自己更有动力继续坚持。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以写一句座右铭，比如“每一步都算数”放在显眼的地方，提醒自己努力的意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "我觉得可以先从写日记开始，把最近的沟通尝试和感受记录下来，然后再查一些心理学职业规划的资料，整理成可以和妈妈分享的内容。这样既能有条理地准备下一次对话，也能为自己积累更多信心，慢慢把计划一步步落实。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从写日记开始，把最近的沟通尝试和感受记录下来，然后再查一些心理学职业规划的资料，整理成可以和妈妈分享的内容",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "如果遇到新的想法或困惑，我会先把它们写下来，整理清楚具体是什么问题，然后再通过查资料、请教老师或者和信任的人讨论来寻找答案。这样既能防止自己被卡住，也能让思路更加清晰，继续往前走不会停滞不前。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到新的想法或困惑，我会先把它们写下来，整理清楚具体是什么问题，然后再通过查资料、请教老师或者和信任的人讨论来寻找答案",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 47,
+    "content": "我希望自己能变得更自信、更独立，尤其是在表达想法和面对不同意见时，不再轻易退缩。同时，我也希望能更清晰地了解自己的目标和方向，在和妈妈的关系中建立更多的理解与信任，这些变化会让我觉得自己在不断进步，也更有力量去追求想要的未来。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望自己能变得更自信、更独立，尤其是在表达想法和面对不同意见时，不再轻易退缩",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "我觉得可以设一个小仪式，比如每次达成一个阶段性目标后，给自己写一封信，记录下自己的努力和感受。或者在日记里画一个成长曲线图，用视觉化的方式展现自己的进步，这样每当回头看时，都能感受到自己的成长意义和前进的动力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以设一个小仪式，比如每次达成一个阶段性目标后，给自己写一封信，记录下自己的努力和感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "我觉得最让我期待的是和妈妈的关系能够变得更融洽，让她真正理解我的兴趣和选择。同时，看到自己一步步朝目标前进，比如在心理学领域积累更多知识，也让我充满动力。这种既改善关系又实现自我成长的过程，让我觉得未来充满了可能性！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最让我期待的是和妈妈的关系能够变得更融洽，让她真正理解我的兴趣和选择",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "我觉得需要提醒自己，面对困难时一定要保持耐心，不急于求成，每一点小进步都值得肯定。同时，也要用合理的节奏推进计划，不给自己太大压力，学会在努力和休息之间找到平衡，这样才能走得更远、更稳。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要提醒自己，面对困难时一定要保持耐心，不急于求成，每一点小进步都值得肯定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "我希望能对自己说：“谢谢你当时没有放弃，哪怕有过犹豫和不安，也一直在努力迈出一步又一步。正是因为这些坚持，你才走到了今天，变得更自信、更坚定。你真的很棒！”",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能对自己说：“谢谢你当时没有放弃，哪怕有过犹豫和不安，也一直在努力迈出一步又一步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "我想马上开始写下第一篇日记，把最近的感受和计划记录下来。这会是一个很好的起点，让我梳理清楚思路，同时也为下一步和妈妈的沟通做好准备。我觉得现在就是行动的最好时机！",
+    "has_specific_detail": true,
+    "specific_detail": "我想马上开始写下第一篇日记，把最近的感受和计划记录下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "谢谢你的鼓励！我会马上开始行动，把第一步踏踏实实地做好。今天的对话让我觉得更有方向和动力了，我们下次再聊吧，我会带着新的进展回来！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励！我会马上开始行动，把第一步踏踏实实地做好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

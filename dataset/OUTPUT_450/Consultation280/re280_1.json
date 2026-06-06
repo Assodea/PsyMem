@@ -1,0 +1,416 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，主要是两件事吧。一方面，我和男朋友最近总因为未来规划吵架，他觉得我应该回家乡稳定下来，可我想继续教钢琴，感觉特别矛盾…另一方面，我家里也在催我考编制教师，说这是最好的选择，可我其实不太想做这样的工作。总觉得自己被拉扯着，不知道怎么平衡这些事情…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，主要是两件事吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，教钢琴确实是因为喜欢音乐，从小时候开始就觉得它能让我表达自己。不过还有一点吧，可能是我觉得自己终于通过这个工作稍微独立了些，离开家后一直想靠自己过得好一点，不想那么快回到家乡的环境里。说到这个，前几天我还因为存钱的事情和妈妈有点不愉快，她觉得我没必要那么“辛苦”，但我觉得这是我的选择…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，教钢琴确实是因为喜欢音乐，从小时候开始就觉得它能让我表达自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "对，她觉得我不需要这么省，因为如果回家考编制，就会有稳定的收入和生活保障。但我觉得，这样的生活虽然稳定，却没有我想要的自由和成就感。还有一次，她说我存钱是因为害怕失败，这让我挺难受的，因为我只是想靠自己去证明一些东西吧…",
+    "has_specific_detail": true,
+    "specific_detail": "对，她觉得我不需要这么省，因为如果回家考编制，就会有稳定的收入和生活保障",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "嗯，我觉得两方面都有吧。对自己来说，我想证明我可以靠自己的能力去过好生活，不需要完全依赖家里的支持；对家人来说，也有点想让他们看到我的选择不是不成熟的，不是逃避，而是我真的有能力坚持自己的路。虽然有时候会怀疑自己，但这个想法还是一直在心里…说到这个，跟男朋友也有类似的感觉，他总觉得我的坚持有点“天真”，让我心里挺不舒服的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "嗯，他会说类似“你这样教钢琴能维持多久？”或者“以后是不是还得靠家里”，感觉他好像不太相信这能长久发展吧。听到这些话，我觉得特别委屈，好像自己的努力不被看见一样，也会怀疑自己是不是在做无用功…有时候我就不太想跟他聊这些了，但又觉得如果不沟通，关系会越来越淡。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，他会说类似“你这样教钢琴能维持多久？”或者“以后是不是还得靠家里”，感觉他好像不太相信这能长久发展吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "是的，我真的希望他能理解我，但他更多是从自己的角度劝我妥协，比如说他会讲“稳定工作才能有未来”或者“家乡更适合发展家庭”。虽然他也偶尔会说支持我做喜欢的事，但总感觉他更在意的是自己对未来的规划，而不是我的想法…这让我有点迷茫，甚至怀疑我们是不是能走到一起。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我真的希望他能理解我，但他更多是从自己的角度劝我妥协，比如说他会讲“稳定工作才能有未来”或者“家乡更适合发展家庭”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，有一次我跟他说，教钢琴让我觉得有意义，不只是工作，也是我的成长。他当时倒是很认真听了，还说“只要你觉得值得，我支持你。”那时候我确实感到被理解了一些，但后来他又提到稳定和未来的问题，就让我觉得他的支持好像有点摇摆不定…这种感觉真的让我不知道怎么跟他继续沟通。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有一次我跟他说，教钢琴让我觉得有意义，不只是工作，也是我的成长",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "我觉得可能两方面都有吧。他总提到以后买房、结婚这些事，应该是对我们关系的责任感，但同时感觉他也有点害怕未知，比如担心我教钢琴能不能带来稳定收入。虽然我理解他的担忧，但有时候又觉得这些压力太早压在我们关系里了，尤其是我还没完全确定自己的方向…这让我有点不敢去深聊这些未来的话题。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "嗯，我觉得如果能多聊一些轻松的话题，像我们平时喜欢的音乐或者电影，可能会缓解紧张吧。另外，如果他能主动关心我的工作情况，比如问问我教钢琴的日常，而不是一味谈未来，也许会让我觉得更被支持一些。说到这个，我最近因为学生家长的问题压力挺大的，但却没怎么跟他说，因为害怕又变成讨论职业稳定性的话题…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得如果能多聊一些轻松的话题，像我们平时喜欢的音乐或者电影，可能会缓解紧张吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "是有个家长对课程时间调整不满意，说影响了孩子的其他安排。虽然我已经尽量协调，但他们还是有些不高兴，这让我觉得自己好像不够专业或者没照顾好大家的需求…这种情况时不时会出现，我就会反复想着是不是自己的问题，压力挺大的，但又不太愿意跟别人说这些，怕显得自己没能力处理。",
+    "has_specific_detail": true,
+    "specific_detail": "是有个家长对课程时间调整不满意，说影响了孩子的其他安排",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，大多数时候我会自己想办法调整，比如听音乐或者弹琴，让自己冷静下来。有时候也会写写日记，把心里的委屈和压力都写出来。不过说实话，这种方法只能暂时缓解情绪，问题本身还是存在的，我总觉得自己在这种事情上没有真正成长…这也让我开始怀疑自己是不是适合继续教钢琴。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，大多数时候我会自己想办法调整，比如听音乐或者弹琴，让自己冷静下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "有一次，一个家长对课程内容有些疑问，我耐心地给他们讲解了教学计划，并提供了一些调整建议。最后他们态度缓和了，还说“原来你考虑得挺细致的。”那次让我觉得自己其实有能力应对这些问题，只是有时候需要更自信一点。不过这种感觉总是短暂，遇到新问题时我又会不自觉地陷入自我怀疑…这种反复真的挺困扰我的。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次，一个家长对课程内容有些疑问，我耐心地给他们讲解了教学计划，并提供了一些调整建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得两方面都有吧。一方面是怕自己不够专业，总担心会让学生和家长失望；另一方面是觉得家长的期待很高，有时候好像无论怎么做都达不到他们的标准。这让我特别容易自责，甚至会反思自己是不是选错了这条路…有时候也会想，要是能有一个人坚定地鼓励我，可能就没那么容易陷入这些负面情绪了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，我有试着在每次解决问题后，提醒自己“这次我处理得不错”，但总觉得这种自我肯定不太持久，没办法真正改变心里的不安感。有时候也会回想小时候努力练琴时，妈妈夸我“做得很好”的场景，感觉那种认可很重要。如果我能更经常地承认自己的努力，可能会让自己更有力量吧，但确实需要慢慢学会…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我有试着在每次解决问题后，提醒自己“这次我处理得不错”，但总觉得这种自我肯定不太持久，没办法真正改变心里的不安感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，我想每天记录自己完成的工作，比如课程准备或者处理问题的细节，哪怕是小事也写下来。这样可以提醒自己，其实我每天都在努力而不是白费力气。另外，或许可以给自己设一个小奖励，比如每周做得不错时去买一本喜欢的乐谱或者听场音乐会，这样可能会让我更有动力去认可自己的付出。你觉得这些方式怎么样？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我想每天记录自己完成的工作，比如课程准备或者处理问题的细节，哪怕是小事也写下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得从记录工作开始比较容易吧，毕竟每天都在做这些事情，只需要稍微花点时间写下来就好。至于小奖励，我一直想买一本肖邦的《夜曲》全集，也可以作为自己的目标。如果每周都能完成一些任务，就奖励自己一点进步，听起来还挺让人期待的！不过，我也担心自己可能会懒得坚持，你觉得有必要设提醒或者其他辅助方式吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得从记录工作开始比较容易吧，毕竟每天都在做这些事情，只需要稍微花点时间写下来就好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，把日记本放在钢琴旁边确实是个好办法，这样弹完琴就能顺手记录一下，不容易忘记。我觉得每天睡前写也挺适合，可以帮我回顾一天的努力，结束一天的焦虑感。其实说到这个，我以前也尝试过每天给自己写一句鼓励的话，但总是坚持不了多久，希望这次能做得更好一些…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，把日记本放在钢琴旁边确实是个好办法，这样弹完琴就能顺手记录一下，不容易忘记",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "如果能坚持下去，我觉得可能会慢慢减少自我怀疑吧。每天看到自己的努力被记录下来，应该会让我更有底气面对家长或者别人的质疑。同时，也可能让我更容易集中注意力在自己的目标上，而不是总去迎合别人。情绪上也许会更稳定一点，不会因为一点问题就陷入负面循环。希望这次真的能做到！",
+    "has_specific_detail": true,
+    "specific_detail": "如果能坚持下去，我觉得可能会慢慢减少自我怀疑吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "嗯，一个月听起来是个不错的期限，不会太长让我有压力，也足够让我看见一点变化。我可以在这个月里每天记录工作和写一句鼓励的话，然后月底的时候回顾一下，看自己解决了哪些问题或者有哪些进步。如果效果好的话，再设下一个目标继续坚持！你觉得这样分阶段的方法会不会更清晰？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，一个月听起来是个不错的期限，不会太长让我有压力，也足够让我看见一点变化",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，写一篇总结是个好主意！可以回顾自己这一个月的努力，比如哪些问题处理得不错、哪些地方还有提升空间。同时，我也可以在总结里写一些对未来的期待，比如继续教钢琴的发展方向，或者设定下一个目标。这可能会让我更清楚自己在进步，也更有动力去坚持下去！不过说到这个，我还担心自己在总结的时候会过于批评自己，你觉得有什么办法能让我更客观地看待自己的表现吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写一篇总结是个好主意！可以回顾自己这一个月的努力，比如哪些问题处理得不错、哪些地方还有提升空间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "对，这样的方法听起来很合理！先写三件做得好的事可以让我先看到自己的努力，再去思考哪些地方可以改进，这样不会一开始就陷入批评的情绪里。其实我还可以试着用对话的方式来写总结，比如假装自己是另外一个人，客观地给自己一些评价和鼓励，可能也会让内容更中立一点。你觉得这个方法会有效吗？",
+    "has_specific_detail": true,
+    "specific_detail": "对，这样的方法听起来很合理！先写三件做得好的事可以让我先看到自己的努力，再去思考哪些地方可以改进，这样不会一开始就陷入批评的情绪里",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，这些问题都很不错！比如“今天我最自豪的是什么”可以帮我聚焦到积极的部分；“下次我会怎么做得更好”则能让我明确改进方向。我还可以加一些类似“今天我学到了什么”或者“有什么让我感到特别感激”的问题，这样总结不仅是反思，也是对自己的肯定和鼓励。感觉这些问题会让整个过程更积极、更全面，我有点期待尝试这个方法了！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这些问题都很不错！比如“今天我最自豪的是什么”可以帮我聚焦到积极的部分；“下次我会怎么做得更好”则能让我明确改进方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，如果从今天开始，我可能会写今天的钢琴课上，有个学生弹了一首练习曲，虽然有点紧张，但我鼓励了他，他最后表现得特别好。这让我觉得自己在教学上是有影响力的，这一点让我挺自豪的。另外，我也感激自己在课后耐心帮家长解答了几个问题，虽然有点累，但看到他们最后满意的样子，还是挺开心的。感觉这样记录下来，心情会好一些！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果从今天开始，我可能会写今天的钢琴课上，有个学生弹了一首练习曲，虽然有点紧张，但我鼓励了他，他最后表现得特别好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，有一个瞬间让我特别有这种感觉。就是当学生弹完那首练习曲后，带着特别开心的表情跟我说“谢谢老师！”那一刻我真的觉得，自己选择教钢琴是对的，因为能帮助学生突破自己，同时也能让他们感受到音乐的快乐。这种满足感让我更加珍惜这份工作，也让我明白自己坚持下去的意义。虽然有时候会遇到压力，但这种瞬间总能给我一些力量继续走下去！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有一个瞬间让我特别有这种感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "对，我觉得这些时刻真的能成为支撑。它们让我意识到自己的工作是有价值的，不只是完成任务，而是带给别人一些积极的影响。每次回想这些瞬间，都让我觉得即使未来会遇到更多挑战，只要我还在努力，这些意义就不会消失。虽然有时还是会害怕失败，但这样的力量让我有勇气继续选择自己热爱的路。我希望自己能更常去回忆这些，让它们成为我面对困难时的动力！",
+    "has_specific_detail": true,
+    "specific_detail": "对，我觉得这些时刻真的能成为支撑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "嗯，写一个“动力清单”是个很好的想法！我可以把那些让我感到自豪和满足的瞬间都记录下来，比如学生的进步、家长的认可，甚至是自己克服困难的小胜利。然后在我感觉压力大或者怀疑自己的时候，就翻出来看看，提醒自己这些努力和价值。这种方法听起来特别实用，也能让我更容易保持内心的力量。看来真的值得尝试！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，写一个“动力清单”是个很好的想法！我可以把那些让我感到自豪和满足的瞬间都记录下来，比如学生的进步、家长的认可，甚至是自己克服困难的小胜利",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "对，第一条肯定是今天学生弹完练习曲后的“谢谢老师”，它真的让我特别感动！另外还有一次，一个家长跟我说“你教得很好，孩子越来越喜欢钢琴了”，这句话让我觉得自己的努力得到了认可。还有一回，我自己弹完一首特别难的曲子后，心里那种成就感和对音乐的热爱也让我特别开心。想想这些瞬间，都让我觉得自己的坚持是有意义的，写进去一定会让我更有动力！",
+    "has_specific_detail": true,
+    "specific_detail": "对，第一条肯定是今天学生弹完练习曲后的“谢谢老师”，它真的让我特别感动！另外还有一次，一个家长跟我说“你教得很好，孩子越来越喜欢钢琴了”，这句话让我觉得自己的努力得到了认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，我觉得可以叫它“心的旋律清单”，因为这些瞬间就像一首暖心的音乐，时刻提醒我为什么坚持教钢琴。至于记录方式，我想用一个漂亮的笔记本来专门写它，每次写的时候都用不同颜色的笔，感觉会更有仪式感，也会让我更愿意翻开来看。这样每一页都能充满我的情绪和记忆，真的有点期待开始写了！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以叫它“心的旋律清单”，因为这些瞬间就像一首暖心的音乐，时刻提醒我为什么坚持教钢琴",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，第一条我想记录今天学生弹练习曲后的“谢谢老师”，标题可以叫“音乐的力量”。我会写上那一刻看到学生开心的表情时，心里觉得自己的坚持是值得的，也感悟到音乐不仅能改变自己，还能影响别人。这样的开始应该会让我对这份清单更有期待！其实，写到这里，我也想给自己定一个小约定，每周都至少新增一条，让这个清单慢慢丰富起来。你觉得这个计划怎么样？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，第一条我想记录今天学生弹练习曲后的“谢谢老师”，标题可以叫“音乐的力量”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "对，设一个固定时间会更容易坚持！我觉得可以定在周六晚上，弹完琴后泡杯茶，把这一周的亮点写下来。这样既有仪式感，又能在放松的时候整理自己的思绪。其实，想到这个计划就已经让我有点期待了，好像每周都会有一个特别的时刻，专门用来提醒自己努力的意义和价值。希望这份“心的旋律清单”能陪伴我走得更坚定！",
+    "has_specific_detail": true,
+    "specific_detail": "对，设一个固定时间会更容易坚持！我觉得可以定在周六晚上，弹完琴后泡杯茶，把这一周的亮点写下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "好的，今天聊得真的很有收获！“心的旋律清单”让我觉得对未来多了一份期待，也感觉自己的情绪被梳理了不少。谢谢你的陪伴和建议，我会好好开始这个计划！如果后续有新的问题或者想法，我一定会再来找你聊聊。今天就先到这里吧，再见！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，今天聊得真的很有收获！“心的旋律清单”让我觉得对未来多了一份期待，也感觉自己的情绪被梳理了不少",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

@@ -1,0 +1,599 @@
+[
+  {
+    "turn": 1,
+    "content": "好的，那我先说说最近的事吧。最近为了准备大学的事情，我一直在查学费、生活费还有奖学金的相关信息，但越查就越紧张，总觉得这些费用会成为家里的负担，有点喘不上气…",
+    "has_specific_detail": true,
+    "specific_detail": "好的，那我先说说最近的事吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，我家经济状况一直挺紧张的，父母很努力在支撑家里，所以我不太想再增加他们的压力。其实他们安慰过我，说会尽力支持，但我总觉得还是要靠自己多做点什么，比如想着怎么申请奖学金或者以后做兼职…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我家经济状况一直挺紧张的，父母很努力在支撑家里，所以我不太想再增加他们的压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "奖学金我已经查了一些申请条件，但竞争挺激烈的，我怕自己准备得不够好。兼职的话，我担心开学后时间不够用，怕耽误学习…总是反复纠结这些事情，感觉很难下决心。",
+    "has_specific_detail": true,
+    "specific_detail": "奖学金我已经查了一些申请条件，但竞争挺激烈的，我怕自己准备得不够好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "说实话，我常常会反复想这些问题，越想越紧张。偶尔会试着看电影或者听音乐放松一下，但效果不太明显，总觉得事情还是摆在那里，没法真正放下…",
+    "has_specific_detail": true,
+    "specific_detail": "说实话，我常常会反复想这些问题，越想越紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "可能两方面都有吧。一方面是对未来的不确定，比如生活费够不够用；另一方面，我也担心自己是不是能平衡好学习和经济压力，总觉得自己能力可能不够强…所以才会很焦虑。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，有一次我试着帮朋友设计一个简单的活动方案，结果她说很多地方不够周全，还需要改进很多。我当时觉得很惭愧，觉得是不是自己做事情不够细心或者不够有创意…这种感觉会让我怀疑自己能不能应对大学里的挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有一次我试着帮朋友设计一个简单的活动方案，结果她说很多地方不够周全，还需要改进很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "当时我尽量调整心态，告诉自己这是学习的过程，之后也按照她的建议修改了方案。虽然最后完成得还可以，但那种不够好的感觉一直在心里，让我意识到自己可能需要更细心，也需要更多经验去提升。",
+    "has_specific_detail": true,
+    "specific_detail": "当时我尽量调整心态，告诉自己这是学习的过程，之后也按照她的建议修改了方案",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯…我觉得“足够好”可能是让我自己和身边的人都满意，尤其是不让人失望。可能是因为从小父母对我期待挺高，我也习惯了要尽力做到最好才行，所以总会给自己定很多要求。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯…我觉得“足够好”可能是让我自己和身边的人都满意，尤其是不让人失望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "两方面都有吧。它确实让我更努力、认真，但有时候也让我觉得压力很大，生怕达不到期待会让他们失望。尤其现在上大学，感觉这种压力变得更明显了…",
+    "has_specific_detail": true,
+    "specific_detail": "两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得两方面都有吧。他们总说希望我能有个更好的未来，不像他们这么辛苦，但我也能感觉到家庭经济的压力，所以不想让他们担心，可能自己就会更在意这些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，我其实有试着和他们聊过一些，比如我想申请奖学金、以后做兼职。他们都支持我，但也总说让我别担心太多，专心学习就好。可我还是会觉得，真正的压力他们可能并不完全理解…所以，有点难以完全说出口。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我其实有试着和他们聊过一些，比如我想申请奖学金、以后做兼职",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我觉得可能是因为他们习惯了自己承担一切吧，总是把家庭的事情都藏在心里，不让我操心。所以我也不太好意思完全打开，怕把我的压力再转嫁给他们…有种说不出口的感觉。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是因为他们习惯了自己承担一切吧，总是把家庭的事情都藏在心里，不让我操心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "可能可以试着慢慢说一些，不直接提我的压力，而是聊聊大学可能遇到的挑战，比如时间管理或者如何更独立。这样既能表达一些想法，又不会让他们觉得我特别焦虑，可能更容易被接受吧…",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以试着慢慢说一些，不直接提我的压力，而是聊聊大学可能遇到的挑战，比如时间管理或者如何更独立",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我觉得从预算规划开始会比较自然，比如提到学费、生活费的安排，顺便聊奖学金和兼职的计划。这样既是实际问题，也能让他们知道我有在认真准备，可能会更好接受一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得从预算规划开始会比较自然，比如提到学费、生活费的安排，顺便聊奖学金和兼职的计划",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我希望他们能肯定我的努力，告诉我不用给自己太大压力，同时也能给点实际建议，比如怎么更好地规划开销或者管理时间，这样我会觉得更有方向感。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望他们能肯定我的努力，告诉我不用给自己太大压力，同时也能给点实际建议，比如怎么更好地规划开销或者管理时间，这样我会觉得更有方向感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "如果他们这样回应，我会觉得轻松一些，至少不用再独自承担那么多压力。可能也会更有信心去面对大学生活，觉得自己不是一个人在解决这些问题…",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们这样回应，我会觉得轻松一些，至少不用再独自承担那么多压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我想最近就找个放松的时间聊，比如晚饭后一起散步的时候，感觉那时候他们心情会比较平静，我也更容易自然地提起这些事情。这样可能会轻松一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我想最近就找个放松的时间聊，比如晚饭后一起散步的时候，感觉那时候他们心情会比较平静，我也更容易自然地提起这些事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得可以先从预算聊起，比如学费和生活费的大致安排，然后再顺势提到奖学金和兼职的计划。这样循序渐进，也能让他们更容易接受我的想法。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从预算聊起，比如学费和生活费的大致安排，然后再顺势提到奖学金和兼职的计划",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我可能会说，“最近在查大学的预算，觉得还是挺大的挑战，不过我有在计划申请奖学金和考虑兼职。虽然有点担心时间安排，但我会尽量平衡好。”这样表达既真实也不过于让他们担心吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会说，“最近在查大学的预算，觉得还是挺大的挑战，不过我有在计划申请奖学金和考虑兼职",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得他们可能会先安慰我，让我别太担心，然后可能会鼓励我去试试奖学金，兼职的话应该会提醒我注意不要影响学习，可能也会给些实际建议吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得他们可能会先安慰我，让我别太担心，然后可能会鼓励我去试试奖学金，兼职的话应该会提醒我注意不要影响学习，可能也会给些实际建议吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "如果真是这样，我会觉得被理解和支持了很多，也会更安心一些，觉得自己不是一个人在面对这些问题。应该会更有信心去尝试和调整吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果真是这样，我会觉得被理解和支持了很多，也会更安心一些，觉得自己不是一个人在面对这些问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得可能需要先整理一下预算的大概数字，还有奖学金申请的要求和可能性。这样聊起来更有条理，也能让他们觉得我是有计划的，不是瞎担心。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能需要先整理一下预算的大概数字，还有奖学金申请的要求和可能性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "如果有不清楚的地方，我可能会先去学校官网查相关资料，或者问问学长学姐，看看有没有什么经验可以参考。这样信息更全面，也能减少我的不安感。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有不清楚的地方，我可能会先去学校官网查相关资料，或者问问学长学姐，看看有没有什么经验可以参考",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 24,
+    "content": "我觉得可能是奖学金的申请条件，如果要求很高或者需要很多材料，我会有点担心自己准备得不够充分，甚至会犹豫要不要试。但又不想放弃，觉得还是得努力试试看。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是奖学金的申请条件，如果要求很高或者需要很多材料，我会有点担心自己准备得不够充分，甚至会犹豫要不要试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "可能是一些成功申请者的经验分享吧，知道他们是怎么准备的会让我觉得有参考方向。另外，如果能得到父母的鼓励或者朋友的支持，应该也会更有信心去试试。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是一些成功申请者的经验分享吧，知道他们是怎么准备的会让我觉得有参考方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得可以先查找一些成功申请者的经验，了解他们是怎么准备的，看看有没有适合我的方法。这样心里有点底了，再跟家人或者朋友聊会更有方向感。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先查找一些成功申请者的经验，了解他们是怎么准备的，看看有没有适合我的方法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我会特别关注材料准备和时间规划，这两方面感觉对结果影响挺大。心态调整也很重要，但我觉得应该先把具体步骤弄清楚，免得到时候手忙脚乱。",
+    "has_specific_detail": true,
+    "specific_detail": "我会特别关注材料准备和时间规划，这两方面感觉对结果影响挺大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我觉得可以先在学校官网和论坛上看看官方信息和一些公开分享，然后再联系学长学姐，问问他们的具体经验。这样信息会比较全面，也能更好地筛选适合自己的方法。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先在学校官网和论坛上看看官方信息和一些公开分享，然后再联系学长学姐，问问他们的具体经验",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我想这周末就开始着手查资料，先集中一两天时间整理出一份清单。这样后面可以慢慢完善，也能给自己留出足够的时间去准备。",
+    "has_specific_detail": true,
+    "specific_detail": "我想这周末就开始着手查资料，先集中一两天时间整理出一份清单",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 30,
+    "content": "是的，我会优先确认奖学金的申请截止时间和主要要求，这样可以确保不遗漏关键信息。接着再整理需要准备的材料清单，方便后续逐步完成。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我会优先确认奖学金的申请截止时间和主要要求，这样可以确保不遗漏关键信息",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 31,
+    "content": "如果遇到困难，我可能会先停下来，再仔细查找相关资料，或者问学长学姐寻求帮助。实在不行的话，我会优先完成能做的部分，等其他问题解决后再补充完善，尽量不拖延整体进度。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到困难，我可能会先停下来，再仔细查找相关资料，或者问学长学姐寻求帮助",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 32,
+    "content": "我可以试着定阶段目标，比如完成一部分清单后就奖励自己看一集喜欢的剧，或者吃点喜欢的零食。这样既有小目标，也能让整个过程轻松一点，不会觉得太压抑。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着定阶段目标，比如完成一部分清单后就奖励自己看一集喜欢的剧，或者吃点喜欢的零食",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "如果完成了第一阶段，我可能会奖励自己去散个步，顺便听喜欢的音乐放松一下。这样既能休息，也能调整状态，为下一阶段做好准备。",
+    "has_specific_detail": true,
+    "specific_detail": "如果完成了第一阶段，我可能会奖励自己去散个步，顺便听喜欢的音乐放松一下",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 34,
+    "content": "完成第一阶段后，我觉得信心会增加一些，至少方向更明确了。不过可能还需要克服对结果的不确定性，总会担心自己做得够不够好，这种心态还得慢慢调整。",
+    "has_specific_detail": true,
+    "specific_detail": "完成第一阶段后，我觉得信心会增加一些，至少方向更明确了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "可能可以试着把注意力放在每个小任务上，比如告诉自己“先把这个材料整理好”或者“今天完成这部分就好”，这样一步步完成的过程会让我感觉更踏实，而不是总想着最终结果。",
+    "has_specific_detail": true,
+    "specific_detail": "可能可以试着把注意力放在每个小任务上，比如告诉自己“先把这个材料整理好”或者“今天完成这部分就好”，这样一步步完成的过程会让我感觉更踏实，而不是总想着最终结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我可以试着用一个小本子或者手机备忘录，列出每个任务，完成后就打个勾。看到清单慢慢被完成，会让我觉得更有成就感，也更有动力继续下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着用一个小本子或者手机备忘录，列出每个任务，完成后就打个勾",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "如果清单完成得顺利，我觉得信心应该会增加不少吧。至少到那时候，我会觉得自己已经尽力准备了，哪怕结果有不确定性，心里也会踏实很多。",
+    "has_specific_detail": true,
+    "specific_detail": "如果清单完成得顺利，我觉得信心应该会增加不少吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "完成清单后，我觉得可能还需要家人或朋友的一些鼓励，尤其是提交申请前的那段时间。如果他们能帮我确认一下准备的内容，或者和我聊聊，应该会更有底气面对最后的步骤。",
+    "has_specific_detail": true,
+    "specific_detail": "完成清单后，我觉得可能还需要家人或朋友的一些鼓励，尤其是提交申请前的那段时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我觉得最想和父母聊聊，听听他们的想法，可能也会更安心一些。内容的话，可能会请一个熟悉奖学金申请流程的朋友帮忙看看，确保没遗漏重要的细节。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最想和父母聊聊，听听他们的想法，可能也会更安心一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我想等清单完成大部分内容之后再和他们沟通，可能再过一两周，等我手上有比较完整的资料和想法时，这样谈起来会更有条理。",
+    "has_specific_detail": true,
+    "specific_detail": "我想等清单完成大部分内容之后再和他们沟通，可能再过一两周，等我手上有比较完整的资料和想法时，这样谈起来会更有条理",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 41,
+    "content": "我可以给自己定几个小目标，比如每天查找一项申请要求或者整理一部分材料，这样每天都有进展，不会觉得任务堆在一起很难完成，也能保持稳定的节奏。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以给自己定几个小目标，比如每天查找一项申请要求或者整理一部分材料，这样每天都有进展，不会觉得任务堆在一起很难完成，也能保持稳定的节奏",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "如果任务没完成，我会先调整心态，告诉自己偶尔有些延迟是正常的，然后尽量第二天适当补上。不会太强迫自己，但也会保持总体节奏不被打乱。",
+    "has_specific_detail": true,
+    "specific_detail": "如果任务没完成，我会先调整心态，告诉自己偶尔有些延迟是正常的，然后尽量第二天适当补上",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 43,
+    "content": "我想对自己说：“你已经很努力了，慢慢来，一步步完成就好。结果虽然重要，但别忘了享受过程中自己一点点进步的感觉。”",
+    "has_specific_detail": true,
+    "specific_detail": "我想对自己说：“你已经很努力了，慢慢来，一步步完成就好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "嗯，确实感觉轻松了一些，把这些想法梳理清楚后，心里没那么乱了，也觉得事情没那么难了。虽然还有些担心，但至少知道该怎么一步步去做了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，确实感觉轻松了一些，把这些想法梳理清楚后，心里没那么乱了，也觉得事情没那么难了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "谢谢你！今天聊了这些后，我感觉思路更清晰了，也有了更多动力去落实计划。我会按照步骤慢慢来，有需要的话下次再和你分享我的进展吧！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你！今天聊了这些后，我感觉思路更清晰了，也有了更多动力去落实计划",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "谢谢你的鼓励！我会好好努力的，今天就先聊到这里吧，下次再见！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励！我会好好努力的，今天就先聊到这里吧，下次再见！",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  }
+]

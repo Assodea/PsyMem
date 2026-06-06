@@ -1,0 +1,686 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，其实最近我总感觉情绪很不稳定，特别是和家里有关的事情。一想到我爸和他的新家庭，我就会忍不住生气，甚至有点嫉妒吧…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，其实最近我总感觉情绪很不稳定，特别是和家里有关的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "有些具体的事让我更难受吧，比如他会经常关心他的新家庭，甚至主动提到他继子的事情，可对我却很少这样…这种感觉好像从他再婚后就一直在了。",
+    "has_specific_detail": true,
+    "specific_detail": "有些具体的事让我更难受吧，比如他会经常关心他的新家庭，甚至主动提到他继子的事情，可对我却很少这样…这种感觉好像从他再婚后就一直在了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，是的，特别是有时候会觉得自己好像是被“搁置”了。他对继子的关心有时让我想，他是不是更在乎他们？这种感受好像真的越来越强烈…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，是的，特别是有时候会觉得自己好像是被“搁置”了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "是的，有时候我会下意识地减少跟他的联系，觉得多说也没用。而且每次他提到新家庭时，我就特别烦躁，甚至有点控制不住地顶撞他。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，有时候我会下意识地减少跟他的联系，觉得多说也没用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "说实话，我很少和他说这些感受，因为觉得他可能不会理解，或者干脆当成我的无理取闹。这样想让我更没动力去开口。",
+    "has_specific_detail": true,
+    "specific_detail": "说实话，我很少和他说这些感受，因为觉得他可能不会理解，或者干脆当成我的无理取闹",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，其实小时候偶尔有过一些吧，比如他会带我去玩或者给我买喜欢的东西。但后来，这种在意的感觉越来越少了，尤其是他再婚之后，几乎没有了…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，其实小时候偶尔有过一些吧，比如他会带我去玩或者给我买喜欢的东西",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "有一次他带我去游乐园，我记得那天他一直陪着我玩，还帮我拿着棉花糖，笑得特别开心。我那时候觉得，他好像真的很在意我…但现在，好像再也不会有这样的时刻了。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次他带我去游乐园，我记得那天他一直陪着我玩，还帮我拿着棉花糖，笑得特别开心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "是的，我确实觉得自己不再是他优先关心的人了。最难受的可能是，他好像对别人投入了更多心思，而我却只能在一边看着，觉得自己被忽视了。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实觉得自己不再是他优先关心的人了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "有时候会想努力争取他的关注，比如表现得更优秀，希望他能注意到我。但更多时候，我会选择疏远他，觉得争取也没什么用，只会让自己更失望…",
+    "has_specific_detail": true,
+    "specific_detail": "有时候会想努力争取他的关注，比如表现得更优秀，希望他能注意到我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得可能是希望得到更多的肯定吧，特别是那种让我觉得他依然在乎我的感觉。有时候我只是想听他说一句“我为你感到骄傲”什么的，这样会好很多…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是希望得到更多的肯定吧，特别是那种让我觉得他依然在乎我的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "有一次我拿了奖学金，特别期待他会夸我，可他说的第一句话却是“你弟弟成绩最近也不错。”那时候我真的很失落，觉得自己的努力根本没被看到…",
+    "has_specific_detail": true,
+    "specific_detail": "有一次我拿了奖学金，特别期待他会夸我，可他说的第一句话却是“你弟弟成绩最近也不错",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "当时我只是笑了笑，什么也没说，但心里特别委屈。后来类似的事还有过几次，比如我分享一些自己的进步，他总会转到别人身上…让我越来越不想说了。",
+    "has_specific_detail": true,
+    "specific_detail": "当时我只是笑了笑，什么也没说，但心里特别委屈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不想说"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得他可能没意识到吧，但也说不准是不是下意识地忽视了我的感受。无论怎样，我都觉得自己好像没有办法在他面前表达真实的需求…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得他可能没意识到吧，但也说不准是不是下意识地忽视了我的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我觉得如果真的直白说出来，可能会让关系更尴尬吧…我有点害怕他会不理解，甚至觉得我是在找茬，这种担忧让我更不敢去尝试。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果真的直白说出来，可能会让关系更尴尬吧…我有点害怕他会不理解，甚至觉得我是在找茬，这种担忧让我更不敢去尝试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "是的，有时候我尝试过表达自己的感受，比如说他忽略我了，但他会觉得我小题大做，甚至转而指责我不懂事。这种反应让我觉得，还是不要说比较好…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，有时候我尝试过表达自己的感受，比如说他忽略我了，但他会觉得我小题大做，甚至转而指责我不懂事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "是的，我现在会更倾向于藏起来，不愿意让他知道我的真实想法。反正说了也不会有改变，反而让我觉得自己更难堪…这样好像成了一种习惯了。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我现在会更倾向于藏起来，不愿意让他知道我的真实想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不愿意",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，是的，有时候真的会觉得很闷，心里堵得慌。尤其是看到别人和家人很亲近的时候，那种孤单感就会一下子涌上来，让人特别难受…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，是的，有时候真的会觉得很闷，心里堵得慌",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我当然渴望那种亲密无间的感觉，但现在想想，感觉对我来说可能已经太遥远了。我甚至不确定，自己还能不能真正信任别人了…",
+    "has_specific_detail": true,
+    "specific_detail": "我当然渴望那种亲密无间的感觉，但现在想想，感觉对我来说可能已经太遥远了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得和父亲的关系占了很大部分吧。他的不稳定和忽视让我从小就觉得，信任别人是一件很危险的事，可能随时会被辜负…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得和父亲的关系占了很大部分吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "是的，我确实很难对别人完全敞开心扉。即使是朋友，我也总会怀疑他们是不是会在某一刻背叛我，这种感觉真的让我很累…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实很难对别人完全敞开心扉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我觉得可能两方面都有吧。一方面是想保护自己不受伤害，另一方面是怕再经历像和我爸那样的失望，那种感觉真的太难熬了，我不想再来一次…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得防备确实给了我一点安全感，但同时也让我失去了可能的亲密关系。我知道这样可能不太好，但总觉得放下防备比保持距离更可怕…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得防备确实给了我一点安全感，但同时也让我失去了可能的亲密关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "是的，我确实会有这种矛盾感，渴望靠近，但又害怕受伤。通常我会选择回避，比如尽量不和别人谈太深的话题，这样会让我觉得更安全一些…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实会有这种矛盾感，渴望靠近，但又害怕受伤",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，会有这种感觉。有时候我也很想被理解和支持，但一想到可能要冒着被伤害的风险，就又退缩了。这样一来，我觉得自己好像一直在一个孤立的圈子里打转…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，会有这种感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "也许吧，如果真的有人能让我觉得安全，我会想尝试去信任他们。但我总会忍不住担心，这种安全感会不会只是暂时的，最后还是会被打破…",
+    "has_specific_detail": true,
+    "specific_detail": "也许吧，如果真的有人能让我觉得安全，我会想尝试去信任他们",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得可能两方面都有吧。一方面是对别人会不会伤害我的怀疑，另一方面也会想，是不是我本身不够好，所以才不值得被爱和接受…这种想法让我更害怕去尝试亲密关系。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "是的，我经常想通过表现得更好来证明自己的价值，比如在学业上拼命努力。但每次努力后，还是担心得不到认可，甚至觉得自己的付出好像都没有意义…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我经常想通过表现得更好来证明自己的价值，比如在学业上拼命努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "有一次我考了全年级第一，本来很期待家里人能为我高兴。结果我爸只是随口说了句“挺好的”，然后就转移话题聊别的事了。我当时真的很难过，觉得自己的努力好像不值一提…",
+    "has_specific_detail": true,
+    "specific_detail": "有一次我考了全年级第一，本来很期待家里人能为我高兴",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "是的，那之后我确实会怀疑自己的努力是不是值得。有时候会想，自己再怎么做得好，好像也不会有人真正去在意，这种感觉让我很迷茫，也有点灰心…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，那之后我确实会怀疑自己的努力是不是值得",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "嗯，会有这种感觉。有时候我会想，既然做得再好也没人关心，那还有什么意义呢？这种想法让我对未来的目标变得很犹豫，甚至提不起劲去规划…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，会有这种感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "其实努力本身有时是会带来一点成就感的，但只要想到没有人真正为我骄傲，或者认可我的努力，这种满足感很快就被失落感盖过去了，觉得再多的成果也没什么用…",
+    "has_specific_detail": true,
+    "specific_detail": "其实努力本身有时是会带来一点成就感的，但只要想到没有人真正为我骄傲，或者认可我的努力，这种满足感很快就被失落感盖过去了，觉得再多的成果也没什么用…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我希望自己的努力能带来一种真正被看见、被重视的感觉，不是因为成绩或者成果，而是因为我是独一无二的、值得被爱的自己。这种感受对我来说才是真正重要的…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望自己的努力能带来一种真正被看见、被重视的感觉，不是因为成绩或者成果，而是因为我是独一无二的、值得被爱的自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "说实话，我很少主动去想这些，因为总觉得自己不够好，配不上那些好东西…有时候也想试着对自己好一点，但又不知道从哪里开始，会觉得有点难。",
+    "has_specific_detail": true,
+    "specific_detail": "说实话，我很少主动去想这些，因为总觉得自己不够好，配不上那些好东西…有时候也想试着对自己好一点，但又不知道从哪里开始，会觉得有点难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "也许可以试着给自己买一件喜欢的小东西，哪怕只是一本书或者一件衣服，算是对自己的一个小奖励吧。虽然看起来很小，但也许能让我稍微感觉好一些…",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试着给自己买一件喜欢的小东西，哪怕只是一本书或者一件衣服，算是对自己的一个小奖励吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我觉得一本一直想读的书会让我很开心吧。尤其是那种故事情节很吸引人，又能让我暂时忘掉烦恼的书，翻开的时候心情可能会轻松很多…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得一本一直想读的书会让我很开心吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我一直想读那种关于治愈和成长的故事，比如主角通过自己的努力走出困境，找到内心平静的那种类型。这类书让我觉得自己也可能有希望变得更好…",
+    "has_specific_detail": true,
+    "specific_detail": "我一直想读那种关于治愈和成长的故事，比如主角通过自己的努力走出困境，找到内心平静的那种类型",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得现在可能是主角迷茫和挣扎的阶段，试图找到方向却总是碰壁。接下来，我希望她能学会真正认可自己，找到内心的力量，而不是一味依赖外界的肯定…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得现在可能是主角迷茫和挣扎的阶段，试图找到方向却总是碰壁",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "也许第一步是学会接纳自己的感受吧，不再一味否定它们。比如，当我感到失落或不安时，试着告诉自己“这没关系”，而不是责怪自己太敏感或不够坚强…",
+    "has_specific_detail": true,
+    "specific_detail": "也许第一步是学会接纳自己的感受吧，不再一味否定它们",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 39,
+    "content": "嗯，我觉得可能会让我稍微放松一点吧，至少不用再为自己的情绪感到愧疚或压抑了。虽然不能一下子完全好起来，但好像确实能让内心的压力减轻一点…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可能会让我稍微放松一点吧，至少不用再为自己的情绪感到愧疚或压抑了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我觉得可能会吧，如果能慢慢习惯接纳自己的情绪，或许会让我对自己少一些苛责，多一些理解，这样应该也会一点点变得更坚强吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能会吧，如果能慢慢习惯接纳自己的情绪，或许会让我对自己少一些苛责，多一些理解，这样应该也会一点点变得更坚强吧…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "或许可以写下当时的感受，比如“我现在很失落，但这是正常的”。这样不仅能让我正视情绪，也能提醒自己，不需要对这些感觉感到羞愧或抗拒…",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以写下当时的感受，比如“我现在很失落，但这是正常的”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "嗯，我觉得用一本专属的笔记本会很不错。选一个安静的地方，比如床边或者窗前，慢慢写下自己的感受，这样可能会让我更容易进入平静的状态…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得用一本专属的笔记本会很不错",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "这个主意挺好的！我可能会取个名字叫“心之角落”，感觉它能成为一个记录我所有真实感受的地方，就像一个不会评判我的小伙伴一样，听着就让我觉得安心…",
+    "has_specific_detail": true,
+    "specific_detail": "这个主意挺好的！我可能会取个名字叫“心之角落”，感觉它能成为一个记录我所有真实感受的地方，就像一个不会评判我的小伙伴一样，听着就让我觉得安心…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "嗯，这听起来很棒！我会写下“这里是我的心灵角落，无论我感到什么，都值得被倾听和接纳。”这样每次打开时，都会感觉自己有一个可靠的情感空间…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来很棒！我会写下“这里是我的心灵角落，无论我感到什么，都值得被倾听和接纳",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "我觉得深呼吸和听一首放松的音乐是很好的选择。写完后，闭上眼深呼吸几次，再放一首舒缓的旋律，应该能让我更放松、更有一种情绪被安放的感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得深呼吸和听一首放松的音乐是很好的选择",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "我特别喜欢钢琴曲，像《River Flows in You》。每次听到这首曲子，都会让我觉得很安静，仿佛一切烦恼都暂时被柔和的旋律带走了，让内心多了一点平静。",
+    "has_specific_detail": true,
+    "specific_detail": "我特别喜欢钢琴曲，像《River Flows in You》",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "是的，每次听这首曲子时，好像周围的世界都会安静下来，只剩下我和自己的内心。我能更专注地感受自己的情绪，那种平静的状态真的很舒服，也让我觉得自己被接纳了…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，每次听这首曲子时，好像周围的世界都会安静下来，只剩下我和自己的内心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "我觉得未来“心之角落”会变成一个很特别的地方，记录着我的成长和那些真实的感受。回顾它时，可能会让我看到自己的改变，也会提醒我，无论经历了什么，我一直在努力前行…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得未来“心之角落”会变成一个很特别的地方，记录着我的成长和那些真实的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "我想对未来的自己说：“无论过去经历了什么，你都一直坚持着。现在的你更强大，也更懂得如何爱自己，请继续相信，你是值得被爱的。”",
+    "has_specific_detail": true,
+    "specific_detail": "我想对未来的自己说：“无论过去经历了什么，你都一直坚持着",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 50,
+    "content": "我觉得可以试着接受这种鼓励，虽然可能一开始有点不习惯，但说出来后感觉心里好像轻了一些。也许慢慢地，我真的能把它当作一种动力，去更坚定地面对自己和未来。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着接受这种鼓励，虽然可能一开始有点不习惯，但说出来后感觉心里好像轻了一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "接下来，我想坚持记录自己的感受，也尝试更多地接纳自己，不再总是和自己的情绪对抗。虽然不一定会很快有改变，但我觉得这是一个值得去坚持的方向…",
+    "has_specific_detail": true,
+    "specific_detail": "接下来，我想坚持记录自己的感受，也尝试更多地接纳自己，不再总是和自己的情绪对抗",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "我觉得今天就可以开始！不需要等特别的时机，就从现在开始写下我的感受，给“心之角落”开启一个新篇章，也算是一个全新的开始吧…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得今天就可以开始！不需要等特别的时机，就从现在开始写下我的感受，给“心之角落”开启一个新篇章，也算是一个全新的开始吧…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

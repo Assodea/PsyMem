@@ -1,0 +1,938 @@
+[
+  {
+    "turn": 1,
+    "content": "我觉得可以从职业方向开始聊起吧。最近在准备简历的时候，总感觉不知道该怎么突出自己的优势，有点迷茫…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从职业方向开始聊起吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是的，我目前在学编程，算是转行吧。之前考研没成功，后来选了这个方向，但总觉得和别人比起来没什么突出的地方…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我目前在学编程，算是转行吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "其实更多是觉得编程有前景吧，算是一个比较务实的选择。转行对我来说是一种尝试，但也带着些压力，怕自己做得不够好…",
+    "has_specific_detail": true,
+    "specific_detail": "其实更多是觉得编程有前景吧，算是一个比较务实的选择",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "主要是对未来的不确定吧，感觉自己学得还行，但总觉得行业里高手太多，怕自己竞争不过别人，特别是在面试这种需要表现的时候…",
+    "has_specific_detail": true,
+    "specific_detail": "主要是对未来的不确定吧，感觉自己学得还行，但总觉得行业里高手太多，怕自己竞争不过别人，特别是在面试这种需要表现的时候…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "会的，尤其在面试时，面对陌生人还要展现自己，总感觉紧张又不自然。有时明明准备了，但说出来就没那么有自信…",
+    "has_specific_detail": true,
+    "specific_detail": "会的，尤其在面试时，面对陌生人还要展现自己，总感觉紧张又不自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "可能是对评价的担心吧，总害怕表现不好被否定，尤其是面试官可能会问一些我答不上的问题，那种感觉让我很焦虑…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是对评价的担心吧，总害怕表现不好被否定，尤其是面试官可能会问一些我答不上的问题，那种感觉让我很焦虑…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "这种感觉可能从考研失败后变得更明显吧，那次失利让我觉得自己不够好，之后就特别害怕再经历类似的否定和失望…",
+    "has_specific_detail": true,
+    "specific_detail": "这种感觉可能从考研失败后变得更明显吧，那次失利让我觉得自己不够好，之后就特别害怕再经历类似的否定和失望…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "记得成绩出来那天，我在房间里刷了好久手机，看到分数后整个人都懵了。那种失望和自责一直挥之不去，总觉得是自己不够努力…",
+    "has_specific_detail": true,
+    "specific_detail": "记得成绩出来那天，我在房间里刷了好久手机，看到分数后整个人都懵了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "其实回头想，我也付出了很多努力，但总觉得如果再多做点、再细致些，也许就不会失败了。这种想法让我很难释怀…",
+    "has_specific_detail": true,
+    "specific_detail": "其实回头想，我也付出了很多努力，但总觉得如果再多做点、再细致些，也许就不会失败了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "是的，这种想法好像总在我脑子里盘旋，无论是学习编程还是日常小事，总觉得自己还不够好，应该再多做一点才能让人满意…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这种想法好像总在我脑子里盘旋，无论是学习编程还是日常小事，总觉得自己还不够好，应该再多做一点才能让人满意…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "可能和小时候有关吧，家里人总会强调要好好表现，特别是成绩不能落后。虽然他们很少批评我，但我总觉得必须做到更好才能让他们满意…",
+    "has_specific_detail": true,
+    "specific_detail": "可能和小时候有关吧，家里人总会强调要好好表现，特别是成绩不能落后",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "除了让我更努力，也让我常常觉得紧张，害怕自己做得不够好会让人失望。尤其是没达到预期时，那种自责感特别强烈…",
+    "has_specific_detail": true,
+    "specific_detail": "除了让我更努力，也让我常常觉得紧张，害怕自己做得不够好会让人失望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得有吧，虽然我很想得到别人的认可，但内心其实也渴望能放松些，不用总是担心表现不够好。这两者经常让我纠结…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得有吧，虽然我很想得到别人的认可，但内心其实也渴望能放松些，不用总是担心表现不够好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "如果能放下些，可能会觉得轻松很多吧，也许能更专注于自己喜欢的事情，而不是总想着达标或者让别人满意…",
+    "has_specific_detail": true,
+    "specific_detail": "如果能放下些，可能会觉得轻松很多吧，也许能更专注于自己喜欢的事情，而不是总想着达标或者让别人满意…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，有时候我会花时间写一些小程序或者做点技术实验，这种时候感觉很投入，也不会太在意结果。但这种状态好像不常有…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有时候我会花时间写一些小程序或者做点技术实验，这种时候感觉很投入，也不会太在意结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我想会有帮助吧，专注于自己喜欢的事情时，感觉压力会小很多。但总有种声音提醒我，这些是不是在浪费时间，还是得赶紧做更“实际”的事…",
+    "has_specific_detail": true,
+    "specific_detail": "我想会有帮助吧，专注于自己喜欢的事情时，感觉压力会小很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "可能两方面都有吧，一方面是自己总觉得需要做些“有用”的事，另一方面家里人也时常提醒我，时间要用在正事上…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧，一方面是自己总觉得需要做些“有用”的事，另一方面家里人也时常提醒我，时间要用在正事上…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "对我来说，可能是能让自己成长、或者被别人认可的事情吧。像学编程和找工作，就觉得是“正事”，因为这些能让我觉得更踏实…",
+    "has_specific_detail": true,
+    "specific_detail": "对我来说，可能是能让自己成长、或者被别人认可的事情吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "其实写小程序也让我有成长的感觉，尤其当我解决一个技术问题时会很有成就感。但可能因为别人看不到，就觉得不够“重要”…",
+    "has_specific_detail": true,
+    "specific_detail": "其实写小程序也让我有成长的感觉，尤其当我解决一个技术问题时会很有成就感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "可能不一定吧，但如果被看见，总觉得更有意义，像是自己的努力得到了认可。这种感觉会让我更踏实，也更有动力去做下去…",
+    "has_specific_detail": true,
+    "specific_detail": "可能不一定吧，但如果被看见，总觉得更有意义，像是自己的努力得到了认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "目前的话，可能培训班的老师会偶尔夸我代码写得还不错，但这种肯定感觉很短暂，过后又会担心是不是还不够好…",
+    "has_specific_detail": true,
+    "specific_detail": "目前的话，可能培训班的老师会偶尔夸我代码写得还不错，但这种肯定感觉很短暂，过后又会担心是不是还不够好…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "也许可以试着回头看自己完成的项目吧，有时候看到自己一步步解决问题的过程，确实会觉得挺自豪的，但这种自我肯定好像不太持久…",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试着回头看自己完成的项目吧，有时候看到自己一步步解决问题的过程，确实会觉得挺自豪的，但这种自我肯定好像不太持久…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "也许可以把自己的成长记录下来，比如写点总结或者做个小展示。这样当我有疑虑时，可以回头看看自己的努力和成果，提醒自己并不差…",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以把自己的成长记录下来，比如写点总结或者做个小展示",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 24,
+    "content": "我觉得可以从最近做的一个小项目开始吧，比如那个模拟商城的程序。里面有一些挺复杂的逻辑，我花了不少时间才搞定，值得好好总结一下…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从最近做的一个小项目开始吧，比如那个模拟商城的程序",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我想可以写下遇到的难点和解决思路，顺便记录一些自己觉得有成就感的地方，比如优化性能时用的新方法，这样比较全面…",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以写下遇到的难点和解决思路，顺便记录一些自己觉得有成就感的地方，比如优化性能时用的新方法，这样比较全面…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得可以今晚就开始，趁热打铁，把项目的关键部分先整理出来。这样也能让我更快进入状态，避免拖延…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以今晚就开始，趁热打铁，把项目的关键部分先整理出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "嗯，这样安排挺好的！先从让我觉得最有成就感的优化部分写起，感觉会更有动力继续下去。我现在有点期待整理的过程了…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样安排挺好的！先从让我觉得最有成就感的优化部分写起，感觉会更有动力继续下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我觉得可以先留作个人参考，等整理得更完善了，再考虑分享给培训班的同学或者老师，看看他们的反馈，这样也能增加一些互动…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先留作个人参考，等整理得更完善了，再考虑分享给培训班的同学或者老师，看看他们的反馈，这样也能增加一些互动…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "可能需要两三天吧，我想分几个部分慢慢整理，每天花点时间写一点。这样既不会觉得压力大，也能保证内容更清晰…",
+    "has_specific_detail": true,
+    "specific_detail": "可能需要两三天吧，我想分几个部分慢慢整理，每天花点时间写一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我打算先整理性能优化的部分，因为这个模块让我花了最多精力，也有不少让我觉得值得记录的改进方法。今晚可以先把思路写下来！",
+    "has_specific_detail": true,
+    "specific_detail": "我打算先整理性能优化的部分，因为这个模块让我花了最多精力，也有不少让我觉得值得记录的改进方法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "嗯，可能会奖励自己看一集喜欢的剧吧，或者做点好吃的。这样也算是给自己一个小小的鼓励，感觉会更有动力继续下去！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能会奖励自己看一集喜欢的剧吧，或者做点好吃的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我会先写下性能优化遇到的主要问题，比如页面加载慢的原因，然后记录我用了哪些方法解决，比如缓存处理或者算法优化，再补充一些优化前后的效果对比…",
+    "has_specific_detail": true,
+    "specific_detail": "我会先写下性能优化遇到的主要问题，比如页面加载慢的原因，然后记录我用了哪些方法解决，比如缓存处理或者算法优化，再补充一些优化前后的效果对比…",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 33,
+    "content": "我想会感到轻松一些吧，可能也会更有信心继续完成剩下的部分。把自己的努力总结出来，感觉像是对自己的一种认可…",
+    "has_specific_detail": true,
+    "specific_detail": "我想会感到轻松一些吧，可能也会更有信心继续完成剩下的部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我希望除了增强信心，也能更清楚自己的优点和不足。通过总结，或许能更明确未来需要加强的地方，这样在求职时也会更有底气！",
+    "has_specific_detail": true,
+    "specific_detail": "我希望除了增强信心，也能更清楚自己的优点和不足",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 35,
+    "content": "我打算专门开一个小笔记，把遇到的问题和可以改进的地方单独列出来。比如在代码逻辑上有哪些可以优化的细节，这样方便后续提升！",
+    "has_specific_detail": true,
+    "specific_detail": "我打算专门开一个小笔记，把遇到的问题和可以改进的地方单独列出来",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 36,
+    "content": "我会先列一些代码结构上的改进点，比如之前模块化处理不够清晰的地方，还有变量命名需要更规范的细节。这些都是可以提升的部分！",
+    "has_specific_detail": true,
+    "specific_detail": "我会先列一些代码结构上的改进点，比如之前模块化处理不够清晰的地方，还有变量命名需要更规范的细节",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 37,
+    "content": "是的，我会顺便写下改进方案，比如用更清晰的模块划分方式，或者列一些更规范的命名示例。这样下次遇到类似问题就可以直接参考了！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我会顺便写下改进方案，比如用更清晰的模块划分方式，或者列一些更规范的命名示例",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 38,
+    "content": "今晚完成优化部分后，我打算明晚整理功能实现的细节，比如复杂逻辑的设计过程。这样一步步来，每天都有明确目标，感觉会更有条理！",
+    "has_specific_detail": true,
+    "specific_detail": "今晚完成优化部分后，我打算明晚整理功能实现的细节，比如复杂逻辑的设计过程",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我觉得可以详细记录一些核心逻辑，比如购物车功能的实现过程，尤其是处理边界情况的思路。这部分代码让我花了不少时间，挺值得总结的！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以详细记录一些核心逻辑，比如购物车功能的实现过程，尤其是处理边界情况的思路",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "对，我会挑一些关键的代码片段，比如如何处理超出库存的问题，或者结算逻辑的实现。加上注释和说明，这样以后看起来更直观！",
+    "has_specific_detail": true,
+    "specific_detail": "对，我会挑一些关键的代码片段，比如如何处理超出库存的问题，或者结算逻辑的实现",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 41,
+    "content": "我觉得会的吧，看到自己能解决复杂逻辑问题，应该会更有信心。而且整理过程中也可能发现一些细节上的提升空间，这对后续学习和求职都很有帮助！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会的吧，看到自己能解决复杂逻辑问题，应该会更有信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "我想最大的收获可能是对自己的能力有更全面的认识吧，不再总觉得自己“还不够好”。而且这些总结还能成为面试时的素材，让我更自信地展示自己！",
+    "has_specific_detail": true,
+    "specific_detail": "我想最大的收获可能是对自己的能力有更全面的认识吧，不再总觉得自己“还不够好”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "我想可以把这些总结整理成一个小项目展示文档，附上关键代码和优化思路。这样在面试时，既能清晰表达，又能证明自己的实际能力！",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以把这些总结整理成一个小项目展示文档，附上关键代码和优化思路",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 44,
+    "content": "我觉得可以着重呈现解决问题的过程，比如性能优化的具体步骤和复杂逻辑的处理思路。这些部分不仅能展现我的技术能力，还能体现我的细致和耐心！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以着重呈现解决问题的过程，比如性能优化的具体步骤和复杂逻辑的处理思路",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "对，这是个好主意！我可以加一些简单的流程图，比如购物车逻辑的处理流程，或者优化前后的性能对比图。这样会更直观，也能给人专业的感觉！",
+    "has_specific_detail": true,
+    "specific_detail": "对，这是个好主意！我可以加一些简单的流程图，比如购物车逻辑的处理流程，或者优化前后的性能对比图",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "是的，我觉得设定一个完成时间会更有推动力。或许一周内可以完成初稿，这样还能留出时间修改和完善，确保内容更完整！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得设定一个完成时间会更有推动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "我打算每天花两小时左右，先整理主要内容，再逐步补充细节和图表。这样每天都有进展，也不会让自己觉得太累！",
+    "has_specific_detail": true,
+    "specific_detail": "我打算每天花两小时左右，先整理主要内容，再逐步补充细节和图表",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "我觉得可以先写项目的背景和目标，让面试官了解我为什么选择做这个程序，以及它解决了什么问题。这样开头会更清晰有条理！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先写项目的背景和目标，让面试官了解我为什么选择做这个程序，以及它解决了什么问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "我想用一个小故事或问题场景开头，比如“如何让用户更方便地管理购物车？”然后引出项目目标，这样感觉会更生动和贴近实际需求！",
+    "has_specific_detail": true,
+    "specific_detail": "我想用一个小故事或问题场景开头，比如“如何让用户更方便地管理购物车？”然后引出项目目标，这样感觉会更生动和贴近实际需求！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "我觉得可以突出用户对操作简便性和响应速度的需求，比如快速添加商品、实时更新库存。这样能更贴合实际，让人更容易理解项目的意义！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以突出用户对操作简便性和响应速度的需求，比如快速添加商品、实时更新库存",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "会的，比如可以写用户在购物时添加商品后，系统如何实时更新库存并显示总价，这种具体例子能更直观地展示程序的功能和用心设计！",
+    "has_specific_detail": true,
+    "specific_detail": "会的，比如可以写用户在购物时添加商品后，系统如何实时更新库存并显示总价，这种具体例子能更直观地展示程序的功能和用心设计！",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 52,
+    "content": "是的，我会加上界面截图，比如购物车页面的设计，还有操作流程图来展示功能实现的逻辑。这样能更清楚地让人看到我的工作成果！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我会加上界面截图，比如购物车页面的设计，还有操作流程图来展示功能实现的逻辑",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 53,
+    "content": "我觉得需要注意图的清晰度和标注，确保每个流程节点都能被清楚理解。另外，界面截图最好选择一些关键操作的画面，比如结算时的动态效果！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要注意图的清晰度和标注，确保每个流程节点都能被清楚理解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "我打算用Figma或者PowerPoint来做，Figma方便画流程图，PowerPoint可以加一些简单的标注和效果，两者结合应该能达到不错的效果！",
+    "has_specific_detail": true,
+    "specific_detail": "我打算用Figma或者PowerPoint来做，Figma方便画流程图，PowerPoint可以加一些简单的标注和效果，两者结合应该能达到不错的效果！",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 55,
+    "content": "我觉得大概需要两天时间吧，第一天先画出初稿，第二天再完善细节，比如调整布局、补充标注。这样既高效，又能保证质量！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得大概需要两天时间吧，第一天先画出初稿，第二天再完善细节，比如调整布局、补充标注",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "会的，我觉得可以先请培训班的老师帮忙看看，听听他们的建议，特别是看图表是否清楚直观，这样能有进一步的改进方向！",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我觉得可以先请培训班的老师帮忙看看，听听他们的建议，特别是看图表是否清楚直观，这样能有进一步的改进方向！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "我会把老师的反馈逐条记录下来，比如哪些地方需要更清晰，或者哪里可以加点补充说明，然后一一对应去调整，确保每个建议都落实到位！",
+    "has_specific_detail": true,
+    "specific_detail": "我会把老师的反馈逐条记录下来，比如哪些地方需要更清晰，或者哪里可以加点补充说明，然后一一对应去调整，确保每个建议都落实到位！",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 58,
+    "content": "我希望能让面试官看到我的逻辑清晰、注重细节，同时具备解决问题的能力。这份文档能展现我的努力和实力，给人一种可靠的感觉！",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能让面试官看到我的逻辑清晰、注重细节，同时具备解决问题的能力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "会的，我打算在最后加上一段个人总结，比如这个项目中学到了什么、遇到了哪些挑战以及如何克服。这样能更全面地展示我的成长过程！",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我打算在最后加上一段个人总结，比如这个项目中学到了什么、遇到了哪些挑战以及如何克服",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 60,
+    "content": "我觉得是优化性能时的经历吧，当时反复调试了很多次，还查了不少资料。虽然过程很累，但最终解决问题的那一刻让我意识到，坚持和细致真的很重要！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得是优化性能时的经历吧，当时反复调试了很多次，还查了不少资料",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "我会用具体的例子来表达，比如描述优化前后性能的对比数据，以及当时解决问题的步骤。最后再结合自己的感受，说明这个过程让我更有信心面对复杂问题！",
+    "has_specific_detail": true,
+    "specific_detail": "我会用具体的例子来表达，比如描述优化前后性能的对比数据，以及当时解决问题的步骤",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 62,
+    "content": "我觉得会对未来更有信心吧，感觉自己能清楚地展示实力，也更明白自己的能力所在。希望求职时能遇到一个认可我努力的团队，让我发挥特长！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会对未来更有信心吧，感觉自己能清楚地展示实力，也更明白自己的能力所在",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "我觉得可以通过实际演示来展现，比如现场展示这个程序的运行效果，或者直接回答技术问题时结合自己的经验，这样会更有说服力！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以通过实际演示来展现，比如现场展示这个程序的运行效果，或者直接回答技术问题时结合自己的经验，这样会更有说服力！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "会的，我打算找机会和同学一起练习模拟面试，特别是针对一些常见的技术问题和程序演示，提前熟悉流程能让我更从容！",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我打算找机会和同学一起练习模拟面试，特别是针对一些常见的技术问题和程序演示，提前熟悉流程能让我更从容！",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 65,
+    "content": "我觉得要重点练习一些常见的技术问答，比如数据结构的应用，或者项目中遇到的难点是怎么解决的。这些问题可能会考察我的实际动手能力和思路清晰度！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得要重点练习一些常见的技术问答，比如数据结构的应用，或者项目中遇到的难点是怎么解决的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "是的，我会尝试按照“问题是什么—解决思路—具体方法—结果如何”的结构来回答，这样逻辑清晰，也能让面试官更容易抓住重点！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我会尝试按照“问题是什么—解决思路—具体方法—结果如何”的结构来回答，这样逻辑清晰，也能让面试官更容易抓住重点！",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 67,
+    "content": "如果答不上来，我会先冷静下来，试着拆解问题，从自己熟悉的部分入手回答。同时也会坦诚地说还在学习这方面，但可以快速查找解决方法，这样表现出积极的态度！",
+    "has_specific_detail": true,
+    "specific_detail": "如果答不上来，我会先冷静下来，试着拆解问题，从自己熟悉的部分入手回答",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 68,
+    "content": "我想这会让面试官觉得我虽然还有不足，但学习能力强、态度积极。而且愿意面对问题并寻找解决办法，这种品质应该能给他们留下好印象！",
+    "has_specific_detail": true,
+    "specific_detail": "我想这会让面试官觉得我虽然还有不足，但学习能力强、态度积极",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 69,
+    "content": "会的，我会回顾自己的表现，看看哪些地方表达不够清楚，或者哪里可以更有条理。然后总结改进的方法，下次练习时再调整，这样会越来越熟练！",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我会回顾自己的表现，看看哪些地方表达不够清楚，或者哪里可以更有条理",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 70,
+    "content": "我想信心会提升不少吧，感觉自己更清楚怎么展示能力，也有了更多应对问题的经验。希望到时候能发挥出真实水平，给面试官留下好印象！",
+    "has_specific_detail": true,
+    "specific_detail": "我想信心会提升不少吧，感觉自己更清楚怎么展示能力，也有了更多应对问题的经验",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 71,
+    "content": "谢谢，我感觉今天梳理了很多思路，对接下来的计划更有方向了！这些问题我会好好消化，下次再跟你分享进展吧！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢，我感觉今天梳理了很多思路，对接下来的计划更有方向了！这些问题我会好好消化，下次再跟你分享进展吧！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 72,
+    "content": "好的，谢谢你的鼓励！我会认真准备，争取更有收获。下次再聊，期待和你分享我的进展！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，谢谢你的鼓励！我会认真准备，争取更有收获",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 73,
+    "content": "谢谢你的支持！我会继续努力，期待下次能带着更多成果和收获再来交流。今天先聊到这儿吧，我们下次再见！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的支持！我会继续努力，期待下次能带着更多成果和收获再来交流",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  }
+]

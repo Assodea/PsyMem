@@ -1,0 +1,513 @@
+[
+  {
+    "turn": 1,
+    "content": "我记得上次聊到家庭的控制让我感到很压迫，尤其是父亲总是安排一些事情，比如说相亲，让我觉得自己的努力好像都被忽视了。最近一次的争执是因为他说读书没用，还不如早点结婚拿彩礼钱…这让我特别难过，又不知道该怎么反驳。",
+    "has_specific_detail": true,
+    "specific_detail": "我记得上次聊到家庭的控制让我感到很压迫，尤其是父亲总是安排一些事情，比如说相亲，让我觉得自己的努力好像都被忽视了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "当时更多的是委屈吧，还有点无力感。我心里明明很清楚自己想通过学习改变现状，可听到他说那些话，就觉得好像我的梦想在他眼里根本不值一提，特别难受。",
+    "has_specific_detail": true,
+    "specific_detail": "当时更多的是委屈吧，还有点无力感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "当时我试着跟他说学习对我的重要性，还提到未来通过自己努力能有更多选择，但他直接打断，说“女孩子不用想那么多”，感觉我的话根本进不了他的耳朵…后来我就没再说下去，只能沉默了。",
+    "has_specific_detail": true,
+    "specific_detail": "当时我试着跟他说学习对我的重要性，还提到未来通过自己努力能有更多选择，但他直接打断，说“女孩子不用想那么多”，感觉我的话根本进不了他的耳朵…后来我就没再说下去，只能沉默了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "沉默之后，心情更压抑了吧，感觉像被堵住了一样，明明有很多话想说，但再开口也没有意义。那一刻特别沮丧，也有点愤怒，但更多的是无力感，好像怎么努力都无法改变他的想法。",
+    "has_specific_detail": true,
+    "specific_detail": "沉默之后，心情更压抑了吧，感觉像被堵住了一样，明明有很多话想说，但再开口也没有意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "确实有过这种想法，有时候会忍不住想，是不是我坚持下去真的没有用，毕竟父亲一直强调他才是家里的决定者…但转念一想，我又觉得如果连我自己都放弃了，那我就真的只能被安排了，所以还是咬牙坚持。",
+    "has_specific_detail": true,
+    "specific_detail": "确实有过这种想法，有时候会忍不住想，是不是我坚持下去真的没有用，毕竟父亲一直强调他才是家里的决定者…但转念一想，我又觉得如果连我自己都放弃了，那我就真的只能被安排了，所以还是咬牙坚持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "平时也就是自己偷偷哭一会儿，或者写写日记把情绪宣泄出来。至于倾诉，其实不太敢和朋友说太多，怕他们觉得我的家庭问题很麻烦…所以大多数时候还是自己扛着。",
+    "has_specific_detail": true,
+    "specific_detail": "平时也就是自己偷偷哭一会儿，或者写写日记把情绪宣泄出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我觉得如果有人能听我说，不评判我，肯定会轻松一些。可有时候也担心，就算说了也没人能真正帮上忙，反而让我觉得更无助…至于其他方式，我还没仔细想过，也不知道什么会有效果。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果有人能听我说，不评判我，肯定会轻松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "或许可以先试着从写日记的方式再深入一点，比如给自己写信，把压抑的情绪和想法都写下来，好像在和一个能理解我的“人”对话。这样既安全，又不用担心被评判。你觉得这样会有帮助吗？",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以先试着从写日记的方式再深入一点，比如给自己写信，把压抑的情绪和想法都写下来，好像在和一个能理解我的“人”对话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我觉得可能会先倾诉委屈吧，把那些压在心里的话都说出来，像告诉“自己”这些感受其实是正常的、不用压抑。然后再试着鼓励自己别放弃，提醒自己为什么要坚持下去…这样或许会更有力量一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能会先倾诉委屈吧，把那些压在心里的话都说出来，像告诉“自己”这些感受其实是正常的、不用压抑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得晚上一个人安静的时候可能是个好时机，白天工作或学习完后，心情也比较沉淀下来，那时候写应该更容易把内心的感受表达出来。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得晚上一个人安静的时候可能是个好时机，白天工作或学习完后，心情也比较沉淀下来，那时候写应该更容易把内心的感受表达出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得可以写一些和父亲争执时的对话，像他打断我说“女孩子不用想那么多”的那一瞬间，自己心里冒出的委屈和无力感。再比如，当我独自一人在房间里想这些事的时候，那种压抑得喘不过气的感觉，也值得写下来…这样或许能更清楚地梳理自己的情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以写一些和父亲争执时的对话，像他打断我说“女孩子不用想那么多”的那一瞬间，自己心里冒出的委屈和无力感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，我觉得这样会有帮助。写下来后，或许能让我更明白自己到底想从父亲那里得到什么，可能是认可、尊重，还是一种被理解的感觉…这些平时没仔细想过，但写的时候应该会更清晰吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得这样会有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "或许可以试着在一些小事上争取更多自主权，比如自己做些决定后再告诉父亲，而不是等他先安排。这样能让我慢慢感受到自己是有能力掌控一些事情的，也许对建立信心会有帮助。你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以试着在一些小事上争取更多自主权，比如自己做些决定后再告诉父亲，而不是等他先安排",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我觉得可以从生活安排开始，比如工作时间的调整或者一些日常花销的规划，先让他看到我能独立处理这些事情。学习相关的决定可能还需要更多时机，等他对我的能力有一定认可后再尝试也许更好。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从生活安排开始，比如工作时间的调整或者一些日常花销的规划，先让他看到我能独立处理这些事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我觉得可以先从自己的兼职工作时间安排入手，比如主动和父亲说明我的工作计划，以及为什么这样安排对学业和生活都有帮助。这方面我比较有把握，因为工作是我自己争取来的，我能清楚地表达它的重要性。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从自己的兼职工作时间安排入手，比如主动和父亲说明我的工作计划，以及为什么这样安排对学业和生活都有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "兼职工作"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得可以尽量用他关心的角度去说，比如提到工作能为家庭减轻经济压力，同时也能支持我的学业。语气上尽量保持冷静，不带情绪，这样可能更容易让他听进去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以尽量用他关心的角度去说，比如提到工作能为家庭减轻经济压力，同时也能支持我的学业",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "是的，我觉得可以提前在心里整理好关键点，比如工作具体带来的好处，以及我未来的计划。甚至可以先在纸上写一写，把要表达的内容理清楚，这样说的时候会更有条理，也不容易被打断后乱了阵脚。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可以提前在心里整理好关键点，比如工作具体带来的好处，以及我未来的计划",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得可以准备几点：比如工作怎么帮助我负担学费，为什么继续学习对我的未来很重要，还有我的具体目标是什么。至于反驳，他可能会说“早点结婚能更稳定”之类的话，我可以试着回应为什么独立经济能力比依赖别人更重要。提前想好这些，应该会让我更自信吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以准备几点：比如工作怎么帮助我负担学费，为什么继续学习对我的未来很重要，还有我的具体目标是什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得可以选择一个他心情比较平和的时候，比如吃完晚饭后，大家都稍微放松一点的时候。那时候应该更容易展开对话，而且也能避免他在忙碌或情绪不好时直接拒绝沟通。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以选择一个他心情比较平和的时候，比如吃完晚饭后，大家都稍微放松一点的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得可以先从表达对他的尊重开始，比如说“我知道您是为我好，所以想和您聊聊我的计划”，这样能让他感觉到我不是在对抗，而是希望他听听我的想法，再慢慢切入重点。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从表达对他的尊重开始，比如说“我知道您是为我好，所以想和您聊聊我的计划”，这样能让他感觉到我不是在对抗，而是希望他听听我的想法，再慢慢切入重点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我觉得完全支持可能有点难，能让他至少接受我的独立性就已经是很大的进步了。如果他能稍微松口，不再强制要求我按照他的想法来生活，那对我来说就已经是一个很重要的突破了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得完全支持可能有点难，能让他至少接受我的独立性就已经是很大的进步了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "如果他松动了，我觉得可以趁机多分享一些我的计划和进展，比如学习上取得的小成就，或者工作中的一些成果，让他逐渐看到我的努力和能力。这可能会让他更信任我，慢慢改变对我的看法。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他松动了，我觉得可以趁机多分享一些我的计划和进展，比如学习上取得的小成就，或者工作中的一些成果，让他逐渐看到我的努力和能力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我觉得实际的经济贡献可能更能打动他，比如兼职收入如何帮助减轻家庭开支。这种看得见的成果比较容易让他认可我的努力，同时也能体现我的责任感和能力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得实际的经济贡献可能更能打动他，比如兼职收入如何帮助减轻家庭开支",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得可以用具体数字来说明，比如我每个月赚多少钱，怎么分配这些收入，哪些部分是用来减轻家庭开支的。也可以举一个例子，比如有一次家里需要额外开支时，我是怎么用自己的兼职收入帮上忙的，这样更有说服力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用具体数字来说明，比如我每个月赚多少钱，怎么分配这些收入，哪些部分是用来减轻家庭开支的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得最需要注意的是避免表现出反抗或者不耐烦的态度，尽量用平和的语气去沟通。同时也要避免提到那些他特别坚持的观念，比如“早点结婚”，以免触发他的情绪，导致对话变成争执。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最需要注意的是避免表现出反抗或者不耐烦的态度，尽量用平和的语气去沟通",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "如果他能说类似“你自己决定吧”或者“既然你有计划，那就按你的想法试试”的话，哪怕不是完全支持，但至少是一种松口和妥协，对我来说就算成功了。这样至少让我感觉到他愿意给我一点空间去尝试。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他能说类似“你自己决定吧”或者“既然你有计划，那就按你的想法试试”的话，哪怕不是完全支持，但至少是一种松口和妥协，对我来说就算成功了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "是的，我觉得接下来可以通过行动来巩固，比如继续努力工作和学习，然后定期主动跟他分享我的进展和成果。这样一方面能让他看到我在认真付出，另一方面也能逐渐建立他对我的信任，让这种松动的态度更加稳固。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得接下来可以通过行动来巩固，比如继续努力工作和学习，然后定期主动跟他分享我的进展和成果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "如果再遇到他的质疑，我觉得可以提醒自己，他的反对可能更多是出于对家庭和我未来的担忧，而不是针对我个人。这样想或许能减少情绪上的压力，专注于自己的目标。同时，我也会试着回顾自己已经取得的进步，用这些来鼓励自己继续坚持。",
+    "has_specific_detail": true,
+    "specific_detail": "如果再遇到他的质疑，我觉得可以提醒自己，他的反对可能更多是出于对家庭和我未来的担忧，而不是针对我个人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得可以给自己设立一些小奖励，比如完成一个学习目标后买一本喜欢的书，或者在工作有突破时给自己放个假，去吃一顿好吃的。这样既能庆祝自己的进步，也能让整个过程没那么压抑。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以给自己设立一些小奖励，比如完成一个学习目标后买一本喜欢的书，或者在工作有突破时给自己放个假，去吃一顿好吃的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得第一个奖励目标可以是完成一次重要的学习任务，比如把一门课程的内容学完并通过考试。这样不仅是对自己的能力认可，也能让我更有信心面对接下来的挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得第一个奖励目标可以是完成一次重要的学习任务，比如把一门课程的内容学完并通过考试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我想奖励自己一本特别想读的书，像是那种能让我从中获得力量和启发的类型。这样不仅是一种放松，也是对未来继续努力的激励，感觉会很有意义！",
+    "has_specific_detail": true,
+    "specific_detail": "我想奖励自己一本特别想读的书，像是那种能让我从中获得力量和启发的类型",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我现在有几本书在考虑，比如一些关于个人成长或者励志类的书，但可能会等完成目标后，根据当时的心情和需要再挑选一本最适合的。这样感觉更有仪式感，也更贴近自己的状态！",
+    "has_specific_detail": true,
+    "specific_detail": "我现在有几本书在考虑，比如一些关于个人成长或者励志类的书，但可能会等完成目标后，根据当时的心情和需要再挑选一本最适合的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "有的，我计划把学习任务分成几个小阶段，比如完成一个章节或掌握一部分内容，就给自己一个小奖励，像是喝杯喜欢的奶茶或者看一部想看的电影，这样过程就不会觉得太漫长，也能一直保持动力。",
+    "has_specific_detail": true,
+    "specific_detail": "有的，我计划把学习任务分成几个小阶段，比如完成一个章节或掌握一部分内容，就给自己一个小奖励，像是喝杯喜欢的奶茶或者看一部想看的电影，这样过程就不会觉得太漫长，也能一直保持动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我觉得最有挑战的可能是一些特别枯燥或者难度较大的章节，容易让我感到挫败和想放弃。为了克服这种情况，我可以试着分成更小的任务，比如一天只学几个关键点，或者换种方式去理解内容，这样会更容易坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最有挑战的可能是一些特别枯燥或者难度较大的章节，容易让我感到挫败和想放弃",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "深呼吸调整心态确实是个好方法，尤其是在感觉快要被烦躁淹没的时候。另外，我也可以试着离开书桌去散散步，或者听几首喜欢的歌，让自己短暂放松一下，再回来继续学习会更有效率。",
+    "has_specific_detail": true,
+    "specific_detail": "深呼吸调整心态确实是个好方法，尤其是在感觉快要被烦躁淹没的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "如果还是难以专注，我可能会试着用番茄工作法，比如专注学习25分钟后休息5分钟，这种短时间的目标感觉没那么有压力。另外，也可以换一个学习环境，比如从书桌换到阳台，改变一下氛围可能会让我更容易集中注意力。",
+    "has_specific_detail": true,
+    "specific_detail": "如果还是难以专注，我可能会试着用番茄工作法，比如专注学习25分钟后休息5分钟，这种短时间的目标感觉没那么有压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得最需要提醒自己的是为什么要坚持下去，比如完成学业后能更接近我想要的独立生活。还有要记得，每次克服一个小困难，都是在为自己的未来积累力量，这样就算过程很难也能找到继续前进的动力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最需要提醒自己的是为什么要坚持下去，比如完成学业后能更接近我想要的独立生活",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "如果完成了目标，我想对自己说：“你真的很棒！这一路不容易，但你做到了。这不仅是一个阶段的结束，更是一个全新的开始。继续为自己的梦想努力吧！”",
+    "has_specific_detail": true,
+    "specific_detail": "如果完成了目标，我想对自己说：“你真的很棒！这一路不容易，但你做到了",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 39,
+    "content": "今天聊下来感觉轻松了不少，也更清楚接下来的方向了。下一步计划是尽快整理好我的学习目标和工作计划，然后挑个合适的时机和父亲沟通，试着迈出第一步。谢谢你的倾听和建议！",
+    "has_specific_detail": true,
+    "specific_detail": "今天聊下来感觉轻松了不少，也更清楚接下来的方向了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

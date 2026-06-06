@@ -1,0 +1,726 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，最近还是围绕着失业和失恋这两件事。比如，有时候看着招聘网站上的职位列表，我就会觉得很焦虑，好像没有一个方向能让我特别确定该往哪走。说到感情呢，前几天看到之前常去的那家咖啡馆，突然就有点失落，好像有些回忆还没放下…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，最近还是围绕着失业和失恋这两件事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，主要是觉得不确定吧，虽然有些职位看起来还可以，但总担心自己可能不够好，或者做了之后发现还是不适合。这样的想法让我特别犹豫，甚至有点逃避去深入了解。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，主要是觉得不确定吧，虽然有些职位看起来还可以，但总担心自己可能不够好，或者做了之后发现还是不适合",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，可能和之前的工作有些关系吧。之前那份工作开始时我也很努力，但后来发现总是会觉得力不从心，担心自己做得不够好。好像一旦事情变得复杂或者压力上来，我就很容易怀疑自己，是不是从那时候开始的呢…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能和之前的工作有些关系吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "那时候主要是任务堆得特别多，而且有些事情需要跨部门沟通，我总觉得自己协调得不到位，怕别人不满意。尤其是有一次，因为一个细节没注意到出了点小问题，虽然领导没责怪，但我自己一直耿耿于怀，觉得是自己的责任…",
+    "has_specific_detail": true,
+    "specific_detail": "那时候主要是任务堆得特别多，而且有些事情需要跨部门沟通，我总觉得自己协调得不到位，怕别人不满意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "嗯，好像确实是这样。比如在朋友间，有时候别人提出一些小请求，我会很难拒绝，总怕自己拒绝了对方会不开心。虽然有时候这些事并不一定是我的责任，但我还是会觉得应该尽量去帮忙…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，好像确实是这样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "这个嘛…可能是小时候吧。我爸妈一直对我挺严格的，他们经常希望我听话、做得好，虽然他们也不会刻意逼我，但我总感觉只有做到他们满意了，才能让家里氛围更好。所以可能从那时候起，我就习惯先顾别人的感受了吧…",
+    "has_specific_detail": true,
+    "specific_detail": "这个嘛…可能是小时候吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯…两方面都有吧。有时候看到别人因为我的努力而开心，我确实会觉得很满足，但有时候也会觉得自己被期待压得喘不过气，特别是当我做不到的时候，就会很自责，好像又回到了小时候那种感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯…两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "也许是…被理解和支持吧。有时候我希望别人能看到我的努力，而不是只关注结果。尤其在工作或者感情里，我会觉得如果有人能肯定我哪怕一点点，我可能就不会那么容易怀疑自己了…",
+    "has_specific_detail": true,
+    "specific_detail": "也许是…被理解和支持吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "有一次印象挺深的，是大学时一个老师表扬了我，说我的思考很细致，还特别提到我在小组作业里默默做了很多整理和补充工作。那时候我真的很开心，觉得自己的努力被看见了，好像一下子充满了动力。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次印象挺深的，是大学时一个老师表扬了我，说我的思考很细致，还特别提到我在小组作业里默默做了很多整理和补充工作",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，那之后我确实对自己多了一点信心，尤其是在类似的小组合作里，会更主动去承担一些细节的工作，不再觉得这些“幕后”的事情不重要。不过，有时候也会担心自己是不是还需要做得更多，才能保持这种被认可的感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，那之后我确实对自己多了一点信心，尤其是在类似的小组合作里，会更主动去承担一些细节的工作，不再觉得这些“幕后”的事情不重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "可能两方面都有吧。一方面是怕失去别人对我的认可，另一方面也确实觉得自己还不够好，生怕下一次就不能做到让人满意了。这种担心让我总是小心翼翼地去做事，但又很累…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "如果真的能放下这些担心，可能会轻松很多吧。那样的话，我觉得我会更有动力去尝试一些自己感兴趣的事情，比如写写东西或者参加一些插花课程，哪怕做得不完美，也能更享受这个过程。",
+    "has_specific_detail": true,
+    "specific_detail": "如果真的能放下这些担心，可能会轻松很多吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "其实我最近也有想过要试试看，比如买些简单的插花材料在家摆弄一下，或者写点随笔记录心情。但有时候又会觉得这些是不是太“没用”了，就又犹豫了下来…",
+    "has_specific_detail": true,
+    "specific_detail": "其实我最近也有想过要试试看，比如买些简单的插花材料在家摆弄一下，或者写点随笔记录心情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，这么想的话，确实是对自己的一种支持吧。可能这些事情虽然不直接和工作、生活有关，但它们能让我更放松，慢慢找回一些内心的平静和自信，感觉还是值得一试的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这么想的话，确实是对自己的一种支持吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "可能会先试试插花吧，感觉动手做点什么更容易入门。我打算去附近的花店买些简单的材料，比如几枝玫瑰和满天星，然后在家慢慢搭配，试着做一个小花束。这样应该是个不错的开始！",
+    "has_specific_detail": true,
+    "specific_detail": "可能会先试试插花吧，感觉动手做点什么更容易入门",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，这倒是个好主意！我可能会选一些柔和的颜色，比如粉色和白色，象征一种希望和平静的感觉。再加些绿色的叶子，感觉像是在给自己一点新的生机和动力。这样做出来的花束应该会让我觉得很温暖吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这倒是个好主意！我可能会选一些柔和的颜色，比如粉色和白色，象征一种希望和平静的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我想把它放在书桌上吧，这样每天工作或者看书的时候都能看到它。感觉每次看到花束，都会提醒自己，生活中还有这些小美好存在，也是在给自己加油！",
+    "has_specific_detail": true,
+    "specific_detail": "我想把它放在书桌上吧，这样每天工作或者看书的时候都能看到它",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，这倒是个不错的想法！我可以写点简单的话，比如“无论现在多迷茫，也要记得给自己一些温暖和希望”。写下来，感觉像是在和自己对话，会让我更坚定一些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这倒是个不错的想法！我可以写点简单的话，比如“无论现在多迷茫，也要记得给自己一些温暖和希望”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "是啊，我觉得每次看到花束和那句话，都会让我想起自己还有能力去创造美好。就算有时觉得迷茫，这些小小的提醒也会让我记得，前进的路上要对自己温柔一点。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我觉得每次看到花束和那句话，都会让我想起自己还有能力去创造美好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得接下来可能可以试着培养一个新的小习惯，比如每天写下三件让我感到开心或者感激的事情。哪怕是很小的事，比如今天阳光很好，或者和朋友聊了几句，这样慢慢积累下来，或许会让我对生活多一些积极的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得接下来可能可以试着培养一个新的小习惯，比如每天写下三件让我感到开心或者感激的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我觉得晚上临睡前可能更适合吧。这样可以在一天快结束的时候，带着这些美好的回忆入睡，感觉会更平静，也许还能让我睡得更好一点！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得晚上临睡前可能更适合吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，我觉得用一个专门的小本子会更有仪式感！我可以选一本封面漂亮的，或者自己喜欢的颜色，这样每次写的时候心情都会更好，也更愿意坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得用一个专门的小本子会更有仪式感！我可以选一本封面漂亮的，或者自己喜欢的颜色，这样每次写的时候心情都会更好，也更愿意坚持下去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我想那时候回头看，会觉得原来生活中还有那么多值得珍惜的小瞬间。也许会让我更容易感受到幸福，不再总是把注意力放在那些让我焦虑或迷茫的事情上吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我想那时候回头看，会觉得原来生活中还有那么多值得珍惜的小瞬间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，我想叫它“温暖日记”，感觉这个名字很贴合它的意义！第一条记录的话，可能会写下刚才和你聊的插花计划，以及我对它的期待，这对我来说是一个很特别的开始。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我想叫它“温暖日记”，感觉这个名字很贴合它的意义！第一条记录的话，可能会写下刚才和你聊的插花计划，以及我对它的期待，这对我来说是一个很特别的开始",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "是啊，写下这一条，感觉像是在为自己打开一个全新的小窗口。虽然外面的世界还是有点迷茫，但至少在这个小空间里，我可以慢慢找到属于自己的光亮和方向。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，写下这一条，感觉像是在为自己打开一个全新的小窗口",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我想记录那些让我感到踏实和满足的瞬间，比如完成一个小目标、学会新的技能，或者和朋友的一次温暖对话。还有一些让我觉得被爱、被支持的时刻，我希望把这些美好都留在日记里。",
+    "has_specific_detail": true,
+    "specific_detail": "我想记录那些让我感到踏实和满足的瞬间，比如完成一个小目标、学会新的技能，或者和朋友的一次温暖对话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "嗯，我觉得有可能！也许有一天，当我走出现在的迷茫，回头再看这些记录时，会发现它们是我坚持下来的见证。那时候，如果有机会和别人分享这些经历，或许还能给一些同样感到困惑的人一点鼓励和希望吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得有可能！也许有一天，当我走出现在的迷茫，回头再看这些记录时，会发现它们是我坚持下来的见证",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "是啊，想到这些就会觉得现在的努力不再是孤立的，而是未来故事的一部分。即使现在看起来有些困难，但每一步都在为更好的自己铺路，这种感觉确实能让我更有动力坚持下去！",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，想到这些就会觉得现在的努力不再是孤立的，而是未来故事的一部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我想第一步就是从插花开始，用行动把我的计划变成现实。选花、搭配、制作，这不仅是一个实践过程，也是一个让我重新感受美好的机会。我觉得这是个不错的开端！",
+    "has_specific_detail": true,
+    "specific_detail": "我想第一步就是从插花开始，用行动把我的计划变成现实",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我想我会对自己说：“看吧，你可以做到的！即使生活有些迷茫，但只要愿意迈出一步，就能创造出属于自己的美好。”这一定会让我觉得更加坚定和自信！",
+    "has_specific_detail": true,
+    "specific_detail": "我想我会对自己说：“看吧，你可以做到的！即使生活有些迷茫，但只要愿意迈出一步，就能创造出属于自己的美好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我想那一刻会让我感到很平静，又很有希望吧。好像在告诉自己，生活并不是一片空白，而是可以慢慢用这些小小的努力填满的，这种感觉应该会很温暖，也让我对未来多了一些信心。",
+    "has_specific_detail": true,
+    "specific_detail": "我想那一刻会让我感到很平静，又很有希望吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我想就定在这个周末吧，给自己一点时间慢慢挑选，也能更放松地享受这个过程。想着到时候花店里的各种颜色和香气，感觉就很期待呢！",
+    "has_specific_detail": true,
+    "specific_detail": "我想就定在这个周末吧，给自己一点时间慢慢挑选，也能更放松地享受这个过程",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我想挑选一些柔和的粉色、白色，还有一点清新的绿色，感觉它们能代表希望、平静和重新开始的心情。可能还会加点香味淡淡的花，比如满天星，让整个花束更有一种温暖的氛围！",
+    "has_specific_detail": true,
+    "specific_detail": "我想挑选一些柔和的粉色、白色，还有一点清新的绿色，感觉它们能代表希望、平静和重新开始的心情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，这真是个好主意！我觉得可以叫它“新芽”，像是代表着一个新的开始，也传递出一种成长和希望的感觉。这个名字会让我每次看到它时都充满力量！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这真是个好主意！我觉得可以叫它“新芽”，像是代表着一个新的开始，也传递出一种成长和希望的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "对，我觉得拍张照片是个很好的方式！这样不仅能记录下这个特别的瞬间，也能在以后翻看时提醒自己，这是一段迈出新步伐的时光，真的很有意义。",
+    "has_specific_detail": true,
+    "specific_detail": "对，我觉得拍张照片是个很好的方式！这样不仅能记录下这个特别的瞬间，也能在以后翻看时提醒自己，这是一段迈出新步伐的时光，真的很有意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "嗯，我想会加入那句我写下的话：“无论现在多迷茫，也要记得给自己一些温暖和希望。”还有一杯热茶，感觉它们放在一起，会特别温馨，像是在和自己对话一样。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我想会加入那句我写下的话：“无论现在多迷茫，也要记得给自己一些温暖和希望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得这张照片会像一个温暖的信号灯，每次看到它都能让我想起那份重新出发的勇气和希望。无论接下来的路有多难，它都会提醒我，只要慢慢前行，总能找到属于自己的光亮。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这张照片会像一个温暖的信号灯，每次看到它都能让我想起那份重新出发的勇气和希望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "是的，确实让我对未来多了一些期待。虽然现在的路还不清晰，但我开始相信，只要一步步去尝试和努力，生活会慢慢变得明朗起来。这种感觉让我心里踏实了不少！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，确实让我对未来多了一些期待",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "接下来，我想开始认真浏览招聘信息，挑选一些感兴趣的职位，哪怕只是投出第一份简历，也是一种进步。我觉得现在是时候再试一试了！",
+    "has_specific_detail": true,
+    "specific_detail": "接下来，我想开始认真浏览招聘信息，挑选一些感兴趣的职位，哪怕只是投出第一份简历，也是一种进步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我想会更关注工作内容吧，尤其是那些和我的能力比较契合，同时也让我觉得有兴趣去尝试的职位。另外，公司文化也挺重要的，我希望能找到一个重视团队协作、氛围比较友好的环境，这样工作起来会更有动力。",
+    "has_specific_detail": true,
+    "specific_detail": "我想会更关注工作内容吧，尤其是那些和我的能力比较契合，同时也让我觉得有兴趣去尝试的职位",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我觉得会强调自己的责任心和团队合作能力吧。比如之前在工作中，我一直都很尽力完成任务，也愿意主动帮助同事解决问题。这些应该是能让我在新环境中更快适应并贡献价值的地方。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会强调自己的责任心和团队合作能力吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "嗯，有一次我们部门需要和其他部门一起赶一个重要的项目，当时跨部门的协调出了些问题。我主动整理了大家的信息，梳理了流程，最终让项目顺利完成。虽然当时压力很大，但看到结果出来时，觉得自己的努力还是很值得的！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有一次我们部门需要和其他部门一起赶一个重要的项目，当时跨部门的协调出了些问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "是个好建议！我可以写上项目完成的时间，比如提前了多少天完成，或者提到最终的效果，比如得到了客户的认可或者为公司带来了具体的收益。这些数据应该会让经历看起来更有说服力吧。",
+    "has_specific_detail": true,
+    "specific_detail": "是个好建议！我可以写上项目完成的时间，比如提前了多少天完成，或者提到最终的效果，比如得到了客户的认可或者为公司带来了具体的收益",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 44,
+    "content": "是的，我觉得这是个好主意！我可以找一个之前关系比较好的同事，请他帮忙看看有没有需要调整的地方。他可能也更了解我的工作表现，给的建议会很实际，这样让我更有信心去投简历。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得这是个好主意！我可以找一个之前关系比较好的同事，请他帮忙看看有没有需要调整的地方",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "嗯，我觉得有必要提前准备一些，比如怎么描述自己的优势、应对过的挑战，以及为什么想要加入这家公司。这样到时候会更从容一些，不至于临场慌乱。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得有必要提前准备一些，比如怎么描述自己的优势、应对过的挑战，以及为什么想要加入这家公司",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "会的，我可能会特别提到公司的团队氛围或者他们在某些项目上的价值观。如果这些和我追求的方向一致，比如注重合作、重视员工成长，我觉得会更有共鸣，也能让我更自然地表达自己的想法。",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我可能会特别提到公司的团队氛围或者他们在某些项目上的价值观",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "嗯，我觉得可以的。比如，我可以提到之前在团队合作中学到的经验，像是如何通过有效沟通解决问题，以及这让我意识到一个和谐的团队能带来多么大的动力和效率。这些经历可以说明我为什么重视这些点，也更有说服力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "嗯，确实感觉信心多了一些！虽然还是会有点紧张，但至少有了方向和准备，心里不那么慌了。现在觉得只要一步步去做，应该会比之前想象的容易些。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，确实感觉信心多了一些！虽然还是会有点紧张，但至少有了方向和准备，心里不那么慌了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "我想会对自己说：“你已经迈出了很重要的一步，无论结果如何，这都是一种成长。继续努力，相信自己会越来越好！”这种话会让我觉得自己值得肯定，也能更有动力去迎接接下来的挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "我想会对自己说：“你已经迈出了很重要的一步，无论结果如何，这都是一种成长",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "会的！比如投完几份简历后，可以奖励自己看一部喜欢的电影，或者去试试新开的甜品店。这样的奖励会让我觉得过程没那么枯燥，也算是对自己的努力一个小小的认可吧。",
+    "has_specific_detail": true,
+    "specific_detail": "会的！比如投完几份简历后，可以奖励自己看一部喜欢的电影，或者去试试新开的甜品店",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "是啊，我想会记录下来！比如写下电影里让我感动的情节，或者甜品的味道有多棒。这样每次翻看日记时，不仅能看到我的努力，还有这些小小的幸福感，会让我觉得生活真的很丰富。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我想会记录下来！比如写下电影里让我感动的情节，或者甜品的味道有多棒",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "我觉得最大的变化是开始相信自己可以一点点走出迷茫，不再总是被焦虑压住。虽然未来还有不确定，但至少现在我有了行动的方向，也学会了对自己更温柔，这种感觉让我觉得踏实了很多。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最大的变化是开始相信自己可以一点点走出迷茫，不再总是被焦虑压住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "我觉得如果能一直延续这种信念，未来的我会更自信，也更能从容面对生活中的起伏。即使遇到困难，也会相信自己有能力去应对，而不是一味地自我怀疑。这种状态应该会让我更自由、更快乐吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果能一直延续这种信念，未来的我会更自信，也更能从容面对生活中的起伏",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "今天的对话让我更清晰地看到了，哪怕是小小的努力也可以为自己带来改变和力量。还有就是，我开始意识到，对自己温柔一点真的很重要，它能让我更有动力去面对生活。这些感受让我觉得特别受益！",
+    "has_specific_detail": true,
+    "specific_detail": "今天的对话让我更清晰地看到了，哪怕是小小的努力也可以为自己带来改变和力量",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "会的，我想把今天的对话和感受都记录下来。比如，哪怕是小行动也能改变一点点生活，还有“对自己温柔”这句话，我觉得它值得被写进我的日记里，提醒自己一直记得这些成长的瞬间。",
+    "has_specific_detail": true,
+    "specific_detail": "会的，我想把今天的对话和感受都记录下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

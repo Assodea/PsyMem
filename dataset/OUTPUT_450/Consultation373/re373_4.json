@@ -1,0 +1,865 @@
+[
+  {
+    "turn": 1,
+    "content": "最近我还是觉得和妈妈的关系有些让人喘不过气。就比如前几天，我跟她提了一下想暑假去外地实习，她立刻开始说“不放心”，还列了一堆“可能会出问题”的理由…让我又焦虑又觉得没办法沟通。",
+    "has_specific_detail": true,
+    "specific_detail": "最近我还是觉得和妈妈的关系有些让人喘不过气",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "其实她提到的安全问题，我能理解，她总是担心我一个人在外面照顾不好自己。但她还说什么“这样跑出去会不会对学业不好”“你就不能待在家安心点”，这些就让我觉得很压抑，好像我的选择总是不够好一样…",
+    "has_specific_detail": true,
+    "specific_detail": "其实她提到的安全问题，我能理解，她总是担心我一个人在外面照顾不好自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我觉得可能她还是希望我听她的安排吧，从小她就习惯帮我做决定，总觉得她的选择才是对的…但现在我真的很想有点自己的空间，去尝试新东西。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能她还是希望我听她的安排吧，从小她就习惯帮我做决定，总觉得她的选择才是对的…但现在我真的很想有点自己的空间，去尝试新东西",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "我有试着说过，比如告诉她实习对我的成长很重要，但她总会转移到“外面的世界很复杂”上，还会说“你还小，很多事不懂”。这让我觉得她根本没听进去我的感受…",
+    "has_specific_detail": true,
+    "specific_detail": "我有试着说过，比如告诉她实习对我的成长很重要，但她总会转移到“外面的世界很复杂”上，还会说“你还小，很多事不懂”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是的，那种感觉确实很无力，我当时也不知道该怎么回应，就沉默了。后来为了避免争吵，我只能敷衍地说“我再考虑一下”，但心里还是很不甘心…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，那种感觉确实很无力，我当时也不知道该怎么回应，就沉默了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "是挺难受的，我最希望她能明白，我不是任性想“跑出去”，而是真的想通过实习去锻炼自己，变得更独立。被她这样否定，我总觉得自己的努力好像不值得一样…",
+    "has_specific_detail": true,
+    "specific_detail": "是挺难受的，我最希望她能明白，我不是任性想“跑出去”，而是真的想通过实习去锻炼自己，变得更独立",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "如果她能理解，我觉得我会更有勇气去表达自己的想法，也敢更坦诚地告诉她我的计划和顾虑。而不是像现在这样，总是带着防备，怕她直接反对…这样的沟通可能会更轻松吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她能理解，我觉得我会更有勇气去表达自己的想法，也敢更坦诚地告诉她我的计划和顾虑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，我觉得或许可以试试，从她的担忧切入，告诉她我已经考虑过这些问题，比如住的地方、工作的安排之类的。如果能让她看到我有准备，可能会减少她的不放心吧。不过我也担心，她会不会还是觉得这些都不够…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得或许可以试试，从她的担忧切入，告诉她我已经考虑过这些问题，比如住的地方、工作的安排之类的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我希望她至少能认可我的努力，比如说“我知道你想得很周到”或者“我相信你能照顾好自己”。哪怕她还有担心，但如果能给我一点肯定，我觉得就会好很多…",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她至少能认可我的努力，比如说“我知道你想得很周到”或者“我相信你能照顾好自己”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "也许我可以先从小事上表现我的独立，比如处理好自己的学习和生活，给她一种“我能应对”的感觉。然后再慢慢跟她聊实习的事，用具体行动让她放心，而不是只靠说服她接受我的想法…这样可能会让她更容易信任吧。",
+    "has_specific_detail": true,
+    "specific_detail": "也许我可以先从小事上表现我的独立，比如处理好自己的学习和生活，给她一种“我能应对”的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得可以从日常生活的小安排开始，比如更主动地打理自己的时间，告诉她我的学习计划和进展。还有一些她关心的事情，比如自己安排去办学校的事，或者提前计划好假期的安排，让她看到我在认真考虑这些问题…这样也许能让她慢慢放下对我的担忧吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从日常生活的小安排开始，比如更主动地打理自己的时间，告诉她我的学习计划和进展",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我觉得可以先从假期安排开始，因为这个比较直接能和她的担忧挂钩。如果我能提前列出实习计划，包括住哪里、怎么保障安全，她可能会更容易看到我的准备，也会觉得更有说服力吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从假期安排开始，因为这个比较直接能和她的担忧挂钩",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我觉得她可能会特别关注住的地方是不是安全，实习公司有没有可靠的管理，还有我怎么保障自己的生活安排，比如吃饭、交通这些。所以在准备计划时，我想尽量把这些细节都提前查清楚，比如住的地方要有明确的安全保障，工作时间和通勤路线也要合理清晰，这样才能更有说服力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得她可能会特别关注住的地方是不是安全，实习公司有没有可靠的管理，还有我怎么保障自己的生活安排，比如吃饭、交通这些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我可以做一个简单的计划表，把住处的安全措施、实习公司的背景资料、通勤路线图都写清楚，甚至加上我对可能遇到问题的应对方法。这样她能一目了然地看到我有准备，而不是随便做决定的。我觉得视觉化的东西可能会更让她信服吧！",
+    "has_specific_detail": true,
+    "specific_detail": "我可以做一个简单的计划表，把住处的安全措施、实习公司的背景资料、通勤路线图都写清楚，甚至加上我对可能遇到问题的应对方法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，这个很重要！我可以在计划表里写上这次实习对我未来的帮助，比如提升工作能力、积累经验、扩大视野这些目标。这样她可能会更理解我的用心，而不是觉得我只是为了“离开家”而去实习。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个很重要！我可以在计划表里写上这次实习对我未来的帮助，比如提升工作能力、积累经验、扩大视野这些目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得等她心情比较平静、没有其他事情分心的时候会是个好时机，比如吃完晚饭一起坐着聊天的时候。我希望用一种比较轻松的方式，把计划表拿出来，先让她随便看看，然后再跟她讲我的想法和准备，避免一开始就太正式或让她觉得有压力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得等她心情比较平静、没有其他事情分心的时候会是个好时机，比如吃完晚饭一起坐着聊天的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我希望她能对我的准备表示认可，比如说“看得出来你考虑得很周到”或者“这次可以试试看”。哪怕她还有些担心，但如果她愿意试着支持我，我会觉得我们之间的关系更有了一点信任感，这会让我更安心。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她能对我的准备表示认可，比如说“看得出来你考虑得很周到”或者“这次可以试试看”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "如果她的回应不如预期，我可能会先深呼吸，让自己冷静下来，告诉自己她的态度也许需要时间改变。接下来我可能会继续用行动证明，比如坚持做好自己的计划，或者先完成一些其他小目标，让她慢慢看到我的能力和决心。虽然可能会失望，但我觉得还是值得再努力试试的。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她的回应不如预期，我可能会先深呼吸，让自己冷静下来，告诉自己她的态度也许需要时间改变",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得可以试着多和信任的朋友或者男朋友聊聊，让自己有个情绪的出口。另外，我也可以通过写日记来整理自己的感受，把失望和不甘记录下来，这样能让我更清楚自己的想法，同时提醒自己不要轻易放弃。还有就是适当给自己一些放松的时间，比如听音乐或者运动，避免一直陷在负面情绪里。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着多和信任的朋友或者男朋友聊聊，让自己有个情绪的出口",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得可以先试着和男朋友聊聊，因为他平时挺支持我的，我也希望听到他说“我相信你能处理好这些”之类的话，这对我会是很大的鼓励。另外，我也想尝试写日记，把这段时间的感受和想法整理出来，这样能让我更清楚自己下一步该怎么走。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先试着和男朋友聊聊，因为他平时挺支持我的，我也希望听到他说“我相信你能处理好这些”之类的话，这对我会是很大的鼓励",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我觉得可以在周末的时候找个轻松的时间和他聊聊，比如一起散步或者吃饭时，这样气氛也比较自然。至于写日记，我可能会先从自己的情绪入手，比如记录最近为什么感到焦虑、压抑，然后再写写对妈妈反应的想法，以及我希望实现的目标。这应该能让我更明确自己在意的点，同时也能帮助我找到更好的应对方式。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以在周末的时候找个轻松的时间和他聊聊，比如一起散步或者吃饭时，这样气氛也比较自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "这个主意很好！我觉得可以每天写一点点，比如每天记录一件让我感到情绪波动的事，再总结一句鼓励自己的话，比如“今天的努力值得被肯定”或者“我正在一步步靠近自己的目标”。这样不仅能帮助我整理心情，也能让自己保持积极的动力去面对接下来的挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "这个主意很好！我觉得可以每天写一点点，比如每天记录一件让我感到情绪波动的事，再总结一句鼓励自己的话，比如“今天的努力值得被肯定”或者“我正在一步步靠近自己的目标”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我觉得第一天最想鼓励自己的是面对挑战的勇气。虽然和妈妈沟通对我来说很不容易，但我愿意尝试去改变这种关系，这本身就是一种突破。我可能会写“勇敢迈出一步，已经是很了不起的成长”来鼓励自己坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得第一天最想鼓励自己的是面对挑战的勇气",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得在沟通之前，可以先在心里默念几次“我有权利表达自己的感受，她可能需要时间理解”，这样能让我更平静一些。另外，我可以试着在脑海里提前模拟一下对话，比如她可能会问什么问题，我该怎么回应，这样能让我更有准备，不至于临场慌乱。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得在沟通之前，可以先在心里默念几次“我有权利表达自己的感受，她可能需要时间理解”，这样能让我更平静一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得她可能会问“你为什么非要去外地实习？家里不是也有机会吗？”如果是这样，我希望自己能用平和但坚定的态度回应，比如说：“外地的实习机会更符合我的专业发展方向，而且能让我锻炼独立生活的能力。我知道您会担心，但我已经做好了详细的计划，确保安全和周全。”这样既能表达我的理由，也能让她感觉到我是认真考虑过的。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得她可能会问“你为什么非要去外地实习？家里不是也有机会吗？”如果是这样，我希望自己能用平和但坚定的态度回应，比如说：“外地的实习机会更符合我的专业发展方向，而且能让我锻炼独立生活的能力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "如果她还是有顾虑，我可能会告诉她：“我可以在实习期间定期向您汇报我的情况，比如每周打一次电话，或者视频通话，这样您就能随时了解我的近况。”我觉得这样不仅能缓解她的不确定感，也能让她感受到我的用心和尊重。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她还是有顾虑，我可能会告诉她：“我可以在实习期间定期向您汇报我的情况，比如每周打一次电话，或者视频通话，这样您就能随时了解我的近况",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "如果她最终还是反对，我可能会先让自己冷静下来，告诉自己“她的反对并不代表我的想法不重要”，然后给她和我都一些时间。我可以选择暂时不再强调实习，而是继续用行动证明自己的独立性，比如完成一些小目标，或者通过其他方式展现我的能力，慢慢让她改变看法。这种方式可能会更需要耐心，但我觉得还是值得去尝试的。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她最终还是反对，我可能会先让自己冷静下来，告诉自己“她的反对并不代表我的想法不重要”，然后给她和我都一些时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "当我感到压力大或者情绪低落时，听自己喜欢的音乐可能是一个快速放松的方法，或者去散步，让自己短暂地远离烦恼。另外，我觉得和信任的朋友聊聊也是一个好办法，他们的支持总能让我感到温暖和被理解。这些小方法可以让我重新找回一些平静和力量，再去面对接下来的挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "当我感到压力大或者情绪低落时，听自己喜欢的音乐可能是一个快速放松的方法，或者去散步，让自己短暂地远离烦恼",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "这个主意很棒！我觉得可以设立一些“小奖励”，比如如果能顺利完成和妈妈的一次平和沟通，我可以奖励自己去吃一顿喜欢的餐厅，或者买一本想读的书。这样既能让我在过程中保持动力，也能让我更享受努力后的成就感，感觉是一种自我鼓励的好方式！",
+    "has_specific_detail": true,
+    "specific_detail": "这个主意很棒！我觉得可以设立一些“小奖励”，比如如果能顺利完成和妈妈的一次平和沟通，我可以奖励自己去吃一顿喜欢的餐厅，或者买一本想读的书",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得第一个“小奖励”可以定在和妈妈完成一次有效沟通之后，比如我成功地表达了自己的想法，并且她至少愿意倾听和考虑，不一定要完全同意，但只要交流是平和的，对我来说就是一个重要的进步！这个目标具体而实际，也能让我有个清晰的方向去努力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得第一个“小奖励”可以定在和妈妈完成一次有效沟通之后，比如我成功地表达了自己的想法，并且她至少愿意倾听和考虑，不一定要完全同意，但只要交流是平和的，对我来说就是一个重要的进步！这个目标具体而实际，也能让我有个清晰的方向去努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得需要注意两点：一是调整好自己的情绪，尽量在沟通前保持冷静，不带着过多的焦虑或急躁情绪；二是用她能接受的方式表达，比如多站在她的角度去解释我的想法，而不是只讲自己的需求。同时，我也可以准备一些实习计划中的具体细节，这样她可能会更容易信任我。这些准备应该会让沟通更顺畅一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要注意两点：一是调整好自己的情绪，尽量在沟通前保持冷静，不带着过多的焦虑或急躁情绪；二是用她能接受的方式表达，比如多站在她的角度去解释我的想法，而不是只讲自己的需求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "如果她情绪激动，我会试着先暂停争论，平静地对她说“我能理解您的担忧，我们可以慢慢聊，不急着现在决定。”这样既缓和了她的情绪，也给我们都一个冷静的机会。然后我会试着把话题带回到她关心的点，比如安全问题，告诉她我已经考虑了具体的解决办法。这可能会让她感觉到我的尊重，同时也有助于让对话继续下去。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她情绪激动，我会试着先暂停争论，平静地对她说“我能理解您的担忧，我们可以慢慢聊，不急着现在决定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "无论结果如何，我希望自己能学会更好地表达自己的需求，同时也能更从容地面对她的反应。通过这次沟通，我想锻炼自己的耐心和情绪管理，尝试在冲突中找到平衡点，不再因为她的否定而轻易否定自己。如果能做到这些，我觉得就是一种很大的成长了！",
+    "has_specific_detail": true,
+    "specific_detail": "无论结果如何，我希望自己能学会更好地表达自己的需求，同时也能更从容地面对她的反应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我觉得这次的经验肯定会帮助我，尤其是学会提前准备、站在她的角度去表达，以及不被她的情绪完全带跑的这些体会。未来再有分歧时，我想提醒自己先冷静下来，不急着争输赢，而是专注于找到一种彼此都能接受的方式沟通。毕竟，关系的改善需要时间，但每一次尝试都可以积累更多信任和理解，这一点让我觉得很值得坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这次的经验肯定会帮助我，尤其是学会提前准备、站在她的角度去表达，以及不被她的情绪完全带跑的这些体会",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "回头看，我发现自己已经比之前更清楚地认识到自己的需求和感受，也学会了用更温和、更有准备的方式去面对和妈妈的冲突。这让我感到一种内心的力量，虽然关系的改善可能需要时间，但我愿意继续努力。能看到自己在慢慢改变，我觉得是一种很大的收获！",
+    "has_specific_detail": true,
+    "specific_detail": "回头看，我发现自己已经比之前更清楚地认识到自己的需求和感受，也学会了用更温和、更有准备的方式去面对和妈妈的冲突",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我觉得接下来可以先完成实习计划的准备，把住处、安全、工作安排等细节整理清楚。然后找个合适的时机和妈妈沟通，试着用之前想好的方式表达我的想法。如果能顺利完成这一步，我会觉得是个很大的进展！这应该是我目前最想付诸行动的目标了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得接下来可以先完成实习计划的准备，把住处、安全、工作安排等细节整理清楚",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得最需要注意的是计划的细节要尽量周全，比如住处的安全性和通勤安排这些她最担心的部分。我希望自己能特别用心地把这些信息查清楚，还可以附上一些图片或者可靠的参考资料，这样不仅能让我更有底气，也能让她更直观地看到我的努力和认真。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最需要注意的是计划的细节要尽量周全，比如住处的安全性和通勤安排这些她最担心的部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我觉得可以多用一些实习相关的网络平台，比如查找实习公司和住处的评价，或者在论坛上看看其他人的经验分享。另外，我也可以和之前有过类似实习经历的学长学姐聊聊，听听他们的建议，尤其是在安全保障和生活安排方面，他们可能会有很实用的建议。这些资源应该会让我准备得更全面。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以多用一些实习相关的网络平台，比如查找实习公司和住处的评价，或者在论坛上看看其他人的经验分享",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我觉得住处信息可能是最需要优先完成的，因为安全性是妈妈最担心的地方。我想先找到几个可靠的住宿选项，把位置、周边环境、安全措施都整理清楚，甚至可以找一些图片或者用户评价作为补充，这样她应该会觉得更放心。然后再去详细了解实习公司的背景，确保整个计划都很有条理。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得住处信息可能是最需要优先完成的，因为安全性是妈妈最担心的地方",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我最看重的应该是住处的安全性，比如有没有24小时安保、监控设施齐全，周边环境是不是相对安静和安全。另外，离实习公司距离也很重要，最好通勤时间不超过30分钟，这样既方便又能减少不必要的风险。如果能找到一个评价好、交通便利的地方，我觉得会更符合她和我的需求。",
+    "has_specific_detail": true,
+    "specific_detail": "我最看重的应该是住处的安全性，比如有没有24小时安保、监控设施齐全，周边环境是不是相对安静和安全",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我觉得可能会遇到选择太多或者信息不够透明的问题，比如有些地方的评价不一致，或者图片和实际不符。为了应对这些，我想尽量选择有可信平台保障的房源，比如带认证的租房平台或者实习公司推荐的住宿点。如果有机会的话，我还会试着联系住过的人了解实际情况，这样可以更真实地判断是否合适。虽然可能需要花些时间，但我觉得值得。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能会遇到选择太多或者信息不够透明的问题，比如有些地方的评价不一致，或者图片和实际不符",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "如果找到几个不错的选择，我会优先考虑安全性最高的那个，比如安保措施更完善，周边环境评价更好的地方。其次是通勤时间，选择一个距离公司更近、交通方便的住处，这样可以减少每天的疲劳和不必要的麻烦。最后还会看价格是否合理，尽量选择性价比高的，这样也能让妈妈觉得我的选择是经过深思熟虑的。",
+    "has_specific_detail": true,
+    "specific_detail": "如果找到几个不错的选择，我会优先考虑安全性最高的那个，比如安保措施更完善，周边环境评价更好的地方",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "是的，我觉得整理成表格会很直观，比如列出住处名称、地址、安保措施、通勤时间和价格等关键信息，再配上图片和评价，这样她一看就能明白。我还可以把每个选项的优缺点标出来，让她感受到我是经过认真比较后才做的决定，这样应该更容易获得她的认可。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得整理成表格会很直观，比如列出住处名称、地址、安保措施、通勤时间和价格等关键信息，再配上图片和评价，这样她一看就能明白",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "我觉得可以特别强调住处的安全优势，比如是否有24小时安保、门禁系统，以及周边环境的评价和便利设施。另外，我还想在表格里补充一些我的安全计划，比如每天固定时间联系她、通勤时注意避开偏僻路线之类的具体措施，这样她可能会更安心，也能更信任我的安排。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以特别强调住处的安全优势，比如是否有24小时安保、门禁系统，以及周边环境的评价和便利设施",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "是的，我觉得可以再补充一些实习公司的背景信息，比如公司的规模、行业口碑，以及我的具体工作内容和时间安排。这些信息能让她更清楚地看到我实习的意义和计划的可行性。我还可以提到公司是否有完善的实习生管理制度，比如定期培训或导师指导，这样她可能会觉得这次实习对我的成长确实有帮助。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可以再补充一些实习公司的背景信息，比如公司的规模、行业口碑，以及我的具体工作内容和时间安排",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "我觉得可以突出实习对未来职业发展的帮助，比如这个岗位的工作内容和我的专业方向高度相关，可以积累实际经验。同时，我还想表达自己对这份工作的兴趣，比如学习到的新技能或者和行业内人士建立联系的机会，这些都是我特别看重的。我觉得如果她能看到实习对我的长远意义，可能会更容易理解我的选择。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以突出实习对未来职业发展的帮助，比如这个岗位的工作内容和我的专业方向高度相关，可以积累实际经验",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "是的，我想用具体的例子来说明，比如这份实习可以让我学习到数据分析的实际操作，这是未来就业中很重要的一项技能。另外，实习公司在行业内有一定的影响力，我也有机会接触到一些业内专家，了解更前沿的行业动态。这些不仅对我的职业发展有帮助，也能让我更明确未来的方向。我觉得这些具体例子会让她更直观地理解实习的意义。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我想用具体的例子来说明，比如这份实习可以让我学习到数据分析的实际操作，这是未来就业中很重要的一项技能",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "是的，我会结合这些例子，再表达我对未来的期待，比如说：“通过这次实习，我希望不仅能提升专业技能，也能更清楚地找到自己的职业方向。”我还想告诉她，这种尝试对我来说很重要，因为它让我有机会迈出独立的第一步。我觉得这样既能让她感受到我的认真，也能多一些情感上的共鸣，可能更容易让她理解我的选择。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我会结合这些例子，再表达我对未来的期待，比如说：“通过这次实习，我希望不仅能提升专业技能，也能更清楚地找到自己的职业方向",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "我觉得在正式沟通前，心态上的放松是很重要的，可能需要提醒自己“这次沟通不是为了争胜负，而是为了让她更了解我”。另外，我也想再仔细核对一下计划里的信息，确保细节都准确无误，比如住处的具体地址和安全措施，实习公司的背景资料等，这样可以让我更有信心，也能减少因为信息不足引起的争议。准备得越充分，我觉得自己会越从容。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得在正式沟通前，心态上的放松是很重要的，可能需要提醒自己“这次沟通不是为了争胜负，而是为了让她更了解我”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "我觉得可以试着在沟通前给自己一些积极的心理暗示，比如默念“我已经很努力准备了，这次是一次成长的机会”。另外，我也可以用深呼吸来放松自己，或者在沟通前听一首舒缓的音乐，让自己的情绪更平稳。这样既能让我保持冷静，也能带着更积极的心态去面对这次对话。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着在沟通前给自己一些积极的心理暗示，比如默念“我已经很努力准备了，这次是一次成长的机会”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "我想奖励自己去吃一顿喜欢的甜点，或者去书店挑一本有趣的新书，这两件事都能让我放松下来，也是一种对自己的肯定。无论结果如何，只要我努力尝试了，我觉得就值得好好奖励自己。这样也能让我更有动力去面对未来的挑战！",
+    "has_specific_detail": true,
+    "specific_detail": "我想奖励自己去吃一顿喜欢的甜点，或者去书店挑一本有趣的新书，这两件事都能让我放松下来，也是一种对自己的肯定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "回顾这段时间，我觉得自己最大的成长是学会了更清晰地表达自己的想法，并用心去准备具体的计划，而不是只停留在情绪上。这让我意识到，面对妈妈的担忧，我可以用理性和真诚去沟通，而不是简单地回避或讨好她。这种突破让我感到骄傲，因为我正在努力改变自己与她相处的方式，同时也更坚定了为自己争取独立的信念。",
+    "has_specific_detail": true,
+    "specific_detail": "回顾这段时间，我觉得自己最大的成长是学会了更清晰地表达自己的想法，并用心去准备具体的计划，而不是只停留在情绪上",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "我觉得现在的自己比刚开始时更有方向感，也更有自信了。以前面对妈妈的反对，我总是觉得无力又沮丧，但现在我学会了通过理性准备和情感表达去尝试改变。我不再只是一味地压抑自己，而是愿意主动沟通，争取被理解。这种改变让我觉得自己更成熟了一些，也更相信自己的努力是有意义的。这种心态的转变，可能是最大的不同吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得现在的自己比刚开始时更有方向感，也更有自信了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "我觉得自己最想坚持的信念是“我的感受和选择是重要的，值得被看见和尊重”。无论是和妈妈相处，还是面对其他挑战，我希望能始终保持对自己的信任和对成长的渴望。即使遇到挫折，我也会提醒自己，这些都是通向独立和成熟的一部分，只要坚持努力，我一定能一步步实现自己的目标。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得自己最想坚持的信念是“我的感受和选择是重要的，值得被看见和尊重”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "我觉得接下来的第一步就是把实习计划整理好，特别是住处和实习公司的信息，把妈妈关心的细节都清楚地呈现出来。这是让我更有信心去沟通的重要准备。我现在最想马上开始的就是查找住处的选项，筛选出符合安全和便利要求的地方，然后整理成表格一步步完善计划。这样不仅是为沟通做准备，也是向自己证明，我有能力为自己的选择负责。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得接下来的第一步就是把实习计划整理好，特别是住处和实习公司的信息，把妈妈关心的细节都清楚地呈现出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "我觉得第一个要做的事情是明确筛选标准，比如安全性、通勤距离和性价比这些核心因素。只有标准清晰了，才能更高效地选择合适的平台去查找住处。然后再根据这些标准筛选出几个符合要求的选项，这样整个过程会更有方向感，也能节省时间。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得第一个要做的事情是明确筛选标准，比如安全性、通勤距离和性价比这些核心因素",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "我觉得需要特别留意合同条款，比如房租是否包含水电费、有没有押金以及退租政策等，这些都很重要。另外，周边的配套设施也需要关注，比如有没有超市、药店和公交站，这些都会直接影响日常生活的便利性。还有一个细节是看看住处的评价里有没有提到噪音问题或者卫生问题，这些小事可能平时不明显，但长期生活下来会有很大影响，所以也要注意一下。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要特别留意合同条款，比如房租是否包含水电费、有没有押金以及退租政策等，这些都很重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "如果遇到信息模糊或者不确定的地方，我觉得可以先直接联系房源的发布方，询问具体细节，比如房租包含的内容、周边环境等。或者通过网络搜索该住处的真实评价，看看其他租客的反馈。如果还是不够清楚，我可能会考虑找当地的朋友或者熟人帮忙实地了解一下，确保信息的准确性。虽然会花些时间，但我觉得这些方法能让我对住处有更全面的把握，也会更有底气向妈妈展示我的选择。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到信息模糊或者不确定的地方，我觉得可以先直接联系房源的发布方，询问具体细节，比如房租包含的内容、周边环境等",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "我觉得用电子表格会比较高效直观，可以把住处的名称、地址、安全措施、价格、评价等信息分类整理，还能加上备注栏记录一些特别的细节。如果需要向妈妈展示的话，还可以直接打印出来，这样既清晰又方便。为了更有说服力，我可能还会在表格中插入几张住处的图片，帮助她更直观地了解每个选项的情况。这样既能让我自己梳理清楚，也能让沟通更有条理。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得用电子表格会比较高效直观，可以把住处的名称、地址、安全措施、价格、评价等信息分类整理，还能加上备注栏记录一些特别的细节",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "我想特别突出住处的安全性和便利性，比如标明是否有24小时安保、监控设施，以及距离实习公司的通勤时间，这些都是她最关心的部分。我希望通过这个表格传递一个核心信息，就是“我已经认真考虑了每一个细节，为自己的选择做好了充分准备。”这样她可能会更信任我，也能感觉到我的成熟和责任感。",
+    "has_specific_detail": true,
+    "specific_detail": "我想特别突出住处的安全性和便利性，比如标明是否有24小时安保、监控设施，以及距离实习公司的通勤时间，这些都是她最关心的部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "是的，我觉得这样的引导很重要！我可以先对她说：“我知道您特别关心安全问题，所以我认真查了几个选项，把安全性和周边环境的细节都整理在这张表里。”这样能让她一开始就感受到我的重视，也更愿意去看这些信息。然后再具体给她讲表格里的内容，这样整个过程会更自然，也更有针对性。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得这样的引导很重要！我可以先对她说：“我知道您特别关心安全问题，所以我认真查了几个选项，把安全性和周边环境的细节都整理在这张表里",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 62,
+    "content": "我想用一种平和、带点轻松的语气来讲解，比如可以边指着表格边说：“这几个选项我都看了很久，这个地方的安保特别好，还有监控设施，通勤也很方便。”这样能让她感受到我是认真准备的，但又不会显得过于紧张或者生硬。我还可以不时问问她的意见，比如“您觉得这个住处怎么样？”这样既能让对话更互动，也能让她感觉到被尊重。",
+    "has_specific_detail": true,
+    "specific_detail": "我想用一种平和、带点轻松的语气来讲解，比如可以边指着表格边说：“这几个选项我都看了很久，这个地方的安保特别好，还有监控设施，通勤也很方便",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "我最希望她能感受到我的成长和努力，看到我已经认真为自己的选择做好了充分准备，同时也愿意倾听她的想法，不是任性地一意孤行。另外，我也希望她能感觉到我对她的尊重，因为我是真心想通过这样的沟通，让她理解并支持我的决定，而不是为了对抗或者争输赢。能让她感受到这些，我觉得就是一次很有意义的对话了。",
+    "has_specific_detail": true,
+    "specific_detail": "我最希望她能感受到我的成长和努力，看到我已经认真为自己的选择做好了充分准备，同时也愿意倾听她的想法，不是任性地一意孤行",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "无论结果如何，我希望自己能从中获得一种坦然的感觉，知道自己已经尽力去表达和努力了。即使她一时还不能完全接受我的想法，我也能因为这次尝试而感到进步和成长。另外，我希望通过这次沟通，至少能让她开始理解我的想法，哪怕只是一个小小的改变，也会让我觉得很欣慰。这种坦然和一点点的进步，对我来说就是最大的收获了。",
+    "has_specific_detail": true,
+    "specific_detail": "无论结果如何，我希望自己能从中获得一种坦然的感觉，知道自己已经尽力去表达和努力了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "是的，我很想给自己写一段话，记录下这次尝试的过程和感受。比如可以写：“今天，我勇敢地表达了自己的想法，也用心准备了所有的细节。虽然结果还需要时间去显现，但我已经迈出了重要的一步。通过这次沟通，我学会了如何更好地面对分歧，也看到了自己在成长中的力量。这种经历让我更有信心去迎接未来的挑战，无论多难，我都会坚持为自己争取。”我觉得这样的记录不仅能让我回顾这段努力，也能成为未来面对类似问题时的鼓励和指引。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我很想给自己写一段话，记录下这次尝试的过程和感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "我觉得可以先从整理表格开始行动，把住处、安全、通勤等关键信息清晰地呈现出来，再补充实习公司的背景资料和我的计划目标。然后，我会选择一个合适的时机，调整好自己的心态，带着自信和耐心去和她沟通。我相信，只要迈出这一步，无论结果如何，这都会是一次有意义的尝试！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从整理表格开始行动，把住处、安全、通勤等关键信息清晰地呈现出来，再补充实习公司的背景资料和我的计划目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

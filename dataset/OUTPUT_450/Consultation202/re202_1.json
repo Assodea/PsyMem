@@ -1,0 +1,471 @@
+[
+  {
+    "turn": 1,
+    "content": "前几天，我身体有点不舒服，就开始怀疑是不是有什么大问题，忍不住上网查了一堆症状…越查越害怕，感觉自己可能得了很严重的病。",
+    "has_specific_detail": true,
+    "specific_detail": "前几天，我身体有点不舒服，就开始怀疑是不是有什么大问题，忍不住上网查了一堆症状…越查越害怕，感觉自己可能得了很严重的病",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是胃部有些闷胀，还偶尔有点刺痛，大概持续了两三天吧。当时吃东西也没胃口，越想越觉得是不是有什么潜在问题…",
+    "has_specific_detail": true,
+    "specific_detail": "是胃部有些闷胀，还偶尔有点刺痛，大概持续了两三天吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "之前偶尔也会有点胃胀，但这次感觉更明显，可能是最近饮食不太规律吧。前几天忙着赶报告，吃饭时间乱了，也总是吃得匆匆忙忙的…",
+    "has_specific_detail": true,
+    "specific_detail": "之前偶尔也会有点胃胀，但这次感觉更明显，可能是最近饮食不太规律吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "对，赶报告的时候压力挺大的，总想着不能出错，又怕自己写得不好。那段时间每天都很焦虑，连睡觉都想着这些事，感觉整个人都绷紧了。",
+    "has_specific_detail": true,
+    "specific_detail": "对，赶报告的时候压力挺大的，总想着不能出错，又怕自己写得不好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "报告交了以后，焦虑稍微少一点，但还是有点残留，总担心自己哪里没做好，会被批评或者影响后续的事情…这种感觉挥之不去。",
+    "has_specific_detail": true,
+    "specific_detail": "报告交了以后，焦虑稍微少一点，但还是有点残留，总担心自己哪里没做好，会被批评或者影响后续的事情…这种感觉挥之不去",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "可能是都有吧，我对自己的要求挺高，总觉得不能让别人失望。而且之前有一次工作出错，被批评后感觉特别难受，之后就一直害怕再发生类似的情况…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是都有吧，我对自己的要求挺高，总觉得不能让别人失望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "当时试着告诉自己“下次注意就好”，但心里还是反复回想被批评的场景，甚至担心是不是自己能力不够，总觉得这种自责一直没真正过去…",
+    "has_specific_detail": true,
+    "specific_detail": "当时试着告诉自己“下次注意就好”，但心里还是反复回想被批评的场景，甚至担心是不是自己能力不够，总觉得这种自责一直没真正过去…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "对，尤其遇到需要认真完成的任务时，我总会担心自己做得不够好，就会变得特别谨慎，甚至拖延开头。有时候还会觉得，自己是不是根本不够优秀，才总是这么焦虑…",
+    "has_specific_detail": true,
+    "specific_detail": "对，尤其遇到需要认真完成的任务时，我总会担心自己做得不够好，就会变得特别谨慎，甚至拖延开头",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "可能都有吧。我自己总希望做得更好，但家庭和周围的人好像也一直有一些期待，比如父母会说“你应该更努力”，这些话让我既想满足他们，又觉得压力很大…",
+    "has_specific_detail": true,
+    "specific_detail": "可能都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "他们好像更看重结果，比如成绩好、工作表现优秀，就会夸我“做得不错”。但如果有差强人意的地方，他们常说“你其实可以做得更好”，这种评价让我感觉支持不多，更多是一种期望和提醒…",
+    "has_specific_detail": true,
+    "specific_detail": "他们好像更看重结果，比如成绩好、工作表现优秀，就会夸我“做得不错”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "一般我会点头说“我知道”，但心里其实挺委屈的，觉得他们没看到我的努力。我偶尔也想表达自己的感受，但又怕说了会让他们失望，所以最后还是选择沉默…",
+    "has_specific_detail": true,
+    "specific_detail": "一般我会点头说“我知道”，但心里其实挺委屈的，觉得他们没看到我的努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "如果他们能认可我的努力，我觉得自己会轻松一些，可能也会更愿意去努力吧。但我又担心，他们是不是更在意结果，看到我的过程也不会改变什么…这种矛盾让我很难开口。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们能认可我的努力，我觉得自己会轻松一些，可能也会更愿意去努力吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我试过在一些日常的事上，比如告诉他们“今天我花了很多时间准备演讲”，但他们通常只是简单回应“挺好啊”，没有深入聊让我觉得被关注。这样尝试后，我有点失望，也更不想再说了…",
+    "has_specific_detail": true,
+    "specific_detail": "我试过在一些日常的事上，比如告诉他们“今天我花了很多时间准备演讲”，但他们通常只是简单回应“挺好啊”，没有深入聊让我觉得被关注",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "是的，我觉得自己的付出被忽略了，像他们只关心最后结果，过程好像不重要。这种感觉让我有点失望，也会不自觉地想着“是不是只有结果好了，他们才会真正关注我”…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得自己的付出被忽略了，像他们只关心最后结果，过程好像不重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我觉得自己做事很认真，比如每次任务都尽量做好细节，也愿意帮助别人解决问题。虽然这些可能不那么显眼，但它们对我来说真的很重要，我希望能被看到…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得自己做事很认真，比如每次任务都尽量做好细节，也愿意帮助别人解决问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "对，这些是我真正投入的地方，代表了我的努力和付出。如果能被认可，我会觉得自己不仅仅是为了结果而存在，而是因为我本身的用心也有意义…这种认可对我来说特别重要。",
+    "has_specific_detail": true,
+    "specific_detail": "对，这些是我真正投入的地方，代表了我的努力和付出",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "可能在比较轻松的场合，比如聊天时自然提到“这件事我花了不少心思”，对方如果能主动回应或提问，我会觉得更容易展开。直接表达自己的努力让我有点不自在，但如果对方感兴趣，我会更愿意继续说下去…",
+    "has_specific_detail": true,
+    "specific_detail": "可能在比较轻松的场合，比如聊天时自然提到“这件事我花了不少心思”，对方如果能主动回应或提问，我会觉得更容易展开",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "可能是在我做完一件事之后，比如分享一个小成就时，他们会稍微关注过程。如果我能主动提到“这其实挺费心的”，也许他们会多问几句，但有时我还是担心他们只简单认可结果…这种情境让我觉得有点复杂。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是在我做完一件事之后，比如分享一个小成就时，他们会稍微关注过程",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "或许我可以试着用更轻松的语气说，比如“这个真的花了我好长时间，挺有挑战的！”这样听起来不那么正式，可能会让他们更自然地回应。我觉得这样也能减少我的紧张感吧。",
+    "has_specific_detail": true,
+    "specific_detail": "或许我可以试着用更轻松的语气说，比如“这个真的花了我好长时间，挺有挑战的！”这样听起来不那么正式，可能会让他们更自然地回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "如果他们反应还是简单，我可能会告诉自己“至少我表达了自己的努力”，不强求他们一定回应很多。虽然有些失落，但我觉得表达本身也算是进步吧，慢慢来可能会更好。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们反应还是简单，我可能会告诉自己“至少我表达了自己的努力”，不强求他们一定回应很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "或许可以从一些日常的事开始，比如完成一份报告后，随口提到“这个细节我改了好几次才满意”。这样不需要特别正式，但也能让他们知道我的认真付出，我觉得挺适合做个小尝试。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从一些日常的事开始，比如完成一份报告后，随口提到“这个细节我改了好几次才满意”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我确实会期待他们问些细节或者说“你做得挺好”，但如果反应很简单，我可能会提醒自己“这不代表他们不在乎，只是习惯不一样”。虽然还是会有点失落，但我觉得需要慢慢适应这种节奏。",
+    "has_specific_detail": true,
+    "specific_detail": "我确实会期待他们问些细节或者说“你做得挺好”，但如果反应很简单，我可能会提醒自己“这不代表他们不在乎，只是习惯不一样”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我觉得可以试着跟朋友聊聊我的努力，他们通常会更愿意听，也会给我一些积极的反馈。另外，我也可以写点小记录，比如记下自己完成了什么，这样能提醒自己这些付出本身就很值得肯定。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着跟朋友聊聊我的努力，他们通常会更愿意听，也会给我一些积极的反馈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得可以先从写记录开始，因为更容易控制和坚持。每天花几分钟记下自己的努力，哪怕是很小的事情，也能让我看到自己的付出，慢慢累积自信心，这对我来说是个不错的开头。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从写记录开始，因为更容易控制和坚持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得可以关注自己的感受和挑战，比如“今天这个任务让我有点紧张，但我还是完成了”，这样能更真实地反映我的心情，也能提醒自己克服困难的过程。成果也可以稍微提一下，但不是重点。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以关注自己的感受和挑战，比如“今天这个任务让我有点紧张，但我还是完成了”，这样能更真实地反映我的心情，也能提醒自己克服困难的过程",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得可以给自己一些小奖励，比如看一集喜欢的剧或者吃点好吃的。记录积累到一定程度后，也可以翻出来看看，告诉自己“我真的在努力”。这种反馈方式应该会让我更有动力继续下去！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以给自己一些小奖励，比如看一集喜欢的剧或者吃点好吃的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得可以从今天晚上开始，每天睡前花几分钟记录一下当天的努力和感受。这个时间段比较安静，也能让我在一天结束时好好反思，应该会更容易坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从今天晚上开始，每天睡前花几分钟记录一下当天的努力和感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我可以写写今天整理项目时的细节，比如“花了几个小时调整格式和内容，虽然有点疲惫，但完成后感觉挺有成就感”。这是我今天的一份努力，挺适合作为第一条记录！",
+    "has_specific_detail": true,
+    "specific_detail": "我可以写写今天整理项目时的细节，比如“花了几个小时调整格式和内容，虽然有点疲惫，但完成后感觉挺有成就感”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "是的，我可以看一集喜欢的剧或者泡个热水澡，作为今天努力的奖励。这种小庆祝方式既能放松心情，也让我觉得自己的付出是值得的！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我可以看一集喜欢的剧或者泡个热水澡，作为今天努力的奖励",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我希望能坚持每天记录，慢慢培养这种自我肯定的习惯。目标是至少一周后能看到自己的努力积累，并感觉内心更踏实一点，这对我来说是个很重要的期待！",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能坚持每天记录，慢慢培养这种自我肯定的习惯",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我可以设置手机提醒，每晚固定时间提醒自己记录一下。或者在笔记本上划一个表格，记录每天的进展，这样更直观，也能让我看到自己的坚持成果，感觉会更有动力！",
+    "has_specific_detail": true,
+    "specific_detail": "我可以设置手机提醒，每晚固定时间提醒自己记录一下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我希望能看到自己每一天都有付出，无论大小都是真实的努力。一周后回顾时，我希望能感觉更自信一点，也减少对结果的过度担忧，慢慢更专注于自己的过程！",
+    "has_specific_detail": true,
+    "specific_detail": "我希望能看到自己每一天都有付出，无论大小都是真实的努力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我可以写一段话，比如“这一周你真的很棒，每一步都值得肯定！”或者买点喜欢的小零食犒劳自己，用这种方式庆祝坚持下来的努力，感觉会特别有意义！",
+    "has_specific_detail": true,
+    "specific_detail": "我可以写一段话，比如“这一周你真的很棒，每一步都值得肯定！”或者买点喜欢的小零食犒劳自己，用这种方式庆祝坚持下来的努力，感觉会特别有意义！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我想对自己说：“无论大小，每一份努力都值得被认可，别害怕慢慢来，你已经在往前走了！”这句话应该能让我更有信心开始这个新的习惯。",
+    "has_specific_detail": true,
+    "specific_detail": "我想对自己说：“无论大小，每一份努力都值得被认可，别害怕慢慢来，你已经在往前走了！”这句话应该能让我更有信心开始这个新的习惯",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 35,
+    "content": "是啊，想到这句话，感觉今晚的第一条记录会特别有意义！期待用它开启新的习惯，同时也给自己一个新的开始，这让我觉得心里踏实了不少。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，想到这句话，感觉今晚的第一条记录会特别有意义！期待用它开启新的习惯，同时也给自己一个新的开始，这让我觉得心里踏实了不少",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "谢谢你，今天的交流让我更清楚自己的想法，也有了行动的方向！今晚的记录会是个新的开始，之后有进展我一定会再来聊。今天先到这里吧，谢谢你的陪伴！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你，今天的交流让我更清楚自己的想法，也有了行动的方向！今晚的记录会是个新的开始，之后有进展我一定会再来聊",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  }
+]

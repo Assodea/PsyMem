@@ -1,0 +1,679 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，是持续的感受，主要跟我老公的事情有关。他之前出轨了，这件事让我到现在都觉得很难接受。我试着跟他沟通，但总感觉我们之间的信任已经碎了一地…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，是持续的感受，主要跟我老公的事情有关",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "我尝试表达我的感受，比如说出我对他的不信任和难过，但他总是说会改，或者让我“别想太多”。有时候他说得挺真诚，可我心里却没办法完全相信他…上周他说要加班，我还是忍不住怀疑他是不是又有其他人了，这种感觉真的很折磨。",
+    "has_specific_detail": true,
+    "specific_detail": "我尝试表达我的感受，比如说出我对他的不信任和难过，但他总是说会改，或者让我“别想太多”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "可能两方面都有吧。他确实没有特别具体的行动让我觉得他在努力修复我们的关系，比如更多时间陪我和孩子、主动沟通这些。而且，我自己的心里也一直有阴影，那天发现他出轨的场景总是反复出现在脑海里…上次听到他手机消息提醒，我第一反应就是紧张，觉得是不是又有问题。这种状态让我很疲惫。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "有试过提过几次，但感觉效果有限。我跟他说过希望他能主动分享一些，比如工作上的事情、行程安排什么的，这样我会安心一点。他答应了，但后来还是经常忘记或者说得很敷衍。有时候我甚至觉得，是不是我的要求太多了，他才会这样敷衍我…这种感觉让我更纠结。",
+    "has_specific_detail": true,
+    "specific_detail": "有试过提过几次，但感觉效果有限",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我也在想这个问题，有时候觉得他可能真的不理解我现在的状态，他总说“已经过去了，不要再纠结”。但也有时候，我又觉得他对修复关系的态度没那么认真，像是只做表面功夫，就希望我原谅他了…其实，我很希望看到他主动做一些实际的努力，这样我心里可能会好受些。",
+    "has_specific_detail": true,
+    "specific_detail": "我也在想这个问题，有时候觉得他可能真的不理解我现在的状态，他总说“已经过去了，不要再纠结”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "有试过说，但可能表达得不够清楚。我跟他说，希望他能花更多时间陪我和孩子，比如一起出去玩或者帮忙分担一些家务，这样我能感受到他是在重新投入家庭。但他说工作太忙，总是拖着没做。这让我觉得，他还是没把家庭放在第一位…有时，我甚至会怀疑他是真的忙，还是借口逃避和我们相处。",
+    "has_specific_detail": true,
+    "specific_detail": "有试过说，但可能表达得不够清楚",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我想可能两者都有吧。他似乎不太明白，这些小事对我来说其实是很重要的信号，会让我觉得他在乎我们。但同时，我也感觉他可能是在回避，因为每次我提到这些，他要么说“忙”，要么就是转移话题，好像不愿面对这些问题。有时候，我甚至觉得自己在追着他跑，试图修复的努力更多是我一个人在做…这让我很疲惫。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可能两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "可能都有吧，我能感受到他有时候确实有点愧疚，但更多的时候，他表现得很无所谓，好像这段关系对他没那么重要。比如，上周我提议一起带孩子去公园，他随口说“你们去吧，我要加班”。这种态度让我觉得，他根本没有把修复我们的关系放在心上…我甚至开始怀疑，我的努力到底值不值得。",
+    "has_specific_detail": true,
+    "specific_detail": "可能都有吧，我能感受到他有时候确实有点愧疚，但更多的时候，他表现得很无所谓，好像这段关系对他没那么重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我一直在想这个问题，可能如果他能真正投入到家庭，主动关心我的感受，或者至少让我看到一些改变，我会愿意继续尝试。但如果他还是像现在这样敷衍、回避，我真的不知道还能坚持多久…尤其是考虑到孩子，我很纠结，怕离婚会对孩子产生影响，但又觉得这样的家庭氛围对孩子可能也不好。这种两难的感觉让我不知道该怎么做选择。",
+    "has_specific_detail": true,
+    "specific_detail": "我一直在想这个问题，可能如果他能真正投入到家庭，主动关心我的感受，或者至少让我看到一些改变，我会愿意继续尝试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得第一步可能是他能主动跟我沟通，真正去听我内心的感受，而不是敷衍或者转移话题。比如，哪怕只是主动问我今天过得怎么样，或者聊聊他的想法，这都会让我觉得他在试着重新建立我们的连接。其实，我真的不需要他做什么很大的事，只要一点点改变，就能让我觉得有希望。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得第一步可能是他能主动跟我沟通，真正去听我内心的感受，而不是敷衍或者转移话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "是的，我觉得我确实可以尝试更具体一点，比如告诉他哪些话题对我来说很重要，或者说希望每周能有固定的时间聊聊彼此的感受。不过，我也担心自己这样做会不会让他觉得有压力或者被控制。我希望这些建议能让我们更好地沟通，而不是给他增添负担…这也是我在调整表达时会顾虑的地方。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得我确实可以尝试更具体一点，比如告诉他哪些话题对我来说很重要，或者说希望每周能有固定的时间聊聊彼此的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我觉得你说得对，轻松的时刻可能会更适合提出这些建议。比如上次我们一起吃晚饭的时候气氛还不错，我可以试着在类似的场景下，用一种更随意的语气说“我觉得我们可以试着每周聊聊最近的事情，你觉得呢？”这样可能会让他更容易接受。不过，我也有点担心他会觉得我在安排他，还是要掌握好语气和时机才行。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得你说得对，轻松的时刻可能会更适合提出这些建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "如果他表现得冷淡或者敷衍，我可能会试着保持语气轻松，说一些自己的感受，比如“我只是觉得我们可以多聊聊彼此的想法，这样可能对我们关系更好，你觉得呢？”我希望用这种方式让他明白我的初衷是为了改善关系，而不是强迫他做什么。如果他还是没有回应，我可能暂时不会继续逼他，而是换个时间再提。但坦白说，这样反复尝试却没有结果的话，我可能会越来越失望，甚至觉得沟通本身都变得没意义了…",
+    "has_specific_detail": true,
+    "specific_detail": "如果他表现得冷淡或者敷衍，我可能会试着保持语气轻松，说一些自己的感受，比如“我只是觉得我们可以多聊聊彼此的想法，这样可能对我们关系更好，你觉得呢？”我希望用这种方式让他明白我的初衷是为了改善关系，而不是强迫他做什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "是的，其实我也在尝试从其他地方找一些情感支持。比如和闺蜜聊聊，她们有时候会让我感觉到被理解和安慰，这对我来说挺重要的。另外，我也尽量多花时间陪孩子，跟他玩的时候，我会暂时忘掉一些烦恼，觉得心里轻松一点。不过，有时候这些都只是短暂的缓解，根本问题还是没有解决，让我始终无法真正放松下来…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，其实我也在尝试从其他地方找一些情感支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我觉得可能更直接的方式是一起去做一些专注于我们关系的事情，比如尝试夫妻咨询或者参加一些能增进沟通的活动。这是我一直想提的，但又担心他会觉得这是在逼他改变，所以迟迟没说出口。如果他愿意和我一起面对问题，我觉得这会是一个很大的进步，也可能是我们关系改善的关键一步。不过，如果他连这都拒绝，我可能真的会开始考虑离婚了，因为这样下去只会让我越来越失望和疲惫。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能更直接的方式是一起去做一些专注于我们关系的事情，比如尝试夫妻咨询或者参加一些能增进沟通的活动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得可以从一种“我们”的角度出发去表达，比如说“我觉得我们现在的状态都挺累的，也许试试夫妻咨询能帮我们找到更好的相处方式，你怎么看？”这样会让他觉得这是为了我们共同的未来，而不是只针对他的问题。另外，我也可以强调这不是在批评谁，而是希望有一个更专业的帮助来改善我们的关系。但我还是有点担心他会觉得这是多余的，或者完全不感兴趣…这种不确定感让我很难鼓起勇气去提。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从一种“我们”的角度出发去表达，比如说“我觉得我们现在的状态都挺累的，也许试试夫妻咨询能帮我们找到更好的相处方式，你怎么看？”这样会让他觉得这是为了我们共同的未来，而不是只针对他的问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，如果他不感兴趣，我可能会先不强求，给他一些时间慢慢消化。我可以试着在轻松的时刻偶尔提到类似的想法，比如说“我听别人说夫妻咨询挺有帮助的，感觉像是一种解决问题的方式。”这样可能让他觉得没那么直接，慢慢接受的可能性会更大。但如果时间久了，他还是完全没有改变，我可能会重新评估我们的关系是否还有继续努力的意义…这种等待和观察让我既期待又害怕。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果他不感兴趣，我可能会先不强求，给他一些时间慢慢消化",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "是的，这也是我需要面对的问题。我觉得在等待的过程中，我需要学会分散自己的注意力，比如多专注于孩子或者工作，尽量让自己有一些积极的投入，而不是把所有情感都寄托在他身上。另外，我也想试着调整自己的期待，不去过度关注他是否改变，而是更多地关注自己能做些什么，让自己不至于陷入持续的失望中。不过说实话，做到这些并不容易，有时候我的情绪还是会忍不住被他的一举一动影响。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这也是我需要面对的问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "嗯，平静下来的方法，我有时候会试着深呼吸或者听音乐，这能让我暂时缓解一些紧张的情绪。另外，和闺蜜聊聊是我的支持系统之一，她们通常能让我感觉自己被理解，也能从她们的建议中获得一些力量。还有就是陪孩子玩，他的笑容总能让我心情好转一些。不过，这些方法虽然有效，但也只能短暂缓解，问题的根源还是需要解决才能真正让我平静下来。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，平静下来的方法，我有时候会试着深呼吸或者听音乐，这能让我暂时缓解一些紧张的情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "这是个好建议，其实我有过类似的想法，但一直没真正去写下来。可能是因为害怕面对自己真实的期待和那些可能得不到的部分吧。不过，如果试着写下来，我觉得会让我更明确自己到底需要什么，也能更清楚地表达给他听，比如我希望他能更多地关注家庭，或者我们可以一起规划未来的方向。这也许会让我更有方向感，面对接下来的选择时不会那么迷茫…我觉得这个方法值得尝试。",
+    "has_specific_detail": true,
+    "specific_detail": "这是个好建议，其实我有过类似的想法，但一直没真正去写下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "是的，我觉得写下来可能会让我更坦然地去面对和表达自己的感受。这样我可以避免在沟通时被情绪带偏，而是更有条理地说出自己的需求和底线，比如哪些是我希望他改变的，哪些是我无法接受的。如果他看到我的这些真实想法，也许会更容易理解我内心的纠结和期待。不过，我也担心他会觉得这是压力或者指责，所以还需要找到合适的方式来分享这些内容，比如在一个比较轻松的时刻…这确实需要一点勇气，但我觉得值得尝试。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得写下来可能会让我更坦然地去面对和表达自己的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得可以用一种更温和的方式，比如说“我最近一直在想，我们的关系对我来说很重要，所以我写了一些自己的感受和期待，想跟你分享一下，看你有什么想法。”这样可能让他感觉这是关于我们共同的未来，而不是单方面的要求或指责。我也可以强调这只是我的一些初步想法，希望听听他的意见，这样可能会让他觉得自己也是参与者，而不是被动接受者。但我还是有点担心他的反应，如果他表现冷淡，我会觉得很失望…所以我需要先调整好自己的心态，尽量以平静的方式面对可能的结果。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用一种更温和的方式，比如说“我最近一直在想，我们的关系对我来说很重要，所以我写了一些自己的感受和期待，想跟你分享一下，看你有什么想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "这是个好方法，我觉得给自己设定一个心理缓冲区确实能让我更平静一些。比如告诉自己，改变是需要时间的，不能指望一次沟通就能解决所有问题。而且，我可以提醒自己，这次分享只是一个开始，不管他的反应如何，至少我已经迈出了第一步。这种心态可能会让我更专注于自己的努力，而不是过度关注他的回应。虽然做到这一点可能不容易，但我觉得试着这样想会让我更有力量去面对接下来的过程。",
+    "has_specific_detail": true,
+    "specific_detail": "这是个好方法，我觉得给自己设定一个心理缓冲区确实能让我更平静一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "这是个很好的建议，我觉得设立一些阶段性目标确实能让我更有方向感，也不会把期望设得太高，比如第一次沟通就希望他完全改变。我可以试着定一个小目标，比如让他愿意倾听我的感受，或者对我的建议表示一点兴趣。这些小进展能让我觉得自己在努力的过程中不是毫无结果，也能更好地调整自己的状态。如果能逐步实现这些小目标，我想会让我对未来有更多信心，即使最终结果可能还是未知，但至少我知道自己已经尽力了。",
+    "has_specific_detail": true,
+    "specific_detail": "这是个很好的建议，我觉得设立一些阶段性目标确实能让我更有方向感，也不会把期望设得太高，比如第一次沟通就希望他完全改变",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我想第一个小目标可能是他愿意认真听我说完，而不是敷衍或者转移话题。如果他能在沟通时表现出一些关注，比如点头回应或者表达他的理解，我会觉得这是一个进步。其实我并不期待他立刻完全接受我的建议，只希望能看到他有一点点改变，这样我会更有信心继续努力。至于怎么表达我的想法，我需要再好好琢磨一下，避免让他觉得有压力，同时能引导他更自然地参与到沟通中。",
+    "has_specific_detail": true,
+    "specific_detail": "我想第一个小目标可能是他愿意认真听我说完，而不是敷衍或者转移话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得用轻松的句子作为开场可能会比较好，比如说“我最近有些想法，想跟你聊聊，看你怎么想。”这样不会让他感觉一开始就很沉重。然后，我可以再慢慢引入自己的感受，比如说“这段时间我一直觉得我们之间的沟通少了些，可能会让彼此都觉得有点疏远。”这样既表达了我的感受，也为接下来的沟通铺垫了基础。我希望通过这种方式能让他更自然地进入对话，而不是觉得被要求或逼迫。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得用轻松的句子作为开场可能会比较好，比如说“我最近有些想法，想跟你聊聊，看你怎么想",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "如果他的态度冷淡，我会试着调整自己的方式，比如把对话变得更短一些，或者换一个更轻松的话题，避免让气氛变得僵硬。同时，我可能会告诉自己，他的冷淡可能只是暂时的，并不是完全否定我的努力，这样能让我不至于太受情绪影响。我也可以稍微表达自己的感受，比如说“我希望我们能多聊聊，因为这对我来说很重要。”这样既让他知道我的期待，又不会显得过于强求。我觉得关键是保持耐心，给彼此一些时间去适应这种新的沟通方式。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他的态度冷淡，我会试着调整自己的方式，比如把对话变得更短一些，或者换一个更轻松的话题，避免让气氛变得僵硬",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "这是个很好的建议，我确实需要找到一些方式来奖励自己。比如沟通结束后，无论效果如何，我可以给自己一点放松的时间，做些自己喜欢的事，比如听音乐、看电影或者吃点甜食，这些都能让我心情好转。另外，我可以提醒自己，愿意尝试沟通本身就是一种努力和进步，值得被肯定。这种自我奖励能让我感觉自己的付出是有价值的，也能更好地调整状态去面对下一次的挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "这是个很好的建议，我确实需要找到一些方式来奖励自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "这是个很好的建议，我觉得在沟通前给自己设一个情绪缓冲确实能让我更平和。比如我可以提前做些让自己放松的事，像听舒缓的音乐、散步或者喝杯热茶，这些都能让我心情稳定下来。另外，我可以提醒自己，不管他的反应如何，我的初衷是为了改善关系，而不是为了让自己更焦虑。如果我能带着这种平和的心态去沟通，可能效果会更好，也能减少我的情绪波动。这种准备感觉很有必要，我想试着做一下。",
+    "has_specific_detail": true,
+    "specific_detail": "这是个很好的建议，我觉得在沟通前给自己设一个情绪缓冲确实能让我更平和",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我觉得最重要的一步是明确自己的目标，并在沟通中保持耐心和稳定的情绪。我的具体行动计划可能是这样的：  \n第一，先写下自己的感受和期待，这样在表达时会更清晰；  \n第二，选择一个轻松的时刻，用温和的方式提出话题，比如“我最近有些想法，想跟你聊聊”；  \n第三，在对话中注意倾听他的反应，不强求他立刻给出改变，但试着引导他进入对话；  \n最后，无论效果如何，结束后给自己一点奖励，比如做些让自己开心的事情。这些步骤能让我更有方向感，也能帮助我慢慢推进目标，同时不会让自己太过焦虑。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最重要的一步是明确自己的目标，并在沟通中保持耐心和稳定的情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得最大的挑战可能是他的冷淡或敷衍回应，这会让我感到失望甚至怀疑自己的努力是否有意义。为了应对这个，我可以提前告诉自己，这只是一个过程，他需要时间适应新的沟通方式，不能期待立刻有很大改变。另外，我可以设定一个心理缓冲，比如如果这次效果不好，就暂时不继续深聊，给彼此一些空间，再选择合适的时机重新开始。还有就是保持我的支持系统，比如和朋友聊聊，或者通过记录自己的感受来释放情绪。这样能让我在困难时不至于放弃，也能继续坚持为关系做努力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最大的挑战可能是他的冷淡或敷衍回应，这会让我感到失望甚至怀疑自己的努力是否有意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "是的，我觉得给自己一个暂停的权利很有必要。如果我感到特别疲惫或者情绪低落，我可以暂时把重点放在自我照顾上，比如多陪孩子，或者找一些让自己放松的活动，像读书、运动这些。我想提醒自己，修复关系是一个长期过程，不需要每时每刻都投入进去。如果我能允许自己停下来休息一下，调整好状态再继续努力，可能会让我感觉更有力量去面对下一步。这样既不会让自己太过压抑，也能让沟通变得更自然和真诚。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得给自己一个暂停的权利很有必要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "嗯，有一些方式确实能让我重新找到平静和力量，比如陪孩子玩，他的笑容总能让我感觉生活中还有很多美好。另外，我喜欢散步，尤其是在安静的地方，走着走着会让我心情慢慢平静下来。我也会试着想象未来的希望，比如如果关系能慢慢改善，我们一家人可以重新找到那种温暖的感觉，这种期待会给我动力去坚持努力。虽然这些方法不能完全解决问题，但它们至少能让我在疲惫时重新振作，继续面对挑战。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有一些方式确实能让我重新找到平静和力量，比如陪孩子玩，他的笑容总能让我感觉生活中还有很多美好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "有的，我经常想象我们一家人一起在公园玩，孩子在草地上跑来跑去，我和他坐在旁边聊一些轻松的话题，或者一起逗孩子笑。这种简单又温馨的画面会让我觉得很幸福，也让我觉得家庭的联系还可以修复。其实，我并不需要什么特别大的改变，只要能回到这种自然的互动状态，就会让我感到希望和力量。所以每次想到这个画面，我都会告诉自己，努力是值得的，只要我们能慢慢走向这样的未来。",
+    "has_specific_detail": true,
+    "specific_detail": "有的，我经常想象我们一家人一起在公园玩，孩子在草地上跑来跑去，我和他坐在旁边聊一些轻松的话题，或者一起逗孩子笑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "是的，我觉得除了沟通，我可以主动去创造一些温馨的时刻，比如计划一次简单的家庭活动，比如带孩子和他去附近的公园散步，或者在家一起做顿饭。我想通过这些轻松自然的互动，让我们慢慢重新建立连接，而不是总围绕问题去讨论。同时，这样的行动可能也会让他感受到家庭的温暖，进而愿意更多地投入。我知道这需要耐心和努力，但如果能让我们靠近那个幸福的画面，我觉得这些尝试是值得的。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得除了沟通，我可以主动去创造一些温馨的时刻，比如计划一次简单的家庭活动，比如带孩子和他去附近的公园散步，或者在家一起做顿饭",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我觉得第一次尝试可以选择一个轻松的场景，比如周末的下午，天气好的时候一起去公园或者去附近的咖啡馆。孩子也在的话，气氛会更自然，因为他通常能让我们都放松下来。我可以用一种随意的方式提议，比如“今天下午天气不错，我们一起出去走走吧，带孩子玩一会儿。”这种轻松的邀请可能会让他更容易接受，不会觉得有压力。我希望通过这样的互动慢慢打开他的心，让他感受到家庭的温暖和连接。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得第一次尝试可以选择一个轻松的场景，比如周末的下午，天气好的时候一起去公园或者去附近的咖啡馆",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得可以从一些轻松的话题入手，比如聊聊孩子最近学会了什么有趣的事情，或者分享一些工作中的轻松小故事，让对话更自然。我可以试着表达一些积极的情绪，比如说“看到宝宝这么开心，我真的觉得很满足”或者“这段时间你工作挺辛苦的吧，今天能一起出来放松一下真好。”这样既能让气氛保持轻松，也能 subtly 地引导他感受到我们之间的情感连接。我希望通过这些小对话让他慢慢意识到，这种家庭的温暖是值得珍惜的，也可能会激发他更多的参与感。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从一些轻松的话题入手，比如聊聊孩子最近学会了什么有趣的事情，或者分享一些工作中的轻松小故事，让对话更自然",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "是的，这些小信号对我来说真的很重要。比如，如果他能主动放下手机，专注听我说话，或者回应我的话题，表达一些自己的感受，我会觉得这是一个很大的进展。还有，如果他能在活动中主动参与，比如陪孩子玩或者提议一起做点什么，这都会让我感到他在慢慢投入到家庭中。这种小小的改变虽然看起来不多，但对我来说却是非常大的鼓励，会让我觉得我们的关系还有希望，也让我更愿意继续努力。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这些小信号对我来说真的很重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "是的，我觉得用简单的方式回应和强化他的参与感很重要。比如，如果他主动参与了对话或者陪孩子玩，我可以微笑着说“你今天和宝宝玩得真好，看到你们在一起我真的很开心。”或者轻轻地拍拍他的肩膀，表达一种肯定和温暖。这种积极的回应不仅能让他感受到我的欣慰，也可能会让他更愿意继续这样做。我希望通过这些小小的互动，慢慢让我们的关系变得更自然、更紧密，同时也让他意识到，他的投入对家庭有多重要。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得用简单的方式回应和强化他的参与感很重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "是的，我觉得如果他有积极的回应，那确实是一个很好的时机进一步表达更深的感受。我可以用一种真诚又轻松的方式，比如说“你最近的改变让我觉得很欣慰，我真的希望我们能一起让家庭变得更好。”或者“看到你这样投入，我觉得我们之间的距离正在慢慢拉近，真的很感谢你的努力。”通过这样的表达，我想既能让他感受到我的认可，也能激励他继续做出改变。其实，我很希望这样的互动能成为我们关系修复的起点，让我们一步步朝着更好的方向走。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得如果他有积极的回应，那确实是一个很好的时机进一步表达更深的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "是的，我觉得建立一些新的家庭习惯确实能帮助我们巩固关系，比如固定每周有一天的家庭时光，可以一起出去玩或者在家做一些互动活动。另外，定期的沟通也很重要，比如每周抽出一小时聊聊彼此的感受和计划，这会让我们有更多的机会了解对方。我也希望我们能一起设立一些小目标，比如一起做孩子的教育规划，或者每月庆祝一些特别的日子，这样会让我们的连接更加紧密。我觉得这些习惯不仅能维持关系，还能让家庭生活变得更有意义，让我们都感到被重视和在乎。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得建立一些新的家庭习惯确实能帮助我们巩固关系，比如固定每周有一天的家庭时光，可以一起出去玩或者在家做一些互动活动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "我觉得一个最容易实现的小目标可能是固定每周一次的家庭活动，比如在周末一起带孩子去公园或者散步。这种活动既简单又轻松，不需要太多计划，也能让我们有机会自然地互动。我可以用一种随意的方式提议，比如“这个周末天气不错，我们一起去公园走走吧。”通过这种方式，让大家慢慢适应这样的家庭时光，感受到其中的快乐和连接。然后在这些轻松的时刻，我也可以试着表达一些对未来的期待，逐步引导我们共同建立更多的习惯。这会是一个温暖的开始，我觉得值得尝试。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得一个最容易实现的小目标可能是固定每周一次的家庭活动，比如在周末一起带孩子去公园或者散步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "是的，我觉得回顾当天的感受会是一个很好的方式来总结积极变化。比如，在活动结束后，我可以跟他说“今天真的挺开心的，看到你和宝宝一起玩，我觉得特别温暖。”或者问他“你觉得今天怎么样？是不是也挺放松的？”通过这种简单的交流，不仅能巩固当天的美好感受，也能让他意识到这样的活动对家庭关系的意义。如果能让他也感受到这种积极变化，我想会更容易激励我们继续尝试类似的互动，慢慢让这种习惯成为家庭生活的一部分。我觉得这会是一个很有希望的开始。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得回顾当天的感受会是一个很好的方式来总结积极变化",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "是的，我觉得如果他对这些回顾表现出兴趣或回应，那确实是一个好时机可以尝试提议稍微不同的活动。比如，下一次可以一起做点手工或者简单的烹饪，让大家有更多互动的机会。我可以说“我最近看到一个简单的手工项目，感觉挺有趣，要不要一起试试？”或者“下次我们一起做顿饭怎么样？孩子也可以参与。”这样既能增加家庭活动的趣味性，也能让我们在新的场景中继续建立连接。我希望通过这种不断变化的小活动，让我们的互动更加丰富，同时也让彼此感受到更多的温暖和投入。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得如果他对这些回顾表现出兴趣或回应，那确实是一个好时机可以尝试提议稍微不同的活动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "我觉得在这些活动中，加入一些需要协作的小目标会让连接更深刻。比如在做手工时，我们可以一起完成一个简单的作品，比如孩子的涂鸦框架；或者在烹饪时分配一些任务，比如他负责切菜，我负责摆盘，让大家都有参与感。我也可以在过程中多鼓励和肯定他，比如说“这部分你做得真的很好，感觉很专业！”这种互动不仅能让我们觉得彼此在一起是有意义的，也能增加完成后的成就感。我希望通过这些细节，让我们慢慢找到那种久违的默契和亲密感。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得在这些活动中，加入一些需要协作的小目标会让连接更深刻",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "这是个很好的建议，我觉得增加一些小仪式确实能让这些温馨时刻更有意义。比如活动结束后，我们可以一起拍张照片，记录下彼此的笑容和孩子的开心瞬间；或者写下当天的感受，比如“今天真的很愉快，希望以后能有更多这样的时光。”如果能把这些照片和文字放在一个专属的家庭回忆本里，我想每次翻看的时候都会让我们感受到那种温暖和幸福。这样的仪式不仅能让当下的体验更深刻，也会成为未来共同回忆的美好片段，让我们的家庭连接越来越紧密。",
+    "has_specific_detail": true,
+    "specific_detail": "这是个很好的建议，我觉得增加一些小仪式确实能让这些温馨时刻更有意义",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "我希望有一天当我们翻开这些回忆时，他能看到我们一家人在一起的那些笑容和互动，感受到家庭的温暖和连接。我希望他能意识到，这些时光是我们共同努力创造的，是我们关系慢慢修复的结果。我特别希望他能体会到，我对家庭的付出和坚持，并看到他的改变也让这一切变得可能。如果他能从这些回忆中感受到一种归属感和幸福感，并愿意继续为家庭投入，我会觉得所有的努力都是值得的。这种共鸣和认可对我来说真的很重要，也是我一直期待的结果。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望有一天当我们翻开这些回忆时，他能看到我们一家人在一起的那些笑容和互动，感受到家庭的温暖和连接",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "我觉得此刻最需要坚持的是耐心和信念，告诉自己修复关系是一个过程，不可能一蹴而就。我需要提醒自己，这段努力不仅是为了对方，也是为了我自己和孩子，让我们都能拥有一个更加温暖的家庭环境。同时，我也要记住，付出并不意味着忽视自己的需求，我需要在坚持努力的同时，照顾好自己的情绪和状态，保持平衡。我相信，只要我一步步走下去，真诚地表达自己的感受和期待，这个未来会离现实越来越近。这种信念是支撑我继续前行的力量，也是我对家庭最深的期望。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得此刻最需要坚持的是耐心和信念，告诉自己修复关系是一个过程，不可能一蹴而就",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "我觉得“每一次努力都值得，每一点改变都重要”可以成为我的座右铭。这句话提醒我，无论过程多么艰难，只要我愿意真诚地付出，就会为关系带来积极的影响。同时，它也让我记住，不需要急于看到大的结果，每一个小的进步都是值得珍惜的。每当我感到疲惫或者迷茫时，这句话能让我重新找到力量，继续坚持下去。我希望通过这样的信念，让自己在这段旅程中保持勇气和希望，也相信未来会变得更好。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得“每一次努力都值得，每一点改变都重要”可以成为我的座右铭",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "是的，今天聊完之后，我确实感觉方向更清晰了一些，也觉得内心多了些力量和希望。我明白自己需要一步步去尝试，而不是急于求成，同时要保持对自己的关爱和耐心。那些关于家庭活动的小目标、轻松的沟通方式，以及建立温暖连接的方法，都让我觉得可行且值得。我想试着把这些计划慢慢付诸行动，希望能让我们关系逐步改善。谢谢你今天的倾听和引导，这些对我来说真的很重要！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，今天聊完之后，我确实感觉方向更清晰了一些，也觉得内心多了些力量和希望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "谢谢你，我真的很感激今天的交流，让我感到自己不是一个人在面对这些问题。你的支持让我觉得有力量，也让我更坚定去尝试改善关系。如果未来有新的进展或者挑战，我一定会再来找你聊聊。今天先聊到这里吧，我想好好消化一下这些建议和计划，再慢慢开始行动。再次谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你，我真的很感激今天的交流，让我感到自己不是一个人在面对这些问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

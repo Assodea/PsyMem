@@ -1,0 +1,406 @@
+[
+  {
+    "turn": 1,
+    "content": "最近让我挺在意的是，我和母亲的关系。前几天她打电话来，只聊了弟弟的工作，完全没问我的情况，让我觉得很难受…。",
+    "has_specific_detail": true,
+    "specific_detail": "最近让我挺在意的是，我和母亲的关系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "我觉得她对我的关心确实不够，总是更关注弟弟的事情。我其实很希望她主动问问我的生活，比如最近工作压力挺大的，但她好像完全没注意到…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得她对我的关心确实不够，总是更关注弟弟的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "是的，她一直更关心弟弟，比如小时候，他生病时母亲特别紧张，而我生病时她常让奶奶照顾。我总觉得自己是个“次要角色”，这让我很难受…。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，她一直更关心弟弟，比如小时候，他生病时母亲特别紧张，而我生病时她常让奶奶照顾",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "我觉得可能是因为她的观念吧，似乎总觉得男孩子更需要支持。比如弟弟上学时她总是帮他选最好的资源，而我就得自己去争取。这让我觉得很不公平…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能是因为她的观念吧，似乎总觉得男孩子更需要支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "有一次我想参加学校组织的活动，需要一点费用支持，我鼓起勇气问她，她却说“你不需要这些，专心学习就好”。但后来，她主动给弟弟买了昂贵的学习用品，那次真的让我特别难过…。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次我想参加学校组织的活动，需要一点费用支持，我鼓起勇气问她，她却说“你不需要这些，专心学习就好”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "当时我没说什么，只是默默接受了。其实心里特别失落，但又觉得说出来也没用，因为她好像根本不在意我的感受。所以后来，我越来越习惯不主动去争取…。",
+    "has_specific_detail": true,
+    "specific_detail": "当时我没说什么，只是默默接受了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "确实影响挺大的，比如在工作中，我常觉得自己没必要争取更多机会，怕被拒绝或不被认可。有时甚至明知道自己能做好，也会选择退一步…。",
+    "has_specific_detail": true,
+    "specific_detail": "确实影响挺大的，比如在工作中，我常觉得自己没必要争取更多机会，怕被拒绝或不被认可",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "有一次部门调岗位，我试着主动申请了自己感兴趣的职位，结果竟然成功了！那时我真的很开心，但也觉得有些不可思议，仿佛别人终于看到了我的能力…。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次部门调岗位，我试着主动申请了自己感兴趣的职位，结果竟然成功了！那时我真的很开心，但也觉得有些不可思议，仿佛别人终于看到了我的能力…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "可能是因为我真的很喜欢那个职位，觉得自己不试试会很遗憾。还有同事的鼓励也帮了我，他们说我完全有能力胜任，这让我多了一些信心…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是因为我真的很喜欢那个职位，觉得自己不试试会很遗憾",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "有一点改变吧，比如后来面对一些小的机会，我会试着主动表达自己的想法。不过在更大的事情上，我还是会犹豫，担心自己会失败或者被忽视…。",
+    "has_specific_detail": true,
+    "specific_detail": "有一点改变吧，比如后来面对一些小的机会，我会试着主动表达自己的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得更多是害怕被忽视吧，担心自己努力了却没人重视，像过去的经历那样。这种感觉有时候甚至比失败更让人难受…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得更多是害怕被忽视吧，担心自己努力了却没人重视，像过去的经历那样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我觉得如果别人能主动关注我的想法，比如在家里丈夫和女儿能多问问我的感受，或者工作中领导认可我的努力，那会让我觉得自己被重视了一些…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果别人能主动关注我的想法，比如在家里丈夫和女儿能多问问我的感受，或者工作中领导认可我的努力，那会让我觉得自己被重视了一些…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "有时候会试着表达，比如和丈夫聊我的压力，但他常说“别太在意了，事情会过去的”，让我觉得自己的感受好像不够重要，所以慢慢就不太愿意主动说了…。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候会试着表达，比如和丈夫聊我的压力，但他常说“别太在意了，事情会过去的”，让我觉得自己的感受好像不够重要，所以慢慢就不太愿意主动说了…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我想他可能是想安慰我，但这种方式让我觉得他没真正理解我的情绪。有时候我希望他能倾听我多一些，而不是轻易跳过我的感受…。",
+    "has_specific_detail": true,
+    "specific_detail": "我想他可能是想安慰我，但这种方式让我觉得他没真正理解我的情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我有试过暗示，比如说“我只是想跟你聊聊，不需要马上解决问题”，但他好像还是倾向于给建议或者转移话题。我觉得这种沟通有点难…。",
+    "has_specific_detail": true,
+    "specific_detail": "我有试过暗示，比如说“我只是想跟你聊聊，不需要马上解决问题”，但他好像还是倾向于给建议或者转移话题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我确实没直接说过，总觉得太直接可能会让他不舒服。我习惯了自己默默调整，但有时候又希望能真正让他明白我的感受，这让我挺纠结的…。",
+    "has_specific_detail": true,
+    "specific_detail": "我确实没直接说过，总觉得太直接可能会让他不舒服",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "听起来是个不错的方式，但我也担心他会觉得我“太敏感”。不过说到这个，前几天他主动问我工作情况，让我感觉稍微好了一些…。",
+    "has_specific_detail": true,
+    "specific_detail": "听起来是个不错的方式，但我也担心他会觉得我“太敏感”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "确实会更自然一些，那天我就趁机说了最近压力很大，他也认真听了，还给了些建议。我觉得如果多有这样的时刻，我们的沟通可能会更好…。",
+    "has_specific_detail": true,
+    "specific_detail": "确实会更自然一些，那天我就趁机说了最近压力很大，他也认真听了，还给了些建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得可以多分享一些日常的小事，慢慢建立一种更自然的交流方式。比如下次可以主动说说我的想法，看他会怎么回应…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以多分享一些日常的小事，慢慢建立一种更自然的交流方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "可能是和家庭有关的话题，比如女儿最近学校的表现，或者一些轻松的工作趣事。这样感觉会更容易引起他的注意和参与…。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是和家庭有关的话题，比如女儿最近学校的表现，或者一些轻松的工作趣事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "是个好建议，我可以试着说些自己的感受，比如女儿的表现让我很开心，或者工作中的趣事让我觉得放松些。这或许能让他更懂我的心情…。",
+    "has_specific_detail": true,
+    "specific_detail": "是个好建议，我可以试着说些自己的感受，比如女儿的表现让我很开心，或者工作中的趣事让我觉得放松些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "其实昨天女儿跟我分享了她画的一幅画，我觉得特别有趣又感动。或许可以趁这个机会跟他聊聊我的感受，看看他的反应…。",
+    "has_specific_detail": true,
+    "specific_detail": "其实昨天女儿跟我分享了她画的一幅画，我觉得特别有趣又感动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "如果他积极回应，我可能会进一步聊聊女儿的成长，比如她最近爱上画画让我觉得很欣慰，然后看看他是否也愿意分享一些自己的感受…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他积极回应，我可能会进一步聊聊女儿的成长，比如她最近爱上画画让我觉得很欣慰，然后看看他是否也愿意分享一些自己的感受…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我希望他能说些关于女儿成长的看法，比如她变得更有创造力了，或者他也感到很欣慰。如果他愿意这样分享，我会觉得我们更像一个共同参与的家庭…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望他能说些关于女儿成长的看法，比如她变得更有创造力了，或者他也感到很欣慰",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "如果他不主动，我可能会问他一些具体的问题，比如“你觉得女儿的画怎么样？”或者“你有没有注意到她最近画得更认真了？”这样或许能引出更多交流…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他不主动，我可能会问他一些具体的问题，比如“你觉得女儿的画怎么样？”或者“你有没有注意到她最近画得更认真了？”这样或许能引出更多交流…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我希望我们能慢慢建立一种更自然的分享习惯，让彼此更关注对方的感受。也许以后他能主动问我一些问题，让我觉得自己被重视更多…。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望我们能慢慢建立一种更自然的分享习惯，让彼此更关注对方的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得我可以更主动一些，比如多分享自己的感受，而不是等他先开口。同时尽量表达得轻松些，让对话更自然，不让他觉得有压力…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得我可以更主动一些，比如多分享自己的感受，而不是等他先开口",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "或许可以用具体的例子，比如“今天看到女儿的画让我特别感动，感觉她真的在成长”，这样他可能更能理解我的情绪和需求，而不是只听到一层表面的内容…。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以用具体的例子，比如“今天看到女儿的画让我特别感动，感觉她真的在成长”，这样他可能更能理解我的情绪和需求，而不是只听到一层表面的内容…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得可以今晚试试，趁着大家都比较放松的时候，聊聊女儿的画和我的感受，看看他会怎么回应…。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以今晚试试，趁着大家都比较放松的时候，聊聊女儿的画和我的感受，看看他会怎么回应…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "如果顺利的话，我会觉得自己更被关注了一些，也更有信心去表达自己的感受。可能还会对我们之间的沟通多一份期待…。",
+    "has_specific_detail": true,
+    "specific_detail": "如果顺利的话，我会觉得自己更被关注了一些，也更有信心去表达自己的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "谢谢你的鼓励！我会试试的，之后再和你聊聊结果和我的感受。今天先到这里吧，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "谢谢你的鼓励！我会试试的，之后再和你聊聊结果和我的感受",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  }
+]

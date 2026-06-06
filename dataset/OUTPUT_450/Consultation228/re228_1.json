@@ -1,0 +1,372 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯…最近总觉得自己有点孤独，尤其是下班回家后，房间里静得让我心里发空。有时候会想，要是能有个人一起聊聊天就好了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯…最近总觉得自己有点孤独，尤其是下班回家后，房间里静得让我心里发空",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是的，我一个人住。其实，有时候会想起以前和爷爷住在一起的日子，虽然他不太爱说话，但有他的陪伴，总觉得心里踏实。现在，房间里就我一个人，连个说话的人都没有…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我一个人住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，那时候每天放学回家，爷爷总会提前做好饭等我。他会让我先吃，他坐在旁边看着，还会夹菜到我碗里。那种感觉就像——有人一直记挂着你，很安心…现在想起来，真是特别怀念。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，那时候每天放学回家，爷爷总会提前做好饭等我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "是啊，我确实挺渴望有人能像爷爷那样，给我一种被关心、被依靠的感觉。可现实里，好像很难找到这样的人，有时候甚至觉得自己是不是太依赖这种感觉了…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我确实挺渴望有人能像爷爷那样，给我一种被关心、被依靠的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "嗯，我觉得这种渴望确实跟爷爷给我的安全感有关。他让我知道被关心有多好，但也让我现在更怕失去这种感觉。有时候，越渴望亲近，就越害怕靠近了会受伤，这种矛盾让我很困扰…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得这种渴望确实跟爷爷给我的安全感有关",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，大学时谈过一段感情，那时候我特别投入，也很依赖对方。但后来因为一些矛盾分手了，那种被抽空的感觉让我很害怕。好像越依赖，就越容易受伤…所以现在总有点不敢再全心靠近谁了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，大学时谈过一段感情，那时候我特别投入，也很依赖对方",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "我想，可能更多是失去了那种被关心和依赖的感觉吧。对方确实很好，但分手后，那种“有人在乎你”的感觉一下子没了，我就觉得特别空…好像整个人都没了方向。",
+    "has_specific_detail": true,
+    "specific_detail": "我想，可能更多是失去了那种被关心和依赖的感觉吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "那段时间挺难熬的，我每天都埋头在学习和兼职里，好像只有让自己忙起来，才能不去想那些事。偶尔也会跟爷爷通电话，他虽然话不多，但听到他的声音，总觉得心里没那么乱了。",
+    "has_specific_detail": true,
+    "specific_detail": "那段时间挺难熬的，我每天都埋头在学习和兼职里，好像只有让自己忙起来，才能不去想那些事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我觉得忙碌是缓解了表面的焦虑，但真正让我心里安稳的还是爷爷的关心。现在的话，可能和一些朋友多联系、多交流，也许能让我感觉不那么孤单吧…但有时候又会担心，别人真的会理解我吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得忙碌是缓解了表面的焦虑，但真正让我心里安稳的还是爷爷的关心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我想，可能是更在意他们的回应方式吧。如果对方能认真倾听，或者表达出一种理解的态度，我会觉得轻松很多。但如果只是随便应付几句，我反而会更难过…这种感觉让我有点害怕主动去靠近别人。",
+    "has_specific_detail": true,
+    "specific_detail": "我想，可能是更在意他们的回应方式吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "有几个大学时的朋友，虽然现在联系不算特别频繁，但他们很真诚，聊起来让我觉得不用伪装自己。尤其有一个朋友，总是耐心听我说话，还会分享他自己的感受，这让我觉得很安心，也更愿意跟他交流。",
+    "has_specific_detail": true,
+    "specific_detail": "有几个大学时的朋友，虽然现在联系不算特别频繁，但他们很真诚，聊起来让我觉得不用伪装自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，我觉得跟他聊可能会让我轻松不少，但又有点犹豫，怕自己总提这些负面情绪会让他感到压力。不过，我也觉得主动保持联系是个好主意，至少不会让我觉得自己一个人扛着。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得跟他聊可能会让我轻松不少，但又有点犹豫，怕自己总提这些负面情绪会让他感到压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，这个办法听起来不错！也许可以先聊些日常，比如最近的工作或者他生活里的趣事，再慢慢提到我的感受。这样既不会显得突兀，也能看看他的反应，感觉会自然一些。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个办法听起来不错！也许可以先聊些日常，比如最近的工作或者他生活里的趣事，再慢慢提到我的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，前几天公司组织了一次团建，有个同事不小心把游戏规则搞错了，结果全场都笑得不行。我觉得这事儿挺有趣的，也许可以拿来当个话题开头，顺便聊聊他最近有没有类似的有趣经历。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，前几天公司组织了一次团建，有个同事不小心把游戏规则搞错了，结果全场都笑得不行",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "是啊，这样聊起来可能会更自然些，等气氛轻松了再提我的感受也没那么尴尬。我希望对方能耐心听我说，不一定要给什么建议，但能让我感觉被理解和接纳就很好了。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，这样聊起来可能会更自然些，等气氛轻松了再提我的感受也没那么尴尬",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得如果对方能认真倾听，我可能会更愿意打开自己，去分享那些一直压在心里的孤独感。我希望通过这样的交流，能让我不再觉得情感只能自己扛着，也许还能慢慢建立更多的信任和安全感吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果对方能认真倾听，我可能会更愿意打开自己，去分享那些一直压在心里的孤独感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，我觉得除了依靠朋友，我可能可以尝试多参与一些社交活动，扩大自己的圈子，慢慢让自己适应与人互动的过程。另外，也可以试着培养一些兴趣爱好，比如健身或者画画，让自己的生活更充实，这样心里可能就不会总觉得空荡荡的了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得除了依靠朋友，我可能可以尝试多参与一些社交活动，扩大自己的圈子，慢慢让自己适应与人互动的过程",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得培养兴趣可能是最容易尝试的，毕竟可以自己掌控节奏。最近对摄影有点兴趣，或许可以从学拍一些简单的照片开始，这样既能让自己专注，也可能有机会认识一些志同道合的人。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得培养兴趣可能是最容易尝试的，毕竟可以自己掌控节奏",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我可能会先拍一些身边的日常，比如街角的咖啡馆，或者窗外的晚霞。这些看似平凡的场景，总觉得能捕捉到一种特别的宁静和温暖。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先拍一些身边的日常，比如街角的咖啡馆，或者窗外的晚霞",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，这倒是个好主意！给照片起名字，或者写下拍摄时的感受，可能会让我更投入其中。比如拍晚霞时，可以用“落日的告白”来记录当时的宁静和一丝温暖，感觉挺有意义的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这倒是个好主意！给照片起名字，或者写下拍摄时的感受，可能会让我更投入其中",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我觉得会的。孤独感可能不只是空虚，也许还有一种对生活细节的敏感和对情感的渴望。通过记录，我可能会更懂得自己的内心，也许能从中找到一些自我安慰和力量吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "是的，我觉得如果能通过摄影和记录找到力量，也许孤独就不会那么让人抗拒了。它可能是让我更了解自己的契机，甚至让我学会如何和自己相处，慢慢地接纳它。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得如果能通过摄影和记录找到力量，也许孤独就不会那么让人抗拒了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我想可以从这个周末开始，拿着手机先去附近的公园走走，拍一些秋天的景色，比如落叶或者阳光透过树叶的影子。这个主题感觉挺贴近内心的，既安静又温暖，还能让我慢慢熟悉摄影的节奏。",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以从这个周末开始，拿着手机先去附近的公园走走，拍一些秋天的景色，比如落叶或者阳光透过树叶的影子",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "这个想法很好！把照片整理成“秋日散步”系列，还配上感受，感觉就像在用镜头写日记。比如可以写“阳光洒在落叶上，有种被拥抱的温暖”，这样既有画面，也能更好地表达内心。",
+    "has_specific_detail": true,
+    "specific_detail": "这个想法很好！把照片整理成“秋日散步”系列，还配上感受，感觉就像在用镜头写日记",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得会的。回看这些记录时，可能会发现孤独并不是完全负面的，它也让我更敏感于生活中的细节和美好。或许，到时候的感受会从“孤独”慢慢变成一种“与自己独处的平和”，这种变化本身就很有意义。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我想，如果能达到这种平和，可能会让我在生活中更从容，不再那么依赖外界的情感支持。同时，在人际关系中，我或许也会更自信，更坦然地表达自己，而不是总担心被拒绝或者不被理解。",
+    "has_specific_detail": true,
+    "specific_detail": "我想，如果能达到这种平和，可能会让我在生活中更从容，不再那么依赖外界的情感支持",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 27,
+    "content": "我觉得可以通过日常的记录，比如拍下每一个让我感到温暖的瞬间，并写下当时的心情。每当孤独感袭来时，就回看这些记录，提醒自己孤独中也能找到美好和力量。这样一步步，或许就能把孤独变成成长的伙伴，而不是对抗的敌人。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以通过日常的记录，比如拍下每一个让我感到温暖的瞬间，并写下当时的心情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，我会的！听你这么说，我现在对这个小计划充满了期待，也觉得心里轻松了不少。谢谢你帮我理清这些感受，今天先聊到这里吧，下次我再和你分享我的记录和感受！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我会的！听你这么说，我现在对这个小计划充满了期待，也觉得心里轻松了不少",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

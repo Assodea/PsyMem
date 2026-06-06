@@ -1,0 +1,422 @@
+[
+  {
+    "turn": 1,
+    "content": "最近我试着减少一些过度关注，比如没再每天提醒她吃药，但她好像因此有点不开心。她说感觉我变得冷淡了，我听到这话心里挺复杂的，觉得无论怎么做都难让她满意…",
+    "has_specific_detail": true,
+    "specific_detail": "最近我试着减少一些过度关注，比如没再每天提醒她吃药，但她好像因此有点不开心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "我有试着问她是不是觉得我不在乎她了，她说“有一点”，还提到希望我像之前那样关心她。但我也想解释自己只是想给她多些空间，结果说着说着又争起来了…",
+    "has_specific_detail": true,
+    "specific_detail": "我有试着问她是不是觉得我不在乎她了，她说“有一点”，还提到希望我像之前那样关心她",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "可能是我提到“我只是想给你空间”时，她觉得我在推卸责任，说这是我的借口。我当时有点委屈，就忍不住辩解了几句，结果她情绪一下子就上来了…",
+    "has_specific_detail": true,
+    "specific_detail": "可能是我提到“我只是想给你空间”时，她觉得我在推卸责任，说这是我的借口",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "她可能希望我还是像之前一样无微不至地关心她，觉得那样才是“在乎”的表现。但我只是想尝试一种更平衡的方式，不想让关系变得太紧绷…",
+    "has_specific_detail": true,
+    "specific_detail": "她可能希望我还是像之前一样无微不至地关心她，觉得那样才是“在乎”的表现",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "或许可以换个方式关心她，比如偶尔主动问问她的状态，而不是每天固定提醒她吃药。我希望这样既不显得冷淡，又不会让我过于疲惫…你觉得这个方向可行吗？",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以换个方式关心她，比如偶尔主动问问她的状态，而不是每天固定提醒她吃药",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我觉得可以试着用轻松一些的语气，比如问她“今天感觉怎么样？”或者“最近有没有哪天特别累？”这样既关心她，又不会让她觉得被监视…你觉得这样合适吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着用轻松一些的语气，比如问她“今天感觉怎么样？”或者“最近有没有哪天特别累？”这样既关心她，又不会让她觉得被监视…你觉得这样合适吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "她可能更愿意聊一些情绪上的感受，比如最近是不是心情有波动，或者有什么事情让她不安。我觉得她需要的是有人能真正理解她的情绪，而不是只关注她的行为。",
+    "has_specific_detail": true,
+    "specific_detail": "她可能更愿意聊一些情绪上的感受，比如最近是不是心情有波动，或者有什么事情让她不安",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "我可以在她说完后回应一些具体的内容，比如“听起来你最近压力挺大的”或者“这个事情确实让人烦心”。这样她能感觉到我是在用心听，而不是敷衍她的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以在她说完后回应一些具体的内容，比如“听起来你最近压力挺大的”或者“这个事情确实让人烦心”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我可能会顺着她的话问，比如“这个压力是最近才开始的吗？”或者“你觉得还有什么让你更难受的？”希望通过这样的问题让她觉得我是真的关心她，而不是浅浅地问一句就结束了。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会顺着她的话问，比如“这个压力是最近才开始的吗？”或者“你觉得还有什么让你更难受的？”希望通过这样的问题让她觉得我是真的关心她，而不是浅浅地问一句就结束了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "如果她深入分享，我会试着先认同她的感受，比如说“我能理解你为什么会这么难过”。然后再告诉她“不管怎么样，我都会陪着你一起面对这些问题”，希望这样能让她觉得更安心。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她深入分享，我会试着先认同她的感受，比如说“我能理解你为什么会这么难过”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我觉得她可能会感到一些安慰，也许会放松下来，甚至主动说一些她之前没提过的想法或感受。如果她愿意回应，我也会继续认真听下去，让她感到被接纳。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得她可能会感到一些安慰，也许会放松下来，甚至主动说一些她之前没提过的想法或感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "我会特别想知道她最近有没有什么让她开心或者放松的事情，因为我觉得了解这些能帮助我找到让她心情好起来的方法。希望她能多分享一些正面的感受。",
+    "has_specific_detail": true,
+    "specific_detail": "我会特别想知道她最近有没有什么让她开心或者放松的事情，因为我觉得了解这些能帮助我找到让她心情好起来的方法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "她好像喜欢听一些轻松的音乐或者看搞笑的视频，特别是在压力大的时候。我记得有次她分享了一个短视频，还笑得很开心，那种感觉让我也觉得很放松。",
+    "has_specific_detail": true,
+    "specific_detail": "她好像喜欢听一些轻松的音乐或者看搞笑的视频，特别是在压力大的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我可以试着挑一些她可能喜欢的搞笑视频或者轻音乐，在合适的时候发给她，跟她说“我觉得你可能会喜欢这个”，希望能让她感到轻松和被关注。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着挑一些她可能喜欢的搞笑视频或者轻音乐，在合适的时候发给她，跟她说“我觉得你可能会喜欢这个”，希望能让她感到轻松和被关注",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我觉得会的，轻松愉快的互动应该能缓解我们之间的紧张，让她感到更多的快乐。对我来说，这样的氛围也能让我放松一些，不再总是觉得关系很压抑。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会的，轻松愉快的互动应该能缓解我们之间的紧张，让她感到更多的快乐",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我觉得可以试着一起规划一些小目标，比如每周抽时间聊聊彼此的近况，或者一起做些简单的活动。这样能让我们有更多共同的体验，也帮助我们更好地理解对方的想法和感受。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着一起规划一些小目标，比如每周抽时间聊聊彼此的近况，或者一起做些简单的活动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "她可能会喜欢一些轻松的活动，比如一起线上玩小游戏或者分享有趣的文章。我觉得这些既能让她放松，也不会太耗费精力，比较适合我们的相处方式。",
+    "has_specific_detail": true,
+    "specific_detail": "她可能会喜欢一些轻松的活动，比如一起线上玩小游戏或者分享有趣的文章",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我可以主动和她分享游戏中的趣事，或者在看到她感兴趣的内容时问问她的看法。这样她会觉得我不仅在陪伴，还在认真关注她的喜好和感受。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以主动和她分享游戏中的趣事，或者在看到她感兴趣的内容时问问她的看法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我会选择一些我们平时闲聊的时候自然提起，比如聊到最近看到的有趣内容时顺便邀请她一起玩游戏，这样感觉更随意，也不会让她觉得有压力。",
+    "has_specific_detail": true,
+    "specific_detail": "我会选择一些我们平时闲聊的时候自然提起，比如聊到最近看到的有趣内容时顺便邀请她一起玩游戏，这样感觉更随意，也不会让她觉得有压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得我们的关系可能会变得更轻松、更有趣，不再被频繁的争吵和紧张气氛困扰。她可能会更愿意分享自己的感受，而我也能减少那种筋疲力尽的感觉。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得我们的关系可能会变得更轻松、更有趣，不再被频繁的争吵和紧张气氛困扰",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我需要提醒自己保持适度，不要因为想让她开心就又回到过度关注的状态。同时也要记得关注自己的感受，避免忽视了自己的需求和压力。",
+    "has_specific_detail": true,
+    "specific_detail": "我需要提醒自己保持适度，不要因为想让她开心就又回到过度关注的状态",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 22,
+    "content": "我可以每天留一段时间给自己做一些放松的事情，比如看书或听音乐，其他时间再集中精力陪她。这样既能照顾到她，也能避免自己过度消耗。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以每天留一段时间给自己做一些放松的事情，比如看书或听音乐，其他时间再集中精力陪她",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 23,
+    "content": "我最近想试试学一些新的编程语言，不仅能提升自己，还能让我有一种充实的感觉。这种学习的过程可能也会让我更放松和专注。",
+    "has_specific_detail": true,
+    "specific_detail": "我最近想试试学一些新的编程语言，不仅能提升自己，还能让我有一种充实的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我可以每天固定安排一小时学习新技能，其余时间尽量用来陪她。这样既有成长的空间，也能维持我们的关系，不会让我觉得压力太大。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以每天固定安排一小时学习新技能，其余时间尽量用来陪她",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "可能的挑战是她会觉得我减少陪伴后不够关心她。我需要提前和她沟通这个安排，解释这是为了更好地平衡我们关系，同时也让我自己更充实。",
+    "has_specific_detail": true,
+    "specific_detail": "可能的挑战是她会觉得我减少陪伴后不够关心她",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我可以用温和的语气跟她说，比如“我最近想学点新东西，这样能让我更有精神陪着你，你觉得可以吗？”希望通过这种表达让她感到我的真诚和考虑。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以用温和的语气跟她说，比如“我最近想学点新东西，这样能让我更有精神陪着你，你觉得可以吗？”希望通过这种表达让她感到我的真诚和考虑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "如果她有不同意见，我会试着问她的担忧是什么，并讨论怎么调整时间安排，比如减少学习的时间或者选她休息时段学习，尽量让她觉得舒适。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她有不同意见，我会试着问她的担忧是什么，并讨论怎么调整时间安排，比如减少学习的时间或者选她休息时段学习，尽量让她觉得舒适",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "如果达成共识，我觉得我们会少一些争执，关系变得更和谐。而我也能在学习中找到成就感和满足感，这应该会让我更有活力去面对生活和彼此的关系。",
+    "has_specific_detail": true,
+    "specific_detail": "如果达成共识，我觉得我们会少一些争执，关系变得更和谐",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得第一步可以先列一个学习清单，明确每天要完成的小目标。同时找一个适合的时间和她聊聊这个安排，让她了解我的计划并表达我的关心。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得第一步可以先列一个学习清单，明确每天要完成的小目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "我可以告诉她，“学习只是一天中的一小部分，其他时间我还是会像之前一样陪着你。你的感受对我来说很重要。”这样希望能让她感觉到被重视。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以告诉她，“学习只是一天中的一小部分，其他时间我还是会像之前一样陪着你",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我可以每天主动问她的状态，比如“今天过得怎么样？”或者提醒她注意休息，这样她会觉得即使我有自己的安排，还是很关心她的感受和需求。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以每天主动问她的状态，比如“今天过得怎么样？”或者提醒她注意休息，这样她会觉得即使我有自己的安排，还是很关心她的感受和需求",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我觉得每天结束前可以和她聊一会儿，比如分享一天里发生的趣事，或者说一句“晚安，明天见”。这种小仪式既简单又温暖，能让我们保持亲密感。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得每天结束前可以和她聊一会儿，比如分享一天里发生的趣事，或者说一句“晚安，明天见”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

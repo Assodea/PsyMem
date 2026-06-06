@@ -1,0 +1,575 @@
+[
+  {
+    "turn": 1,
+    "content": "是关于我和丈夫的关系吧。最近，他总是很忙，不管是孩子的事情还是家里的琐事，大多都落在我身上…有时候觉得很孤单。",
+    "has_specific_detail": true,
+    "specific_detail": "是关于我和丈夫的关系吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "两方面都有吧。有时候忙了一天，晚上想和他说点什么，他却总是在看手机或者很敷衍地回应几句，我会觉得自己像被忽视了一样…",
+    "has_specific_detail": true,
+    "specific_detail": "两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我试着跟他说过，但他总说自己工作压力大，回家就想休息。我能理解他的辛苦，可是每次提到我的感受，他好像都不太在意…让我觉得自己是多余的。",
+    "has_specific_detail": true,
+    "specific_detail": "我试着跟他说过，但他总说自己工作压力大，回家就想休息",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "我觉得他可能没意识到吧，他一直觉得我能“搞定一切”，所以对我的情绪关注得很少…但这样下去，我真的觉得越来越疲惫。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得他可能没意识到吧，他一直觉得我能“搞定一切”，所以对我的情绪关注得很少…但这样下去，我真的觉得越来越疲惫",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "可能两者都有吧。我总是习惯先照顾大家的需求，尤其是孩子和他，自己的情绪就常被忽略了…但他好像也觉得这很“理所当然”。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "大概是从孩子出生后吧，那时候家里需要我更多的照顾，慢慢地就形成了这种分工。我性格上也习惯避免冲突，总觉得自己多做点会让家庭更和谐…可现在发现自己越来越压抑。",
+    "has_specific_detail": true,
+    "specific_detail": "大概是从孩子出生后吧，那时候家里需要我更多的照顾，慢慢地就形成了这种分工",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "应该是从小时候就开始了吧。我父母对规矩看得很重，家里不太讲情绪，我那时候就总觉得，只要乖乖听话，家里才不会有矛盾…这种习惯好像一直延续到现在。",
+    "has_specific_detail": true,
+    "specific_detail": "应该是从小时候就开始了吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "小时候我很想和父母多聊聊自己的想法，或者在难过时得到安慰，但他们总是更关注我的成绩和表现。慢慢地，我就不太愿意主动表达了，觉得可能说了也不会被在意。",
+    "has_specific_detail": true,
+    "specific_detail": "小时候我很想和父母多聊聊自己的想法，或者在难过时得到安慰，但他们总是更关注我的成绩和表现",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "是的，我确实会有这种担心。有时候我鼓起勇气想说出自己的感受，但一想到可能又会被忽视，就会犹豫，最后干脆什么都不说了…这样一来，自己心里反而更难受。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我确实会有这种担心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能是害怕冲突吧。我不想因为表达自己的感受而引发争执，特别是孩子在家的时候，总觉得家庭的平静比我的情绪更重要…可这样一来，我又觉得自己被忽略得更彻底了。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是害怕冲突吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "或许是因为我总觉得，作为妻子和母亲，照顾家人是我的责任。要是我太在意自己的感受，反而会有种“自私”的内疚感…可内心深处，我又很希望有人能关心我。",
+    "has_specific_detail": true,
+    "specific_detail": "或许是因为我总觉得，作为妻子和母亲，照顾家人是我的责任",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "如果有人主动关心我，我会觉得特别温暖吧，好像终于有人看到了我的努力和辛苦。这种感觉可能让我想起小时候，偶尔被父母表扬时那种短暂的满足感…但又很快消失了。",
+    "has_specific_detail": true,
+    "specific_detail": "如果有人主动关心我，我会觉得特别温暖吧，好像终于有人看到了我的努力和辛苦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我希望他能多花点时间和我聊聊，不是那种匆匆的回应，而是真正倾听我说的话，或者哪怕是主动帮我分担一些家务，也会让我感觉被在意了。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望他能多花点时间和我聊聊，不是那种匆匆的回应，而是真正倾听我说的话，或者哪怕是主动帮我分担一些家务，也会让我感觉被在意了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我可以试试吧，但每次开口前都会犹豫，怕他觉得我是在埋怨或者不满足…你觉得，怎么说才能让他更容易理解我的感受呢？",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试试吧，但每次开口前都会犹豫，怕他觉得我是在埋怨或者不满足…你觉得，怎么说才能让他更容易理解我的感受呢？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "听起来确实比直接说“你不关心我”更柔和些，我觉得他可能会更愿意听吧…不过说出口的那一刻，我还是会有点紧张，怕他的反应没那么积极。",
+    "has_specific_detail": true,
+    "specific_detail": "听起来确实比直接说“你不关心我”更柔和些，我觉得他可能会更愿意听吧…不过说出口的那一刻，我还是会有点紧张，怕他的反应没那么积极",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "也许我可以先冷静下来，不急着争论，而是试着问他，“是不是最近工作太累了？”这样或许能让他放下防备，然后再慢慢引导话题回到我的感受上…你觉得这样会有效吗？",
+    "has_specific_detail": true,
+    "specific_detail": "也许我可以先冷静下来，不急着争论，而是试着问他，“是不是最近工作太累了？”这样或许能让他放下防备，然后再慢慢引导话题回到我的感受上…你觉得这样会有效吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得我需要先调整自己的预期，告诉自己不一定一次就能解决所有问题。同时，可能也要学会在表达后给自己一些肯定，不因为对方的反应不如意而否定自己的努力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得我需要先调整自己的预期，告诉自己不一定一次就能解决所有问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "或许我可以试试深呼吸，或者写点东西，把当时的情绪记录下来。这样既能转移注意力，又能帮我更清楚地理顺自己的感受…这些方法你觉得合适吗？",
+    "has_specific_detail": true,
+    "specific_detail": "或许我可以试试深呼吸，或者写点东西，把当时的情绪记录下来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "我觉得有可能。在记录情绪的过程中，也许会让我发现一些平时忽略的细节，比如我对他的某些期待是不是太高了，或者他其实也有努力表达，只是方式不同…这样可能会让我更客观一点。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得有可能",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "如果发现他其实有用自己的方式在关心我，我可能会尝试去认可和接受他的努力，而不是一味按照自己的标准去期待他。我觉得这或许会让我们之间的关系更轻松一些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果发现他其实有用自己的方式在关心我，我可能会尝试去认可和接受他的努力，而不是一味按照自己的标准去期待他",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "或许我可以主动告诉他，比如“我最近意识到，你也有在关心我，只是方式不同，我很感激这些”。这样既表达了我的理解，也可能让他更愿意继续尝试吧…你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "或许我可以主动告诉他，比如“我最近意识到，你也有在关心我，只是方式不同，我很感激这些”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我可以试着在他忙碌的时候给他倒杯茶，或者在他难得有空时主动安排些轻松的活动，这样既能缓解他的压力，也能让他感受到我的关心…你觉得这样的行动合适吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着在他忙碌的时候给他倒杯茶，或者在他难得有空时主动安排些轻松的活动，这样既能缓解他的压力，也能让他感受到我的关心…你觉得这样的行动合适吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我希望他能主动对我说句“谢谢”或者“辛苦了”，哪怕只是一个温暖的眼神或者轻轻的拥抱，也能让我感觉到，他是在意我的付出的。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望他能主动对我说句“谢谢”或者“辛苦了”，哪怕只是一个温暖的眼神或者轻轻的拥抱，也能让我感觉到，他是在意我的付出的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "或许我可以在他偶尔做出一点回应时，直接表达我的感受，比如“你刚刚那个拥抱让我觉得很温暖”，这样既能鼓励他，也让他明白这对我有多重要。",
+    "has_specific_detail": true,
+    "specific_detail": "或许我可以在他偶尔做出一点回应时，直接表达我的感受，比如“你刚刚那个拥抱让我觉得很温暖”，这样既能鼓励他，也让他明白这对我有多重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "我觉得要提醒自己，改变是一个慢慢来的过程，不可能立刻见效。同时，我也要学会更多关注自己的感受，而不是一味把焦点放在他的反应上。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得要提醒自己，改变是一个慢慢来的过程，不可能立刻见效",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我想我可以试着给自己一些独处的时间，比如读一本书或者去散步，这样能让我暂时放下家庭的压力，重新找回内心的平静。你觉得这样的方式会有效吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我想我可以试着给自己一些独处的时间，比如读一本书或者去散步，这样能让我暂时放下家庭的压力，重新找回内心的平静",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "或许我可以利用这些时间写写日记，把心里的压抑和情绪释放出来，或者试着回想一下最近的积极时刻，提醒自己生活中也有美好的部分…这些应该会让我感觉好一些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "或许我可以利用这些时间写写日记，把心里的压抑和情绪释放出来，或者试着回想一下最近的积极时刻，提醒自己生活中也有美好的部分…这些应该会让我感觉好一些吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我可能会先写一些让我感到压抑的事情，把那些一直憋在心里的委屈和无奈释放出来。然后，也许会试着写几个让我觉得温暖的小瞬间，平衡一下情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先写一些让我感到压抑的事情，把那些一直憋在心里的委屈和无奈释放出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "可能是我感到孤独的那些时刻，比如忙了一整天后，他却没注意到我的疲惫；还有偶尔让我觉得被在意的小细节，比如他帮我拿了件外套…这些对比总让我既复杂又矛盾。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是我感到孤独的那些时刻，比如忙了一整天后，他却没注意到我的疲惫；还有偶尔让我觉得被在意的小细节，比如他帮我拿了件外套…这些对比总让我既复杂又矛盾",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "可能还是被忽视的疲惫更深刻吧，因为这种感受积累得太多了，已经影响到我的心态。但那些小关心又会让我心软，觉得也许他并不是完全不在意我…所以我总是陷在这种矛盾里。",
+    "has_specific_detail": true,
+    "specific_detail": "可能还是被忽视的疲惫更深刻吧，因为这种感受积累得太多了，已经影响到我的心态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得两方面都有吧。他的行为确实不够持续，而我对他的期待可能也有点高，总希望他能主动多关心我一些。可每次失望的时候，又忍不住质疑自己的期待是不是过分了…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "应该两者都有吧。我内心确实渴望被支持和在意，特别是觉得自己承担了很多的时候。而他的回应对我来说，就像是一种肯定，能让我觉得自己的付出是被看见、被认可的…",
+    "has_specific_detail": true,
+    "specific_detail": "应该两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "是的，小时候我总是觉得，只有表现得特别好才能让父母注意到我。所以现在，我好像也总是通过努力付出来证明自己的价值，期待能被对方看见，但又常常会失落。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，小时候我总是觉得，只有表现得特别好才能让父母注意到我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我觉得可以试着去关注自己的成就，比如工作上的进步，或者家庭中自己已经做到的部分，告诉自己这些都是值得肯定的。也许我还可以培养一些自己的兴趣爱好，让自己的生活更丰富。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以试着去关注自己的成就，比如工作上的进步，或者家庭中自己已经做到的部分，告诉自己这些都是值得肯定的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我想从每天抽一点时间读一本喜欢的书开始吧，那是我一直想做却总被打断的事情。能专注在自己感兴趣的内容上，可能会让我觉得充实一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我想从每天抽一点时间读一本喜欢的书开始吧，那是我一直想做却总被打断的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我觉得可以先跟丈夫沟通一下，比如告诉他这段时间我需要一些自己的空间，希望他能帮忙看一下孩子。这样安排好后，我就能更安心地享受自己的时间了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先跟丈夫沟通一下，比如告诉他这段时间我需要一些自己的空间，希望他能帮忙看一下孩子",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我可以说：“我最近觉得有点累，想每天留点时间读书放松一下，这段时间能麻烦你陪陪孩子吗？”这样既表明我的需求，也让他知道我是信任他的。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以说：“我最近觉得有点累，想每天留点时间读书放松一下，这段时间能麻烦你陪陪孩子吗？”这样既表明我的需求，也让他知道我是信任他的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "如果他答应了，我会跟他说：“谢谢你愿意支持我，这对我真的很重要。”或者在事后主动关心一下他和孩子的互动，让他觉得他的付出也被我看见了。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他答应了，我会跟他说：“谢谢你愿意支持我，这对我真的很重要",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "如果成功了，我可能会慢慢地尝试更多直接表达需求的方式，比如在特别忙的时候，主动请他分担家务，或者在感到低落时告诉他我需要陪伴。这种一点点的尝试应该会让我更有信心吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果成功了，我可能会慢慢地尝试更多直接表达需求的方式，比如在特别忙的时候，主动请他分担家务，或者在感到低落时告诉他我需要陪伴",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 40,
+    "content": "我希望自己能更自然地表达情绪和需求，而不是总压抑着。此外，也希望能更坦然地接受自己的情感渴望，不再觉得这是“自私”的，学会和他建立更平等的关系。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望自己能更自然地表达情绪和需求，而不是总压抑着",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "如果我能做到这些，我想自己会更轻松，也不会总纠结于“付出是否被看到”。家庭里可能也会多一些真诚的交流，少一些压抑的氛围，或许我们彼此都会感觉更靠近一些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果我能做到这些，我想自己会更轻松，也不会总纠结于“付出是否被看到”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "我觉得最重要的是提醒自己不要急于求成，允许自己慢慢来。同时，也要记得肯定自己的每一次努力，不管结果如何，都告诉自己这是成长的一部分。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最重要的是提醒自己不要急于求成，允许自己慢慢来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "或许可以提醒自己，改变是为了让自己和家人更幸福，而不是为了“取悦”谁。还有就是告诉自己，每一次努力，无论大小，都是在为更好的未来铺路，这本身就值得坚持。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以提醒自己，改变是为了让自己和家人更幸福，而不是为了“取悦”谁",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 44,
+    "content": "我觉得今天的对话让我更明白，表达需求和关注自己并不是自私，而是一种健康的关系方式。这让我更有信心去尝试一点点改变，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得今天的对话让我更明白，表达需求和关注自己并不是自私，而是一种健康的关系方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

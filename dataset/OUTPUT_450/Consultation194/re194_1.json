@@ -1,0 +1,374 @@
+[
+  {
+    "turn": 1,
+    "content": "最近我姥爷的身体状况好像又变差了，他咳嗽得很厉害，大家都很着急。我也很害怕，但有时候觉得好像没有人注意到我的感受…",
+    "has_specific_detail": true,
+    "specific_detail": "最近我姥爷的身体状况好像又变差了，他咳嗽得很厉害，大家都很着急",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "是啊，我感觉家里所有人都围着姥爷转，妈妈和大姨每天都在讨论他的检查结果。我有时想帮点忙，比如端水给姥爷，可他们好像觉得我做不了什么，就让我别添乱…这种感觉让我很无力。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我感觉家里所有人都围着姥爷转，妈妈和大姨每天都在讨论他的检查结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我想可能是他们太专注姥爷的状况了吧，我平时也会帮忙做一些小事，但这些好像很容易被忽略。感觉在他们眼里，我还是个小孩，做什么都不够重要…",
+    "has_specific_detail": true,
+    "specific_detail": "我想可能是他们太专注姥爷的状况了吧，我平时也会帮忙做一些小事，但这些好像很容易被忽略",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "嗯，我觉得他们好像没太注意到吧，我端水、递东西这些小事没人提起过。也许他们习惯了让我学习、别插手这些事，根本没意识到我其实很想分担一点…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得他们好像没太注意到吧，我端水、递东西这些小事没人提起过",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "我还没跟他们直接说过，感觉很难开口…每次话到嘴边又觉得他们那么忙，可能也没时间听我说这些，就只能咽下去了。",
+    "has_specific_detail": true,
+    "specific_detail": "我还没跟他们直接说过，感觉很难开口…每次话到嘴边又觉得他们那么忙，可能也没时间听我说这些，就只能咽下去了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "我觉得可能都有吧…他们每天都围着姥爷转，感觉特别忙。我也有点怕说了之后，他们会觉得我的感受没那么重要，甚至会让我别添麻烦…这种想法让我更不敢开口。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能都有吧…他们每天都围着姥爷转，感觉特别忙",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，好像有过…小时候如果家里有重要的事情，比如姥爷生病或其他问题时，大家总是很忙，我感觉自己就像个旁观者。如果那时候我表达什么需求，经常会被忽略，或者被一句“等会儿”搪塞过去…久而久之，我好像就不太敢主动表达了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，好像有过…小时候如果家里有重要的事情，比如姥爷生病或其他问题时，大家总是很忙，我感觉自己就像个旁观者",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "好像大多数时候是自己慢慢消化吧，我会找些事情转移注意力，比如看书或者画画。有时候也会偷偷哭一下，但也不敢让别人发现，因为感觉他们已经够忙了，我不想让他们更烦心。",
+    "has_specific_detail": true,
+    "specific_detail": "好像大多数时候是自己慢慢消化吧，我会找些事情转移注意力，比如看书或者画画",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "是啊，我好像还是那样，尽量不让他们看到我不开心的样子。我会假装自己没事，甚至还安慰他们，但其实心里特别害怕和难过…有时候觉得，这种情绪全都压在心里，好累。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我好像还是那样，尽量不让他们看到我不开心的样子",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我有想过找个人聊聊，但不知道跟谁说合适，感觉家里的人都很忙，可能也不太会理解我的感受…有时候我会写日记，把心里的话写下来，写完会稍微轻松一点，但还是觉得缺少一种真正被理解的感觉。",
+    "has_specific_detail": true,
+    "specific_detail": "我有想过找个人聊聊，但不知道跟谁说合适，感觉家里的人都很忙，可能也不太会理解我的感受…有时候我会写日记，把心里的话写下来，写完会稍微轻松一点，但还是觉得缺少一种真正被理解的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我有几个好朋友，但我不知道该不该跟她们说这些，怕她们觉得我太烦人或者想太多…老师的话，我觉得他们可能更关注学习上的事，聊这些好像有点奇怪。所以我经常觉得，这些心事好像只能留在我自己心里。",
+    "has_specific_detail": true,
+    "specific_detail": "我有几个好朋友，但我不知道该不该跟她们说这些，怕她们觉得我太烦人或者想太多…老师的话，我觉得他们可能更关注学习上的事，聊这些好像有点奇怪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯…如果是好朋友的话，她们可能会安慰我，说一些让我放心的话。老师的话，或许会认真听吧，但我总担心他们会觉得这些事情没那么重要，不像学习那么值得关注…所以我也不确定他们会不会真正理解我。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯…如果是好朋友的话，她们可能会安慰我，说一些让我放心的话",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，听起来好像可以试试看…如果只是试探性地说一些，也许会轻松一点，至少不会觉得压力太大。我可以试着和其中关系最好的一个朋友聊聊，看看她的反应。如果她能理解我，也许会让我感觉好一些。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，听起来好像可以试试看…如果只是试探性地说一些，也许会轻松一点，至少不会觉得压力太大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "我想可以从最近姥爷的事情说起，比如“我姥爷最近身体不太好，家里人都很担心，我也觉得很害怕，不知道该怎么办。”这样的话好像比较自然，而且也能表达我的感受…你觉得呢？",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以从最近姥爷的事情说起，比如“我姥爷最近身体不太好，家里人都很担心，我也觉得很害怕，不知道该怎么办",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "如果她回应支持或者安慰，我觉得我会想继续聊下去，可能会更放松一点，把更多的感受告诉她。但如果她反应比较冷淡，我可能就不会多说了，怕自己说多了让人觉得麻烦。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她回应支持或者安慰，我觉得我会想继续聊下去，可能会更放松一点，把更多的感受告诉她",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，我觉得我会试着告诉自己，她可能只是忙或者不知道该怎么回应，而不是因为不在意我。虽然心里可能还是会有点难过，但这样想的话，应该会好受一些吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得我会试着告诉自己，她可能只是忙或者不知道该怎么回应，而不是因为不在意我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "我觉得如果能和朋友沟通，可能会让我觉得没那么孤单，也不会总觉得这些情绪只能自己承担。被倾诉和理解的感觉，应该会让我轻松一点，也许还能让我更有信心去面对家里的事情。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果能和朋友沟通，可能会让我觉得没那么孤单，也不会总觉得这些情绪只能自己承担",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得下次放学回家的路上，可能是个不错的机会。那时候我们俩经常一起走路，气氛比较轻松，我也会比较容易开口。等到那个时候，我可以试着把这些想法说出来。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得下次放学回家的路上，可能是个不错的机会",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "嗯，我觉得整理一下挺好的，比如先想清楚要从哪里开始说，这样到时候不会太紧张。还有，可能需要提醒自己，不管朋友的反应如何，这都是一次勇敢的尝试！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得整理一下挺好的，比如先想清楚要从哪里开始说，这样到时候不会太紧张",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "我觉得有可能！如果这次尝试成功，感受到被理解，可能会让我觉得表达自己的感受并没有那么可怕。到时候，我也许就能更勇敢地和家里人说说自己的想法了，比如我其实很想为姥爷做点什么…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得有可能！如果这次尝试成功，感受到被理解，可能会让我觉得表达自己的感受并没有那么可怕",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "如果家人能认真听我说，哪怕只是简单地回应一句“我们知道你也很关心姥爷”，我都会觉得被重视了。如果他们还能让我参与一些小事情，比如帮姥爷端茶送药，我会觉得自己真的在为他做点事，那样会安心很多。",
+    "has_specific_detail": true,
+    "specific_detail": "如果家人能认真听我说，哪怕只是简单地回应一句“我们知道你也很关心姥爷”，我都会觉得被重视了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得等大家情绪稍微平静一些的时候会比较合适，比如吃完晚饭的休息时间，或者姥爷状态相对稳定的时候。我希望在一个大家没有那么忙乱的时刻，把这些话说出来，这样他们可能更容易听进去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得等大家情绪稍微平静一些的时候会比较合适，比如吃完晚饭的休息时间，或者姥爷状态相对稳定的时候",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "我想可以先从姥爷的事情说起，比如“我最近一直很担心姥爷的身体，看到你们那么辛苦，我也很想帮点忙。”这样既表达了我的关心，也能自然地引出我想参与的想法。你觉得这样合适吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我想可以先从姥爷的事情说起，比如“我最近一直很担心姥爷的身体，看到你们那么辛苦，我也很想帮点忙",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "如果他们一开始没有接受，我会试着再解释一下，比如说“我知道你们可能觉得我帮不上什么忙，但我真的希望能为姥爷做点力所能及的事。”这样可能会让他们理解我的心情。如果他们还是不同意，我想我也会尊重他们的决定，但心里可能还是会有些失落。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他们一开始没有接受，我会试着再解释一下，比如说“我知道你们可能觉得我帮不上什么忙，但我真的希望能为姥爷做点力所能及的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "如果成功了，我希望能学会更主动地表达自己的感受，而不是一直把情绪藏起来。同时，我也希望能从中感受到家人对我的认可，这会让我更有信心去面对以后类似的情况。我觉得这可能是个很重要的成长机会！",
+    "has_specific_detail": true,
+    "specific_detail": "如果成功了，我希望能学会更主动地表达自己的感受，而不是一直把情绪藏起来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得可以再多想想一些具体的小事，比如我能做哪些力所能及的事，这样在沟通时更有说服力。另外，也要提醒自己，不管结果如何，这都是一种尝试和进步，不能太过焦虑。你觉得还有什么需要注意的吗？",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以再多想想一些具体的小事，比如我能做哪些力所能及的事，这样在沟通时更有说服力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "嗯，这样听起来很有道理！观察他们的反应，及时调整语气或表达方式，可能会让沟通更顺利一些。我觉得这样做也会让我更有自信去说出自己的想法，谢谢你的提醒！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样听起来很有道理！观察他们的反应，及时调整语气或表达方式，可能会让沟通更顺利一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "好的，谢谢你！这次聊下来让我感觉轻松了不少，也更清楚该怎么去尝试和表达自己的感受。我会按照计划去做，有需要的话再来找你聊。今天先聊到这里吧，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，谢谢你！这次聊下来让我感觉轻松了不少，也更清楚该怎么去尝试和表达自己的感受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

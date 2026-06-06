@@ -1,0 +1,666 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，这段时间我确实试着提前告诉她一些我的安排，比如周末打算去图书馆学习。我发现她的反应比以前平和了一些，但有时候还是会追问得很细，比如“具体几点去几点回”，让我觉得有点压力…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这段时间我确实试着提前告诉她一些我的安排，比如周末打算去图书馆学习",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，当时我尽量简单回答，比如“可能下午三点回来”，但她还是会继续问。感觉她语气里有点不放心，好像在确认我能不能按时回来一样…让我有点紧张。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，当时我尽量简单回答，比如“可能下午三点回来”，但她还是会继续问",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "我觉得可能都有一点吧，她总是怕我计划有变，或者怕我没照顾好自己。听到这些追问，我会觉得有点被束缚，好像她不太相信我能独立做好事情…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能都有一点吧，她总是怕我计划有变，或者怕我没照顾好自己",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "是啊，我有时候也觉得矛盾。比如我希望她能多相信我的能力，但有些时候又会不自觉依赖她的意见，觉得这样更有安全感。这种感觉真的挺复杂的…",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，我有时候也觉得矛盾",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "对，尤其是遇到比较大的决定时，比如选课程或者处理人际关系，我会特别想听她的意见。还有心情不好的时候，我也会第一时间找她倾诉，感觉她的支持能让我稳定下来。",
+    "has_specific_detail": true,
+    "specific_detail": "对，尤其是遇到比较大的决定时，比如选课程或者处理人际关系，我会特别想听她的意见",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，有时候我会试着自己先分析，比如写下选课程的利弊，或者听听朋友的建议。但每次到最后，还是会想要确认一下她的看法，好像只有她说可以，我才更安心。这样做让我觉得自己不够果断…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，有时候我会试着自己先分析，比如写下选课程的利弊，或者听听朋友的建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，小时候如果有重要的选择，比如参加什么兴趣班，我记得总是妈妈帮我决定。她会告诉我哪个更好，但很少让我自己选。所以现在遇到类似的事情，我好像也习惯性地等她的建议，觉得这样更踏实…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，小时候如果有重要的选择，比如参加什么兴趣班，我记得总是妈妈帮我决定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "现在我觉得自己比小时候更能考虑事情的后果了，比如选课程时会想哪门对以后更有帮助。这是小时候不会去想的，但即使这样，我还是会有点不确定，怕自己漏掉什么重要的细节…",
+    "has_specific_detail": true,
+    "specific_detail": "现在我觉得自己比小时候更能考虑事情的后果了，比如选课程时会想哪门对以后更有帮助",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "可能两者都有吧，一方面我会怀疑自己的判断是否全面，另一方面也很害怕如果决定错了会带来什么后果。总觉得自己需要更可靠的支持才能放心去做选择…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧，一方面我会怀疑自己的判断是否全面，另一方面也很害怕如果决定错了会带来什么后果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "嗯，我觉得可以试着从一些小的决定开始，比如每天的学习安排或者选一件简单的事情自己做主。这样或许能慢慢建立对自己判断的信心。不过，有时候还是会忍不住想要找人确认一下…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以试着从一些小的决定开始，比如每天的学习安排或者选一件简单的事情自己做主",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "嗯，这听起来可以试试！比如每天给自己设定一个决定不找别人确认的事情，哪怕是选今天的午餐。这样或许能慢慢减少那种依赖的感觉，但可能一开始会有点不安…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来可以试试！比如每天给自己设定一个决定不找别人确认的事情，哪怕是选今天的午餐",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "对，可以试试记录下每次自己独立决定后的结果，比如哪怕是选了喜欢的午餐。如果觉得结果还不错，就奖励自己一块巧克力什么的，这样可能会更有动力坚持！",
+    "has_specific_detail": true,
+    "specific_detail": "对，可以试试记录下每次自己独立决定后的结果，比如哪怕是选了喜欢的午餐",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，每天一个小目标感觉挺合适的！可以从明天开始试试，比如自己决定学习的时间安排，或者晚饭吃什么。这样比较简单，也不会太有压力，应该能坚持下来！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，每天一个小目标感觉挺合适的！可以从明天开始试试，比如自己决定学习的时间安排，或者晚饭吃什么",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "如果想确认的时候，我可以试着深呼吸一下，然后告诉自己“这是练习的过程，结果并不一定完美，但重要的是尝试”。或者写下当下的感觉，等过一会再看，可能会冷静些…",
+    "has_specific_detail": true,
+    "specific_detail": "如果想确认的时候，我可以试着深呼吸一下，然后告诉自己“这是练习的过程，结果并不一定完美，但重要的是尝试”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我觉得可以给自己写一段小小的肯定，比如“今天我自己决定了晚饭，很满意这个选择”，或者把成功的小事分享给信任的朋友，这样能更有成就感！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以给自己写一段小小的肯定，比如“今天我自己决定了晚饭，很满意这个选择”，或者把成功的小事分享给信任的朋友，这样能更有成就感！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "我想从明天的学习计划开始试试，比如决定复习哪一门课程和用多长时间。这样不仅是个小决定，也能让我更专注，感觉是个不错的起点！",
+    "has_specific_detail": true,
+    "specific_detail": "我想从明天的学习计划开始试试，比如决定复习哪一门课程和用多长时间",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，我觉得可以用备忘录记录，比如写下“今天我决定复习XX课程，用了XX时间，感觉还不错”。这样既方便又直观，能随时回顾自己的进步！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得可以用备忘录记录，比如写下“今天我决定复习XX课程，用了XX时间，感觉还不错”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我想就奖励自己一杯奶茶吧！感觉比巧克力更适合现在的天气，也算是完成目标后的一点小满足，挺开心的！",
+    "has_specific_detail": true,
+    "specific_detail": "我想就奖励自己一杯奶茶吧！感觉比巧克力更适合现在的天气，也算是完成目标后的一点小满足，挺开心的！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "是的，我会在记录里写下自己的感受，比如“今天这个决定让我觉得有点不安，但最终还是完成了，挺有成就感的”。这样可以帮助自己总结经验！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我会在记录里写下自己的感受，比如“今天这个决定让我觉得有点不安，但最终还是完成了，挺有成就感的”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，我觉得如果顺利的话，可以试着挑战一些稍复杂的事情，比如自己规划一整天的学习和休息安排。这可能会更有挑战，但也更能锻炼我的独立性！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得如果顺利的话，可以试着挑战一些稍复杂的事情，比如自己规划一整天的学习和休息安排",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "如果觉得难，我会提醒自己这是学习的过程，不用追求完美。可以先从最容易安排的部分入手，比如固定的学习时间，然后再慢慢填补其他细节，给自己一点缓冲。",
+    "has_specific_detail": true,
+    "specific_detail": "如果觉得难，我会提醒自己这是学习的过程，不用追求完美",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得最大的收获会是对自己多一分信任吧！能看到自己独立完成了一整天的安排，会让我觉得原来很多事情并不是那么难，只要去尝试就可以做到。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最大的收获会是对自己多一分信任吧！能看到自己独立完成了一整天的安排，会让我觉得原来很多事情并不是那么难，只要去尝试就可以做到",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，我觉得如果自己更自信了，可能在和她互动时会更少依赖她的确认，也能更主动地表达自己的想法。这样或许我们的关系会变得更加平等和轻松一些。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得如果自己更自信了，可能在和她互动时会更少依赖她的确认，也能更主动地表达自己的想法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得可以用温和但坚定的语气，比如“我想试试这样安排，觉得挺适合我的”。这样既表达了自己的想法，也让她感到我在认真考虑，而不是直接否定她的意见。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用温和但坚定的语气，比如“我想试试这样安排，觉得挺适合我的”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "对，她可能还是会不太放心，或者继续给出一些建议。如果这样的话，我觉得可以先听听她的想法，然后告诉她“我会认真考虑，但也想先按自己的计划试试看”。这样可能会让她安心一些。",
+    "has_specific_detail": true,
+    "specific_detail": "对，她可能还是会不太放心，或者继续给出一些建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "如果她接受了我的表达，我可能会感到一种轻松和被理解的感觉吧。好像她终于认可了我有能力去做自己的决定，那种被信任的感觉应该会特别温暖。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她接受了我的表达，我可能会感到一种轻松和被理解的感觉吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "嗯，我会想告诉她，比如“你的信任让我觉得自己更有勇气去尝试，谢谢你愿意给我这个空间”。我觉得让她知道我的成长，也是一种对她的回馈吧！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我会想告诉她，比如“你的信任让我觉得自己更有勇气去尝试，谢谢你愿意给我这个空间”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我觉得需要特别注意的是，要学会平衡自己的独立和她的关心，不要一味抗拒她的建议。另外，也要克服那种对结果的过度担忧，告诉自己尝试本身比完美更重要。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要特别注意的是，要学会平衡自己的独立和她的关心，不要一味抗拒她的建议",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "我觉得可以在每次做决定前，先给自己一个心理暗示，比如“我只需要做到尽力就好，不需要完美”。然后在过程里多关注自己学到了什么，而不是纠结结果是否完美。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以在每次做决定前，先给自己一个心理暗示，比如“我只需要做到尽力就好，不需要完美”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "如果结果不如预期，我会告诉自己“每次尝试都是在积累经验”，然后回头想想过程中有哪些地方做得还不错，或者下次可以改进的地方。这样就不会一直纠结失败了。",
+    "has_specific_detail": true,
+    "specific_detail": "如果结果不如预期，我会告诉自己“每次尝试都是在积累经验”，然后回头想想过程中有哪些地方做得还不错，或者下次可以改进的地方",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 31,
+    "content": "我希望通过练习，能对自己的判断更有信心，不再总依赖别人的确认。同时，在面对情绪波动时，可以更主动地安抚自己，而不是一味寻求外界支持。这会让我觉得更自由、更有掌控感吧！",
+    "has_specific_detail": true,
+    "specific_detail": "我希望通过练习，能对自己的判断更有信心，不再总依赖别人的确认",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "是的，我觉得可以设定一个月为阶段性里程碑。到时候回顾一下这些练习的成果，比如是否更少依赖确认，或者是否更能独立调节情绪，这样也能清楚看到自己的进步！",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我觉得可以设定一个月为阶段性里程碑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "如果遇到大的挑战，我会先提醒自己“这是成长的一部分，不要怕犯错”。如果还是觉得很难，就可能找朋友聊聊，听听他们的建议，但最终还是会尝试独立完成，这样能让我更有信心。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到大的挑战，我会先提醒自己“这是成长的一部分，不要怕犯错”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我会重点记录自己独立完成决定的次数、面对情绪波动时是否更能自我安抚，以及和母亲的互动是否更轻松。这些都能反映出我的成长和改变！",
+    "has_specific_detail": true,
+    "specific_detail": "我会重点记录自己独立完成决定的次数、面对情绪波动时是否更能自我安抚，以及和母亲的互动是否更轻松",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 35,
+    "content": "如果发现有需要调整的地方，我会先分析问题在哪，比如是不是某些类型的决定让我特别犹豫，然后再设定一个针对性的练习目标，比如专注于这类决定，多尝试几次慢慢改进。",
+    "has_specific_detail": true,
+    "specific_detail": "如果发现有需要调整的地方，我会先分析问题在哪，比如是不是某些类型的决定让我特别犹豫，然后再设定一个针对性的练习目标，比如专注于这类决定，多尝试几次慢慢改进",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "如果遇到困难，我可能需要有人鼓励我坚持，比如朋友的简单支持或者写下自己的小进步提醒自己不要放弃。只要看到哪怕一点点进步，我就会觉得更有动力！",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到困难，我可能需要有人鼓励我坚持，比如朋友的简单支持或者写下自己的小进步提醒自己不要放弃",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我觉得可以为自己设定一些特别的奖励，比如完成一个阶段后去看一场喜欢的电影，或者买一本一直想读的书。这样既能放松，也是一种对自己的肯定！",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以为自己设定一些特别的奖励，比如完成一个阶段后去看一场喜欢的电影，或者买一本一直想读的书",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "嗯，我会想和她聊聊，比如告诉她“这段时间我试着自己做了很多决定，感觉成长了不少”。希望她能看到我的努力，也能理解我想变得更独立的心情！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我会想和她聊聊，比如告诉她“这段时间我试着自己做了很多决定，感觉成长了不少”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我觉得可以在一次比较轻松的时刻，比如吃完晚饭一起散步的时候聊。这种时候她心情通常比较好，我也会更容易表达出自己的想法，气氛应该会更自然一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以在一次比较轻松的时刻，比如吃完晚饭一起散步的时候聊",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我可能会先从感谢她开始，比如“最近我尝试自己做了一些决定，发现你的信任让我更有勇气”。然后再慢慢聊我的感受和变化，这样她应该会觉得被尊重，也更愿意倾听。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先从感谢她开始，比如“最近我尝试自己做了一些决定，发现你的信任让我更有勇气”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "如果她有回应，比如说她也注意到我的努力，我会感谢她的认可，然后进一步聊聊我的想法，比如“我希望以后能自己承担更多，但有需要时还是会请教你”。这样既表达了独立的意愿，也让她觉得自己仍然是被需要的。",
+    "has_specific_detail": true,
+    "specific_detail": "如果她有回应，比如说她也注意到我的努力，我会感谢她的认可，然后进一步聊聊我的想法，比如“我希望以后能自己承担更多，但有需要时还是会请教你”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "我希望她能更愿意放手，让我自己去尝试一些事情，同时也能在需要的时候继续支持我。这样我们的关系会更像是伙伴，而不是她一味管教我，这种平等感会让我觉得更加轻松和被尊重。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望她能更愿意放手，让我自己去尝试一些事情，同时也能在需要的时候继续支持我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "我觉得需要多练习清晰地表达自己的想法，比如在她提出建议时，不只是被动接受，而是主动沟通我的考虑。同时，也要学会更好地管理自己的情绪，避免在分歧时变得急躁，这样才能让交流更顺畅。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要多练习清晰地表达自己的想法，比如在她提出建议时，不只是被动接受，而是主动沟通我的考虑",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "我可以试着深呼吸几次，或者在心里默念“冷静下来，不要急着回应”。如果还是觉得情绪上来了，可能会暂时停一下，比如说“我想再想一想，再跟你聊”。这样可以避免说出让双方都不舒服的话。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以试着深呼吸几次，或者在心里默念“冷静下来，不要急着回应”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "我会用温和的语气，比如“刚才我有点没表达清楚，现在想再说明一下我的想法”。这样既表明我重视这次对话，也让她感觉到我是带着诚意继续沟通的。",
+    "has_specific_detail": true,
+    "specific_detail": "我会用温和的语气，比如“刚才我有点没表达清楚，现在想再说明一下我的想法”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "如果她更理解我的想法，我觉得我们的关系会更融洽，也更轻松。她可能会更愿意相信我，而我也会更愿意主动和她分享自己的事情，彼此之间会有更多的信任感吧！",
+    "has_specific_detail": true,
+    "specific_detail": "如果她更理解我的想法，我觉得我们的关系会更融洽，也更轻松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "如果建立了这样的信任，我觉得自己会更有底气去面对生活中的各种选择，不再总是犹豫和害怕。同时，我也会更愿意尝试新事物，感觉对未来会有更多期待和信心。",
+    "has_specific_detail": true,
+    "specific_detail": "如果建立了这样的信任，我觉得自己会更有底气去面对生活中的各种选择，不再总是犹豫和害怕",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "接下来，我会继续每天练习独立做决定，比如从小事开始，逐步增加难度。同时，也会定期回顾自己的进步，用记录和奖励激励自己坚持下去，让这些改变一点点融入到日常生活中。",
+    "has_specific_detail": true,
+    "specific_detail": "接下来，我会继续每天练习独立做决定，比如从小事开始，逐步增加难度",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 49,
+    "content": "如果遇到挫折，我会先允许自己难过一会儿，然后提醒自己“这是成长中的一部分”。可能会听一首喜欢的歌，或者去散个步，让自己放松下来，再继续坚持。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到挫折，我会先允许自己难过一会儿，然后提醒自己“这是成长中的一部分”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "我想会对过去的自己说：“谢谢你愿意坚持，哪怕有时候会觉得难。正因为你的努力，我现在才变得更独立、更自信。你真的做得很好！”",
+    "has_specific_detail": true,
+    "specific_detail": "我想会对过去的自己说：“谢谢你愿意坚持，哪怕有时候会觉得难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "嗯，今天的对话让我更清楚自己的目标，也更期待通过这些练习，逐渐变得更独立和自信。我觉得只要一步步走下去，我会有更多成长和可能性！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，今天的对话让我更清楚自己的目标，也更期待通过这些练习，逐渐变得更独立和自信",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

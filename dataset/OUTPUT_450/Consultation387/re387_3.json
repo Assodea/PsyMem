@@ -1,0 +1,399 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，上次聊过后，我的情绪还是挺难控制的，尤其是最近，有时候突然觉得很压抑，甚至不知道为什么会这样…你觉得会有办法缓解吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，上次聊过后，我的情绪还是挺难控制的，尤其是最近，有时候突然觉得很压抑，甚至不知道为什么会这样…你觉得会有办法缓解吗？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "可能是一个人待着的时候吧，尤其是晚上，感觉周围安静得让人有点透不过气…有时候就会想起一些不太好的事情。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是一个人待着的时候吧，尤其是晚上，感觉周围安静得让人有点透不过气…有时候就会想起一些不太好的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "大多是以前的事情吧，小时候家里经常有人吵架，我总觉得害怕，却又不知道该怎么办…这些场景偶尔还是会跳出来。",
+    "has_specific_detail": true,
+    "specific_detail": "大多是以前的事情吧，小时候家里经常有人吵架，我总觉得害怕，却又不知道该怎么办…这些场景偶尔还是会跳出来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "那时候，我常躲到自己的房间，抱着一个毛绒玩具，感觉它是唯一不会让我失望的东西…但也没人真的来安慰我。",
+    "has_specific_detail": true,
+    "specific_detail": "那时候，我常躲到自己的房间，抱着一个毛绒玩具，感觉它是唯一不会让我失望的东西…但也没人真的来安慰我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是啊，那种孤单的感觉好像一直没完全消失，长大后也总觉得自己只能靠自己，别人似乎很难真正理解我的感受…这种想法让我更不想去倾诉。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，那种孤单的感觉好像一直没完全消失，长大后也总觉得自己只能靠自己，别人似乎很难真正理解我的感受…这种想法让我更不想去倾诉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "有时候会试着看些电影，分散注意力，但效果不太明显…至于别人，可能我老公偶尔会问问我的状态，但我总觉得说了他也未必懂。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候会试着看些电影，分散注意力，但效果不太明显…至于别人，可能我老公偶尔会问问我的状态，但我总觉得说了他也未必懂",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "可能是希望他能真正听懂我的感受吧，而不是只是随口问问…有时候我觉得，他好像并不太明白我为什么会这么情绪化。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是希望他能真正听懂我的感受吧，而不是只是随口问问…有时候我觉得，他好像并不太明白我为什么会这么情绪化",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，好像确实有点类似…小时候没人安慰，现在又觉得他不太懂我，就会让我更加不想去表达，感觉说了也没用。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，好像确实有点类似…小时候没人安慰，现在又觉得他不太懂我，就会让我更加不想去表达，感觉说了也没用",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "如果他能理解，我可能会觉得没那么孤单吧，至少有人能和我一起分担这些情绪…但现在好像很难达到那种状态。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他能理解，我可能会觉得没那么孤单吧，至少有人能和我一起分担这些情绪…但现在好像很难达到那种状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "可能是我自己吧…我总觉得他不会懂，所以不想多说，而他可能也不太知道该怎么接近我，两个人就像隔着什么一样。",
+    "has_specific_detail": true,
+    "specific_detail": "可能是我自己吧…我总觉得他不会懂，所以不想多说，而他可能也不太知道该怎么接近我，两个人就像隔着什么一样",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "我希望我们能更坦诚一点吧，但一想到要说出自己的情绪，就会觉得很难开口…之前试着提过一次，他好像有点不知所措，然后我就更不想说了。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望我们能更坦诚一点吧，但一想到要说出自己的情绪，就会觉得很难开口…之前试着提过一次，他好像有点不知所措，然后我就更不想说了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "不想说",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "也许吧…如果从一些小事开始，可能会没那么难，但我又担心他会觉得这些事情不重要，不知道他会不会真的在意。",
+    "has_specific_detail": true,
+    "specific_detail": "也许吧…如果从一些小事开始，可能会没那么难，但我又担心他会觉得这些事情不重要，不知道他会不会真的在意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "或许可以从最近的一些小情绪聊起，比如我前几天因为工作上的一点小问题觉得烦躁…但我又怕说了他只是随便安慰几句，就没有后续了。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从最近的一些小情绪聊起，比如我前几天因为工作上的一点小问题觉得烦躁…但我又怕说了他只是随便安慰几句，就没有后续了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，听起来是个办法，不过主动去引导他说什么，对我来说好像也有点别扭…我总觉得这不该是我去提醒他的事。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，听起来是个办法，不过主动去引导他说什么，对我来说好像也有点别扭…我总觉得这不该是我去提醒他的事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "也许可以试着试试看吧…不过我还是有点担心，如果效果不好，会让我更觉得自己不该去表达情绪。",
+    "has_specific_detail": true,
+    "specific_detail": "也许可以试着试试看吧…不过我还是有点担心，如果效果不好，会让我更觉得自己不该去表达情绪",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "可能我需要提前告诉自己，这只是一次尝试，成不成功都没关系吧…但就算这么想，内心还是会有点害怕失败的感觉。",
+    "has_specific_detail": true,
+    "specific_detail": "可能我需要提前告诉自己，这只是一次尝试，成不成功都没关系吧…但就算这么想，内心还是会有点害怕失败的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "深呼吸可能会有点用，写下想法倒是没试过…不过感觉写下来可能会让我更清楚自己到底想要表达什么，这样也许更有底气去说吧。",
+    "has_specific_detail": true,
+    "specific_detail": "深呼吸可能会有点用，写下想法倒是没试过…不过感觉写下来可能会让我更清楚自己到底想要表达什么，这样也许更有底气去说吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "可能会写我的感受，比如工作烦躁时的无助，还有希望他能多问问细节，或者至少让我感觉他在认真听吧…这样表达起来可能更清楚些。",
+    "has_specific_detail": true,
+    "specific_detail": "可能会写我的感受，比如工作烦躁时的无助，还有希望他能多问问细节，或者至少让我感觉他在认真听吧…这样表达起来可能更清楚些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "如果顺利的话，我可能会觉得和他更近了一些吧，至少会让我相信，他是愿意理解我的…这样的话，也许以后我会更敢表达一些。",
+    "has_specific_detail": true,
+    "specific_detail": "如果顺利的话，我可能会觉得和他更近了一些吧，至少会让我相信，他是愿意理解我的…这样的话，也许以后我会更敢表达一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "或许可以从小事慢慢积累吧，先试着每次表达一点点，不强求对方完全理解，但至少让我觉得自己在尝试走出那一步。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从小事慢慢积累吧，先试着每次表达一点点，不强求对方完全理解，但至少让我觉得自己在尝试走出那一步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "可能从昨天的事开始吧，昨天晚上我有点烦躁，因为一直睡不着，我可以试着告诉他这种感受，看他会怎么回应。",
+    "has_specific_detail": true,
+    "specific_detail": "可能从昨天的事开始吧，昨天晚上我有点烦躁，因为一直睡不着，我可以试着告诉他这种感受，看他会怎么回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "是啊，直接说好像会更清楚一点。我可以试着说：“我昨晚睡不着，觉得特别烦躁，你有过这种时候吗？”这样他可能会更容易接上话。",
+    "has_specific_detail": true,
+    "specific_detail": "是啊，直接说好像会更清楚一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "如果他接上话，我可能会问他是怎么应对这种烦躁的，然后再说说我的感受，看看能不能顺势聊下去…这样会更自然一点吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他接上话，我可能会问他是怎么应对这种烦躁的，然后再说说我的感受，看看能不能顺势聊下去…这样会更自然一点吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我希望他能认真听完，然后说点让我觉得他明白我的话，比如“原来你这么烦躁啊，我能帮你做点什么吗？”这样的回应会让我觉得被在意了。",
+    "has_specific_detail": true,
+    "specific_detail": "我希望他能认真听完，然后说点让我觉得他明白我的话，比如“原来你这么烦躁啊，我能帮你做点什么吗？”这样的回应会让我觉得被在意了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "嗯，我可以试着这么说，但还是会觉得有点别扭…不过如果这能让他慢慢明白我的需要，或许值得一试吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我可以试着这么说，但还是会觉得有点别扭…不过如果这能让他慢慢明白我的需要，或许值得一试吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "深呼吸应该会有帮助，或者提醒自己这只是一次尝试，不用太在意结果，只要迈出这一步就已经是进步了…这样心里可能会轻松点。",
+    "has_specific_detail": true,
+    "specific_detail": "深呼吸应该会有帮助，或者提醒自己这只是一次尝试，不用太在意结果，只要迈出这一步就已经是进步了…这样心里可能会轻松点",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 27,
+    "content": "嗯，我会试着告诉自己“至少我迈出了第一步，这已经不容易了”，这样可能会让我觉得自己在慢慢进步吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我会试着告诉自己“至少我迈出了第一步，这已经不容易了”，这样可能会让我觉得自己在慢慢进步吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "每周一个小情绪听起来挺不错的，这样不会有太大压力，也能慢慢适应表达的感觉…我觉得可以试试看！",
+    "has_specific_detail": true,
+    "specific_detail": "每周一个小情绪听起来挺不错的，这样不会有太大压力，也能慢慢适应表达的感觉…我觉得可以试试看！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "对，可以从这个开始，反正是刚发生的事，也比较容易开口…希望这次尝试能让我感觉好一些吧！",
+    "has_specific_detail": true,
+    "specific_detail": "对，可以从这个开始，反正是刚发生的事，也比较容易开口…希望这次尝试能让我感觉好一些吧！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "好的，我觉得可以先试试看，如果有新的感受再和你聊聊…谢谢你愿意听我说这些！",
+    "has_specific_detail": true,
+    "specific_detail": "好的，我觉得可以先试试看，如果有新的感受再和你聊聊…谢谢你愿意听我说这些！",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

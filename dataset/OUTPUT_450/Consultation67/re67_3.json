@@ -1,0 +1,1347 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，其实最近感觉还是挺矛盾的。比如有时候想着考研这事，但一想到要复习那些枯燥的医学内容，就特别抗拒…而且，我还会怀疑自己能不能坚持下去，会不会又半途而废。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，其实最近感觉还是挺矛盾的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "嗯，更多是拖延吧。我经常想着“今天状态不好，明天再开始”，然后一天就过去了…有时候连翻开教材都觉得难受，甚至会找其他事情来转移注意力，比如看一些天文科普或者画画。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，更多是拖延吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "对，确实是放松，但好像也在逃避一些压力。我总觉得复习一旦开始，就意味着得面对那种被强迫学习的感觉，像小时候父母逼着我学一些不喜欢的内容一样…这种记忆让我特别抗拒。",
+    "has_specific_detail": true,
+    "specific_detail": "对，确实是放松，但好像也在逃避一些压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "嗯，记得特别清楚。有一次考试前，父母直接把我关在书房，让我背一整章内容，还说“考不好就别想玩”这种话。我当时又委屈又害怕，就觉得自己好像只配努力学习，其他感受都不重要。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，记得特别清楚",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "会的，这种感觉还是挺强烈的。我总觉得如果不努力复习，就好像在辜负什么期待…但同时又特别抵触这种压力，结果就变成了拖着不做，还因为拖延而更加自责，陷入一种恶性循环。",
+    "has_specific_detail": true,
+    "specific_detail": "会的，这种感觉还是挺强烈的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "抵触"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "应该两方面都有吧。自己设定的标准可能是因为从小就习惯了“努力才值得被认可”，总怕自己不够好；而别人——尤其是父母的期待，感觉一直都悬在那儿，像一种无形的重量，压得我喘不过气。",
+    "has_specific_detail": true,
+    "specific_detail": "应该两方面都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，可能会轻松一些吧，但同时也会有些不安，好像没有了标准，就不知道该怎么评价自己了…像是一种失去方向的感觉。我觉得，这种状态让我既渴望又害怕。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能会轻松一些吧，但同时也会有些不安，好像没有了标准，就不知道该怎么评价自己了…像是一种失去方向的感觉",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，如果能按照自己的兴趣，比如画画或者探索天文领域，可能会更有满足感吧。但这又让我纠结，因为这些东西好像没法和现实的“成功”挂钩，感觉父母也不会认可…所以总觉得很难找到一个平衡点。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果能按照自己的兴趣，比如画画或者探索天文领域，可能会更有满足感吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "嗯，其实有时候也想试试，比如画些医学相关的插图或者做科普内容，这样既能结合兴趣，又和专业有点联系。但又担心自己做得不够好，还会被别人质疑是不是浪费时间…这种想法让我很犹豫。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，其实有时候也想试试，比如画些医学相关的插图或者做科普内容，这样既能结合兴趣，又和专业有点联系",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "更多是对自己能力的怀疑吧，总觉得自己水平不够，可能画出来的东西没人看或者不够专业…还有一点是怕被身边的人——尤其是家人说“这种东西没意义”，感觉会很难受。",
+    "has_specific_detail": true,
+    "specific_detail": "更多是对自己能力的怀疑吧，总觉得自己水平不够，可能画出来的东西没人看或者不够专业…还有一点是怕被身边的人——尤其是家人说“这种东西没意义”，感觉会很难受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "是的，可能从小时候起就习惯了把别人的评价当成自己价值的衡量标准吧。尤其是父母的认可，总觉得如果他们觉得我做得好，我才算“够好”…但这种依赖评价的心态，也让我特别害怕被否定。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，可能从小时候起就习惯了把别人的评价当成自己价值的衡量标准吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，可能会更自由吧，但又觉得少了他们的认可，就好像这些尝试没什么意义一样…我总是下意识地想让别人看到我的努力，哪怕是一个小小的肯定，也会让我安心很多。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能会更自由吧，但又觉得少了他们的认可，就好像这些尝试没什么意义一样…我总是下意识地想让别人看到我的努力，哪怕是一个小小的肯定，也会让我安心很多",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "嗯，这听起来是个好办法。其实有时候完成了小目标，比如画完一幅作品，确实会有点成就感。但总觉得这种肯定“没那么重要”，好像还是得被别人认可才算真正有意义…这让我挺矛盾的。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来是个好办法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "嗯，这倒是可以试试。我之前画了几幅画，有朋友说挺有创意的，但我总觉得他们可能只是在安慰我…这种不信任的感觉让我有点难以接受真正的肯定。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这倒是可以试试",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "嗯，我觉得自己在创意方面还不错，比如画画时能想到一些独特的表达方式，这让我偶尔会有些自信…但每次这种感觉都很短暂，之后又开始怀疑自己是不是只是“自以为好”，很难真正相信自己有实力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得自己在创意方面还不错，比如画画时能想到一些独特的表达方式，这让我偶尔会有些自信…但每次这种感觉都很短暂，之后又开始怀疑自己是不是只是“自以为好”，很难真正相信自己有实力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，这听起来是个好方法，感觉通过积累可以慢慢看到自己的进步。不过我还是担心坚持不下来，或者作品质量不够好…这种害怕失败的心态总是让我难以开始。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来是个好方法，感觉通过积累可以慢慢看到自己的进步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，这样确实可能没那么有压力，比如每天画一个简单的元素或者尝试一种新技法…不过我还是会忍不住想，如果成果不够好，是不是就没意义了？这种想法总让我犹豫很久。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实可能没那么有压力，比如每天画一个简单的元素或者尝试一种新技法…不过我还是会忍不住想，如果成果不够好，是不是就没意义了？这种想法总让我犹豫很久",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "嗯，这样可能会轻松一些。把它当成一种探索的话，感觉失败也没那么可怕了…不过我还是会不自觉地想着最终效果，有时候会觉得“探索”好像只是种自我安慰。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样可能会轻松一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "嗯，这听起来不错，比如完成一幅练习后就可以去看一集天文纪录片或者画自己喜欢的东西…这样可能让我更期待过程，而不是只盯着结果。不过，我还是担心如果做得不好，会觉得不配奖励，甚至会更沮丧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来不错，比如完成一幅练习后就可以去看一集天文纪录片或者画自己喜欢的东西…这样可能让我更期待过程，而不是只盯着结果",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "嗯，这样想的话确实会轻松一些，至少尝试本身也能算是一种进步。不过，我可能还需要一点时间去适应这种“努力本身就有价值”的想法，总觉得自己习惯了只关注结果，很难一下子转变过来…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想的话确实会轻松一些，至少尝试本身也能算是一种进步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "嗯，这确实是个好办法。写下感受的话，可能会让我更关注过程中的小进步，而不是只盯着最终效果…但有时候我又会觉得，这些“小进步”是不是太微不足道了，真的能说明什么吗？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这确实是个好办法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "嗯，这听起来挺有意义的，每月总结一下可能能让我看到自己慢慢在进步…不过我还是会担心，如果变化太小，会不会反而让自己觉得没什么成长？这种担忧总让我不太敢去尝试记录。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来挺有意义的，每月总结一下可能能让我看到自己慢慢在进步…不过我还是会担心，如果变化太小，会不会反而让自己觉得没什么成长？这种担忧总让我不太敢去尝试记录",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "嗯，这样好像确实更全面一些。比如哪怕只是坚持了一天复习或者完成了一个小元素，也能算是一种努力的体现。不过，我还是觉得自己会忍不住和别人的进步对比，担心这种“小努力”不够有意义…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样好像确实更全面一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "嗯，这样想的话确实会减轻一点压力。和自己的过去比，感觉进步更容易被看见，比如看到自己多坚持了一些，就会有种小小的成就感…不过，有时候还是会忍不住拿别人作为标准，觉得自己的进步太慢，像是在原地踏步。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想的话确实会减轻一点压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "嗯，这样的话可能会让我更容易接受自己的进步，专注于一点一点的提升，而不是追求完美或者别人那种快速的成果…不过，有时候还是会觉得这个标准是不是太“低”，好像不够有挑战性，总是纠结要不要设得更高一些。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的话可能会让我更容易接受自己的进步，专注于一点一点的提升，而不是追求完美或者别人那种快速的成果…不过，有时候还是会觉得这个标准是不是太“低”，好像不够有挑战性，总是纠结要不要设得更高一些",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "嗯，这听起来挺合理的，先从简单的目标开始，比如每天完成一个小细节，然后逐渐增加难度…这样可能会让我更容易坚持下去，同时还能看到自己的进步。不过，我还是会担心自己会不会因为进展慢而失去动力，总觉得成长应该快一点才算“有效”。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来挺合理的，先从简单的目标开始，比如每天完成一个小细节，然后逐渐增加难度…这样可能会让我更容易坚持下去，同时还能看到自己的进步",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "嗯，这样确实能缓解一点压力。比如允许自己偶尔休息一天，或者调整目标到自己觉得更轻松的程度…但我还是会有点内疚，觉得“慢下来”好像是在浪费时间，这种内疚感让我很难完全放松下来。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能缓解一点压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "嗯，这听起来挺合理的，把休息也列入计划内的话，感觉不会那么“心虚”，甚至可能让自己更期待这一天的到来…不过我还是会担心，如果休息的时候没做什么特别的事情，会不会觉得这段时间完全没有价值？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这听起来挺合理的，把休息也列入计划内的话，感觉不会那么“心虚”，甚至可能让自己更期待这一天的到来…不过我还是会担心，如果休息的时候没做什么特别的事情，会不会觉得这段时间完全没有价值？",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "嗯，这倒是个好办法，比如休息时看一部喜欢的纪录片或者画些自己随意想到的东西，确实会感觉时间没那么空虚…不过，有时候还是会觉得这些活动“太随意”，好像没办法真正证明自己在做有意义的事情。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这倒是个好办法，比如休息时看一部喜欢的纪录片或者画些自己随意想到的东西，确实会感觉时间没那么空虚…不过，有时候还是会觉得这些活动“太随意”，好像没办法真正证明自己在做有意义的事情",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "嗯，这样可能会让我更关注自己的内心感受，而不是一味追求“意义”。比如写下“看纪录片时学到了一个新知识”或者“画画时觉得很放松”，这样或许能让我看到休息的价值…但有时候，我还是会觉得，这些东西是不是不够“实质”，好像离现实目标有点远。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样可能会让我更关注自己的内心感受，而不是一味追求“意义”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "嗯，这样想确实会让休息显得更有意义，像是为了长远目标而做的准备，而不是单纯的“消耗时间”。比如休息后状态好了，可能就能更专注地完成复习或者创作…不过，我还是会担心自己是不是会因为这种“间接助力”的想法，反而给自己增加了压力，觉得休息也得有成效。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想确实会让休息显得更有意义，像是为了长远目标而做的准备，而不是单纯的“消耗时间”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "嗯，这样想可能会更轻松一些，像是给自己一个完全自由的空间，不用背负任何期待…但我还是会有点不习惯，总觉得如果不做点“有意义”的事，好像就浪费了时间，内心会有点纠结。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想可能会更轻松一些，像是给自己一个完全自由的空间，不用背负任何期待…但我还是会有点不习惯，总觉得如果不做点“有意义”的事，好像就浪费了时间，内心会有点纠结",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "嗯，这个方法听起来不错，结束时写下一句轻松的感受，可能会让我更容易接受这段时间的价值，比如“今天看纪录片让我学到新的视角”或者“画画时特别放松”。这样或许能让我慢慢适应，觉得即使没直接“成果”，休息也还是有意义的…不过，我还是担心这种记录会不会显得太简单，好像不能真正证明这段时间的“有效性”。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这个方法听起来不错，结束时写下一句轻松的感受，可能会让我更容易接受这段时间的价值，比如“今天看纪录片让我学到新的视角”或者“画画时特别放松”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "嗯，这样的话可能会让我更容易看见休息的好处，比如总结后发现自己状态有改善，或者情绪变得更稳定…但我还是会有些担心，如果每周总结时发现变化不大，会不会反而觉得自己没休息“对地方”，感觉有点挫败。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样的话可能会让我更容易看见休息的好处，比如总结后发现自己状态有改善，或者情绪变得更稳定…但我还是会有些担心，如果每周总结时发现变化不大，会不会反而觉得自己没休息“对地方”，感觉有点挫败",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "嗯，这样确实能让总结看起来更轻松一些，比如记录“看纪录片时学到了新知识”或者“听到一首好歌让我很开心”。关注这些小瞬间可能会让我更容易感受到休息的意义…不过，我还是会有点担心，如果这些瞬间太少，会不会让我觉得自己整周都不够充实？",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让总结看起来更轻松一些，比如记录“看纪录片时学到了新知识”或者“听到一首好歌让我很开心”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "嗯，这样确实会更全面一些，既记录了让自己开心的小瞬间，又肯定了自己的努力，比如“坚持画了两次练习”或者“多看了一篇复习资料”。这样可能会让我更容易看到整周的价值…不过，我还是会担心这些努力是不是“不够多”，总是觉得自己应该再多做点。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实会更全面一些，既记录了让自己开心的小瞬间，又肯定了自己的努力，比如“坚持画了两次练习”或者“多看了一篇复习资料”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "嗯，这样想确实能让我稍微放松些，比如告诉自己“这周允许有一天休息或节奏慢一点”，感觉不会那么苛责自己…不过，我还是会有点担心，这种“慢下来”是不是会变成一种借口，让自己越来越拖延，甚至影响整体目标。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样想确实能让我稍微放松些，比如告诉自己“这周允许有一天休息或节奏慢一点”，感觉不会那么苛责自己…不过，我还是会有点担心，这种“慢下来”是不是会变成一种借口，让自己越来越拖延，甚至影响整体目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "嗯，这样划分确实能让我感觉更有条理，比如规定两天完全放松，其他时间集中完成任务。这样可能会让我更容易专注于行动，同时也不觉得自己太“散漫”…不过，我还是会担心，如果休息时没能完全放松，或者工作时效率不高，会不会让我觉得整个计划都失败了。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样划分确实能让我感觉更有条理，比如规定两天完全放松，其他时间集中完成任务",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "嗯，这样确实会更包容一些，比如如果某天状态不好，可以减少任务量，或者把任务换成更简单的内容，这样感觉压力不会那么大…不过，有时候还是会担心自己会不会因此变得过于“随意”，导致最后没能完成整体目标。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实会更包容一些，比如如果某天状态不好，可以减少任务量，或者把任务换成更简单的内容，这样感觉压力不会那么大…不过，有时候还是会担心自己会不会因此变得过于“随意”，导致最后没能完成整体目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "嗯，这样定期回顾确实能让我感觉更有方向，比如记录“完成了三次练习，调整了一次任务量”，这样可能会让我看到自己在努力的同时也在适应状态…不过，我还是会担心这种调整会让目标拖得太久，最后变成一种“自我宽容”，好像没办法真正达到自己的期待。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样定期回顾确实能让我感觉更有方向，比如记录“完成了三次练习，调整了一次任务量”，这样可能会让我看到自己在努力的同时也在适应状态…不过，我还是会担心这种调整会让目标拖得太久，最后变成一种“自我宽容”，好像没办法真正达到自己的期待",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "嗯，这样确实能让我更清楚目标进度，比如写下“离完成整个练习还有两部分，下周先完成第一部分”。这样既适应状态，也不会感觉偏离方向…不过，我还是会担心，如果下周任务没完成，是不是又会陷入自责，觉得自己不够努力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更清楚目标进度，比如写下“离完成整个练习还有两部分，下周先完成第一部分”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "嗯，这样确实能缓解一些压力，比如如果任务没完成，可以改成完成部分内容或者尝试其他方式。这样感觉更灵活，也不会那么容易陷入自责…不过，有时候还是会觉得这种调整是不是在给自己找借口，好像有点“不够认真”。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能缓解一些压力，比如如果任务没完成，可以改成完成部分内容或者尝试其他方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "嗯，这样确实会让调整更有规划，比如记录“今天状态不佳，所以任务减半，下次补上”之类的内容。这样感觉调整是基于实际情况，而不是单纯为了逃避…不过，我还是会有点担心，这种记录会不会让我过于专注问题，反而增加了对失败的关注，影响整体的心态。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实会让调整更有规划，比如记录“今天状态不佳，所以任务减半，下次补上”之类的内容",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "嗯，这样确实能让心态更平衡一些，比如写下“虽然只完成了一半任务，但至少达成了关键部分”。这样既看到问题，也能关注自己的努力…不过，我还是会担心这些积极的部分是不是太“宽慰”自己，感觉好像在降低对目标的要求。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让心态更平衡一些，比如写下“虽然只完成了一半任务，但至少达成了关键部分”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "嗯，这样确实会更有方向感，比如写下“今天完成了一半，下次专注补全”，感觉既肯定了自己的努力，也明确了下一步目标。这样可能让我更容易接受自己的进展，同时不会觉得在宽慰自己…不过，有时候还是会担心，如果补全的部分又没完成，可能还是会陷入一种循环的自责。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实会更有方向感，比如写下“今天完成了一半，下次专注补全”，感觉既肯定了自己的努力，也明确了下一步目标",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "嗯，这样确实能让我感觉过程更宽容一些，比如写下“如果这次没完成，可以尝试换个方法”。这样让我看到还有下一步的可能，而不是停留在失败的情绪里…不过，我还是会有点担心，如果调整次数太多，会不会让我觉得自己总在拖延目标，缺乏效率。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我感觉过程更宽容一些，比如写下“如果这次没完成，可以尝试换个方法”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "嗯，这样确实会让目标更明确，比如写下“调整后计划三天内完成”，这样能给自己一个清晰的截止时间，感觉更有动力去行动…不过，我还是担心如果到时候没完成，会不会又觉得自己不够自律，陷入对自己的失望。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实会让目标更明确，比如写下“调整后计划三天内完成”，这样能给自己一个清晰的截止时间，感觉更有动力去行动…不过，我还是担心如果到时候没完成，会不会又觉得自己不够自律，陷入对自己的失望",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "嗯，这样确实能让我看到即使没完成目标，也还是有收获，比如写下“虽然没完成任务，但发现了一个更好的复习方法”。这样可能让我感觉失望少一些，同时更愿意继续尝试…不过，我还是会有点害怕，如果这种“找积极意义”的方式变成一种习惯，会不会让我对目标的要求逐渐降低，影响长远的进步。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我看到即使没完成目标，也还是有收获，比如写下“虽然没完成任务，但发现了一个更好的复习方法”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "嗯，这样确实能让我既看到自己的努力，又明确下一步行动，比如记录“下次用新的方法试着提高效率”。这样感觉既有方向，也不会觉得自己在降低标准…不过，有时候还是会担心，如果改进后效果依然不好，会不会让我觉得自己一直在原地打转，很难真正突破。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我既看到自己的努力，又明确下一步行动，比如记录“下次用新的方法试着提高效率”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "嗯，这样确实会让我更容易看到自己的成长，比如写下“比刚开始时更能坚持任务”，让我意识到即使短期效果不佳，长期还是有进步的。这样可能让我更有信心去继续尝试…不过，我还是会担心，如果进步太慢，会不会让我觉得自己和理想的目标之间距离太远，甚至开始怀疑自己的能力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实会让我更容易看到自己的成长，比如写下“比刚开始时更能坚持任务”，让我意识到即使短期效果不佳，长期还是有进步的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "嗯，这样确实能缓解一些焦虑，比如完成一小部分后奖励自己看一集喜欢的纪录片，感觉能让过程更有动力。同时，这种阶段性目标可能会让我更容易看到自己一步步在接近目标…不过，我还是会担心，如果阶段性成果不够明显，会不会让我觉得自己的努力还是不够“有效”。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能缓解一些焦虑，比如完成一小部分后奖励自己看一集喜欢的纪录片，感觉能让过程更有动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "嗯，这样确实能让我更关注过程中的努力，比如记录“这次克服了拖延，完成了一部分任务”，感觉能让我意识到即使成果不大，过程本身也有价值…不过，有时候还是会觉得这些“过程的价值”是不是有点自我安慰，总怕自己因此降低对成果的要求，失去长远的动力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更关注过程中的努力，比如记录“这次克服了拖延，完成了一部分任务”，感觉能让我意识到即使成果不大，过程本身也有价值…不过，有时候还是会觉得这些“过程的价值”是不是有点自我安慰，总怕自己因此降低对成果的要求，失去长远的动力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "嗯，这样确实能让我在关注过程的同时，保持对长远目标的专注，比如设定“最终目标在三个月内完成”。这样感觉过程的努力更像是为长远计划服务，而不是单纯的自我安慰…不过，有时候还是会担心，如果时间线到了却没完成目标，会不会让我觉得自己失败了，甚至开始怀疑整个计划的意义。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我在关注过程的同时，保持对长远目标的专注，比如设定“最终目标在三个月内完成”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "嗯，这样确实能让我更容易接受结果，比如总结“这三个月让我意识到自己的节奏和适合的学习方式”。这样感觉即使没完全达成目标，也能看到计划带来的收获，并为下一阶段调整策略…不过，有时候还是会担心这种总结会不会让我过于关注反思，而忽略了实际行动的效率，总觉得自己还是需要更高效一点才行。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更容易接受结果，比如总结“这三个月让我意识到自己的节奏和适合的学习方式”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 55,
+    "content": "嗯，这样确实能让反思和行动结合起来，比如总结后直接制定“每天多复习15分钟”的计划，让下一步更具体。这样可能会让我感觉反思不仅是回顾，也是在为行动铺路…不过，有时候还是会担心，如果这个计划执行得不好，会不会让我觉得自己反思了也没用，影响整体的信心。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让反思和行动结合起来，比如总结后直接制定“每天多复习15分钟”的计划，让下一步更具体",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "嗯，这样确实能减少压力，比如如果15分钟坚持不了，就改成10分钟，让计划更贴合我的状态。这样可能让我更容易持续行动，也不至于因为偶尔没完成而觉得自己失败…不过，我还是会担心，如果调整得太多，会不会让计划显得不够坚定，最终目标也变得遥不可及。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能减少压力，比如如果15分钟坚持不了，就改成10分钟，让计划更贴合我的状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "嗯，这样确实能让我既调整节奏，又保持目标清晰，比如写下“核心目标仍是三个月内完成，但优化节奏以适应状态”。这样感觉调整是为目标服务，而不是偏离方向…不过，我还是会有些担心，如果状态一直不好，总是需要调整，会不会让我觉得自己离目标越来越远，甚至开始怀疑自己的能力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我既调整节奏，又保持目标清晰，比如写下“核心目标仍是三个月内完成，但优化节奏以适应状态”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "嗯，这样确实能让我更清楚自己的进展，比如回顾“已经完成了目标的30%”，感觉哪怕状态不好，也有在一步步前进。这样可能会让我更容易看到自己的努力，而不是总觉得自己停滞不前…不过，我还是会担心，如果进展太慢，会不会让我对整个目标的期待越来越低，最终失去动力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更清楚自己的进展，比如回顾“已经完成了目标的30%”，感觉哪怕状态不好，也有在一步步前进",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "嗯，这样确实能让我更有动力，比如完成30%后奖励自己吃喜欢的甜点或做点轻松的活动。这样可能会让我觉得过程更值得期待，也能稍微缓解对进展速度的焦虑…不过，我还是会担心，如果庆祝太多，会不会让我觉得自己过于“放松”，好像没有真正严肃地对待目标。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更有动力，比如完成30%后奖励自己吃喜欢的甜点或做点轻松的活动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "嗯，这样设定奖励的节点确实能让我感觉更有节制，比如每完成目标的25%庆祝一次，让奖励和进度结合起来。这样可能会让我更专注于目标，同时也能感受到自己的努力在被肯定…不过，我还是会担心，如果进度停滞太久，没能达到下一个庆祝节点，会不会让我觉得动力不足，甚至开始怀疑自己是不是做不到。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样设定奖励的节点确实能让我感觉更有节制，比如每完成目标的25%庆祝一次，让奖励和进度结合起来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "嗯，这样确实能帮助我重新启动，比如设一个微目标“每天完成一个小任务”，让进度一点点恢复过来。这样可能会让我感觉即使停滞，也还能慢慢找回节奏，减少对能力的怀疑…不过，我还是会担心，如果这些微目标达成后没有明显效果，会不会让我觉得自己的努力还是不够“有用”，最终难以坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能帮助我重新启动，比如设一个微目标“每天完成一个小任务”，让进度一点点恢复过来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 62,
+    "content": "嗯，这样记录反思确实能让我更关注积累的过程，比如写下“今天完成任务让我发现可以调整复习重点”。这样可能会让我觉得每一步都在为目标服务，哪怕短期效果不明显也不至于太焦虑…不过，我还是会担心，如果积累过程太慢，会不会让我对整个目标的期待降低，觉得自己无法实现长远的计划。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样记录反思确实能让我更关注积累的过程，比如写下“今天完成任务让我发现可以调整复习重点”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "嗯，这样确实能让我更容易接受节奏变化，比如记录“当前阶段专注稳步行动，最终目标仍然明确”。这样可能会让我觉得过程是有方向的，哪怕进展慢一些也不会影响整体计划…不过，我还是会担心，如果这个阶段一直没有明显突破，会不会让我觉得自己停留在原地，难以真正达到目标。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更容易接受节奏变化，比如记录“当前阶段专注稳步行动，最终目标仍然明确”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "嗯，这样确实能让我更主动一些，比如在反思时尝试改变学习方式，比如用更有趣的形式复习或者分解目标到更小的任务。这样可能会让我觉得自己在寻找新的突破点，而不是停留在原地…不过，我还是会担心，如果新的方法效果不好，会不会让我觉得自己连调整的能力都不够，进一步加深对自己的怀疑。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更主动一些，比如在反思时尝试改变学习方式，比如用更有趣的形式复习或者分解目标到更小的任务",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "嗯，这样设定试验期确实能让我更客观，比如一周后记录“新的方法虽然效果有限，但让我发现了更适合的节奏”。这样可能会让我看到调整的价值，而不是直接否定自己…不过，我还是会有点担心，如果试验期后没有明显改善，会不会让我觉得自己浪费了时间，甚至对目标的信心进一步减弱。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样设定试验期确实能让我更客观，比如一周后记录“新的方法虽然效果有限，但让我发现了更适合的节奏”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 66,
+    "content": "嗯，这样确实能让我看到过程的意义，比如记录“试验期让我发现哪些方法不适合自己，下次可以尝试其他策略”。这样可能会让我觉得探索本身也是有价值的，即使效果有限也在为目标积累经验…不过，我还是会有些担心，如果这样的启发太少，会不会让我觉得自己的进步还是太缓慢，距离目标越来越远。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我看到过程的意义，比如记录“试验期让我发现哪些方法不适合自己，下次可以尝试其他策略”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 67,
+    "content": "嗯，这样确实能让我更清楚自己的整体进步，比如列出“过去几周尝试了新的学习方法、完成了几次练习”。这样可能会让我觉得自己一直在行动，而不是完全停滞…不过，我还是会有点担心，如果总结后发现收获不多，会不会让我觉得自己的努力太零散，最终目标依然遥不可及。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更清楚自己的整体进步，比如列出“过去几周尝试了新的学习方法、完成了几次练习”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 68,
+    "content": "嗯，这样确实能让我更集中，比如在总结时明确“下阶段核心任务是完成一章复习”。这样可能会让我觉得自己的行动更有重点，也减少那种零散的感觉…不过，我还是会担心，如果核心任务没能按计划完成，会不会让我觉得自己不够专注，最终又陷入对自己的失望。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更集中，比如在总结时明确“下阶段核心任务是完成一章复习”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 69,
+    "content": "嗯，这样确实能让我感觉目标更灵活，比如设定“如果一章复习有困难，可以分成两部分完成”，让我觉得任务变得更可操作。这样可能会让我减轻一些对失败的担忧，也更愿意尝试行动…不过，我还是会担心，如果备用方案也没完成，会不会让我觉得自己连最基础的任务都做不到，进一步怀疑自己的能力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我感觉目标更灵活，比如设定“如果一章复习有困难，可以分成两部分完成”，让我觉得任务变得更可操作",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 70,
+    "content": "嗯，这样记录状态分析确实能让我更理解自己，比如写下“今天心情低落，效率下降，但尝试完成了一小部分任务”。这样可能会让我看到行动背后的原因，而不是直接否定自己…不过，我还是会担心，如果状态长期不好，分析了很多次都没找到有效的调整方法，会不会让我觉得自己无法突破困境，陷入一种无力感。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样记录状态分析确实能让我更理解自己，比如写下“今天心情低落，效率下降，但尝试完成了一小部分任务”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 71,
+    "content": "嗯，这样确实能让我更主动一些，比如在状态分析后试着改变学习环境，比如去图书馆或者调整到早晨学习。这样可能会让我感觉自己在积极寻找突破点，而不是完全陷入困境…不过，我还是会担心，如果这些实验没有带来明显变化，会不会让我觉得自己做了很多却依然无能为力，甚至更加失望。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更主动一些，比如在状态分析后试着改变学习环境，比如去图书馆或者调整到早晨学习",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 72,
+    "content": "嗯，这样确实能让我看到实验的意义，比如记录“换环境后注意力稍有提升，但还需要更多调整”，让我觉得每次尝试都在为改善积累经验。这样可能会让我减少对无能为力的感觉，同时更愿意继续探索…不过，我还是会担心，如果这些记录的发现长期没法转化成实质的进展，会不会让我觉得自己一直在原地打转，难以真正前进。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我看到实验的意义，比如记录“换环境后注意力稍有提升，但还需要更多调整”，让我觉得每次尝试都在为改善积累经验",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 73,
+    "content": "嗯，这样确实能让探索更有方向，比如记录“下次尝试用计时法来提高专注”。这样感觉每次发现都能转化为行动，减少那种原地打转的感觉…不过，我还是会担心，如果行动后效果依然有限，会不会让我觉得自己的努力还是不够“有效”，最终对目标失去信心。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让探索更有方向，比如记录“下次尝试用计时法来提高专注”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 74,
+    "content": "嗯，这样确实能让我更关注自己的坚持，比如记录“虽然效果有限，但完成了计划的时间”，让我看到努力本身也有价值。这样可能会让我减轻一些对短期成果的焦虑，同时更愿意继续尝试…不过，我还是会担心，如果这种坚持没能带来长期的改变，会不会让我觉得自己的付出依然没有方向，开始怀疑是否值得继续努力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更关注自己的坚持，比如记录“虽然效果有限，但完成了计划的时间”，让我看到努力本身也有价值",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 75,
+    "content": "嗯，这样定期回顾确实能让我更清楚自己的方向，比如每月总结“完成了三次复习任务，尝试了新学习方法”。这样可能会让我看到持续努力的累积效果，让目标显得更具体…不过，我还是会担心，如果总结后发现进展太少，会不会让我觉得自己的努力依然不够，甚至开始怀疑自己是不是能力不足。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样定期回顾确实能让我更清楚自己的方向，比如每月总结“完成了三次复习任务，尝试了新学习方法”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 76,
+    "content": "嗯，这样确实能让我更主动，比如在总结时加入“下个月专注提高效率”的计划，让调整成为行动的一部分。这样可能会让我觉得自己在面对问题，而不是停留在怀疑中…不过，我还是会担心，如果调整后效果依然有限，会不会让我觉得自己连改变现状的能力都不足，进一步陷入焦虑。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更主动，比如在总结时加入“下个月专注提高效率”的计划，让调整成为行动的一部分",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 77,
+    "content": "嗯，这样确实能让我更灵活，比如每周记录“哪种方法有效，哪些需要优化”，让我看到调整是一个持续改进的过程。这样可能会让我觉得即使效果有限，也是在慢慢适应和前进…不过，我还是会担心，如果这些反馈没有明显突破，会不会让我觉得自己的努力过于碎片化，最终难以形成真正的进展。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更灵活，比如每周记录“哪种方法有效，哪些需要优化”，让我看到调整是一个持续改进的过程",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 78,
+    "content": "嗯，这样设阶段性目标确实能让我感觉努力更有方向，比如“下阶段重点完成两次任务”，让碎片化的调整慢慢汇聚成更具体的进展。这样可能会让我减轻一些焦虑，同时觉得自己在逐步接近目标…不过，我还是会担心，如果阶段目标完成得不理想，会不会让我觉得自己始终无法达到理想的状态，从而影响整体的动力。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样设阶段性目标确实能让我感觉努力更有方向，比如“下阶段重点完成两次任务”，让碎片化的调整慢慢汇聚成更具体的进展",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 79,
+    "content": "嗯，这样确实能让我更容易接受不完美，比如总结“这次完成部分目标，发现时间管理可以优化”。这样可能会让我看到即使结果不理想，也在为下一阶段铺路，保持动力…不过，我还是会担心，如果这样的总结次数太多，会不会让我觉得自己总是在反思和调整，而没有真正的突破，感觉有点疲惫。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更容易接受不完美，比如总结“这次完成部分目标，发现时间管理可以优化”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 80,
+    "content": "嗯，这样确实能让我更有动力，比如完成一个阶段后奖励自己去看喜欢的展览或者尝试一次新活动。这样可能会让我觉得过程不仅是反思和调整，还有一些轻松的期待，减轻疲惫感…不过，我还是会担心，如果阶段性突破一直不明显，会不会让我觉得这种奖励也变得没意义，甚至影响对目标的信心。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更有动力，比如完成一个阶段后奖励自己去看喜欢的展览或者尝试一次新活动",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 81,
+    "content": "嗯，这样确实能让我更看重过程，比如在奖励时回顾“这段时间尝试了三种新方法，克服了几次拖延”。这样可能会让我觉得努力本身值得被认可，奖励也更有意义，同时重新激发对目标的信心…不过，我还是会担心，如果这种回顾发现进展仍然有限，会不会让我觉得自己坚持了很多却没什么实质收获，感觉有点挫败。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更看重过程，比如在奖励时回顾“这段时间尝试了三种新方法，克服了几次拖延”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 82,
+    "content": "嗯，这样设定一个小期待确实能让我更具体，比如“下阶段尝试一种新的学习工具”，感觉即使当前进展有限，也能为未来创造新的可能性。这样可能会让我减少一些失望，更愿意继续尝试…不过，我还是会担心，如果新的尝试没有带来明显改变，会不会让我觉得自己总是在试错，逐渐对目标失去耐心。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样设定一个小期待确实能让我更具体，比如“下阶段尝试一种新的学习工具”，感觉即使当前进展有限，也能为未来创造新的可能性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 83,
+    "content": "嗯，这样记录哪些方面值得坚持确实能让我更专注于积累的价值，比如“这个工具帮助我更专注，下次继续使用”。这样可能会让我觉得试错不是完全浪费，而是在筛选适合自己的方法，减少一些疲惫感…不过，我还是会担心，如果值得坚持的部分一直很少，会不会让我觉得自己试了很多却依然找不到方向，开始对整个过程感到迷茫。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样记录哪些方面值得坚持确实能让我更专注于积累的价值，比如“这个工具帮助我更专注，下次继续使用”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 84,
+    "content": "嗯，这样加入新尝试的计划确实能让我感觉过程更有探索性，比如记录“结合工具调整学习时间，看看效果如何”。这样可能会让我觉得自己一直在寻找方向，而不是完全停留在迷茫中…不过，我还是会担心，如果尝试了很多方法却没有突破，会不会让我觉得自己总是在原地打转，最终对目标越来越失去信心。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样加入新尝试的计划确实能让我感觉过程更有探索性，比如记录“结合工具调整学习时间，看看效果如何”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 85,
+    "content": "嗯，这样写下“长期目标需要持续积累，当前探索是必要步骤”确实能让我更容易接受进展缓慢的过程，让自己意识到每次尝试都是在为未来奠定基础。这样可能会让我保持对目标的信心，更愿意继续探索…不过，我还是会担心，如果积累的时间太长，最终目标变得遥远，会不会让我觉得自己的耐心逐渐耗尽，开始质疑努力的意义。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样写下“长期目标需要持续积累，当前探索是必要步骤”确实能让我更容易接受进展缓慢的过程，让自己意识到每次尝试都是在为未来奠定基础",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 86,
+    "content": "嗯，这样设阶段性奖励确实能让我感觉过程更有动力，比如完成一个小里程碑后奖励自己去试试新餐厅或者看一部电影。这样可能会让我觉得每一步都在积累价值，同时减少对目标遥远的焦虑…不过，我还是会担心，如果这些奖励过于频繁，会不会让我觉得自己一直在“享受过程”，而忽略了目标的紧迫性。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样设阶段性奖励确实能让我感觉过程更有动力，比如完成一个小里程碑后奖励自己去试试新餐厅或者看一部电影",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 87,
+    "content": "嗯，这样把奖励和目标进度挂钩确实能让我感觉更有节制，比如每完成阶段性目标的50%再奖励一次。这样可能会让我觉得奖励是对努力的肯定，同时也能保持专注于目标的紧迫性…不过，我还是会担心，如果阶段性进度推进得很慢，会不会让我觉得奖励太遥远，过程变得单调而缺乏激励。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样把奖励和目标进度挂钩确实能让我感觉更有节制，比如每完成阶段性目标的50%再奖励一次",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 88,
+    "content": "嗯，这样确实能让过程更有层次感，比如完成每天任务后看一集喜欢的纪录片作为小激励，同时保留长期奖励来保持对目标的专注。这样可能会让我觉得过程更丰富，不那么单调…不过，我还是会担心，如果小激励和长期奖励都无法让我坚持下去，会不会让我觉得自己根本无法找到持续动力，最终对目标感到无望。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让过程更有层次感，比如完成每天任务后看一集喜欢的纪录片作为小激励，同时保留长期奖励来保持对目标的专注",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 89,
+    "content": "嗯，这样确实能让我感觉激励更贴近目标，比如完成任务后尝试新的学习工具或方法，像是奖励本身也在为目标服务。这样可能会让我觉得过程更有意义，同时增强持续动力…不过，我还是会担心，如果这些与目标相关的激励没有明显效果，会不会让我觉得自己的努力依然很难转化成真正的突破，最终影响整体的信心。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我感觉激励更贴近目标，比如完成任务后尝试新的学习工具或方法，像是奖励本身也在为目标服务",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 90,
+    "content": "嗯，这样设“收获记录”确实能让我更关注努力的价值，比如写下“今天尝试了新工具，发现了适合自己的方法”。这样可能会让我觉得每次激励都在推动进展，而不是单纯期待短期效果…不过，我还是会担心，如果记录的收获总是很有限，会不会让我觉得自己的努力一直停留在浅层，无法真正接近目标。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样设“收获记录”确实能让我更关注努力的价值，比如写下“今天尝试了新工具，发现了适合自己的方法”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 91,
+    "content": "嗯，这样确实能让我更看到小收获的意义，比如记录“这次发现的方法可以应用在后续任务中”。这样可能会让我觉得即使收获有限，也是在为长期目标打基础，减少一些对浅层努力的担忧…不过，我还是会担心，如果后续任务依然难以推进，会不会让我觉得这些关联没能真正帮助目标实现，进而对整个过程感到失落。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更看到小收获的意义，比如记录“这次发现的方法可以应用在后续任务中”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 92,
+    "content": "嗯，这样确实能让我更灵活，比如在记录任务进展时反思“当前方法是否需要优化”。这样可能会让我觉得过程是动态的，随时可以调整，减少对失落感的担忧…不过，我还是会担心，如果优化多次后仍然没有显著效果，会不会让我觉得自己的努力无法带来实际改变，最终影响整体信心。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更灵活，比如在记录任务进展时反思“当前方法是否需要优化”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 93,
+    "content": "嗯，这样确实能让我更关注努力的价值，比如记录“虽然效果有限，但完成了任务的关键部分”。这样可能会让我看到哪怕进展不大，过程还是有意义的，稍微缓解对信心的担忧…不过，我还是会担心，如果阶段性肯定无法持续带来动力，会不会让我觉得自己只能停留在安慰自己，而难以真正突破困境。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更关注努力的价值，比如记录“虽然效果有限，但完成了任务的关键部分”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 94,
+    "content": "嗯，这样确实能让我感觉更有新鲜感，比如在肯定的同时计划尝试一个完全不同的学习方式，比如换成视觉化的笔记或者互动式练习。这样可能会让我对改变多一些期待，同时觉得过程更有趣…不过，我还是会担心，如果新的尝试没有明显效果，会不会让我觉得自己的突破尝试也只是徒劳，最终对目标变得更加犹豫。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我感觉更有新鲜感，比如在肯定的同时计划尝试一个完全不同的学习方式，比如换成视觉化的笔记或者互动式练习",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 95,
+    "content": "嗯，这样记录“探索意义”确实能让我更关注尝试的价值，比如写下“这次尝试让我发现自己更喜欢互动式学习”。这样可能会让我觉得每次行动都有收获，而不是完全徒劳，减少一些对目标的犹豫…不过，我还是会担心，如果这些尝试一直没能带来实际进展，会不会让我觉得自己只是不断在探索，却没有真正前进。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样记录“探索意义”确实能让我更关注尝试的价值，比如写下“这次尝试让我发现自己更喜欢互动式学习”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 96,
+    "content": "嗯，这样设“行动转化计划”确实能让我觉得探索在逐步变成具体行动，比如记录“将发现的偏好应用到下阶段任务中，试着用互动式学习完成一部分复习”。这样可能会让我觉得自己的尝试正在推动进展，减少一些焦虑…不过，我还是会担心，如果转化的行动效果不明显，会不会让我觉得探索和行动都缺乏意义，最终对目标越来越失望。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样设“行动转化计划”确实能让我觉得探索在逐步变成具体行动，比如记录“将发现的偏好应用到下阶段任务中，试着用互动式学习完成一部分复习”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 97,
+    "content": "嗯，这样设一个灵活机制确实能让我更适应实际情况，比如根据效果重新划分任务优先级，调整为“先完成较容易的部分，再逐步攻克难点”。这样可能会让我觉得目标更贴合自己的状态，减少一些对失望的担忧…不过，我还是会担心，如果这种调整次数太多，会不会让我觉得目标变得模糊，最终影响整体的方向感。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样设一个灵活机制确实能让我更适应实际情况，比如根据效果重新划分任务优先级，调整为“先完成较容易的部分，再逐步攻克难点”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 98,
+    "content": "嗯，这样记录“核心目标提醒”确实能让我保持专注，比如写下“最终目标仍是完成任务的整体内容”。这样可能会让我觉得调整是在为目标服务，而不是偏离方向，增加一些方向感…不过，我还是会担心，如果调整后进展依然缓慢，会不会让我觉得自己做了很多努力，却始终难以看到真正的成果，从而对大目标感到动摇。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样记录“核心目标提醒”确实能让我保持专注，比如写下“最终目标仍是完成任务的整体内容”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 99,
+    "content": "嗯，这样确实能让我更容易看到累积的成果，比如在记录时总结“这一阶段完成了三次练习，尝试了新的方法”。这样可能会让我觉得自己一直在行动，即使进展慢也有累积，减轻一些对目标动摇的担忧…不过，我还是会担心，如果阶段性收获总结后发现完成的任务不多，会不会让我觉得自己的行动依然不足，进一步加深对自己的焦虑。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样确实能让我更容易看到累积的成果，比如在记录时总结“这一阶段完成了三次练习，尝试了新的方法”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 100,
+    "content": "嗯，今天确实聊了很多，我感觉这些内容需要一些时间消化和梳理。那就先到这里吧，下次我们可以再接着聊，谢谢你！",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，今天确实聊了很多，我感觉这些内容需要一些时间消化和梳理",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

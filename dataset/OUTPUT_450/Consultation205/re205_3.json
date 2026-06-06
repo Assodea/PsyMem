@@ -1,0 +1,713 @@
+[
+  {
+    "turn": 1,
+    "content": "嗯，这段时间我跟男朋友电话聊过几次关于结婚的话题，但说实话，我还是感觉挺迷茫的。他提到希望尽快开始筹备婚礼，可我总觉得心里没底…比如，工作和生活的平衡到底能不能处理好，我有点害怕结婚后会失去自己的一部分。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这段时间我跟男朋友电话聊过几次关于结婚的话题，但说实话，我还是感觉挺迷茫的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "我有试着提了一下，比如问他如果婚后我工作压力大，是否能理解和支持。他说他会尽量帮我分担，但可能没法完全理解我的工作状态…这让我觉得他虽然有心支持，但我们对生活节奏的理解好像不太一样。",
+    "has_specific_detail": true,
+    "specific_detail": "我有试着提了一下，比如问他如果婚后我工作压力大，是否能理解和支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "嗯，可能两者都有吧。一方面我担心婚后会因为节奏不同产生矛盾；另一方面，我确实希望他能更多地理解我的工作压力，不只是停留在“尽量帮忙”的层面…这种不确定感让我一直犹豫。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，可能两者都有吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "其实我有试过，比如跟他说一天里哪些工作任务让我特别疲惫，或者哪件事需要花很多时间准备…但每次聊到这些，他总说“别太辛苦”，然后就没再多问了。这种回应让我感觉他关心是关心，但还是不够深入了解我的状态。",
+    "has_specific_detail": true,
+    "specific_detail": "其实我有试过，比如跟他说一天里哪些工作任务让我特别疲惫，或者哪件事需要花很多时间准备…但每次聊到这些，他总说“别太辛苦”，然后就没再多问了",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "是的，他确实对我的工作内容不太熟悉，可能觉得高校的工作就是备课和教学，但其实还有很多琐碎的事务要处理…我觉得他可能不知道该怎么去进一步了解，所以才只是简单地安慰我吧。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，他确实对我的工作内容不太熟悉，可能觉得高校的工作就是备课和教学，但其实还有很多琐碎的事务要处理…我觉得他可能不知道该怎么去进一步了解，所以才只是简单地安慰我吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "嗯，这倒是个好办法，比如我可以跟他说一次具体的工作安排，比如备课要查资料、设计讲义，再加上会议和学生咨询…让他更直观地感受到我每天有多忙碌。但我也担心这样会不会显得我太“抱怨”了，让他觉得压力太大。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这倒是个好办法，比如我可以跟他说一次具体的工作安排，比如备课要查资料、设计讲义，再加上会议和学生咨询…让他更直观地感受到我每天有多忙碌",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "嗯，你说得有道理。如果我能在分享时讲一些让我觉得有成就感的事情，比如学生在课堂上的积极反馈，或者研究上的进展，他可能会更容易理解我为什么既忙碌又在意这些工作。但这样的话，我也需要找到一个比较轻松的时机去聊，不然他可能还是觉得我太焦虑了…",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，你说得有道理",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "嗯，他好像在比较轻松的环境下会更愿意听，比如我们一起吃饭的时候聊一些日常话题，或者在周末视频聊天时，气氛也比较随意。我觉得这些时候如果稍微自然地提到我的工作细节，他应该会更专注听吧。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，他好像在比较轻松的环境下会更愿意听，比如我们一起吃饭的时候聊一些日常话题，或者在周末视频聊天时，气氛也比较随意",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "嗯，这样表达确实会更具体，也不会让他觉得我是在抱怨。我可以试着跟他说，比如“如果你能在我特别忙的时候帮我处理些生活上的小事，那我会特别感激”，这样可能更容易让他理解我需要的不是单纯的安慰，而是实实在在的支持。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样表达确实会更具体，也不会让他觉得我是在抱怨",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我觉得可以用一种比较轻松的语气，比如边聊边开玩笑地说“你要是能当我的生活助理，我这压力可减一半了！”这种带点幽默的表达，可能会让他更容易接受，而不会觉得我是在给他施压。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用一种比较轻松的语气，比如边聊边开玩笑地说“你要是能当我的生活助理，我这压力可减一半了！”这种带点幽默的表达，可能会让他更容易接受，而不会觉得我是在给他施压",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "如果他只是笑着附和，我可能会再具体一点，比如说“那你觉得在我忙的时候，你可以帮我做什么呢？”这样能引导他思考一些具体的行动，而不是停留在表面回应。我希望通过这样的互动，让他更主动参与到支持我的过程里。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他只是笑着附和，我可能会再具体一点，比如说“那你觉得在我忙的时候，你可以帮我做什么呢？”这样能引导他思考一些具体的行动，而不是停留在表面回应",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "嗯，我觉得从一些简单的事开始可能最好，比如帮我选外卖或者安排家务，他对这些不算陌生，接受起来也比较容易。还有就是如果我有重要的文件需要整理，他能帮我打印或者分类，也会减轻我的压力。这些小事虽然看起来不起眼，但对我来说真的会有很大帮助。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得从一些简单的事开始可能最好，比如帮我选外卖或者安排家务，他对这些不算陌生，接受起来也比较容易",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "我可以主动告诉他这些帮助让我轻松了很多，比如说“有你帮忙真的让我少操了不少心！”再加上一些具体的例子，比如工作时不再分心去处理琐事。我觉得通过这样的方式，他会更有动力继续支持我，而我们之间也会感觉更亲密吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我可以主动告诉他这些帮助让我轻松了很多，比如说“有你帮忙真的让我少操了不少心！”再加上一些具体的例子，比如工作时不再分心去处理琐事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "如果他有点小疏忽，我可能会用比较轻松的语气说“哎呀，看来你还需要再适应一下我的忙碌生活！”然后笑着提醒他下次记得，这样既不会让他觉得被责备，又能让他感受到我是理解他的。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他有点小疏忽，我可能会用比较轻松的语气说“哎呀，看来你还需要再适应一下我的忙碌生活！”然后笑着提醒他下次记得，这样既不会让他觉得被责备，又能让他感受到我是理解他的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我觉得是有可能的，尤其如果他慢慢习惯这些互动，可能会开始主动问我“最近工作是不是特别忙，有没有什么我能帮你的？”如果他能这么做，我想我会觉得我们的关系更进一步了，也让我感受到更多的支持和理解。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得是有可能的，尤其如果他慢慢习惯这些互动，可能会开始主动问我“最近工作是不是特别忙，有没有什么我能帮你的？”如果他能这么做，我想我会觉得我们的关系更进一步了，也让我感受到更多的支持和理解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "嗯，如果他能在行动和情感上更关注我的需求，我确实会对婚后生活更有信心。比如我们可以更好地协作分担生活琐事，让我在工作忙碌时不用独自应对压力；还有就是感受到他的主动关心，会让我觉得婚姻是一个可以互相支持的伙伴关系，而不是让我失去自我。这样的话，我可能会更愿意去考虑结婚的事情。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，如果他能在行动和情感上更关注我的需求，我确实会对婚后生活更有信心",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "嗯，我觉得除了日常支持和理解，我可能还需要更多关于异地问题的明确规划，比如我们是否能长期维持异地，还是会有一个最终的解决方案。另外，我也担心婚后会不会因为家庭责任的增加而让我的职业发展受到影响，这些可能都需要更深入的沟通才能让我真正放下顾虑。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，我觉得除了日常支持和理解，我可能还需要更多关于异地问题的明确规划，比如我们是否能长期维持异地，还是会有一个最终的解决方案",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "我觉得可以先从异地问题入手，问他对未来是否有具体的打算，比如我们什么时候能住在同一个城市。我可以用一种探讨的方式去说，“你觉得我们有没有可能在几年内找到一个办法解决异地问题？”这样既表达了我的关心，也不会让他觉得我是在施压。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以先从异地问题入手，问他对未来是否有具体的打算，比如我们什么时候能住在同一个城市",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "如果他提出模糊的计划，我可能会接着问，“那你觉得我们需要什么条件才能更快实现住在一起呢？”这样能引导他具体化思考，同时也避免直接质疑他的回答，让气氛保持轻松。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他提出模糊的计划，我可能会接着问，“那你觉得我们需要什么条件才能更快实现住在一起呢？”这样能引导他具体化思考，同时也避免直接质疑他的回答，让气氛保持轻松",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "如果他提出担忧，比如工作调动或经济压力，我可能会说“我理解这些问题确实需要时间去解决，但你觉得我们可以一起考虑一些办法吗？”这样既尊重他的顾虑，又表明我希望我们可以共同面对问题，而不是回避它。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他提出担忧，比如工作调动或经济压力，我可能会说“我理解这些问题确实需要时间去解决，但你觉得我们可以一起考虑一些办法吗？”这样既尊重他的顾虑，又表明我希望我们可以共同面对问题，而不是回避它",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我们可以先制定一些短期目标，比如定期探讨工作调动的可能性，或者一起规划未来几年如何储蓄以减轻经济压力。也可以设定一个时间点，比如两三年内找到住在一起的方案，这样既有方向又不会让人觉得压力太大。我觉得这样的具体规划会让我对未来更有信心。",
+    "has_specific_detail": true,
+    "specific_detail": "我们可以先制定一些短期目标，比如定期探讨工作调动的可能性，或者一起规划未来几年如何储蓄以减轻经济压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "我觉得我们可以定期回顾这些目标的进展，比如每个月抽个时间聊聊目前实现了哪些步骤，或者遇到了什么困难。同时在过程中给予彼此一些肯定，比如他为解决异地问题付出了努力，我会主动感谢他，这样能让沟通更积极，也让我们都更有动力去推进这些计划。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得我们可以定期回顾这些目标的进展，比如每个月抽个时间聊聊目前实现了哪些步骤，或者遇到了什么困难",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "如果目标遇到瓶颈，我觉得可以试着从现阶段的优势入手，比如暂时无法住在一起，但我们可以多安排见面或者视频聊天，保持情感的连接。同时也可以重新评估目标的可行性，比如是否有其他途径能缓解异地的影响。这样调整心态后，期待未来也会更有动力吧。",
+    "has_specific_detail": true,
+    "specific_detail": "如果目标遇到瓶颈，我觉得可以试着从现阶段的优势入手，比如暂时无法住在一起，但我们可以多安排见面或者视频聊天，保持情感的连接",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得这样会让我感受到他是真正在乎我们的关系，而不是仅仅停留在承诺上。同时我们一起努力调整目标，也能增进彼此的信任和默契，让我对未来的婚姻生活更有信心和安全感。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得这样会让我感受到他是真正在乎我们的关系，而不是仅仅停留在承诺上",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "如果我感受到更多信任和安全感，我想自己会更愿意去接受婚姻的稳定性，甚至开始期待婚后生活带来的新体验。可能也会更主动去规划我们的未来，比如讨论家庭生活的细节或者共同目标，而不是像现在这样总是犹豫不决。",
+    "has_specific_detail": true,
+    "specific_detail": "如果我感受到更多信任和安全感，我想自己会更愿意去接受婚姻的稳定性，甚至开始期待婚后生活带来的新体验",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我最渴望的是婚姻能带来一种真正的伙伴关系，比如我们能在工作和生活中互相支持、共同成长。同时，我希望能有一种稳稳的归属感，让我觉得无论遇到什么困难，都有一个可靠的人在身边陪伴我。这种感觉对我来说应该是婚姻中最珍贵的价值吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我最渴望的是婚姻能带来一种真正的伙伴关系，比如我们能在工作和生活中互相支持、共同成长",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得如果能建立这样的关系，我可能会变得更放松，更愿意表达自己的真实感受，而不是总担心被误解或不被接受。同时我也会对亲密关系有更多的信心，学会在依赖与独立之间找到更好的平衡，让自己的情感更加成熟。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果能建立这样的关系，我可能会变得更放松，更愿意表达自己的真实感受，而不是总担心被误解或不被接受",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "我觉得可以通过一些日常的小互动来巩固，比如一起制定生活计划、分担家务，或者定期聊聊工作和生活的状态。这些看似简单的习惯，其实能让我们在忙碌中保持连接，同时也能不断加强彼此的理解和支持。我觉得这些细节会让“伙伴关系”更加稳固吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以通过一些日常的小互动来巩固，比如一起制定生活计划、分担家务，或者定期聊聊工作和生活的状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "如果遇到沟通不畅或矛盾，我觉得我们可以先暂时冷静下来，等彼此情绪平稳后再重新谈这个问题。同时，可以试着回到彼此最初的共同目标，比如我们为什么选择在一起，或者我们期待的未来生活，这样可能会让我们更容易找到解决问题的动力，也能帮助恢复连接。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到沟通不畅或矛盾，我觉得我们可以先暂时冷静下来，等彼此情绪平稳后再重新谈这个问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "如果他表现出更多理解和主动性，我想我会觉得自己被真正看见和重视了，这种安全感会让我更加相信我们的关系是可以依赖的。同时，我也会对未来生活更有信心，觉得婚姻不仅是一种承诺，更是一个能让我安心发展的支持系统。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他表现出更多理解和主动性，我想我会觉得自己被真正看见和重视了，这种安全感会让我更加相信我们的关系是可以依赖的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我想未来的场景可能是我们一起做饭时聊聊当天的趣事，或者周末一起规划旅行的细节，甚至是在我工作压力大的时候，他主动帮我分担一些生活琐事。这些平凡的日常互动其实最能体现安全感和默契，也会让我更觉得婚姻是一种温暖的陪伴。",
+    "has_specific_detail": true,
+    "specific_detail": "我想未来的场景可能是我们一起做饭时聊聊当天的趣事，或者周末一起规划旅行的细节，甚至是在我工作压力大的时候，他主动帮我分担一些生活琐事",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "是的，如果这些互动能实现，我觉得自己会更轻松地接受婚姻，不再纠结于担忧和不确定。我特别希望能在婚姻中建立一种稳定的支持体系，比如我们都知道彼此需要什么，然后自然地给予支持和关心，不需要刻意去表达或要求。这样的话，我想生活会更加和谐吧。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，如果这些互动能实现，我觉得自己会更轻松地接受婚姻，不再纠结于担忧和不确定",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我觉得可以从一些简单的小约定开始，比如每天抽一点时间互相分享当天的感受，或者每周固定安排一次轻松的约会，让我们在忙碌中保持连接。同时，我们可以有一些默契的小习惯，比如当对方压力大时主动帮忙做点事，这些小细节其实很能累积安全感和信任。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从一些简单的小约定开始，比如每天抽一点时间互相分享当天的感受，或者每周固定安排一次轻松的约会，让我们在忙碌中保持连接",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我觉得坚持这些互动会让我更容易找到一种被理解和被支持的满足感，尤其是在面对压力或困难时，能感受到他始终在身边。更深层次的需求可能是建立一种稳固的情感纽带，让我觉得婚姻不仅是生活的搭伴，更是一种心灵上的依靠。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得坚持这些互动会让我更容易找到一种被理解和被支持的满足感，尤其是在面对压力或困难时，能感受到他始终在身边",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "如果能建立这样的纽带，我觉得自己会变得更自信和从容，不再过于担心被误解或忽略，能更坦然地表达自己的需求和情感。也许我会对亲密关系有新的突破，比如更加主动去创造和享受婚姻中的幸福，而不是被动等待或犹豫不决，这会让我觉得自己成长了很多。",
+    "has_specific_detail": true,
+    "specific_detail": "如果能建立这样的纽带，我觉得自己会变得更自信和从容，不再过于担心被误解或忽略，能更坦然地表达自己的需求和情感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我觉得自己会更加注重日常的细节，比如主动表达感谢，或者在忙碌中抽时间陪伴他，哪怕只是一起吃顿简单的晚餐。同时，我也会持续保持沟通，去倾听他的感受和需求，让我们彼此都觉得这段关系是有温度、有活力的。我想，这样的珍惜和维护会让我们始终保持亲密。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得自己会更加注重日常的细节，比如主动表达感谢，或者在忙碌中抽时间陪伴他，哪怕只是一起吃顿简单的晚餐",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我想五年后，我们会成为一对默契的伴侣，能自然而然地支持彼此，无需过多言语就能感受到对方的关心和理解。生活中有稳定的节奏，工作和家庭都能平衡好，同时还能一起规划一些长远目标，比如旅行、买房或者共同的兴趣爱好。这种状态让我觉得既安心又充满期待。",
+    "has_specific_detail": true,
+    "specific_detail": "我想五年后，我们会成为一对默契的伴侣，能自然而然地支持彼此，无需过多言语就能感受到对方的关心和理解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我想回头看现在的自己，我会感慨自己走过了从犹豫到坚定的过程，学会了如何面对不确定性并主动寻找解决办法。同时，我会欣慰自己没有逃避，而是努力去经营关系，让婚姻变成了我理想中的样子。这种成长的过程一定会让我觉得特别值得。",
+    "has_specific_detail": true,
+    "specific_detail": "我想回头看现在的自己，我会感慨自己走过了从犹豫到坚定的过程，学会了如何面对不确定性并主动寻找解决办法",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我觉得可以用一种特别的方式纪念，比如写一封信给未来的自己，回顾这一段成长的旅程，记录从犹豫到坚定的点滴。或者，我们可以一起去完成一个有意义的目标，比如实现一次计划已久的旅行，用这种方式庆祝我们共同努力的成果。这会让我觉得这段成长不仅是个人的，更是我们两人一起创造的幸福。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以用一种特别的方式纪念，比如写一封信给未来的自己，回顾这一段成长的旅程，记录从犹豫到坚定的点滴",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "我觉得接下来最想聚焦在和男朋友更深入地讨论我们的异地问题，尝试一起制定一个切实可行的时间表，比如什么时候能实现住在一起的可能性。明确了这个方向后，我想自己会更有动力去推动其他方面的计划，比如如何平衡工作和家庭，逐步让未来的期待变得更加现实可行。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得接下来最想聚焦在和男朋友更深入地讨论我们的异地问题，尝试一起制定一个切实可行的时间表，比如什么时候能实现住在一起的可能性",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我觉得可以从一些小目标开始，比如他可以尝试了解深圳以外的工作机会，看看是否有适合的调动可能性；我也可以考虑是否有机会调整自己的工作安排，为未来住在一起做好准备。我们还可以制定一个储蓄计划，确保经济上的稳定。这些小目标虽然看似简单，但能让我们一步步靠近住在一起的大方向。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从一些小目标开始，比如他可以尝试了解深圳以外的工作机会，看看是否有适合的调动可能性；我也可以考虑是否有机会调整自己的工作安排，为未来住在一起做好准备",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "我觉得通过不断实现这些目标，我会收获更多的自信，觉得自己有能力和他一起解决问题，而不是被困难吓倒。同时，我会更加认识到关系中的合作和支持是多么重要，这种共同努力的过程会让我更坚定地相信我们能面对未来的挑战，一起创造更加稳固的生活。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得通过不断实现这些目标，我会收获更多的自信，觉得自己有能力和他一起解决问题，而不是被困难吓倒",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "我想，当我们第一次一起布置新家的时候，可能会让我觉得所有的努力都值得。比如一起挑选家具、规划生活空间，那种共同创造一个属于我们两人的家的感觉一定会特别幸福。同时，每天一起吃早餐、下班后能面对面聊聊一天的事情，这些简单的日常瞬间会让我真正感受到生活变得更加完整和温暖。",
+    "has_specific_detail": true,
+    "specific_detail": "我想，当我们第一次一起布置新家的时候，可能会让我觉得所有的努力都值得",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "我觉得会通过持续的沟通和细心的互动来守护这种幸福，比如每天抽一点时间聊聊彼此的感受，或者在重要的日子里做些特别的事情庆祝。还可以保持一些共同的生活习惯，比如一起做饭、散步或者规划旅行，让我们始终有共同的目标和兴趣。这些小努力虽然看起来简单，但我相信它们能让幸福一直延续下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会通过持续的沟通和细心的互动来守护这种幸福，比如每天抽一点时间聊聊彼此的感受，或者在重要的日子里做些特别的事情庆祝",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "我觉得下一步最需要的是和男朋友进行一次更具体的对话，重点讨论我们对异地问题的规划，比如未来几年内是否有机会住在一起。我希望能通过这次沟通，明确一些实际的方向，比如工作调动的可能性或者生活安排的调整，这样可以让我对我们的未来更有信心，也能更踏实地去推动其他方面的计划。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得下一步最需要的是和男朋友进行一次更具体的对话，重点讨论我们对异地问题的规划，比如未来几年内是否有机会住在一起",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "嗯，这样切入确实很自然，也能让他感受到我的期待而不是压力。我可以用一种轻松的方式说，“最近我一直在想我们住在一起的可能性，你觉得有什么办法可以让这个目标更快实现？”这样既表达了我的愿望，又能让他觉得这是一个可以一起讨论的问题，而不是单方面的要求。",
+    "has_specific_detail": true,
+    "specific_detail": "嗯，这样切入确实很自然，也能让他感受到我的期待而不是压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "如果他积极回应，我觉得可以先一起列出几个行动步骤，比如他可以开始关注深圳以外的工作机会，我可以看看我的职业是否有灵活性；然后我们可以设定一个时间点，比如半年后一起评估进展。同时，我们也可以商量如何在异地期间增加见面频率，让短期生活更接近住在一起的状态，这样目标会更具实操性，也让我们一步步靠近未来的计划。",
+    "has_specific_detail": true,
+    "specific_detail": "如果他积极回应，我觉得可以先一起列出几个行动步骤，比如他可以开始关注深圳以外的工作机会，我可以看看我的职业是否有灵活性；然后我们可以设定一个时间点，比如半年后一起评估进展",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "如果看到计划逐步推进，我想自己会变得更加有信心，也会觉得我们的关系是真正有未来的。每次看到一点进展，都会让我觉得我们是在一起努力，而不是各自面对问题。这种感受会让我更加坚定地相信我们能够克服异地的挑战，真正实现住在一起的目标。",
+    "has_specific_detail": true,
+    "specific_detail": "如果看到计划逐步推进，我想自己会变得更加有信心，也会觉得我们的关系是真正有未来的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "我会主动告诉他，“你真的让我觉得很安心，感觉我们一起努力是有方向的！”同时可以具体提到他做出的某些行动，比如关注工作机会或者增加见面频率，让他知道他的付出被看见。我觉得这样的表达不仅能增强他的动力，也会让我们之间的关系更加温暖和充满支持。",
+    "has_specific_detail": true,
+    "specific_detail": "我会主动告诉他，“你真的让我觉得很安心，感觉我们一起努力是有方向的！”同时可以具体提到他做出的某些行动，比如关注工作机会或者增加见面频率，让他知道他的付出被看见",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "我觉得如果我们持续保持这种互动，未来面对新的挑战时，我们会更加团结，能够以一种“我们一起解决”的心态去面对问题，而不是各自承受压力。这样的关系会让我觉得更加稳固，不管遇到什么困难，都能找到支持和力量去克服。这种共同面对的感觉会让婚姻变成一种真正的伙伴关系，而不仅仅是形式上的结合。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果我们持续保持这种互动，未来面对新的挑战时，我们会更加团结，能够以一种“我们一起解决”的心态去面对问题，而不是各自承受压力",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "如果未来真的如我所愿，我会用行动去回馈这份关系，比如在他需要支持的时候主动站在他身边，无论是生活还是工作上的困难，都尽力去帮助他。同时，我也会保持主动沟通，时常表达对他的感激和爱意，让我们始终感受到彼此的温暖。我觉得这种回馈不仅是对他的支持，也是在共同维护我们之间的幸福。",
+    "has_specific_detail": true,
+    "specific_detail": "如果未来真的如我所愿，我会用行动去回馈这份关系，比如在他需要支持的时候主动站在他身边，无论是生活还是工作上的困难，都尽力去帮助他",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "我想未来特别的时刻可能是我们一起经历一些重要的人生阶段，比如第一次装修新家，或者面对某个困难时彼此携手解决问题。这些经历会让我更加深刻地感受到婚姻不仅是生活的陪伴，更是一种共同成长的旅程。尤其是那些挑战过后回头看，我们会更明白彼此的支持和努力是多么珍贵，这会让我觉得这段婚姻充满了意义和价值。",
+    "has_specific_detail": true,
+    "specific_detail": "我想未来特别的时刻可能是我们一起经历一些重要的人生阶段，比如第一次装修新家，或者面对某个困难时彼此携手解决问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "未来的我可能会定义幸福为一种内心的安定和满足，不再因为不确定而焦虑，而是能够在这段关系中感受到稳稳的支持和归属感。我会觉得这段关系是我人生中最重要的伙伴关系，不仅是陪伴，也是让我变得更成熟、更自信的一种动力。这段婚姻会成为我生活的核心支柱，让我觉得无论未来遇到什么，都有一个温暖的港湾可以依靠。",
+    "has_specific_detail": true,
+    "specific_detail": "未来的我可能会定义幸福为一种内心的安定和满足，不再因为不确定而焦虑，而是能够在这段关系中感受到稳稳的支持和归属感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "我想对自己说，虽然现在还有很多不确定和犹豫，但你已经迈出了重要的一步，开始认真思考和规划未来。别害怕慢慢来，只要保持真诚和努力，幸福是可以一点点实现的。相信自己有能力去创造理想的生活，同时也要学会享受过程中的每个小进展。加油，你正在为自己的幸福打下坚实的基础！",
+    "has_specific_detail": true,
+    "specific_detail": "我想对自己说，虽然现在还有很多不确定和犹豫，但你已经迈出了重要的一步，开始认真思考和规划未来",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

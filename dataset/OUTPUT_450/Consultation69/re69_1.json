@@ -1,0 +1,861 @@
+[
+  {
+    "turn": 1,
+    "content": "最近主要是学习上的事吧，感觉压力特别大。上周有门课的小组作业，我负责的部分出了点问题，最后没达到预期效果，这让我特别自责…当时组员没说什么，但我总觉得他们会对我有意见，好像我做得不够好似的。",
+    "has_specific_detail": true,
+    "specific_detail": "最近主要是学习上的事吧，感觉压力特别大",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 2,
+    "content": "可能两方面都有吧…我确实对结果挺在意的，总觉得如果事情没做好，是我没尽到责任。但更让我难受的，还是害怕组员觉得我不够可靠，甚至可能在心里批评我…这种想法让我特别不安。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧…我确实对结果挺在意的，总觉得如果事情没做好，是我没尽到责任",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 3,
+    "content": "可能有关系吧…我一直觉得自己得把事情做好才能被认可，可能和小时候的经历有关。我父母那时候很少问我在想什么，但会很关注我学习怎么样，好像成绩好才算表现好。可能从那会儿就开始，我就特别在意别人对我的看法了吧。",
+    "has_specific_detail": true,
+    "specific_detail": "可能有关系吧…我一直觉得自己得把事情做好才能被认可，可能和小时候的经历有关",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 4,
+    "content": "他们确实会表扬我，比如考试考得好，就会夸我努力，但要是成绩不好，就会显得很失望，虽然不太严厉地批评，但那种失望的感觉让我特别难受…我总是害怕让他们失望，所以很努力去避免出错。",
+    "has_specific_detail": true,
+    "specific_detail": "他们确实会表扬我，比如考试考得好，就会夸我努力，但要是成绩不好，就会显得很失望，虽然不太严厉地批评，但那种失望的感觉让我特别难受…我总是害怕让他们失望，所以很努力去避免出错",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 5,
+    "content": "其实更多是担心吧…即使我尽力避免出错，心里还是会不停地想“是不是还有哪里没做好”。就算别人没说什么，我自己也总会挑出各种问题，越想越觉得不够好，很难真正感到安心。",
+    "has_specific_detail": true,
+    "specific_detail": "其实更多是担心吧…即使我尽力避免出错，心里还是会不停地想“是不是还有哪里没做好”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 6,
+    "content": "可能也有吧，大学的学习压力挺大的，大家都很优秀，有时候会忍不住和别人比，越比越觉得自己差一截…再加上跟同学们关系不算特别近，很多事都不太敢主动说，怕他们觉得我麻烦。这样一来，好像就更容易陷入那种“还不够好”的想法里了。",
+    "has_specific_detail": true,
+    "specific_detail": "可能也有吧，大学的学习压力挺大的，大家都很优秀，有时候会忍不住和别人比，越比越觉得自己差一截…再加上跟同学们关系不算特别近，很多事都不太敢主动说，怕他们觉得我麻烦",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 7,
+    "content": "大部分时候，我会选择自己默默消化吧…我总觉得这些问题可能别人也会遇到，没必要麻烦别人。而且我也不太确定该怎么表达，所以干脆就自己扛着，但有时候扛着扛着就觉得很累。",
+    "has_specific_detail": true,
+    "specific_detail": "大部分时候，我会选择自己默默消化吧…我总觉得这些问题可能别人也会遇到，没必要麻烦别人",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 8,
+    "content": "可能两方面都有吧…我有时候觉得自己的情绪挺复杂的，怕别人听了也不一定明白；另外，也会担心说出来后对方觉得我在抱怨，或者根本没法帮到我，那说了好像也没什么意义…",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧…我有时候觉得自己的情绪挺复杂的，怕别人听了也不一定明白；另外，也会担心说出来后对方觉得我在抱怨，或者根本没法帮到我，那说了好像也没什么意义…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 9,
+    "content": "我觉得最让我犹豫的是害怕暴露自己的脆弱吧…因为平时我好像总给自己设定一种“应该很坚强、能解决问题”的标准，说出来好像就承认自己没办法扛住，这种感觉让我很不自在。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得最让我犹豫的是害怕暴露自己的脆弱吧…因为平时我好像总给自己设定一种“应该很坚强、能解决问题”的标准，说出来好像就承认自己没办法扛住，这种感觉让我很不自在",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉",
+      "犹豫"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 10,
+    "content": "我会觉得自己像是在别人的目光下被放大审视，好像所有人都能看穿我的不足，就会有一种不安和羞愧感。还有时候，我脑子里会反复冒出“为什么连这点事都做不好”这样的念头…感觉自己被困住了。",
+    "has_specific_detail": true,
+    "specific_detail": "我会觉得自己像是在别人的目光下被放大审视，好像所有人都能看穿我的不足，就会有一种不安和羞愧感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 11,
+    "content": "这种感觉有时候会持续一整天，特别是忙碌的时候更明显。我试过让自己专注去做别的事情，比如看书或者整理东西，但效果时好时坏，有时候反而会因为分心导致更焦虑…好像总是难以真正放松下来。",
+    "has_specific_detail": true,
+    "specific_detail": "这种感觉有时候会持续一整天，特别是忙碌的时候更明显",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 12,
+    "content": "会的，脑子里总有个声音在提醒我“还有什么没做完”或者“这个地方是不是还有问题”。这些念头会让我很难集中注意力，做事也变得没效率，甚至会越想越烦躁，最后什么都做不好。",
+    "has_specific_detail": true,
+    "specific_detail": "会的，脑子里总有个声音在提醒我“还有什么没做完”或者“这个地方是不是还有问题”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "烦躁"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 13,
+    "content": "有时候我会试着深呼吸，或者停下来休息一下，但效果不算特别明显。我也试过写点东西，把心里的想法记下来，稍微能缓解一些，但总觉得这些情绪还是潜伏在那里，没办法完全释放掉。",
+    "has_specific_detail": true,
+    "specific_detail": "有时候我会试着深呼吸，或者停下来休息一下，但效果不算特别明显",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 14,
+    "content": "是的，这些情绪会让我对自己特别苛责，总觉得“为什么别人能轻松做到的事，我却这么难”。有时候也会觉得很无力，好像怎么努力都摆脱不了这种状态，心里会生出一点挫败感…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，这些情绪会让我对自己特别苛责，总觉得“为什么别人能轻松做到的事，我却这么难”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 15,
+    "content": "我觉得可能有吧…我对自己总是期待很高，总觉得“应该”做到最好，不能出错。但看着别人似乎轻松完成时，就会怀疑自己是不是不够努力，或者能力不足，这种对比让我更难接受自己的状态。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能有吧…我对自己总是期待很高，总觉得“应该”做到最好，不能出错",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 16,
+    "content": "可能两者都有吧…一方面，我想通过做好事情来证明自己是有能力、有价值的；另一方面，我也很害怕失败，觉得如果没达到目标，会让自己和别人都失望，这种失落感让我特别抗拒失败。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两者都有吧…一方面，我想通过做好事情来证明自己是有能力、有价值的；另一方面，我也很害怕失败，觉得如果没达到目标，会让自己和别人都失望，这种失落感让我特别抗拒失败",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 17,
+    "content": "最强烈的感受是焦虑吧，会觉得胸口发紧、呼吸变急，好像脑子里全是“万一失败了怎么办”的念头，有种被无形的压力包围的感觉，特别难受…",
+    "has_specific_detail": true,
+    "specific_detail": "最强烈的感受是焦虑吧，会觉得胸口发紧、呼吸变急，好像脑子里全是“万一失败了怎么办”的念头，有种被无形的压力包围的感觉，特别难受…",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 18,
+    "content": "可能两方面都有吧…我担心别人会觉得我不够好、不够可靠，但同时，我自己对失败的感受也很难承受，总觉得失败就意味着我不够努力，甚至会怀疑自己的能力，这种感觉让我特别害怕。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧…我担心别人会觉得我不够好、不够可靠，但同时，我自己对失败的感受也很难承受，总觉得失败就意味着我不够努力，甚至会怀疑自己的能力，这种感觉让我特别害怕",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 19,
+    "content": "有一次是高中的时候，一场很重要的考试没考好。我明明复习得很认真，但成绩出来后却比预期差了很多。那次我特别难过，觉得自己是不是不够聪明，父母虽然没责备，但他们的失望让我记到现在…从那以后，我好像对失败的恐惧更强了。",
+    "has_specific_detail": true,
+    "specific_detail": "有一次是高中的时候，一场很重要的考试没考好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "难过",
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 20,
+    "content": "是的，从那之后，我对自己的要求更严格了，总觉得不能再让类似的事情发生。所以我变得更加努力，但也更害怕出错，几乎容不下任何失误。每次有一点点没达到预期，就会觉得特别挫败，好像又回到了那次考试后的感觉…",
+    "has_specific_detail": true,
+    "specific_detail": "是的，从那之后，我对自己的要求更严格了，总觉得不能再让类似的事情发生",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 21,
+    "content": "我觉得两者都有吧…一方面，我害怕再经历那种挫败感，所以通过严格要求自己来“避免伤害”；另一方面，也好像是在维持一种自我认同吧，告诉自己“只要做得足够好，就说明我是值得被认可的”。这两种感觉交织在一起，让我既紧张又疲惫。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两者都有吧…一方面，我害怕再经历那种挫败感，所以通过严格要求自己来“避免伤害”；另一方面，也好像是在维持一种自我认同吧，告诉自己“只要做得足够好，就说明我是值得被认可的”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 22,
+    "content": "更多是短暂的满足吧，虽然当下会有一点点轻松，但很快就会想“接下来还要做好什么”。好像这种“足够好”的感觉从来不会持续太久，总有新的目标冒出来，安心的感觉也就一闪而过。",
+    "has_specific_detail": true,
+    "specific_detail": "更多是短暂的满足吧，虽然当下会有一点点轻松，但很快就会想“接下来还要做好什么”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 23,
+    "content": "可能两方面都有吧…我害怕停下来后，会发现自己其实并没有想象中那么好，反而会被更多负面情绪包围。而且，我总觉得自己还有很长的路要走，好像现在的状态还远远不够达到心里的标准，所以根本不敢停下来看清自己。",
+    "has_specific_detail": true,
+    "specific_detail": "可能两方面都有吧…我害怕停下来后，会发现自己其实并没有想象中那么好，反而会被更多负面情绪包围",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 24,
+    "content": "我觉得两方面都有吧…从小到大，外界的评价，比如父母的期待和同学间的竞争，确实影响了我。但同时，我自己也习惯把目标定得很高，总觉得只有不断努力、表现出色，才能让自己“够好”，这种标准好像已经刻在心里了。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两方面都有吧…从小到大，外界的评价，比如父母的期待和同学间的竞争，确实影响了我",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 25,
+    "content": "可能是忽略了吧…我很少去关注自己的感受，总是把注意力放在“该做什么”和“做到什么程度”上。至于自己的独特性，我好像从没认真想过，总觉得只要按标准去努力，就已经很难了，哪还有时间考虑这些呢？",
+    "has_specific_detail": true,
+    "specific_detail": "可能是忽略了吧…我很少去关注自己的感受，总是把注意力放在“该做什么”和“做到什么程度”上",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 26,
+    "content": "我觉得会有点复杂吧…一方面可能会觉得轻松，终于不用那么紧绷着了；但另一方面也会有些不安，怕自己如果不按标准去努力，就会失去方向，甚至失去价值感。好像这些标准既让我累，又让我觉得安全。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会有点复杂吧…一方面可能会觉得轻松，终于不用那么紧绷着了；但另一方面也会有些不安，怕自己如果不按标准去努力，就会失去方向，甚至失去价值感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 27,
+    "content": "我觉得如果有一个“最低标准”，可能会让我没那么容易感到焦虑吧。至少不用总想着“必须做到最好”，而是允许自己有一些空间去犯错或者休息。不过，这种变化可能一开始也会让我有点不适应，毕竟之前一直习惯了高标准，突然放松下来可能会觉得不踏实…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果有一个“最低标准”，可能会让我没那么容易感到焦虑吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 28,
+    "content": "或许可以从一些没那么重要的事情开始吧，比如日常的学习任务。我可以试着不要求每次都做得百分百完美，而是先把最基本的部分完成好，然后再看有没有余力去改进。这样可能会让我慢慢适应，不至于一下子觉得很慌乱。",
+    "has_specific_detail": true,
+    "specific_detail": "或许可以从一些没那么重要的事情开始吧，比如日常的学习任务",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 29,
+    "content": "是的，我可能会担心别人觉得我“不够认真”或者“不够优秀”，特别是当别人依然保持高水平时，我可能会有点不甘心，觉得自己是不是在退步了…这些想法可能是最大的挑战吧。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，我可能会担心别人觉得我“不够认真”或者“不够优秀”，特别是当别人依然保持高水平时，我可能会有点不甘心，觉得自己是不是在退步了…这些想法可能是最大的挑战吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 30,
+    "content": "或许我可以试着告诉自己，“放松标准是为了保持长久的状态，而不是一时的表现”，把它看作一种更健康的选择。另外，我也可以记录下自己的小进步，比如哪怕只是完成了基本任务，也值得认可自己，这样或许能减轻那种“退步”的感觉吧。",
+    "has_specific_detail": true,
+    "specific_detail": "或许我可以试着告诉自己，“放松标准是为了保持长久的状态，而不是一时的表现”，把它看作一种更健康的选择",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 31,
+    "content": "我觉得可以从两方面入手吧。一是记录任务的完成情况，比如有没有按时完成基本要求；二是关注自己的情绪变化，比如有没有因为放松标准而感觉轻松一些，或者焦虑有没有减少。这样既能看到实际的进展，也能感受到内心的变化，可能会更有动力坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以从两方面入手吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 32,
+    "content": "我觉得可以根据具体情况调整吧，刚开始可能每天记录一次，帮助自己更快适应这种新的方式。等慢慢熟悉了，或许可以改成每周回顾一次，这样能更系统地看到自己的进步，也不会觉得太频繁而增加负担。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以根据具体情况调整吧，刚开始可能每天记录一次，帮助自己更快适应这种新的方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 33,
+    "content": "我觉得小奖励和积极的话语都挺好的！比如完成记录后，可以允许自己做点喜欢的事当奖励，比如看一集喜欢的剧；或者在记录里写一些鼓励自己的话，比如“今天迈出了一小步，但这也是进步”。这些方法可能会让我更有动力坚持下去，也更愿意去关注自己的变化。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得小奖励和积极的话语都挺好的！比如完成记录后，可以允许自己做点喜欢的事当奖励，比如看一集喜欢的剧；或者在记录里写一些鼓励自己的话，比如“今天迈出了一小步，但这也是进步”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 34,
+    "content": "我觉得在压力大的时候，确实很容易不自觉地又回到之前那种高标准的状态。所以可能需要提前想好，如果压力来了，我要告诉自己“可以先做好基本的部分就足够了”。还有，或许可以找个信任的人聊聊，让他们帮我提醒一下，不要太苛责自己，这样可能会更有助于我坚持新的方式吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得在压力大的时候，确实很容易不自觉地又回到之前那种高标准的状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 35,
+    "content": "我可能会倾向于找那些了解我状态、性格比较温和的人吧。他们不会轻易评价我，而是更多地倾听和支持。比如，我有个好朋友，她总是能用比较中肯的话鼓励我，不会让我觉得被批评或要求太高，找她聊可能会让我感觉更安心一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会倾向于找那些了解我状态、性格比较温和的人吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 36,
+    "content": "我觉得可能两方面都会分享吧。进步的部分会让我觉得更有成就感，而挣扎的部分也想和她聊聊，看看她会怎么看。她总能让我觉得自己的感受是被理解的，这种感觉对我特别重要。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能两方面都会分享吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 37,
+    "content": "我可能会更关注她的态度吧，因为我在意的是能不能从她那里感受到理解和支持。如果她的建议很实际当然更好，但只要她的态度是温和的，我觉得就已经很有帮助了，这会让我更有勇气去面对自己的问题。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会更关注她的态度吧，因为我在意的是能不能从她那里感受到理解和支持",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 38,
+    "content": "我觉得自我鼓励和活动舒缓情绪都挺重要的。比如，我可以在心里对自己说“已经在努力调整了，这本身就是进步”，或者去散个步、听听音乐，这些都能让我稍微放松下来，给自己一些心理上的缓冲。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得自我鼓励和活动舒缓情绪都挺重要的",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 39,
+    "content": "我发现听轻音乐或者钢琴曲特别能让我平静下来，尤其是在安静的地方散步时搭配音乐效果更好。比如去学校附近的公园走一圈，听着音乐的同时感受自然的环境，这种组合让我觉得很放松，也更容易把压力暂时放下。",
+    "has_specific_detail": true,
+    "specific_detail": "我发现听轻音乐或者钢琴曲特别能让我平静下来，尤其是在安静的地方散步时搭配音乐效果更好",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 40,
+    "content": "一开始可能思绪还是会飘回那些让我焦虑的事情上，但随着音乐和环境的影响，我会慢慢把注意力拉回到当下。比如专注于脚下的步伐或者周围的景色，渐渐地，焦虑的感觉就会减弱一些，心里也会变得稍微轻松点。",
+    "has_specific_detail": true,
+    "specific_detail": "一开始可能思绪还是会飘回那些让我焦虑的事情上，但随着音乐和环境的影响，我会慢慢把注意力拉回到当下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 41,
+    "content": "我觉得还有画画或者手工的时刻也能让我专注当下。比如涂色或者做一些简单的小手工，这些活动需要我动手操作，注意力自然就会集中在眼前的事情上，暂时把其他烦恼放到一边，也会让我感到平静和满足。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得还有画画或者手工的时刻也能让我专注当下",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 42,
+    "content": "是的，焦虑会慢慢减轻，尤其是当我完成了一幅画或者一个小手工的时候，会感到一种小小的成就感。那种愉悦虽然不算特别强烈，但会让我觉得自己的努力没有白费，心情也会变得更舒畅一些。",
+    "has_specific_detail": true,
+    "specific_detail": "是的，焦虑会慢慢减轻，尤其是当我完成了一幅画或者一个小手工的时候，会感到一种小小的成就感",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 43,
+    "content": "我觉得可以的！这种愉悦感让我意识到，即使有压力，也可以通过一些小事让自己好过一点。这会让我更愿意主动去寻找类似的放松方式，比如试试新的手工项目或者换一种画画的风格，给自己创造更多放松和满足的机会。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以的！这种愉悦感让我意识到，即使有压力，也可以通过一些小事让自己好过一点",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 44,
+    "content": "我觉得可能会先独自尝试，等我熟悉了之后，再考虑和朋友一起分享。一个人尝试能让我更专注于自己的节奏，而和朋友一起的话，可能会多了一份互动的乐趣。这样既能有自己的空间，也能增添一些社交的轻松感吧。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能会先独自尝试，等我熟悉了之后，再考虑和朋友一起分享",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 45,
+    "content": "我觉得两部分都想分享吧！创造的过程可以一起交流想法，感觉会很有趣；而完成后的成就感，也想和朋友一起庆祝一下，那种被认可和共同开心的感觉应该会让我更满足。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两部分都想分享吧！创造的过程可以一起交流想法，感觉会很有趣；而完成后的成就感，也想和朋友一起庆祝一下，那种被认可和共同开心的感觉应该会让我更满足",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 46,
+    "content": "我觉得可以尝试聊聊吧，尤其是那些值得高兴的进步部分，比如“我最近试着放松了一点，发现没想象中那么难”。不过，挑战的部分可能会稍微保留一些，怕说多了会显得太负面或者让对方觉得压力大…",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以尝试聊聊吧，尤其是那些值得高兴的进步部分，比如“我最近试着放松了一点，发现没想象中那么难”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 47,
+    "content": "或许我可以用比较轻松的语气来表达，比如说“最近试着稍微放松了一下，感觉还挺有意思的”。这样既能让对方了解我的状态，又不会显得太沉重或者太脆弱，还可以把焦点放在积极的变化上，让气氛更自然一些。",
+    "has_specific_detail": true,
+    "specific_detail": "或许我可以用比较轻松的语气来表达，比如说“最近试着稍微放松了一下，感觉还挺有意思的”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 48,
+    "content": "我觉得如果对方能用肯定和鼓励的语气回应，比如说“你真的很棒，能试着调整就已经很厉害了”，会让我觉得被支持和理解。还有，如果他们能表达一些共鸣，比如“我也有过类似的感觉”，也会让我更放松，觉得自己不是孤单的。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得如果对方能用肯定和鼓励的语气回应，比如说“你真的很棒，能试着调整就已经很厉害了”，会让我觉得被支持和理解",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 49,
+    "content": "我觉得可能更偏向情绪支持的建议吧，比如“如果觉得累了就休息一下，别给自己太大压力”。这种建议会让我感到对方是在关心我的感受，而不是单纯地告诉我该怎么做，这样会让我更愿意接受，也会觉得更温暖。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能更偏向情绪支持的建议吧，比如“如果觉得累了就休息一下，别给自己太大压力”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 50,
+    "content": "我可能会先消化一下这种关怀，给自己一点时间去体会被支持的感觉，然后再慢慢尝试调整。这样既不会太急着行动导致压力增加，也能在内心积累更多力量，为后续的改变做好准备。",
+    "has_specific_detail": true,
+    "specific_detail": "我可能会先消化一下这种关怀，给自己一点时间去体会被支持的感觉，然后再慢慢尝试调整",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 51,
+    "content": "我觉得一开始可能会更愿意分享成功的部分，因为这能让我更有信心，也能收获一些正面的反馈。但如果对方表现出真正的理解和兴趣，我可能也会逐渐打开自己，聊一些调整过程中遇到的困难，看看他们会怎么想。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得一开始可能会更愿意分享成功的部分，因为这能让我更有信心，也能收获一些正面的反馈",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 52,
+    "content": "如果对方提出共鸣或建议，我可能会先表达感谢，比如“谢谢你能理解我”。如果他们的建议让我觉得有启发，我也可能进一步探讨，比如“你的方法挺有意思的，我可以试试看”。这样既能让对话继续，也不会显得我完全依赖他们的想法。",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方提出共鸣或建议，我可能会先表达感谢，比如“谢谢你能理解我”",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 53,
+    "content": "可能一开始还是会试着自己独立解决吧，尤其是那些我觉得“别人可能也解决不了”的问题。但如果真的觉得压力很大，或者尝试了一段时间没什么效果，我可能会主动寻求外界的帮助，比如和朋友聊聊，或者找一些相关的资源来支持自己。",
+    "has_specific_detail": true,
+    "specific_detail": "可能一开始还是会试着自己独立解决吧，尤其是那些我觉得“别人可能也解决不了”的问题",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 54,
+    "content": "如果对方反应不如预期，我可能会告诉自己，这并不代表我的问题不重要，只是对方可能当下没办法完全理解。我也会试着去寻找其他渠道，比如换个朋友聊，或者写下来整理自己的思路，尽量不让一次不理想的交流影响到我的整体心情。",
+    "has_specific_detail": true,
+    "specific_detail": "如果对方反应不如预期，我可能会告诉自己，这并不代表我的问题不重要，只是对方可能当下没办法完全理解",
+    "has_personality_behavior": false,
+    "personality_behavior": "",
+    "resistance_level": null,
+    "need_rework": true,
+    "reason": "缺少与人格\/背景相关的感受或行为（如职业相关情绪、阻抗表现）",
+    "force_continue": true
+  },
+  {
+    "turn": 55,
+    "content": "我觉得可能会逐渐建立起“失败并不等于无能”的信念吧，慢慢学会接纳自己在某些时候会有不足。而且，我可能也会开始意识到，自己的价值并不只是体现在结果上，更在于努力的过程和如何关心自己的感受。这些新的信念或许会让我更加平和和自信一些。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可能会逐渐建立起“失败并不等于无能”的信念吧，慢慢学会接纳自己在某些时候会有不足",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 56,
+    "content": "我觉得在面对新的挑战时，我可能会更愿意给自己设定一个“允许出错”的范围，不再一味追求完美。如果遇到困难，我也会试着提醒自己“这只是一个过程，不必太苛责自己”。这种心态可能会让我更专注于学习和尝试，而不是过度担心结果或别人的评价。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得在面对新的挑战时，我可能会更愿意给自己设定一个“允许出错”的范围，不再一味追求完美",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 57,
+    "content": "我觉得会变得更从容一些吧，面对任务时心态会没那么紧张，不再总想着必须做到完美。可能也会更享受过程，比如尝试新事物时能感受到更多乐趣，而不是一开始就被压力和焦虑压得喘不过气。我想这样的变化会让我更有精力去关注生活中其他美好的事情。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得会变得更从容一些吧，面对任务时心态会没那么紧张，不再总想着必须做到完美",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 58,
+    "content": "我觉得可以设定一些简单的小目标，比如每周记录一次自己的进步和感受，去总结哪些调整真的有效。同时，我也想尝试一些新的兴趣爱好，比如学着种植物或者试试简单的烹饪，这些能让我更多地关注过程，而不是一味追求结果。我觉得这样既能丰富生活，也能帮助我持续保持这种心态。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以设定一些简单的小目标，比如每周记录一次自己的进步和感受，去总结哪些调整真的有效",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 59,
+    "content": "我觉得需要先安排好时间吧，比如把记录进步的时间固定在每周的某一天，或者给尝试新兴趣爱好的活动留出一个轻松的下午。同时，我也需要调整自己的期待，告诉自己这些目标的重点是体验和感受，而不是非要达到什么特别的成果，这样可以让我更轻松地开始，不至于因为期待太高而感到压力。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得需要先安排好时间吧，比如把记录进步的时间固定在每周的某一天，或者给尝试新兴趣爱好的活动留出一个轻松的下午",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 60,
+    "content": "我觉得可以结合两种方式。一方面，每次完成后给自己一个小奖励，比如看一集喜欢的剧或者吃点喜欢的零食，这能让我感受到努力的回报；另一方面，也可以用一个简单的记录方式，比如笔记本或者手机备忘录，把每次的进步和感受写下来，定期翻看时能更直观地看到自己的成长，这可能会让我更有动力坚持下去。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得可以结合两种方式",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 61,
+    "content": "如果遇到挫折或者进展缓慢，我觉得可以先暂停一下，给自己一点时间去接受这样的状态。比如深呼吸或者散步，让自己冷静下来，然后提醒自己“调整是一个过程，不必急于求成”。同时，我也可以回顾之前的记录，看看那些已经取得的小进步，这会让我重新找回信心，继续前进。",
+    "has_specific_detail": true,
+    "specific_detail": "如果遇到挫折或者进展缓慢，我觉得可以先暂停一下，给自己一点时间去接受这样的状态",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 62,
+    "content": "我想最大的收获应该是内心的成长吧，能更坦然地面对失败和不完美，不再被“必须做到最好”的念头绑住。同时，我也可能会发现自己在压力中依然可以找到一些快乐和满足，这种对生活的不同感受会让我更加欣慰，让我觉得所有的努力都很值得。",
+    "has_specific_detail": true,
+    "specific_detail": "我想最大的收获应该是内心的成长吧，能更坦然地面对失败和不完美，不再被“必须做到最好”的念头绑住",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 63,
+    "content": "我觉得我会更积极地拥抱变化，同时也学会更灵活地调整目标吧。可能不会再一味地追求完美，而是更注重在每个阶段做力所能及的事情。如果遇到困难，我会提醒自己，这只是成长的一部分，而不是对自我价值的否定，带着这种心态去面对，我想会轻松很多。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得我会更积极地拥抱变化，同时也学会更灵活地调整目标吧",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 64,
+    "content": "我觉得两者都有吧！我期待能更自在地去追求自己真正喜欢的事情，不再被那些“必须完美”的念头束缚。同时，也希望在面对生活中的挑战时，能够保持一种平和的心态，把它们看作成长的机会，而不是压力的来源。这种自在和平和的结合，应该会让我更享受未来的每一天。",
+    "has_specific_detail": true,
+    "specific_detail": "我觉得两者都有吧！我期待能更自在地去追求自己真正喜欢的事情，不再被那些“必须完美”的念头束缚",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  },
+  {
+    "turn": 65,
+    "content": "今天聊下来，我觉得对调整自己的方式更有了一些方向，比如设定最低标准、记录小进步、尝试放松的方法等，也让我更有信心去面对这些挑战。暂时没想到其他特别想分享的了，但感觉心情比开始时轻松了不少，谢谢你耐心听我说了这么多！",
+    "has_specific_detail": true,
+    "specific_detail": "今天聊下来，我觉得对调整自己的方式更有了一些方向，比如设定最低标准、记录小进步、尝试放松的方法等，也让我更有信心去面对这些挑战",
+    "has_personality_behavior": true,
+    "personality_behavior": [
+      "觉得",
+      "感觉"
+    ],
+    "resistance_level": null,
+    "need_rework": false,
+    "reason": ""
+  }
+]

@@ -84,12 +84,6 @@ def parse_scores(response_text):
             if len(scores) == 15:
                 break
     
-    # 如果没找到足够评分，尝试提取所有数字
-    if len(scores) != 15:
-        numbers = re.findall(r'\b([1-7])\b', response_text)
-        scores = [int(n) for n in numbers[:15]]
-    
-    return scores if len(scores) == 15 else [4] * 15  # 默认返回4分
 
 def calculate_waios_scores(ratings):
     """计算WAI-O-S三个维度的分数"""
